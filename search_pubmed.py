@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 import requests
 import sys
 import traceback
@@ -18,6 +18,13 @@ SEARCH_TOPICS = {
         '"arterial blood gas analysis"[Title/Abstract]',
         '"blood gas analysis"[Title/Abstract] AND arterial[Title/Abstract]',
         '"ABG analysis"[Title/Abstract]',
+    ],
+    "AnesthesiaAI": [
+        '"artificial intelligence"[Title/Abstract] AND anesthesia[Title/Abstract]',
+        '"machine learning"[Title/Abstract] AND anesthesiology[Title/Abstract]',
+        '"deep learning"[Title/Abstract] AND anesthesia[Title/Abstract]',
+        '"AI"[Title/Abstract] AND "anesthesia"[Title/Abstract]',
+        '"large language model"[Title/Abstract] AND anesthesia[Title/Abstract]',
     ],
 }
 
