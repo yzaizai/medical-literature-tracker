@@ -1,10 +1,10 @@
-# PubMed 搜索索引
+# PubMed Search Index
 
-最后更新: 2026-05-26 14:04 UTC
+Last Updated: 2026-05-26 08:02 UTC
 
-| 主题 | 报告文件 |
-|------|---------|
-| GDFT_目标导向液体治疗 | [GDFT_目标导向液体治疗.md](GDFT_目标导向液体治疗.md) |
-| 动脉血气分析 | [动脉血气分析.md](动脉血气分析.md) |
+| Topic | Report File |
+|-------|------------|
+| GDFT | [GDFT.md](GDFT.md) |
+| ABG | [ABG.md](ABG.md) |
 
-> 自动生成，每周更新。点击链接查看具体论文。[GitHub Actions 源码](../.github/workflows/pubmed-search.yml)
+> Auto-generated weekly. [View workflow source](../.github/workflows/pubmed-search.yml)
