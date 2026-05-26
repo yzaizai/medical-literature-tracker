@@ -1,4 +1,4 @@
-name: PubMed 论文自动搜索
+﻿name: PubMed 论文自动搜索
 
 on:
   schedule:
@@ -6,12 +6,19 @@ on:
     - cron: '0 0 * * 1'
   workflow_dispatch:
     # 允许手动触发
+  push:
+    branches: [main]
 
 jobs:
   search:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -37,12 +44,16 @@ jobs:
           echo "=== 文件内容预览（前3行）==="
           find results/ -name "*.md" -exec head -5 {} \;
 
+      - name: 生成站点地图（更新 index.html 中的时间戳）
+        run: |
+          sed -i "s/最后更新: 加载中.../最后更新: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')/" index.html
+
       - name: 提交并推送结果
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add results/
+          git add results/ index.html
           if git diff --staged --quiet; then
             echo "没有新内容，跳过提交"
           else
@@ -50,3 +61,12 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      - name: 上传 GitHub Pages 制品
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

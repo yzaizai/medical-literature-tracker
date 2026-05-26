@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>医学文献追踪器 - PubMed 论文搜索</title>
+    <style>
+        :root { --primary: #2c6e9c; --bg: #f5f7fa; --card: #fff; --text: #333; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+        header { background: linear-gradient(135deg, var(--primary), #4a90b8); color: #fff; padding: 40px 20px; text-align: center; }
+        header h1 { font-size: 2rem; margin-bottom: 8px; }
+        header p { opacity: 0.9; font-size: 1.1rem; }
+        .container { max-width: 1000px; margin: 0 auto; padding: 30px 20px; }
+        .card { background: var(--card); border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .card h2 { color: var(--primary); margin-bottom: 12px; font-size: 1.4rem; }
+        .card p { color: #555; margin-bottom: 16px; }
+        .btn { display: inline-block; background: var(--primary); color: #fff; padding: 10px 24px; border-radius: 6px; text-decoration: none; font-weight: 500; transition: background 0.2s; }
+        .btn:hover { background: #1e4f73; }
+        .btn-secondary { background: #6c757d; }
+        .btn-secondary:hover { background: #5a6268; }
+        .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 30px; }
+        .info-item { text-align: center; padding: 20px; background: var(--card); border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+        .info-item .num { font-size: 2rem; font-weight: bold; color: var(--primary); }
+        .info-item .label { color: #888; margin-top: 4px; }
+        .topic-list { list-style: none; }
+        .topic-list li { padding: 16px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .topic-list li:last-child { border-bottom: none; }
+        .topic-list a { color: var(--primary); text-decoration: none; font-weight: 500; }
+        .topic-list a:hover { text-decoration: underline; }
+        .badge { background: #28a745; color: #fff; padding: 2px 10px; border-radius: 12px; font-size: 0.85rem; }
+        footer { text-align: center; padding: 30px; color: #999; font-size: 0.9rem; }
+        .update-time { color: #888; font-size: 0.9rem; margin-top: 8px; }
+        @media (max-width: 600px) { header h1 { font-size: 1.5rem; } }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📚 医学文献追踪器</h1>
+        <p>基于 PubMed 的自动论文搜索与文献追踪</p>
+        <div class="update-time" id="updateTime">最后更新: 加载中...</div>
+    </header>
+    <div class="container">
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="num" id="topicCount">-</div>
+                <div class="label">追踪主题</div>
+            </div>
+            <div class="info-item">
+                <div class="num" id="totalPapers">-</div>
+                <div class="label">论文总数</div>
+            </div>
+            <div class="info-item">
+                <div class="num"><span id="updateDays">-</span></div>
+                <div class="label">更新频率</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>📋 文献主题</h2>
+            <p>点击主题查看详细论文列表与摘要</p>
+            <ul class="topic-list" id="topicList">
+                <li>加载中...</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>⚙️ 工作原理</h2>
+            <p>本系统通过 GitHub Actions 定时运行 Python 脚本，自动从 <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank">PubMed</a> 搜索最新医学论文，并生成结构化的 Markdown 报告。</p>
+            <p>搜索范围涵盖目标导向液体治疗 (GDFT)、动脉血气分析等主题。</p>
+            <a href="https://github.com/yzaizai/medical-literature-tracker" class="btn btn-secondary" target="_blank">查看 GitHub 仓库</a>
+        </div>
+
+        <div class="card">
+            <h2>🔄 自动更新</h2>
+            <p>每周一自动搜索最新论文，也可以通过 GitHub Actions 手动触发更新。</p>
+            <a href="https://github.com/yzaizai/medical-literature-tracker/actions" class="btn" target="_blank">手动触发搜索</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>数据来源: <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank">PubMed</a> | National Library of Medicine</p>
+        <p>由 GitHub Actions 自动生成 | <a href="https://github.com/yzaizai/medical-literature-tracker">yzaizai/medical-literature-tracker</a></p>
+    </footer>
+
+    <script>
+        // 从 Markdown 文件中加载论文数量
+        async function loadData() {
+            try {
+                const resp = await fetch("results/README.md");
+                const text = await resp.text();
+                const lines = text.split("\n");
+                
+                const topics = [];
+                let readingTable = false;
+                for (const line of lines) {
+                    if (line.startsWith("| 主题")) readingTable = true;
+                    if (readingTable && line.startsWith("|")) {
+                        const cells = line.split("|").filter(c => c.trim());
+                        if (cells.length >= 2 && cells[0].trim() !== "主题" && cells[0].trim() !== "-------") {
+                            topics.push({ name: cells[0].trim(), file: cells[1].trim() });
+                        }
+                    }
+                }
+
+                const topicList = document.getElementById("topicList");
+                topicList.innerHTML = "";
+                let totalPapers = 0;
+
+                for (const topic of topics) {
+                    // 提取文件名 (Markdown 链接格式 [name](file.md))
+                    const fileMatch = topic.file.match(/\[(.+?)\]\((.+?)\)/);
+                    const topicName = fileMatch ? fileMatch[1] : topic.name;
+                    const fileName = fileMatch ? fileMatch[2] : topic.name;
+
+                    // 读取具体文件获取论文数
+                    let paperCount = "?";
+                    try {
+                        const paperResp = await fetch("results/" + fileName);
+                        const paperText = await paperResp.text();
+                        const countMatch = paperText.match(/\*\*命中篇数\*\*:\s*(\d+)/);
+                        if (countMatch) {
+                            paperCount = countMatch[1];
+                            totalPapers += parseInt(countMatch[1]);
+                        }
+                    } catch(e) {}
+
+                    const li = document.createElement("li");
+                    li.innerHTML = `<a href="results/${fileName}" target="_blank">${topicName}</a> <span class="badge">${paperCount} 篇</span>`;
+                    topicList.appendChild(li);
+                }
+
+                document.getElementById("topicCount").textContent = topics.length;
+                document.getElementById("totalPapers").textContent = totalPapers;
+                document.getElementById("updateDays").textContent = "7天";
+
+                // 更新时间
+                const timeMatch = text.match(/最后更新:\s*(.+)/);
+                if (timeMatch) {
+                    document.getElementById("updateTime").textContent = "最后更新: " + timeMatch[1];
+                }
+            } catch(e) {
+                document.getElementById("topicList").innerHTML = "<li>数据加载失败</li>";
+            }
+        }
+        loadData();
+    </script>
+</body>
+</html>
