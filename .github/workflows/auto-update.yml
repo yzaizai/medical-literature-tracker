@@ -1,0 +1,38 @@
+name: Update GDFT Papers
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run paper tracker script
+        run: python search_pubmed.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "943710916@qq.com"
+          git config --local user.name "伊在赛"
+          git add README.md
+          git commit -m "Auto-update papers at $(date)" --allow-empty
+          git push
