@@ -3,7 +3,7 @@
 on:
   schedule:
     # 每周一早上8点（UTC时间，即北京时间下午4点）自动运行
-    - cron: '0 0 * * 1'
+    - cron: '0 0 * * 1,4'
   workflow_dispatch:
     # 允许手动触发
   push:
