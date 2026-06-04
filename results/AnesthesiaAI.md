@@ -1,283 +1,227 @@
 # AnesthesiaAI - PubMed Latest Papers
 
-**Update Time**: 2026-06-01
+**Update Time**: 2026-06-04
 **Search Range**: Last 30 days
-**Papers Found**: 20
+**Papers Found**: 16
 
 ---
 
-## 1. Empirical Comparison of Causal Machine Learning and Post-Hoc AI Interpretability Models for Risk Factor Analysis: An Application to Medical Specialty Choice.
+## 1. Preoperative considerations for nonoperating room anesthesia.
 
-- **PMID**: [42175322](https://pubmed.ncbi.nlm.nih.gov/42175322/)
-- **Journal**: Studies in health technology and informatics
-- **Publication Date**: 2026 May 21
-- **Authors**: Vicente Alvarez David, Abbiati Milena, Bornet Alban, Savoldelli Georges, Bajwa Nadia et al.
-- **DOI**: https://doi.org/10.3233/SHTI260654
-
-### Abstract
-
-How medical students choose specialties shapes access to care. Prior work mostly describes patterns; newer prediction tools can rank influential factors but may blur association with true drivers. Using a curated cohort of 399 students, we examined Year 4 motivations for a given specialty (six items, six levels) and personality traits (Big Five) in relation to Year 6 specialty career choice (person vs technically oriented). We estimated effects with Double/debiased machine learning (DoubleML) and contrasted them with SHAP explanations from an earlier predictive model. Strong motivation for surgery at level 6 lowered the probability of a person-oriented choice by 0.37 (p < .001); high motivation for general practice raised it by 0.265 (p < .001). Other motivation signals were smaller. Psychological traits showed no clear effects (p > 0.05). SHAP broadly matched directions for the strongest items but diverged for weaker ones (e.g., anesthesiology, radiology). Comparing causal and predictive explanations, SHAP directions generally matched DoubleML for strong, well-separated motivations (e.g., surgery level 6, general practice) but diverged for weaker or correlated signals (radiology, anesthesiology, emergency medicine, mid-level psychiatry) and for psychological traits. These discrepancies caution that SHAP values reflect model-conditional associations rather than causal effects, so predictive importance should not be interpreted as causal influence.
-
----
-
-## 2. Guideline-Aligned Machine Learning for Predicting Ondansetron Administration at the End of Anaesthesia: Explainable Decision Support for PONV Prophylaxis.
-
-- **PMID**: [42174910](https://pubmed.ncbi.nlm.nih.gov/42174910/)
-- **Journal**: Studies in health technology and informatics
-- **Publication Date**: 2026 May 21
-- **Authors**: Strube Tom, Weltermann Leoni, Weber Jonas, Defosse Jérôme
-- **DOI**: https://doi.org/10.3233/SHTI260235
-
-### Abstract
-
-Artificial Intelligence (AI) and Clinical Practice Guidelines (CPGs) both aim to support clinical decision-making but may provide conflicting suggestions. This manuscript presents a Guideline-Aligned Machine Learning (GAML) model to predict ondansetron administration at the end of anaesthesia, based on Gan et al.'s Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting (PONV). n= 16,240 anaesthesia protocols were analysed for risk factors and administered PONV prophylaxes. Logistic regression, multinomial naïve Bayes, and CatBoost classifiers were trained on 80% of protocols with 12-fold cross-validation; optimal thresholds were set by the mean F1-maximising cut-off across folds. Models were evaluated on the remaining 20%, achieving high accuracy (90 ± 1%) and moderate precision and recall (60 ± 5%, 75 ± 4%) across all models. A SHAP decision plot was further computed on the test set to visualise predictor contributions and illustrate a potential interactive preoperative planning interface. Overall, GAML is a promising basis for explainable decision support in clinical care.
-
----
-
-## 3. Artificial Intelligence for American Society of Anesthesiologists Physical Status Classification: Agreement with Clinician Consensus and Temporal Stability Analysis.
-
-- **PMID**: [42194832](https://pubmed.ncbi.nlm.nih.gov/42194832/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 May 18
-- **Authors**: Soerensen Anne Lykke, Froeslev-Friis Christina, Kjaergaard Andersen Gunhild, Bhavsar Swati, Quitzau Lisbeth Holmgaard et al.
-- **DOI**: https://doi.org/10.3390/jcm15103871
-
-### Abstract
-
-Background: The American Society of Anesthesiologists Physical Status (ASA-PS) classification is widely used for perioperative communication and research with known variation in agreement amongst assessors. Large language models (LLM) are increasingly considered for uniform decision making due to agreement challenges within clinicians under identical inputs. The study compared four contemporary LLMs against clinician-derived consensus and quantified within-model stability across repeated assessments. Methods: In a cross-sectional vignette study, 228 anesthesiologists from Denmark, England, and India classified 20 standardized perioperative vignettes through online survey. The modal response per vignette was considered as clinician consensus. Four LLMs (ChatGPT-5.2 Plus, Gemini 3 Pro, Perplexity AI Pro, Claude 4 Sonnet) received same set of vignettes through identical prompts. Temporal stability was assessed by repeating each vignette query nine times per model (three-time windows across three nonconsecutive days) in fresh sessions. Primary outcome was exact agreement with clinician consensus. Results: Consensus agreement for modal LLM classifications was 18/20 (90%) for ChatGPT, 17/20 (85%) for Gemini, 17/20 (85%) for Claude, and 15/20 (75%) for Perplexity. Disagreement is clustered in vignettes with weak or split clinician consensus. Stability differed by model: Claude was fully stable across all vignettes (20/20), Gemini 19/20, ChatGPT 18/20, and Perplexity 14/20; instability typically involved adjacent-class shifts. Conclusions: Contemporary LLMs often match clinician modal judgement and are largely temporally stable, with discordance concentrated in clinically ambiguous boundary cases.
-
----
-
-## 4. Generative AI in simulation debriefings: an exploratory study using the Team-FIRST framework and qualitative feedback from simulation experts and learners.
-
-- **PMID**: [41612508](https://pubmed.ncbi.nlm.nih.gov/41612508/)
-- **Journal**: Advances in simulation (London, England)
-- **Publication Date**: 2026 Jan 29
-- **Authors**: Tscholl David W, Ebensperger Max, RahrischRahrisch Arend, Wang Helius, Heckel Hubert et al.
-- **DOI**: https://doi.org/10.1186/s41077-026-00407-0
-
-### Abstract
-
-**BACKGROUND**: Effective debriefings in simulation-based education require accurate observation of team interactions, yet facilitators face challenges due to cognitive load, observer bias, and the complexity of team dynamics. Generative artificial intelligence (AI) tools offer a potential means to support this process by analyzing verbal communication and providing structured feedback. This study explored how AI tools can contribute to teamwork observation and debriefing in immersive medical simulations. **METHODS**: We conducted a qualitative, exploratory study using thematic analysis of simulation participants' and debriefers' experiences with AI-generated teamwork reports. Forty-one participants (anesthesia nurses, residents, and attendings) participated in immersive scenarios at the University Hospital Zurich simulation center. Verbal interactions were transcribed with AI-assisted speech recognition and analyzed using two large language model-based systems (Isaac and ChatGPT-4o) guided by a prompt based on the Team-FIRST framework. Structured reports were generated for each scenario and reviewed by four simulation experts. Semi-structured interviews captured learners' perspectives on being observed by AI tools. **RESULTS**: A total of 26 AI-generated reports and 27 learner interviews were analyzed. Experts valued the detailed transcripts and illustrative quotes, which supported structured feedback and captured observations that might otherwise be missed. Limitations included inaccuracies in categorization, misattribution of speakers, overly generalized interpretations, and the absence of contextual or nonverbal information. Learners expressed openness and optimism about AI's potential benefits: efficiency, objectivity, and enhanced perception, while also raising concerns about transparency, data protection, interpretation errors, and risks of overreliance. Both groups emphasized the necessity of human oversight. **CONCLUSION**: Generative AI tools can complemen
-
----
-
-## 5. Large Language Model-Assisted Point-in-Time Interpretation of Advanced Hemodynamics in Liver Transplant Recipients: A Pilot Evaluation of Content Quality and Safety.
-
-- **PMID**: [41598654](https://pubmed.ncbi.nlm.nih.gov/41598654/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 Jan 15
-- **Authors**: Kahyaoglu Selma, Kaygisiz Abdullah, Alatli Izzet, Boyaci Ayse Isik, Aray Emre et al.
-- **DOI**: https://doi.org/10.3390/jcm15020716
-
-### Abstract
-
-Background: Large language models (LLMs) are increasingly used in clinical medicine, yet their ability to interpret advanced intraoperative hemodynamic monitoring-particularly in the context of liver transplantation-remains largely unexplored. In this proof-of-concept study, we evaluated ChatGPT's capacity to interpret multimodal hemodynamic data derived from both standard anesthesia monitoring and the PiCCO system. The study also employed a structured assessment instrument (ARQuAT), adapted through a Delphi-based process to evaluate LLM-generated clinical interpretations. Methods: Ten key surgical-hemodynamic phases of liver transplantation were identified using a modified Delphi approach to capture the major physiological transitions of the procedure. Sequential screenshots representing these phases were obtained from five liver transplant recipients, yielding a total of 50 images. Each screenshot, along with standardized clinical background information, was submitted to ChatGPT. Five expert anesthesiologists independently assessed the model's responses using the modified ARQuAT tool, which includes six content-quality domains (Accuracy, Up-to-dateness, Contextual Consistency, Clinical Usability, Trustworthiness, Clarity) and a separate catastrophic Risk item. Descriptive statistics were calculated for domain-level performance. Inter-rater reliability (Kendall's W) and internal consistency (Cronbach's alpha, McDonald's omega) were also analyzed. All statistical analyses and visualizations were performed using NumIQO. Results: ChatGPT demonstrated consistently high performance across all content-quality domains, with median scores ranging from 4.6 to 4.8 and more than 90% of all ratings classified as satisfactory. Lower scores appeared only in a small subset of frames associated with abrupt hemodynamic changes and did not indicate a recurring weakness in any specific domain. Catastrophic Risk exhibited a pronounced floor effect, with 86% of ratings scored as 0 and 
-
----
-
-## 6. A comparative evaluation of the quality of responses provided by different large language model chatbots to frequently asked questions regarding nerve blocks.
-
-- **PMID**: [41526832](https://pubmed.ncbi.nlm.nih.gov/41526832/)
-- **Journal**: BMC anesthesiology
-- **Publication Date**: 2026 Jan 12
-- **Authors**: Tulgar Serkan, Aksu Can, Selvi Onur, Sultan Pervez, Dogan Alper Tunga et al.
-- **DOI**: https://doi.org/10.1186/s12871-025-03596-9
-
-### Abstract
-
-**STUDY OBJECTIVE**: Large language models (LLMs) are used in all areas of life and have become one of the information sources for those seeking healthcare. Although ChatGPT is the most well-known, Claude, CoPilot, and GEMINI are also among the other LLMs. Some of these models have been studied in terms of their response quality metrics to frequently asked questions (FAQs) about broad content areas like anesthesia and to specific FAQs related to obstetric analgesia. However, no studies have yet been conducted on questions related to nerve blocks. In this study, we evaluated the quality of the answers given by the four LLMs to frequently asked questions related to 'nerve block'. **DESIGN**: Prospective, Delphi study, Survey. **INTERVENTION**: Ten FAQs were identified and presented to four LLMs. A Delphi study was conducted to develop an assessment tool. A survey study was then conducted using the developed tool, in which the evaluators, selected through a thorough process, evaluated the LLM responses. **MEASUREMENTS**: The quality of LLM responses was assessed by raters using the ARQuAT (Assessing Response Quality in AI Texts) tool, determined through Delphi rounds. Evaluation criteria included content criteria such as accuracy, comprehensiveness, security, timeliness, and relevance, as well as communication criteria such as understandability, empathy, ethical considerations, readability, and neutrality. **MAIN RESULTS**: ChatGPT and Claude demonstrated superior performance in ARQuAT-Overall scores compared to GEMINI and CoPilot (p < 0.001). ChatGPT and Claude achieved satisfaction rates above 80% in both content and communication quality metrics, significantly outperforming GEMINI (p < 0.001 for both comparisons), while CoPilot showed intermediate performance. **CONCLUSION**: Responses to FAQs related to nerve blocks were well and acceptably addressed by ChatGPT, Claude, and, to a lesser extent, CoPilot. GEMINI performed poorly compared to the others, exhibiting sub
-
----
-
-## 7. Optimizing Anesthesia Care: Leveraging Large Language Models for Effective Preoperative Planning.
-
-- **PMID**: [41441519](https://pubmed.ncbi.nlm.nih.gov/41441519/)
-- **Journal**: Computers, informatics, nursing : CIN
-- **Publication Date**: 2026 Jan 01
-- **Authors**: Scott-Herring Mary, Thorpe Katherine, Crowell Nancy, McAuliffe Megan
-- **DOI**: https://doi.org/10.1097/CIN.0000000000001305
-
-### Abstract
-
-Although artificial intelligence has quickly gained widespread popularity, there is a gap in the research regarding the usefulness of using large language models in the context of clinical practice. The purpose of this study was to examine the effectiveness of utilizing ChatGPT for the creation of anesthesia care plans. First-year nurse anesthesiology resident participants were instructed to enter perceived key anesthesia care plan variables into ChatGPT. The input provided to ChatGPT by the resident and the ChatGPT-generated output was collected and reviewed independently by three assistant professors of a doctor of nurse anesthesia practice program. It was determined that ChatGPT formed an appropriate anesthetic plan based on medical history and home medications. However, ChatGPT did not adequately address key variables such as ventilator settings, fluid plans, or medication doses . Artificial intelligence programs such as ChatGPT can be useful tools in the creation of anesthesia care plans; however, its effectiveness is reliant on clear input from an educated user.
-
----
-
-## 8. Do Large Language Models Perform Equally Across Languages? A Comparison of Responses to Frequently Asked Questions in Anesthesiology.
-
-- **PMID**: [41761593](https://pubmed.ncbi.nlm.nih.gov/41761593/)
-- **Journal**: Medical science monitor : international medical journal of experimental and clinical research
-- **Publication Date**: 2026 Feb 28
-- **Authors**: Yörükoğlu Hadi Ufuk, Aksu Can, Sultan Pervez, Tulgar Serkan
-- **DOI**: https://doi.org/10.12659/MSM.951815
-
-### Abstract
-
-BACKGROUND With the increasing use of large language model (LLM) chatbots in healthcare, evaluating their ability to provide reliable and understandable information in multiple languages is critical, particularly in fields such as anesthesia, where patient education is essential. The study primarily aimed to compare the quality of ChatGPT 4.0's and DeepSeek V3's English responses, with secondary aims to evaluate content and communication differences between English and Turkish responses. MATERIAL AND METHODS Anesthesiologists proficient in both languages were recruited as experts. Ten frequently asked questions in anesthesia were selected and translated for evaluation. Responses from ChatGPT 4.0 and DeepSeek V3 in both English and Turkish were assessed for overall quality and content quality (accuracy, comprehensiveness, and safety) and communication quality (understanding, empathy/tone, and ethics), and Turkish and English responses were compared by the evaluators. RESULTS Eleven experts evaluated the responses. English responses of ChatGPT 4.0 were superior to the English responses of DeepSeek V3 in overall (P<0.001). English responses of ChatGPT 4.0 were superior to the Turkish responses in the terms of overall, content, and communication quality (P<0.001 each) and English responses of DeepSeek V3 were superior to the Turkish responses in the terms of overall (P<0.001), content (P<0.001) and communication (P=0.001) quality. CONCLUSIONS ChatGPT 4.0 performed better than DeepSeek V3 in the English language in terms of overall quality of responses to 10 frequently asked questions in the field of anesthesia and the English responses provided by ChatGPT 4.0 and DeepSeek V3 outperformed the Turkish responses.
-
----
-
-## 9. Can AI generate safe anaesthesia plans? A comparative evaluation of three large language models on 100 synthetic cases.
-
-- **PMID**: [41653985](https://pubmed.ncbi.nlm.nih.gov/41653985/)
-- **Journal**: Anaesthesia, critical care & pain medicine
-- **Publication Date**: 2026 Feb 05
-- **Authors**: Jarrassier Audrey, de Saint-Léger Frederik Belot, de Rocquigny Gaël, Ariès Philippe, Joseph Alexandre et al.
-- **DOI**: https://doi.org/10.1016/j.accpm.2026.101769
-
-### Abstract
-
-**BACKGROUND**: Preoperative anaesthetic consultation is essential for perioperative care, involving risk assessment, treatment optimisation, and planning of anaesthetic strategies according to established guidelines. Large language models (LLMs) could offer decision-support in this setting, but their autonomous capability to generate comprehensive, guideline-based anaesthetic plans remains unassessed in France and uncertain worldwide. **METHODS**: In this simulation study, 100 synthetic clinical cases spanning various surgical specialties were evaluated. Three AI models-ChatGPT, Mistral, and a domain-specific LLM (Dougall GPT)-were prompted to generate preoperative anaesthetic assessment and plans based on French guidelines. Outputs were compared with expert anaesthesiologist reference plans using structured expert scoring across multiple domains, including guideline adherence and clinical safety. **RESULTS**: Among 1200 evaluated data fields across 100 cases, ChatGPT showed the highest overall guideline conformity, measured using a 0-4 expert-derived ordinal scale per domain (4 = guideline-concordant). ChatGPT provided the most complete outputs (98% of requested items) and achieved the highest median agreement scores in seven of the 12 anaesthesia domains. Dougall GPT performed moderately, whereas Mistral LeChat showed lower conformity and the highest proportion of unsafe or potentially unsafe outputs (scores ≤2). **CONCLUSIONS**: Current LLMs demonstrate encouraging potential to support preoperative anaesthetic planning for routine cases. However, their reliability remains insufficient for high-risk or complex patients without further fine-tuning and safety controls. These findings underscore both the potential and the current limitations of AI in perioperative decision support.
-
----
-
-## 10. Data sharing statements in five high-impact anesthesiology journals (2020-2023): a cross-sectional study.
-
-- **PMID**: [41963762](https://pubmed.ncbi.nlm.nih.gov/41963762/)
-- **Journal**: Canadian journal of anaesthesia = Journal canadien d'anesthesie
-- **Publication Date**: 2026 Feb
-- **Authors**: Harris Tag, Sanchez Bryce, Hagood Alex, Elfar Annes, Duncan Jacob et al.
-- **DOI**: https://doi.org/10.1007/s12630-026-03093-8
-
-### Abstract
-
-**PURPOSE**: In this study, we sought to evaluate the presence, quality, and accessibility of data sharing statements (DSS) in research articles published in five high-impact anesthesiology journals from 2020 to 2023. Data sharing is foundational to research transparency and reproducibility. As anesthesiology evolves, understanding how DSS are implemented in selected high-impact journals can inform open science efforts within anesthesiology research. **METHODS**: We conducted a cross-sectional study of five top-ranked anesthesiology journals selected using 2023 Clarivate Journal Impact Factor (JIF) rankings. Eligible studies (2020-2023) were screened in duplicate using Rayyan, and data were extracted using a structured Google Form. We used a large language model (ChatGPT, GPT-4) to aid in the exploratory thematic development of DSS, with manual validation by investigators. **RESULTS**: Among 1,123 included articles, DSS prevalence varied by journal and year. In Anaesthesia, Critical Care & Pain Medicine, articles with DSS increased from 15% (4/26) in 2020 to 30% (9/30) in 2023, whereas the prevalence of DSS remained below 8% in Anesthesia & Analgesia. Government-funded studies were more likely to include DSS (β = 0.734, P = 0.047), while higher JIF was negatively associated with DSS inclusion (β = -0.298, P = 0.008). Thematic analysis showed "Conditional Data Availability" was the most frequent DSS type (74%). Of authors contacted, 28% responded, and 14% ultimately agreed to share data for replication. **CONCLUSIONS**: We found that DSS were underused in leading anesthesiology journals. Strengthening journal policies, funder mandates, and education on data sharing practices may promote greater transparency in anesthesia research. Because our analysis focused on a limited sample of journals, findings may not be generalizable to the entire field of anesthesiology. RéSUMé: OBJECTIF: Cette étude visait à évaluer la présence, la qualité et l’accessibilité des déclaration
-
----
-
-## 11. From prediction to practice: closing the translation gap in artificial intelligence for anesthesia.
-
-- **PMID**: [42018224](https://pubmed.ncbi.nlm.nih.gov/42018224/)
-- **Journal**: Journal of clinical monitoring and computing
-- **Publication Date**: 2026 Apr 22
-- **Authors**: Baliga Janardhan, Seshadri Niranjan
-- **DOI**: https://doi.org/10.1007/s10877-026-01434-y
-
----
-
-## 12. Classifying American Society of Anesthesiologists Physical Status With a Low-Rank-Adapted Large Language Model: Development and Validation Study.
-
-- **PMID**: [42013456](https://pubmed.ncbi.nlm.nih.gov/42013456/)
-- **Journal**: Journal of medical Internet research
-- **Publication Date**: 2026 Apr 21
-- **Authors**: Chen Min-Chia, Ruan Shanq-Jang, Wu Jo-Hsin, Chen Pei-Fu
-- **DOI**: https://doi.org/10.2196/89540
-
-### Abstract
-
-**BACKGROUND**: The American Society of Anesthesiologists Physical Status (ASA-PS) classification is integral to preoperative risk assessment; yet, assignment remains subjective and labor-intensive. Recent large language models (LLMs) process free-text electronic health records (EHRs), but few studies have evaluated parameter-efficient adaptations that both predict ASA-PS and provide clinician-readable rationales. Low-rank adaptation (LoRA) is a parameter-efficient technique that updates only a small set of add-on parameters rather than the entire model, enabling efficient fine-tuning on modest data and hardware. A lightweight, instruction-tuned LLM with these capabilities could streamline workflow and broaden access to explainable decision support. **OBJECTIVE**: This study aimed to develop and evaluate a LoRA-fine-tuned large language model meta-AI (LLaMA-3) for ASA-PS classification from preoperative clinical narratives and benchmark it against traditional machine learning classifiers and domain-specific LLMs. **METHODS**: Preoperative anesthesia notes and discharge summaries were extracted from the EHR and reformatted into an Alpaca-style instruction-response prompt, requesting ASA-PS class labels (I-V) annotated by anesthesiologists. The LoRA-enhanced LLaMA-3 model was fine-tuned with mixed-precision training and evaluated on a hold-out test set. Baselines included random forest classifier, Extreme Gradient Boosting (XGBoost) classifier, support vector machine, fastText, BioBERT, ClinicalBERT, and untuned LLaMA-3. Performance was assessed with micro- and macroaveraged F1-score and Matthews correlation coefficient (MCC), each reported with 95% bootstrap CIs. Pairwise model error rates were compared using McNemar test. **RESULTS**: The LoRA-LLaMA-3 model achieved a micro-F1-score of 0.780 (95% CI 0.769-0.792) and an MCC of 0.533 (95% CI 0.518-0.546), outperforming other LLM baselines. After fine-tuning, BioBERT reached a micro-F1-score of 0.762 and an MCC of 0.50
-
----
-
-## 13. The impact of regional block presence on large language model-based postoperative analgesia recommendations in abdominal surgery: a comparative study using real-world patient data.
-
-- **PMID**: [41957712](https://pubmed.ncbi.nlm.nih.gov/41957712/)
-- **Journal**: BMC anesthesiology
-- **Publication Date**: 2026 Apr 10
-- **Authors**: Uslu Bayhan Bahar, Gazioğlu Kişi Tuğçe
-- **DOI**: https://doi.org/10.1186/s12871-026-03814-y
-
-### Abstract
-
-**BACKGROUND**: Postoperative pain management is a core component of anesthesiology practice, with regional anesthesia playing a key role in multimodal analgesia strategies. Large language model (LLM)-based artificial intelligence (AI) systems are increasingly proposed as clinical decision support tools; however, their ability to integrate critical perioperative context, such as the presence of an existing regional block, remains insufficiently explored. **METHODS**: This prospective, observational, comparative study included 144 adult patients undergoing elective abdominal surgery at a tertiary care center, after exclusion of four patients due to severe preoperative or intraoperative complications that significantly altered the planned postoperative analgesia. Patients were grouped according to the presence or absence of a regional block (70 per group). For each patient, anonymized and standardized clinical scenarios were evaluated independently by three LLM-based AI systems (ChatGPT, Gemini, and Copilot) to generate postoperative analgesia recommendations. AI outputs were assessed by blinded anesthesiology experts for opioid recommendation, multimodal analgesia, consideration of regional anesthesia, and overall clinical appropriateness using a 5-point Likert scale. Multivariable logistic and ordinal logistic regression analyses were performed to determine the independent effect of regional block presence, adjusting for relevant clinical covariates. Agreement between AI recommendations and actual clinical practice was evaluated using Cohen's kappa. **RESULTS**: Regional block presence was not independently associated with opioid recommendations generated by any AI system (all p > 0.05). However, the likelihood of recommending an additional regional block was significantly reduced by ChatGPT (adjusted odds ratio [aOR] 0.02, p < 0.001) and Copilot (aOR 0.15, p = 0.019). Gemini demonstrated complete separation, consistently recommending regional blocks only in patient
-
----
-
-## 14. Automated Identification of Cardiopulmonary Disease Cases for Preoperative Risk Stratification Using Machine Learning: A Retrospective Analysis.
-
-- **PMID**: [41985030](https://pubmed.ncbi.nlm.nih.gov/41985030/)
-- **Journal**: A&A practice
-- **Publication Date**: 2026 Apr 01
-- **Authors**: Aggarwal Ishan, Rhee Christopher, Chura Mamta, Bora Vaibhav, Reddy Devarapalli M
-- **DOI**: https://doi.org/10.1213/XAA.0000000000002183
-
-### Abstract
-
-**BACKGROUND**: Preoperative chart review is time-consuming and prone to errors, particularly for cardiopulmonary conditions that impact anesthetic planning. We developed a guideline-aligned "clinical insight bot" that mines free-text documentation to surface perioperative cardiovascular risk signals relevant to the 2024 Mult Society perioperative guideline for noncardiac surgery. **METHODS**: We analyzed 1000 de-identified medical cases from the PhysioNet MIMIC database. Medical terminology was extracted using regex-based NLP and categorized into 13 clinical specialties. Text features were encoded using TF-IDF vectorization and 1536-dimensional semantic embeddings stored in a PostgreSQL vector database (pgvector). Four machine learning models-Logistic Regression, Random Forest, Support Vector Machine (SVM), and Naive Bayes-were trained with stratified fivefold cross-validation to classify cases as "cardiopulmonary-only" versus "mixed/other." Performance was evaluated using accuracy, precision, recall, and F1 score, with statistical comparison via McNemar's test and bootstrap confidence intervals. **RESULTS**: In a held-out test set of 200 notes (28 positive; 172 negatives; ~14% prevalence), a linear support vector machine achieved the best overall balance (F1 ≈ 0.71), with high precision (positive predictive value 0.94) and very low false positive rate (FPR) (1/172 ≈ 0.6%). False negatives were the dominant residual error class. The pipeline processed documents near-instantaneously and, when scaled to 1000 notes, replaced on the order of tens of clinician review hours (≈100× efficiency gain) while maintaining performance across common preoperative document types. **CONCLUSIONS**: A lightweight, guideline-aligned insight bot can transform unstructured preoperative notes into concise, stepwise prompts that flag cardiovascular risk signals before the day of surgery. High precision with a very low FPR supports safe integration with anesthesiology workflows by minimizin
-
----
-
-## 15. Large language models in trauma anesthesia education.
-
-- **PMID**: [41744265](https://pubmed.ncbi.nlm.nih.gov/41744265/)
+- **PMID**: [42228413](https://pubmed.ncbi.nlm.nih.gov/42228413/)
 - **Journal**: Current opinion in anaesthesiology
-- **Publication Date**: 2026 Apr 01
-- **Authors**: Corpman David, Lang Elodie, Law Tyler J
-- **DOI**: https://doi.org/10.1097/ACO.0000000000001617
+- **Publication Date**: 2026 May 29
+- **Authors**: Villa Juan F, Ramirez Maria F, Hepner David L
+- **DOI**: https://doi.org/10.1097/ACO.0000000000001674
 
 ### Abstract
 
-**PURPOSE OF REVIEW**: Large language model (LLM) use is rapidly growing among trainees and educators in clinical medicine, and new developments with LLM-augmented educational approaches have the potential to enhance learning and ease educator burden. We review LLM fundamentals, their use in clinical education, and how they may be integrated into trauma anesthesia education. **RECENT FINDINGS**: Traditional trauma anesthesia curricula and learning objectives lack granularity and the ability to meet unique learner needs. New approaches to clinical education and curriculum development are leveraging LLM capabilities, but applications for trauma anesthesia education remain insufficiently evaluated. **SUMMARY**: Augmenting traditional trauma anesthesia educational approaches with LLMs bears promise. Integrating numerous trauma anesthesia curricula and enhancing educational tools with LLMs to evaluate learner performance and satisfaction and educator burden would be informative to help refine best practices and target areas for improvement.
+**PURPOSE OF THE REVIEW**: This review aims to address the unique challenges in nonoperating room anesthesia (NORA) locations, emphasizing the importance of patient selection, risk stratification, and comprehensive preoperative evaluation to ensure safe anesthetic care for increasingly complex patients. **RECENT FINDINGS**: The volume of NORA procedures has risen significantly, with patients often presenting higher comorbidity burdens and advanced age. Standardized protocols and validated assessment tools, such as the STOP-Bang questionnaire and a simple frailty questionnaire (e.g., FRAIL), can aid anesthesiologists in effectively stratifying risk and tailoring anesthesia plans. Challenges in NORA include logistical constraints, personnel dynamics, and environmental factors that can compromise patient safety. The integration of telemedicine and artificial intelligence into preoperative assessments shows promise in improving efficiency and safety by allowing for remote evaluations and tailored care. **SUMMARY**: Adequate patient selection and preoperative optimization are essential for enhancing outcomes in NORA locations. Adherence to national safety guidelines and multidisciplinary collaboration is crucial for navigating the complexities of remote anesthesia care. Future research should focus on refining preoperative screening methods and utilizing artificial intelligence to better address the unique needs of patients undergoing procedures outside traditional operating rooms.
 
 ---
 
-## 16. Automating Resident Case Logs: Narrative Review and Challenges Ahead.
+## 2. Evaluation of the accuracy, quality, and readability of large language models on local anesthesia and general anesthesia-sedation in dentistry.
 
-- **PMID**: [42005891](https://pubmed.ncbi.nlm.nih.gov/42005891/)
-- **Journal**: Journal of graduate medical education
-- **Publication Date**: 2026 Apr
-- **Authors**: Bain Andrew P, Low Alyssa, Zhang Andrew Y, Abdelfattah Kareem R, Clark Audra T et al.
-- **DOI**: https://doi.org/10.4300/JGME-D-25-00327.1
+- **PMID**: [42210079](https://pubmed.ncbi.nlm.nih.gov/42210079/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 May 28
+- **Authors**: Özüdoğru Semanur, Tokgöz Kaplan Taibe
+- **DOI**: https://doi.org/10.1186/s12871-026-03934-5
 
 ### Abstract
 
-**BACKGROUND**: A surgical resident's logs should represent their operative experience. In practice, manually compiled logs are fraught with inaccuracies and incompleteness. Electronic health record (EHR) data may enable case log automation, potentially improving accuracy and reducing resident administrative burden. **OBJECTIVE**: We examined and summarized the current literature on automated case logging systems to understand the current approaches, outcomes, and ongoing challenges. **METHODS**: We performed a narrative review using MEDLINE, Scopus, and Embase databases from January 1946 to February 2025 using keywords associated with resident case and procedure logging. English language, peer-reviewed manuscripts evaluating automated or semiautomated case logging systems were included. Articles focusing on case log analysis without addressing automated logging were excluded. Extracted information included automation methods, integration with residency systems, and measured impacts on accuracy, completeness, or efficiency. **RESULTS**: A total of 64 deduplicated articles were screened, yielding 8 semiautomated case logging systems used in emergency medicine, anesthesiology, general surgery, and ophthalmology. No fully automated end-to-end systems were identified. These systems typically increased number of cases logged as well as accuracy and completeness. Common methods included EHR data aggregation in dashboards, interfaces with logging applications, and machine learning-assisted decision support. Reported outcomes showed improved logging frequency, accuracy, and reduced variability. Studies consistently demonstrated efficiency gains and reduced resident administrative burdens. **CONCLUSIONS**: Automating resident case logging by leveraging EHR data can improve log accuracy and decrease administrative workload. Current implementations remain semiautomated and institution specific, highlighting challenges with data integration, coding consistency, and specialty-sp
+**PURPOSE**: This study aims to compare the responses provided by commonly used artificial intelligence-based chatbots such as ChatGPT-3.5, ChatGPT-4o, Gemini 2.0 Flash, and DeepSeek-R1 about dental local anesthesia, sedation, and general anesthesia in terms of accuracy, reliability, and readability. **METHODS**: Sixty questions were created from the American Dental Association (ADA) and American Society of Anesthesiologists (ASA) guidelines. Thirty were patient questions, thirty professional questions. Each group contained ten open-ended, ten multiple-choice, and ten true/false questions. The questions were submitted to ChatGPT-3.5, ChatGPT-4o, DeepSeek-R1, and Gemini 2.0 Flash. Four blinded pediatric dentists evaluated the answers with a modified global quality scale. Clinical safety and risk analysis were evaluated using a 3-point Likert scale. Readability was measured by Flesch Reading Ease Score (FRE) and Flesch-Kincaid Grade Level (FKGL). The intraclass correlation coefficient (ICC) tested inter-rater reliability. Significance was set at p < 0.05. **RESULTS**: DeepSeek-R1 demonstrated the highest overall accuracy and inter-rater agreement, providing the most accurate and reliability responses across all question types (p < 0.001). It was followed by Gemini 2.0 Flash, ChatGPT-4o, and ChatGPT-3.5. In terms of readability, Gemini 2.0 Flash consistently produced the most accessible responses, while DeepSeek-R1 was significantly less readable (p = 0.012). GPT-3.5 showed variability by question type, with MCQs being easier to read than open-ended ones (p = 0.027). No significant readability differences were observed across question types for ChatGPT-4o, Gemini 2.0 Flash, or DeepSeek-R1 (p > 0.05). **CONCLUSION**: Chatbot performance depends on both question type and evaluation criteria. DeepSeek-R1 excelled in accuracy and quality. Gemini 2.0 Flash produced the clearest, patient-friendly responses. AI chatbots can support communication in dental anesthesia. Choosing
 
 ---
 
-## 17. Artificial intelligence in anesthesiology education: transformative applications, challenges, and future perspectives.
+## 3. Caudal Anesthesia Patient Education Materials: Comprehensive Analysis of Generative Artificial Intelligence and Traditional Patient Information Leaflets.
 
-- **PMID**: [42131594](https://pubmed.ncbi.nlm.nih.gov/42131594/)
+- **PMID**: [42200546](https://pubmed.ncbi.nlm.nih.gov/42200546/)
+- **Journal**: Paediatric anaesthesia
+- **Publication Date**: 2026 May 27
+- **Authors**: Khan Armanullah, Kundu Aritra, Saha Sourav, Gondode Prakash
+- **DOI**: https://doi.org/10.1002/pan.70233
+
+---
+
+## 4. The Contemporary Role of Oral Maxillofacial Surgeons in Head and Neck Reconstructions.
+
+- **PMID**: [42194888](https://pubmed.ncbi.nlm.nih.gov/42194888/)
+- **Journal**: Journal of clinical medicine
+- **Publication Date**: 2026 May 20
+- **Authors**: Marwan Hisham, Mosquera Camilo, Chandra Srinivasa R
+- **DOI**: https://doi.org/10.3390/jcm15103928
+
+### Abstract
+
+Oral and Maxillofacial Surgery (OMFS) is a surgical specialty with a distinctive position at the intersection of medicine and dentistry. This unique expertise enables reliable reconstructions of complex head and neck defects, with a focus on function, esthetics, and quality of life. This review examines the historical progression, current practices, and prospective directions of head and neck reconstruction, with particular emphasis on the essential contributions of Oral and Maxillofacial Surgeons (OMSs). Beginning with early reconstructive efforts in ancient civilizations and progressing through the transformative advancements of the Renaissance, the introduction of anesthesia and antiseptics, and innovations during periods of war, the specialty has evolved in response to increasing clinical complexity. The contemporary era is characterized by the integration of microvascular reconstruction, dental rehabilitation, and advanced imaging modalities, enhancing the restoration of occlusal function, facial aesthetics, and overall quality of life. Emerging innovations such as patient-specific three-dimensional printed hardware, tissue engineering, regenerative medicine, artificial intelligence, and supermicrosurgical techniques are expected to further reshape reconstructive approaches. These technological advances aim to reduce the number of surgical steps, improve biological reconstruction, and enhance diagnostic and planning capabilities. However, they also raise ethical considerations and validation challenges that warrant careful assessment. In conclusion, Oral and Maxillofacial Surgeons continue to play a central and expanding role in head and neck reconstruction and rehabilitation. Owing to comprehensive training and technological expertise, the specialty is uniquely positioned to advance value-based, multidisciplinary care while persistently striving to improve functional, aesthetic, and quality-of-life outcomes for patients with complex craniofacial defects.
+
+---
+
+## 5. Deep Learning-Based Tracking of Neurovascular Features Toward Semi-Automated Ultrasound-Guided Peripheral Nerve Blocks by Non-Specialists.
+
+- **PMID**: [42194313](https://pubmed.ncbi.nlm.nih.gov/42194313/)
+- **Journal**: Bioengineering (Basel, Switzerland)
+- **Publication Date**: 2026 May 15
+- **Authors**: Gjesteby Lars A, Carruthers Alec, Werblin Joshua, DeLosa Nancy, Bedolla Carlos et al.
+- **DOI**: https://doi.org/10.3390/bioengineering13050556
+
+### Abstract
+
+Peripheral nerve blocks can effectively reduce the use of general anesthesia and opioids in situations where robust pain management is critical, such as severe extremity trauma and hip, femur, and knee surgeries. Despite these benefits, nerve blocks are underutilized due to the high skill required to accurately insert a needle and safely deliver local anesthetic. To overcome this challenge, ultrasound image guidance enabled by artificial intelligence (AI) offers a semi-automated solution for regional anesthesia delivery by non-specialists. As a first step towards realizing an integrated platform for AI-guided nerve blocks, the main objective of this study is to develop and characterize deep learning algorithms to interpret anatomical landmarks on ultrasound images in real time and identify aimpoints for needle placement. Our AI system was trained on over 55,000 images from 20 porcine models and demonstrated an average area under the precision-recall curve of 0.92 (SD = 0.03) for in vivo landmark detection in the femoral nerve region. In prospective live animal testing, aimpoint identification had a 98.3% success rate with an average time of 40.5 s (SD = 33.5). Future work will focus on integrated testing with handheld robotics towards a more accessible method for delivering regional anesthesia in settings from point of injury to medical transport to hospitals.
+
+---
+
+## 6. Real-time artificial intelligence-based needle tracking for ultrasound-guided regional anesthesia training: a pilot prospective randomized controlled trial.
+
+- **PMID**: [42092786](https://pubmed.ncbi.nlm.nih.gov/42092786/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 May 06
+- **Authors**: Kurota Misato, Kubota Kai, Hayasaka Tatsuya, Toyama Hiroaki
+- **DOI**: https://doi.org/10.1186/s12871-026-03867-z
+
+### Abstract
+
+**BACKGROUND**: Proper needle visualization is a major technical challenge for novices learning ultrasound-guided regional anesthesia (UGRA). We developed a 'You Only Look Once version 5' (YOLOv5)-based system that records quantitative needle trajectory data and delivers real-time visual and auditory feedback to support training. This pilot study aimed to explore whether short-term use of the real-time feedback system improved puncture safety and whether needle oscillation amplitude, a system-derived trajectory-based metric, could serve as an objective indicator of technical proficiency in UGRA training. **METHODS**: Twenty-three medical students with no UGRA experience were randomized into control (n = 12) and YOLOv5 feedback (n = 11) groups. Participants performed three in-plane punctures of increasing difficulty on phantoms: sagittal (puncture A), coronal (puncture B), and transverse (puncture C). Each included watching an instructional video, a 5-minute practice (with feedback for the YOLOv5 group or without for the control group), and a test puncture without feedback. The outcomes were needle tip disappearance frequency compared between the control and YOLOv5 feedback groups and needle oscillation amplitude - the maximum lateral deviation from the ideal insertion line, automatically recorded by the system - compared between punctures classified as safe and unsafe by an independent blinded assessor. **RESULTS**: Needle tip disappearance frequency did not differ between the control and YOLOv5 feedback groups across all approaches (puncture A: median, 0 vs. 0, P = 0.933; puncture B: 0 vs. 1, P = 0.246; puncture C: 1 vs. 2, P = 0.463). Only puncture C yielded both safe and unsafe punctures, enabling comparative analysis of the needle oscillation amplitude. Participants performing safe punctures (Level 1, n = 9) exhibited significantly smaller needle oscillation amplitudes (136.0 ± 32.1 pixels) than those performing unsafe punctures (Level 3, n = 12, 230.5 ± 85.4 pi
+
+---
+
+## 7. Predicting postoperative delayed awakening after flexible ureteroscopic lithotripsy based on radiomic features of body composition.
+
+- **PMID**: [42069920](https://pubmed.ncbi.nlm.nih.gov/42069920/)
+- **Journal**: Scientific reports
+- **Publication Date**: 2026 May 02
+- **Authors**: Lu Yao, Wu Xiaqiu, Chen Juanhua, Li Jian, Cai Weirong et al.
+- **DOI**: https://doi.org/10.1038/s41598-026-50706-9
+
+### Abstract
+
+We aimed to explore the predictive role of radiomic features of body compositions in the occurrence of delayed awakening after flexible ureteroscopic lithotripsy, and further develop a predictive model to identify patients at higher risk. We analyzed the data from 314 admitted patients undergoing total intravenous general anesthesia at two institutions. Binary logistic regression was used to assess univariable and multivariable associations of clinical factors with delayed awakening. Radiomic features of body compositions were deeply extracted from preoperative computed tomography (CT) scans using ResNet50 model. We developed a combined model by integrating significant clinical variables with radiomic score. SHapley Additive explanation (SHAP) method was adopted for model interpretation and helping clinicians understand the predictive results. At multivariable analysis, CT-derived visceral adipose tissue area and skeletal muscle index were independent predictors of postoperative delayed awakening. The combined model had area under curves (AUCs) of 0.85(95%CI: 0.82, 0.89), 0.83(95%CI: 0.80, 0.87) and 0.80(95%CI: 0.76, 0.84) in the derivation, internal and external test datasets, respectively. 8 radiomic features were selected using Spearman rank correlation test and the least absolute shrinkage and selection operator logistic regression analysis. This combined model showed better discrimination and calibration than clinical model alone. Furthermore, SHAP plots quantified the impact of key variables on prediction at the global level. The combined model may allow estimation of the risk of postoperative delayed awakening after flexible ureteroscopic lithotripsy.
+
+---
+
+## 8. The Year in Electrophysiology: Selected Highlights From 2025.
+
+- **PMID**: [42215395](https://pubmed.ncbi.nlm.nih.gov/42215395/)
+- **Journal**: Journal of cardiothoracic and vascular anesthesia
+- **Publication Date**: 2026 May 01
+- **Authors**: Poorsattar Sophia P, Kumar Nicolas, Vanneman Matthew W, Kinney Daniel A, Tang Jonathan et al.
+- **DOI**: https://doi.org/10.1053/j.jvca.2026.04.044
+
+### Abstract
+
+This special article represents the eighth installment in an annual Journal of Cardiothoracic and Vascular Anesthesia series highlighting key advances in cardiac electrophysiology relevant to cardiothoracic anesthesiologists. The authors extend their gratitude to Editor-in-Chief Dr. Kaplan, Associate Editor-in-Chief Dr. Augoustides, and the editorial board for the opportunity to contribute to this series. Rapid innovations in electrophysiology continue to reshape perioperative care and expand the anesthesiologist's role. This 2025 update synthesizes developments in atrial fibrillation guidelines across major societies, emerging cardiac implantable electronic device technologies, and evolving evidence in pulsed field ablation, transcatheter left atrial appendage occlusion, and stereotactic arrhythmia radioablation. Advances in wearable technologies and artificial intelligence are also highlighted. Collectively, these developments underscore the anesthesiologist's integral role within the multidisciplinary electrophysiology team.
+
+---
+
+## 9. Predicting Difficult Tracheal Intubation Using Multi-Angle Photographic Analysis with Convolutional Neural Networks and EfficientNet.
+
+- **PMID**: [41975752](https://pubmed.ncbi.nlm.nih.gov/41975752/)
+- **Journal**: Diagnostics (Basel, Switzerland)
+- **Publication Date**: 2026 Mar 30
+- **Authors**: Koca Erdinç, Kutlusoy Sevgi, Er Mehmet Bilal, Koca Tarkan
+- **DOI**: https://doi.org/10.3390/diagnostics16071042
+
+### Abstract
+
+Background: Difficult intubation is an important clinical problem faced by anesthesiologists and is one of the most important causes of anesthesia-related morbidity. According to various sources, the frequency of encountering a difficult airway is stated as 1-4%. Aim: We thought that difficult tracheal intubation could be predicted by photographic analysis using artificial intelligence. Methods: Sixteen photographs were taken in the preoperative period in the sitting and lying positions anteriorly, laterally, with the mouth open, with the mouth closed, with the neck straight, and with the neck extended. Intubations performed without intervention for the first time were considered easy. Intubations with external tracheal intervention and with more than one attempt were evaluated as medium. Intubations requiring more than three attempts; intubation with stylets, fiberoptic bronchoscopes, or video laryngoscopes; or cases in which patients could not be intubated and provided airway with a laryngeal mask were considered difficult. Results: In our study, the CNN (convolutional neural network) model performed well overall, with the best results generally obtained using batch sizes of 32 and 128 and learning rates ranging from 0.1 to 0.001. Conclusions: The prominent aspects of our study are that it can be conducted with an easily accessible mobile phone, can be performed at the bedside, and is successful in predicting difficult intubation. The sensitivity of methods currently used to assess difficult airways is generally low, and the likelihood of clinicians successfully identifying this condition using available information varies widely; thus far, there is no gold standard for prediction. We believe that our study will bring a different perspective to estimating the difficulty of intubation, which occupies a very important place in anesthesia practice.
+
+---
+
+## 10. Impact of Deep-Learning Reconstruction on MRI Workflows: A Retrospective Analysis at a Large Academic Tertiary Center.
+
+- **PMID**: [42235553](https://pubmed.ncbi.nlm.nih.gov/42235553/)
+- **Journal**: RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin
+- **Publication Date**: 2026 Jun 03
+- **Authors**: Rizzetti Melina, Michael Arwed E, Almansour Haidara, Schöffling Vanessa I, Brockmann Marc A et al.
+- **DOI**: https://doi.org/10.1055/a-2857-0974
+
+### Abstract
+
+**PURPOSE**: Artificial intelligence is increasingly integrated in clinical practice. In radiological imaging, deep-learning (DL)-based image reconstruction techniques show potential for accelerating and enhancing the quality of examination procedures in magnetic resonance imaging (MRI). This study evaluated the impact of DL on MRI workflows and protocols over a one-year period following clinical implementation. **MATERIALS AND METHODS**: This retrospective, single-center study included 8,183 MRI examinations performed between 2023 and 2024 to assess daily examination volume, examination duration, and rates of repeated and aborted scans. Furthermore, 43 comparable sequences and 34 protocols on a 1.5T MRI (Siemens Magnetom Sola) were analyzed and surveys were conducted among 23 medical staff members to evaluate the perceived effects of DL on workflow efficiency, diagnostic performance, stress levels, and technology acceptance. **RESULTS**: 88% of the DL-reconstructed sequences demonstrated reduced acquisition times, yielding an overall 13% reduction in protocol duration, despite higher resolution or reduced slice thickness. On days without anesthesia support, the average examination time decreased by 11%, accompanied by increased patient throughput (+7.2%) and fewer repeats (-25%) and aborts (-100%). Medical staff reported high levels of technology acceptance (90%), perceived improvements in image quality (90.5%), and reduced stress levels. Shorter times required for generating medical reports were noted by 45.5% of respondents, particularly among residents (70%). **CONCLUSION**: DL enables significant potential for MRI-workflow optimization and protocol improvements, while maintaining high staff satisfaction, thereby highlighting the great potential of DL in radiology practice. **KEY POINTS**: · While maintaining or increasing image quality, DL reduced examination duration (-11%) and protocol length (-13%).. · Patient throughput increased (+7.2%), while repeats (-25
+
+---
+
+## 11. A two-step deep learning framework for predicting difficult video laryngoscopy from ultrasound images: a prospective cohort study.
+
+- **PMID**: [42226131](https://pubmed.ncbi.nlm.nih.gov/42226131/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 Jun 01
+- **Authors**: Jin Chenyu, Pei Bei, Zhou Ren, Cao Shuang, Sun Yu et al.
+- **DOI**: https://doi.org/10.1186/s12871-026-03948-z
+
+### Abstract
+
+**BACKGROUND**: Deep learning integrated with ultrasound systems may assist in predicting difficult airway, a life-threatening complication in anesthesia. The study aimed to assess the feasibility of AI-based ultrasound for predicting difficult video laryngoscopy (DVL); and identify ultrasonographic measurements associated with DVL using AI-generated heatmaps. **METHODS**: Patients who underwent ultrasonographic airway examinations were enrolled. DVL were classified as Cormack-Lehane grade 3 or 4. The methodology involved two steps: In step 1, ResNet-18 extracted features from ultrasound scans, which were then used to develop predictive models with various machine learning algorithms. The area under the receiver operating characteristic curves (AUROC) were used to assess the performance of models. In step 2, heatmaps identified critical regions for DVL, and multivariable logistic regression was used to assess the association between ultrasonographic measurements and DVL. **RESULTS**: 1,474 patients were included, of whom 95 had DVL. In step 1, the combined model (including section of the hyoid bone, sagittal section of the tongue and thyromental distance) with LightGBM algorithm showed an AUROC value of 0.804, with a sensitivity of 0.889, a specificity of 0.657 in the test set. In step 2, distance from the skin to the end of the tongue root (DSTR) was significantly associated with DVL [odds ratios (OR): 4.83, 95% CI: 2.99-8.01]. Restricted cubic spline revealed a nonlinear association between DSTR and DVL, with a significant rise in the OR for DVL, particularly at DSTR ≥ 3.89 cm. **CONCLUSION**: AI-based ultrasound technology can predict DVL, and DSTR is associated with DVL. **TRIAL REGISTRATION**: This study was registered at ClinicalTrials.gov (NCT05207254).
+
+---
+
+## 12. Identification of Pathological Secretions in Bronchoscopic Images Based on Edge Features and Multi-Scale Attention Mechanism.
+
+- **PMID**: [42229724](https://pubmed.ncbi.nlm.nih.gov/42229724/)
+- **Journal**: SLAS technology
+- **Publication Date**: 2026 Jun 01
+- **Authors**: Su Hang, Huang Fengmei, Wang Yongxuan
+- **DOI**: https://doi.org/10.1016/j.slast.2026.100443
+
+### Abstract
+
+The accumulation of pathological bronchial secretions compromises ventilation and oxygenation in critically ill patients and may lead to atelectasis or secondary infection in severe cases, making timely identification and removal of pathological secretions essential during intensive care and surgical anesthesia. Conventional manual bronchoscopic assessment depends heavily on operator experience, lacks real-time reliability, and fails to meet clinical requirements for efficient and precise intervention. To address this limitation, this study proposes an Edge-Aware Dual-Scale Transformer (EADST) for intelligent and automated bronchial secretion recognition based on Canny edge features. Bronchoscopic image data from 50 critically ill pneumonia patients, including both normal physiological and pathological secretions, were preprocessed by grayscale enhancement and Canny edge detection to generate structural representations of secretion regions, which were subsequently processed through a patch embedding module for edge-aware feature mapping, a dual-scale attention module for capturing both global semantic and local structural dependencies, and an edge-aware feed-forward network to adaptively enhance critical channels, followed by a back-end classification head for real-time pathological secretion discrimination. All experiments were conducted under a unified Canny feature representation, and the proposed framework was evaluated against several classic state-of-the-art (SOTA) models, including VGG-16, ResNet-50, EfficientNet, MobileNet, and Vision Transformer (ViT). Experimental results demonstrate that EADST achieves superior accuracy (89.2%) and robustness in pathological secretion recognition on edge-derived features, indicating that attention-driven and edge-adaptive feature modeling effectively enhances bronchoscopic visual perception and providing a promising foundation for intelligent, real-time bronchoscopic pathological secretion aspiration decision support syst
+
+---
+
+## 13. Comorbidities in Age-Related Cataract: Epidemiological Burden and Public Health Implications.
+
+- **PMID**: [42201152](https://pubmed.ncbi.nlm.nih.gov/42201152/)
+- **Journal**: Vision (Basel, Switzerland)
+- **Publication Date**: 2026 Apr 28
+- **Authors**: Ripa Matteo, Forlini Matteo, Schipa Chiara, Shah Neeraj Apoorva
+- **DOI**: https://doi.org/10.3390/vision10020024
+
+### Abstract
+
+Cataracts represent the leading cause of blindness worldwide, particularly in older adults, and constitute a significant public health challenge. Although cataract surgery is generally associated with a high safety profile, both patients and healthcare providers often face significant challenges due to age-related physiological changes and the high prevalence of comorbidities, which are directly linked to cataractogenesis and other systemic diseases that can complicate both the surgical procedure and postoperative recovery. This narrative review aimed to assess the epidemiological characteristics of age-related physiological and pathological comorbidities in older adults with cataracts, evaluating their impact on preoperative assessment, surgical outcomes, and public health planning. Articles were identified through non-systematic searches of PubMed, EMBASE, and Scopus using a combination of medical subject headings (MeSH) terms and free-text keywords. Among the multiple non-ocular comorbidities, carotid artery disease (CAD) and hypertension (HTN) are among the cardiovascular diseases (CVDs) with the highest correlations with cataract. Diabetes, dyslipidemia, and metabolic syndrome are also highly prevalent and significantly influence surgical outcomes, as poor glycemic control increases intraoperative risks and postoperative complications. Additionally, neurological conditions such as stroke, Parkinson's disease, and epilepsy often complicate anesthesia administration, contribute to postoperative delirium, and affect adherence to treatment protocols. Given these complexities, a multidisciplinary approach and targeted preoperative screening may offer personalized care to improve safety and outcomes. Despite advances in clinical care, disparities in access to cataract surgery, especially in underserved populations, continue to exist. Thus, a coordinated public health strategy that promotes early detection, equitable access, and the integration of innovations such as 
+
+---
+
+## 14. DSPONVNet: a multimodal deep learning model integrating intraoperative monitoring and clinical features for predicting postoperative nausea and vomiting risk.
+
+- **PMID**: [41928118](https://pubmed.ncbi.nlm.nih.gov/41928118/)
+- **Journal**: BMC medical research methodology
+- **Publication Date**: 2026 Apr 02
+- **Authors**: Liu Lixin, Wang Haifeng, Wei Yi, Kong Di, Xue Zhaoping et al.
+- **DOI**: https://doi.org/10.1186/s12874-026-02845-w
+
+### Abstract
+
+**PURPOSE**: Postoperative nausea and vomiting (PONV) is a frequent and distressing complication that affects patient comfort and recovery following surgery. Conventional risk prediction models rely heavily on static clinical features, often overlooking real-time physiological signals. This study aimed to develop a robust prediction model that integrates intraoperative monitoring data with structured clinical variables to enhance the accuracy of PONV risk assessment. **METHODS**: We proposed DSPONVNet, a multimodal deep learning model incorporating a multilayer perceptron (MLP) for static features, a long short-term memory (LSTM) network for dynamic intraoperative monitoring data, and a self-attention mechanism for feature fusion. A total of 53,250 patients who underwent general anesthesia were retrospectively included. The model was trained and evaluated using stratified data partitioning and compared with five baseline models. **RESULTS**: DSPONVNet achieved superior performance, with a ROC-AUC of 0.9376 and F1 score of 0.8701, outperforming all baseline models. SHAP analysis revealed that both traditional risk factors (e.g., female sex, prior PONV) and intraoperative heart rate fluctuation significantly contributed to risk prediction, highlighting the value of integrating dynamic physiological data. **CONCLUSION**: DSPONVNet demonstrates enhanced predictive capability and interpretability by incorporating intraoperative monitoring data, enabling more accurate and individualized PONV risk assessment. These findings support the use of real-time data fusion in clinical decision support systems for perioperative care optimization.
+
+---
+
+## 15. AI-based decision models for difficult airway assessment: from research innovation to clinical implementation-a narrative review.
+
+- **PMID**: [42210958](https://pubmed.ncbi.nlm.nih.gov/42210958/)
 - **Journal**: Frontiers in medicine
 - **Publication Date**: 2026
-- **Authors**: Chen Cheng, Xie Shujing, Luo Zhihui, Hu Ziyan, Du Xiaohong et al.
-- **DOI**: https://doi.org/10.3389/fmed.2026.1817855
+- **Authors**: Shen Yang, Wu Yulan, Qiu Yuwei, Wu Jingxiang
+- **DOI**: https://doi.org/10.3389/fmed.2026.1818061
 
 ### Abstract
 
-Artificial intelligence offers the potential to revolutionize anesthesiology education by enabling precision education, a data-driven approach to tailor learning experiences to individual needs, thereby moving beyond the constraints of traditional pedagogical methods. This review examines the emerging applications and potential impact of AI-driven technologies, from virtual reality simulators that facilitate deliberate practice of complex procedures to machine learning platforms that enable precision education and objective competency assessment. We highlight how these tools enhance procedural fluency, clinical reasoning, and educational management. Nevertheless, this technological advancement is accompanied by profound challenges, including the risks of de-skilling, the perpetuation of algorithmic biases, data security vulnerabilities, and issues of equitable access. We argue that AI's role is as an augmentative tool, empowering educators to provide more personalized feedback and facilitate higher-order skill development, while also raising crucial ethical considerations. Navigating the future of anesthesiology education requires a balanced approach: embracing the benefits of AI while implementing robust governance to mitigate its risks, thereby fostering a new generation of anesthesiologists equipped to leverage technology for superior patient care. To this end, future research should prioritize rigorous validation of AI tools in clinical settings and focus on ethical guidelines for responsible AI implementation.
+Difficult airway management causes significant anesthesia-related morbidity, yet traditional assessments lack sensitivity (30%-50%) and consistency. This review (2010-2025) examines artificial intelligence (AI) decision models for airway assessment, focusing on performance, limitations, and clinical translation. AI demonstrates significant statistical superiority: facial image analysis achieves 80%-90% sensitivity (vs. Mallampati's 39%), and deep learning models yield a pooled AUC of 0.84. Key techniques include convolutional neural networks, semi-supervised learning, and multimodal integration. Despite high predictive performance, widespread adoption faces fundamental barriers. Current studies are predominantly single-center and retrospective, lacking external validation, algorithmic fairness, standardized outcomes, and proven workflow integration. Furthermore, research heavily favors upper airway evaluation. Thoracic anesthesia, utilizing routine preoperative CTs, offers an immediate pathway for comprehensive whole-airway assessment. Ultimately, bridging the translational gap requires rigorous, prospective multicenter validation demonstrating tangible patient safety improvements, rather than relying solely on algorithmic sophistication.
 
 ---
 
-## 18. Development and External Validation of a Machine Learning Model for Automated Feedback Quality Assessment in Chinese Anesthesiology Residency Training.
+## 16. Deep learning guided propofol ketamine dosing and inflammation trajectories in elderly burns.
 
-- **PMID**: [42094912](https://pubmed.ncbi.nlm.nih.gov/42094912/)
-- **Journal**: Advances in medical education and practice
+- **PMID**: [42232895](https://pubmed.ncbi.nlm.nih.gov/42232895/)
+- **Journal**: Frontiers in computational neuroscience
 - **Publication Date**: 2026
-- **Authors**: Yao Lifeng, Chen Yijun, Shen Jing, Zhang Junge, Zhang Yiwei et al.
-- **DOI**: https://doi.org/10.2147/AMEP.S599543
+- **Authors**: Yuan Xiaohui, Wang Gang, Jiang Xiaoyang, Miao Wenjing
+- **DOI**: https://doi.org/10.3389/fncom.2026.1824898
 
 ### Abstract
 
-**PURPOSE**: High-quality narrative feedback is essential for competency-based medical education, but manual evaluation of feedback is time-consuming and subjective. This research aims to develop and validate a machine learning (ML)-based model to automate the bulk evaluation of feedback quality from anesthesiology residency program instructors. **METHODS**: Using 990 narrative feedback entries from October 2023 to November 2025 at the First Affiliated Hospital of Ningbo University, we conducted training and validation. An additional 587 feedback records from Ningbo Li HuiLi Hospital were used as an external test set. Text processing employed the jieba Chinese word segmenter combined with an anesthesia-specific vocabulary database to extract TF-IDF and manual features. Data imbalance was addressed using the Synthetic Minority Oversampling Technique (SMOTE). Logistic regression (LR), random forests (RF), and Gradient Boosting Machine (GBM) were used for training and validation. Model performance was measured using the area under the receiver operating characteristic curve (AUC-ROC), accuracy, cross-validation accuracy, precision, recall, and F1 score. **RESULTS**: In internal training, LR performed optimally, demonstrating the best overall performance (F1 score: 0.941) and stability (cross-validation accuracy: 0.925 ± 0.026), along with the highest precision (0.906). In external testing, the LR model achieved an overall accuracy of 0.840 (95% CI: 0.808-0.867), with high recall (0.956) and moderate precision (0.636) for identifying high-quality feedback, yielding an F1 score of 0.764 and an AUC of 0.729. **CONCLUSION**: This study successfully developed and externally validated a machine learning-based model for automated feedback quality assessment in Chinese anesthesiology residency training. With its high recall and stable internal performance, the model may serve as a screening tool to support competency-based medical education by enabling batch evaluation of narr
-
----
-
-## 19. Explainable Machine Learning for Prediction of Early Postoperative Nausea and Vomiting After General Anesthesia.
-
-- **PMID**: [41783600](https://pubmed.ncbi.nlm.nih.gov/41783600/)
-- **Journal**: Journal of multidisciplinary healthcare
-- **Publication Date**: 2026
-- **Authors**: Chang Hsiao-Cheng, Chen Li-Yun, Lin Yu-Shiang
-- **DOI**: https://doi.org/10.2147/JMDH.S572550
-
-### Abstract
-
-**PURPOSE**: Postoperative nausea and vomiting (PONV) remains one of the most common adverse effects associated with anesthesia care. This study aimed to explore the feasibility of applying machine learning models trained exclusively on routinely available non-invasive clinical indicators to predict early PONV risk. Explainable artificial intelligence techniques were also employed to identify the most influential predictors of early PONV. **PATIENTS AND METHODS**: A retrospective dataset from Cathay General Hospital, including 927 patient cases and 16 non-invasive clinical indicators, was used to investigate early PONV risk prediction. This study evaluated the predictive performance of several traditional machine learning models, deep learning architectures, and ensemble learning methods to compare their classification capabilities. **RESULTS**: Overall, the models demonstrated moderate discriminative performance. The random forest model achieved an accuracy of 83.5% with balanced precision (80.81%) and recall (83.5%), while the logistic regression model attained an AUC of 0.6905. Analysis of positive SHAP values identified the top 7 most influential predictors of early PONV. These included pharmacologic interventions (eg, neostigmine), pre-existing comorbidities (eg, history of nausea and vomiting, history of cardiovascular disease), demographic characteristics (eg, gender), postoperative pain, and anesthetic and surgical factors (eg, type of surgery and duration of anesthesia). Moreover, SHAP analysis revealed that the use of dexamethasone was negatively associated with the predicted risk in the model, suggesting its potential protective role in the prevention of early PONV. **CONCLUSION**: By generating explainable outputs, this study bridges the gap between algorithmic prediction and clinical decision-making, allowing anesthesiologists to better recognize underlying risk factors and make informed, evidence-based decisions in perioperative management.
-
----
-
-## 20. Multimodal data for predictive medicine: algorithmic fusion of clinical data in anesthesiology and intensive care.
-
-- **PMID**: [41658614](https://pubmed.ncbi.nlm.nih.gov/41658614/)
-- **Journal**: Frontiers in medicine
-- **Publication Date**: 2026
-- **Authors**: Boie Sebastian Daniel, Giesa Niklas, Sekutowicz Maria, Zhumagambetov Rustam, Haufe Stefan et al.
-- **DOI**: https://doi.org/10.3389/fmed.2026.1746867
-
-### Abstract
-
-Anesthesiology and intensive care medicine are among the most data-rich fields of medicine, where accurate and timely outcome prediction or risk stratification is important. During patient care, heterogeneous data streams, including structured electronic health records, free-text documentation, and high-frequency physiologic time series are recorded. This provides a fertile ground for machine learning (ML) models to make individualized risk predictions. Yet, secondary use of routine data remains difficult due to heterogeneity, missingness, variable granularity, ambiguously defined outcomes, or poor representation of clinical concepts in routine data. Reproducibility and transparency are difficult to achieve with hospital-specific complex data pipelines. New complexities arise when combining different data modalities. This perspective article discusses three common modalities-tabular data, clinical text, and time series-and outlines data modality-specific challenges, data preprocessing strategies, and ML modeling approaches. We examine multimodal fusion strategies through the common taxonomy of early, intermediate, and late fusion. In early fusion, generated features are aggregated into a unified tabular representation, offering simplicity and often serve as first baseline prediction models. Intermediate fusion uses modality-specific encoders with shared layers to learn cross-modal dependencies. This strategy yields the most complex and powerful models. Late decision-level fusion combines outputs from modality-optimized models, providing modularity and robustness to missing modalities, leading to advantages for real-time deployment where data arrive asynchronously. The growth of multi-centric datasets and federated infrastructures may enable intermediate-fusion architectures and multimodal foundation models to better capture patient trajectories, supporting risk stratification and personalized therapy in perioperative and intensive care settings.
+**BACKGROUND AND OBJECTIVES**: Elderly patients (≥65 years) who sustain burn injuries encounter a clinically significant perioperative challenge: a dysregulated hyperinflammatory response, characterized by elevated levels of interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP), compounded by a markedly reduced hemodynamic reserve. Both propofol and low-dose ketamine exhibit distinct anti-inflammatory mechanisms; however, the optimization of their combined dosing within explicit safety parameters remains unestablished. Our objectives were to: (1) develop and externally validate a probabilistic machine learning (ML) model to predict dynamic 24-h trajectories of inflammatory markers; and (2) integrate these predictions with a safety-constrained offline reinforcement learning (RL) agent to formulate individualized propofol-ketamine dosing recommendations. **STUDY DESIGN**: This study employed a retrospective multi-cohort analysis utilizing two publicly accessible intensive care databases. **SETTING**: The research was conducted in an academic medical center ICU (MIMIC-IV) and across 208 community and academic hospitals (eICU Collaborative Research Database). **MEASUREMENTS**: The study analyzed 614 perioperative episodes in patients aged ≥65 years with confirmed burn injuries who received propofol-based anesthesia for ≥30 min and had ≥2 inflammatory laboratory measurements within 6-24 h post-induction. External validation was performed on 206 independent episodes. **MAIN RESULTS**: The proposed Event-Transformer with continuous-time Neural ODE dynamics demonstrated a 12-h IL-6 mean absolute error (MAE) of 6.82 pg/mL, representing a 70.1% improvement over linear mixed models (22.8 pg/mL). It achieved an inflammatory spike detection area under the receiver operating characteristic curve (AUROC) of 0.814 and empirical 90% prediction interval (PI) coverage of 87.2%. The Conservative Policy with Q-Learning (CPQL) dosing agent enhanced the t
 
 ---

@@ -1,40 +1,12 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-06-01
+**Update Time**: 2026-06-04
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
 ---
 
-## 1. Preoperative and intraoperative risk factors for impaired pulmonary oxygenation after cardiopulmonary bypass: a single-center retrospective analysis.
-
-- **PMID**: [42192432](https://pubmed.ncbi.nlm.nih.gov/42192432/)
-- **Journal**: Journal of cardiothoracic surgery
-- **Publication Date**: 2026 May 27
-- **Authors**: Horibe Tatsuya, Uchino Yohei, Hashimoto Kenyu, Takaki Jun, Nakata Kosuke et al.
-- **DOI**: https://doi.org/10.1186/s13019-026-04009-9
-
-### Abstract
-
-**BACKGROUND**: Postoperative pulmonary dysfunction is a frequent complication after cardiopulmonary bypass (CPB). Identifying preoperative and intraoperative risk factors for impaired oxygenation is essential for perioperative optimization. **METHODS**: A retrospective analysis was conducted on 202 patients who underwent open-heart surgery with CPB at Kumamoto University Hospital between June 2022 and October 2024. Patients were categorized into two groups on the basis of the partial pressure of oxygen (PaO2)/ Fraction of Inspired Oxygen (FiO₂) ratio (P/F ratio) from arterial blood gas analysis under FiO₂ 1.0 at intensive care unit (ICU) admission: impaired oxygenation (P/F < 300) and normal oxygenation (P/F ≥ 300). Multivariate logistic regression was used to identify risk factors for impaired pulmonary oxygenation. **RESULTS**: Of the 202 patients, 53 (26%) developed impaired oxygenation. Multivariate analysis revealed high preoperative body mass index (BMI), a history of hypertension, and an elevated preoperative respiratory index (RI) as independent predictors. The model showed good discrimination (Area Under the Curve (AUC) = 0.746, 95% CI: 0.669–0.823) and calibration. **CONCLUSIONS**: Preoperative RI, BMI, and hypertension are significant predictors of impaired oxygenation after CPB. RI, a readily accessible metric derived from arterial blood gas analysis, may be integrated into routine preoperative assessments to identify high-risk patients and guide tailored lung-protective strategies. **TRIAL REGISTRATION**: The study was approved by the Ethics Committee of Kumamoto University Hospital (Approval No. 3040). The approval date is August 30, 2024.
-
----
-
-## 2. Development of an Artificial Intelligence Model to Predict Endotracheal Intubation in Critically Ill Patients in Real Time.
-
-- **PMID**: [42194602](https://pubmed.ncbi.nlm.nih.gov/42194602/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 May 09
-- **Authors**: Moon Da Hye, Kim Minkyu, Han Seon-Sook, Kim Tae-Hoon, Kim Dohyun et al.
-- **DOI**: https://doi.org/10.3390/jcm15103642
-
-### Abstract
-
-Background/Objectives: In critically ill patients, endotracheal intubation (EI) is often performed to secure the airway or mechanical ventilation. Accurately predicting the timing of intubation significantly affects patient outcomes. We developed an artificial intelligence (AI) model designed for real-time risk stratification of patients requiring EI. Methods: We utilized the Medical Information Mart for Intensive Care-IV (MIMIC-IV) 2.2 dataset and performed model development using 15 clinical variables, including vital signs, Glasgow Coma Scale (GCS) score, and arterial blood gas analysis results. Patients intubated before or within 1 h of intensive care unit (ICU) admission were excluded. Clinical data from the ICU inherently consists of continuous time-series measurements. Traditional machine learning models often treat this information as static tabular data, neglecting vital temporal dynamics and patient history. Conversely, deep learning time-series approaches can capture these complex patterns over time. Thus, we applied the Gated Recurrent Unit with Decay++ (GRU-D++) model to predict the need for EI. GRU-D++ is an extension of the GRU and GRU-D. It builds upon the GRU-D to provide improved performance when handling datasets with exceptionally high rates of missing values. GRU-D++ is a time series deep learning model with an automatic mechanism for imputing missing values. This built-in capability eliminates the need for additional data preprocessing and has previously demonstrated high predictive performance. Using the 15 variables, we evaluated the optimal timing for EI in ICU-admitted patients by applying various AI models. Results: Among these, the GRU-D++ model demonstrated AUROC of 0.888, AUPR of 0.481, sensitivity of 0.474, specificity of 0.995, precision of 0.511, and F1 score of 0.491 on MIMIC-IV dataset. For KNUH dataset, the model demonstrated AUROC of 0.913, AUPR of 0.063, sensitivity of 0.162, specificity of 0.997, precision of 0.137, and F1 scor
-
----
-
-## 3. Immobilisation of African buffalo (Syncerus caffer) with low-dose thiafentanil in combination with medetomidine and azaperone.
+## 1. Immobilisation of African buffalo (Syncerus caffer) with low-dose thiafentanil in combination with medetomidine and azaperone.
 
 - **PMID**: [42208175](https://pubmed.ncbi.nlm.nih.gov/42208175/)
 - **Journal**: Veterinary anaesthesia and analgesia
@@ -45,6 +17,34 @@ Background/Objectives: In critically ill patients, endotracheal intubation (EI) 
 ### Abstract
 
 **OBJECTIVE**: To assess the physiological effects and efficacy of immobilisation with low-dose thiafentanil in combination with medetomidine and azaperone in African buffalo. **STUDY DESIGN**: Observational prospective cohort study. **ANIMALS**: A group of 41 African buffalo selected opportunistically during immobilisation events at nine game ranches and reserves. **METHODS**: Buffalo (12 males, 29 females; 9 calves, 32 adults) were immobilised with thiafentanil, medetomidine and azaperone. Recumbency and recovery times were recorded. Immobilisation quality was scored (0-4; poor to excellent). Physiological data were recorded using a stethoscope, digital thermometer and pulse oximetry. Arterial blood samples were collected in 21 animals. Venous blood was collected for biochemical analyses. Oxygen (4-6 L minute-1) was delivered via nasal insufflation in 13 buffalo, with paired arterial blood samples from eight animals to explore effects on oxygenation. Naltrexone (20-25 mg per animal) was administered intravenously following procedure completion. Data are presented as median (interquartile range). **RESULTS**: Doses were 0.0038 (0.0033-0.0043) mg kg-1 thiafentanil, 0.0042 (0.0038-0.0050) mg kg-1 medetomidine and 0.050 (0.044-0.057) mg kg-1 azaperone, based on estimated body weights. Immobilisation and recovery times were 7.5 (6-9) and 2.0 (1.1-2.0) minutes, respectively. Immobilisation quality was good to excellent in 36 buffalo. Heart rate was 64 (55-76) beats minute-1, respiratory rate 24 (20-32) breaths minute-1, peripheral haemoglobin oxygen saturation 82 (72-85) % and rectal temperature 39.6 (38.3-40.5) °C. All 41 buffalo were hypoxemic, based on pulse oximetry and/or arterial blood gas analysis, and 17 were hyperthermic. For the eight buffalo with paired arterial blood samples, oxygen supplementation improved PaO2, with six becoming normoxaemic. **CONCLUSIONS AND CLINICAL RELEVANCE**: This protocol resulted in rapid immobilisation, good to excellent immobilisa
+
+---
+
+## 2. Serial evaluation of clinical, functional, and structural pulmonary changes in 10 dogs with leptospirosis.
+
+- **PMID**: [42224492](https://pubmed.ncbi.nlm.nih.gov/42224492/)
+- **Journal**: Journal of veterinary internal medicine
+- **Publication Date**: 2026 May 04
+- **Authors**: Bringold Carole, Schweighauser Ariane, Walther Sandro, Lassen-Schmidt Bianca, Gendron Pascale K et al.
+- **DOI**: https://doi.org/10.1093/jvimsj/aalag101
+
+### Abstract
+
+**BACKGROUND**: Leptospirosis is a worldwide zoonosis with multisystemic consequences, including the pulmonary hemorrhage syndrome associated with a high mortality rate in dogs. **HYPOTHESIS/OBJECTIVES**: Serial assessment of clinical, functional, and structural pulmonary changes in dogs with acute leptospirosis during the first 8 days of hospitalization. **ANIMALS**: Ten client-owned dogs diagnosed with leptospirosis. **METHODS**: Prospective, descriptive case series with daily clinical examination, arterial blood gas analyses on d1-4, d6, and d8 and thoracic computed tomography (CT) with pulmonary segmentation and lung densitometry analysis on d1, d4, and d8. **RESULTS**: Clinical respiratory impairment was observed in most dogs during the measurement period, including 1 dog with fatal pulmonary hemorrhage. Half of the dogs showed hypoxemia (arterial partial pressure of oxygen: median, 56.6 mmHg; range, 49.6-67.8 mmHg) with increased alveolar-arterial PO2 gradient (A-a gradient) (37.9 mmHg [21.9-405.4 mmHg]) over the study period. Alveolar ventilation was only minimally affected (arterial partial pressure of carbon dioxide 35.2 mmHg [25.9-42.1 mmHg]). Quantitative CT analyses identified increased mean lung attenuation (MLA) in all dogs initially (-612 HU [-475 to -681 HU]) with progressive improvement in most dogs (d4: -646 HU [-583 to -746 HU]; d8: -709 HU [-624 to -811 HU]). Whereas clinical score and CT changes improved progressively in most dogs, the blood gas results showed a fluctuating pattern. **CONCLUSIONS AND CLINICAL IMPORTANCE**: The clinical pulmonary manifestations of these dogs with leptospirosis were characterized by hypoxemia, increased A-a gradient, and increased lung density. The clinical course seemed to more closely parallel the structural changes observed on CT rather than the functional alterations assessed with arterial blood gas analyses.
+
+---
+
+## 3. Intracranial hypocapnia is associated with parenchymal ischemia and worsened outcomes following stroke.
+
+- **PMID**: [42230137](https://pubmed.ncbi.nlm.nih.gov/42230137/)
+- **Journal**: Journal of neurointerventional surgery
+- **Publication Date**: 2026 Jun 02
+- **Authors**: Dornbos David, Frank Jacqueline A, McLouth Christopher J, Bender Adam, Deschner Stefani et al.
+- **DOI**: https://doi.org/10.1136/jnis-2026-025308
+
+### Abstract
+
+**BACKGROUND**: Despite good rates of reperfusion with thrombectomy, rates of moderate to severe post-stroke disability remain high. Even with successful reperfusion, infarct growth occurs, leading to worsened outcomes. **METHODS**: This prospective cohort study integrates cone-beam CT (CBCT) perfusion imaging with intracranial microcatheter sampling during thrombectomy. A prototype CBCT perfusion platform was used to generate real-time perfusion maps, allowing delineation of core, penumbra, and normal perfusion. Sampling sites are co-registered using a 2D-3D fusion program, enabling precise sample localization. Intracranial and systemic blood samples were collected, followed by immediate arterial blood gas analysis. Clinical outcome measures were also assessed. Primary analyses investigated blood gas differences between sampling locations and their association with clinical outcomes. **RESULTS**: Intracranial samples from 82 patients exhibited lower pO2, pCO2, HCO3-, and base excess relative to systemic blood (P<0.001) with pH remaining stable across locations. When stratified by microcatheter location, intracranial pCO2 was significantly lower in ischemic core (31.5±1.5 mmHg) than penumbra (37±1.2 mmHg, P=0.007). Further, patients with elevated intracranial pCO2 demonstrated significantly lower discharge National Institutes of Health Stroke Scale (NIHSS) score (P=0.028), particularly pronounced within the penumbra (P=0.0093). These relationships were not observed in systemic blood sample analysis. **CONCLUSION**: This study is the first of its kind to evaluate the impact of perfusion on intracranial pathophysiology. The intracranial microenvironment during stroke is highly perfusion-specific, and intracranial hypocapnia is associated with parenchymal ischemia and worsened functional outcomes. Whether this implicates the vasodilatory effect of pCO2 or reflects an ischemic metabolic acidosis deserves further study but may provide avenues to reduce stroke injury.
 
 ---
 
@@ -76,21 +76,7 @@ This study aimed to compare optic nerve sheath diameter (ONSD) measurements obta
 
 ---
 
-## 6. Development and internal validation of a nomogram for predicting in-hospital mortality in patients with acute exacerbation of chronic obstructive pulmonary disease.
-
-- **PMID**: [42182763](https://pubmed.ncbi.nlm.nih.gov/42182763/)
-- **Journal**: Journal of thoracic disease
-- **Publication Date**: 2026 Apr 30
-- **Authors**: Li Shanna, Yin Li, Huang Gui
-- **DOI**: https://doi.org/10.21037/jtd-2025-1-2780
-
-### Abstract
-
-**BACKGROUND**: Acute exacerbation of chronic obstructive pulmonary disease (AECOPD)-related in-hospital mortality poses a significant clinical challenge. Existing prognostic tools-including the DECAF (Dyspnoea, Eosinopenia, Consolidation, Acidaemia, and atrial Fibrillation) score, which requires eosinophil count and chest radiography, and the BAP-65 (Blood urea nitrogen, Altered mental status, Pulse rate, and age ≥65 years) score, which incorporates blood urea nitrogen measurement-depend on haematological or radiological investigations that may not be immediately available at admission. This study aims to develop a nomogram based on clinical admission variables and arterial blood gas analysis for early risk stratization in patients with AECOPD. **METHODS**: This single-centre retrospective cohort study enrolled consecutive patients hospitalised for AECOPD between December 2016 and December 2018. Eligible patients had spirometry-confirmed COPD [post-bronchodilator forced expiratory volume in one second/forced vital capacity (FEV1/FVC) <0.70] admitted for an acute exacerbation, with a hospital stay of at least 24 hours; those with severe concurrent conditions or substantial missing data were excluded. Univariate and multivariable logistic regression identified independent admission-level predictors of in-hospital mortality. A nomogram was constructed and internally validated using 1,000-iteration bootstrap resampling. **RESULTS**: Among 1,719 patients [75.6% male; median age 77.0 years, interquartile range (IQR): 69.0-84.0], 188 (10.9%) died during hospitalisation. Multivariable logistic regression (n=1,570) identified six independent predictors: older age [odds ratio (OR) =1.03, 95% confidence interval (CI): 1.02-1.05], higher modified Medical Research Council dyspnoea scale (mMRC) grade (OR =1.28, 95% CI: 1.05-1.56), lower peripheral oxygen saturation (SpO2) (OR =0.96, 95% CI: 0.94-0.99), malnutrition (OR =1.81, 95% CI: 1.06-2.97), elevated arterial partial pressur
-
----
-
-## 7. Validation of SpO
+## 6. Validation of SpO
 
 - **PMID**: [42201231](https://pubmed.ncbi.nlm.nih.gov/42201231/)
 - **Journal**: Advances in respiratory medicine
@@ -104,7 +90,7 @@ This study aimed to compare optic nerve sheath diameter (ONSD) measurements obta
 
 ---
 
-## 8. Veno-Venous Extracorporeal Membrane Oxygenation as Rescue Therapy for Near-Fatal Asthma: A Case Report.
+## 7. Veno-Venous Extracorporeal Membrane Oxygenation as Rescue Therapy for Near-Fatal Asthma: A Case Report.
 
 - **PMID**: [42220847](https://pubmed.ncbi.nlm.nih.gov/42220847/)
 - **Journal**: Cureus
@@ -118,7 +104,7 @@ Near-fatal asthma is a life-threatening condition characterized by severe airflo
 
 ---
 
-## 9. Severe Diabetic Ketoacidosis With Extreme Acidemia and Preserved Consciousness: Intensive Care Management Guided by Pathophysiology Without Bicarbonate or Intubation.
+## 8. Severe Diabetic Ketoacidosis With Extreme Acidemia and Preserved Consciousness: Intensive Care Management Guided by Pathophysiology Without Bicarbonate or Intubation.
 
 - **PMID**: [42220684](https://pubmed.ncbi.nlm.nih.gov/42220684/)
 - **Journal**: Cureus
@@ -132,7 +118,7 @@ Diabetic ketoacidosis (DKA) is a severe and potentially life-threatening metabol
 
 ---
 
-## 10. [Predictive value of ultrasound-assessed thickening fraction of intercostal muscle combined with diaphragmatic function for weaning and extubation outcomes in neurocritically ill patients].
+## 9. [Predictive value of ultrasound-assessed thickening fraction of intercostal muscle combined with diaphragmatic function for weaning and extubation outcomes in neurocritically ill patients].
 
 - **PMID**: [42200247](https://pubmed.ncbi.nlm.nih.gov/42200247/)
 - **Journal**: Zhonghua wei zhong bing ji jiu yi xue
@@ -143,5 +129,19 @@ Diabetic ketoacidosis (DKA) is a severe and potentially life-threatening metabol
 ### Abstract
 
 **OBJECTIVE**: To investigate the predictive value of ultrasound evaluation of intercostal muscle combined with diaphragmatic function for weaning and extubation outcomes in neurocritically ill patients. **METHODS**: A retrospective case-control study was performed. Clinical data of patients receiving invasive mechanical ventilation via tracheal intubation admitted to the neurology intensive care unit (ICU) of The First Affiliated Hospital of Wannan Medical University (Yijishan Hospital of Wannan Medical University) from April 2023 to April 2025 were collected. Patients were divided into a weaning failure group and a weaning success group according to weaning and extubation outcomes. General baseline data, eye opening and motor reaction scores before extubation, air leakage volume of tracheal intubation cuff leak test, cough ability before extubation, routine blood test and blood biochemical indicators within 48 hours before extubation, and basic vital signs, respiratory mechanics parameters, arterial blood gas analysis results as well as intercostal muscle function indicators [intercostal muscle thickness at the end of inspiration (ICMTei), intercostal muscle thickness at the end of expiration (ICMTee), thickening fraction of intercostal muscle (TFic)] and diaphragmatic function indicators [diaphragmatic excursion (DE), diaphragmatic thickness at the end of inspiration (DTei), diaphragmatic thickness at the end of expiration (DTee), diaphragmatic thickening fraction (DTF)] assessed by ultrasound at the end of spontaneous breathing trial (SBT) were compared between the two groups. Meanwhile, the inpatient outcome indicators of patients were collected. Binary multivariate Logistic regression analysis was used to screen the influencing factors of weaning and extubation outcomes in neurocritically ill patients undergoing invasive mechanical ventilation via tracheal intubation. Receiver operator characteristic curve (ROC curve) was plotted to analyze the predictive valu
+
+---
+
+## 10. Low-flow oxygen delivery in patients with disturbed consciousness.
+
+- **PMID**: [42232421](https://pubmed.ncbi.nlm.nih.gov/42232421/)
+- **Journal**: Surgical neurology international
+- **Publication Date**: 2026
+- **Authors**: Yamada Shoko Merrit
+- **DOI**: https://doi.org/10.25259/SNI_1393_2025
+
+### Abstract
+
+**BACKGROUND**: When low-flow oxygen (O2) delivery is required, a nasal cannula is commonly used. However, no reports have described arterial blood gas analysis in actual patients receiving O2 simultaneously through a mask and a nasal cannula. **METHODS**: This prospective observational study included 110 patients with disturbed consciousness due to brain damage. Arterial lines were inserted in all patients for blood pressure monitoring, and arterial blood was collected through the line. Arterial O2 saturation (SaO2) and partial pressures of O2 (PO2) and carbon dioxide (PCO2) were measured while patients received O2 at flow rates of 1, 2, and 3 L/min through either a mask or a nasal cannula. **RESULTS**: SaO2 was significantly higher with a mask than with a nasal cannula when O2 was delivered at 2 and 3 L/min (p < 0.01). PO2 was significantly higher with a mask at 1, 2, and 3 L/min; however, PCO2 did not differ significantly among room air, nasal cannula, and mask O2 delivery. In O2 administration of 1, 2, and 3 L/min, no significant differences in PO2 or PCO2 were identified between closed-mouth and open-mouth breathing with either a mask or a nasal cannula. **DISCUSSION**: Low-flow O2 delivery through a mask provides better oxygenation in comatose patients. For patients with decreased PO2 levels, low-flow O2 administration using a mask is more effective in increasing PO2 than using a nasal cannula, regardless of closed- or open-mouth breathing; however, one drawback is that the mask must be temporarily removed during oral care and suctioning procedures.
 
 ---
