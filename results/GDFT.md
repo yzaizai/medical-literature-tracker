@@ -1,8 +1,8 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-06-04
+**Update Time**: 2026-06-08
 **Search Range**: Last 30 days
-**Papers Found**: 20
+**Papers Found**: 10
 
 ---
 
@@ -66,7 +66,7 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 
 - **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
 - **Journal**: Journal of clinical anesthesia
-- **Publication Date**: 2026 Apr 29
+- **Publication Date**: 2026 Jun
 - **Authors**: Qin Haonan, Wang Qiuyi, Zhou Xun, Li Yijia, Luo Weijun et al.
 - **DOI**: https://doi.org/10.1016/j.jclinane.2026.112223
 
@@ -118,21 +118,7 @@ The incidence and clinical implications of acute kidney injury (AKI) following t
 
 ---
 
-## 9. Strategies to reduce perioperative acute kidney injury in non-cardiac adult surgeries: the secret sauce.
-
-- **PMID**: [41720712](https://pubmed.ncbi.nlm.nih.gov/41720712/)
-- **Journal**: Journal of the National Medical Association
-- **Publication Date**: 2026 Apr
-- **Authors**: Zhao Shu, Zhao Jackie, Rashid Megan
-- **DOI**: https://doi.org/10.1016/j.jnma.2026.01.010
-
-### Abstract
-
-Acute kidney injury is a common perioperative complication that leads to significant downstream effects on the patient and the health system. Patients regularly present for surgery with several risk factors for AKI, but we have not yet determined the optimal method of risk stratification or strategy for prevention of AKI. This paper provides a review of the latest literature on perioperative considerations for anesthesiologists when evaluating and treating patients at higher risk for postoperative kidney injury. The ADQI/PQI recommends a kidney health assessment before surgery, focusing on optimizing preoperative risk factors in patients before surgery. Using goal-directed hemodynamic therapy, incorporating volume status, blood pressure, and cardiac output monitoring to optimize volume status in high-risk patients and using renoprotective medications could further reduce the risk of AKI. We've highlighted some interesting research regarding novel biomarkers and artificial intelligence/machine learning. Promising research is ongoing in this sector, but much work still needs to be done.
-
----
-
-## 10. A clinically useful nomogram integrating bedside lung ultrasound and clinical parameters for pulmonary complications after non-thoracic surgery in blunt chest trauma patients.
+## 9. A clinically useful nomogram integrating bedside lung ultrasound and clinical parameters for pulmonary complications after non-thoracic surgery in blunt chest trauma patients.
 
 - **PMID**: [42027823](https://pubmed.ncbi.nlm.nih.gov/42027823/)
 - **Journal**: Frontiers in medicine
@@ -146,138 +132,12 @@ Acute kidney injury is a common perioperative complication that leads to signifi
 
 ---
 
-## 11. Comment on: "A comparative study of stroke volume variation and plethysmography variability index as goal-directed fluid therapy in major abdominal oncosurgeries".
+## 10. Comment on: "A comparative study of stroke volume variation and plethysmography variability index as goal-directed fluid therapy in major abdominal oncosurgeries".
 
 - **PMID**: [42022063](https://pubmed.ncbi.nlm.nih.gov/42022063/)
 - **Journal**: Saudi journal of anaesthesia
 - **Publication Date**: 2026
 - **Authors**: Narayanan Vidhya
 - **DOI**: https://doi.org/10.4103/sja.sja_13_26
-
----
-
-## 12. Personalizezed Hemodynamic Optimization Using Stroke Volume, Pulse Pressure Variation, and Continuous Cardiac Index in Major Liver Surgery: A Randomized Controlled Trial.
-
-- **PMID**: [41149819](https://pubmed.ncbi.nlm.nih.gov/41149819/)
-- **Journal**: Journal of personalized medicine
-- **Publication Date**: 2025 Sep 30
-- **Authors**: Redondo Calvo Francisco Javier, Baladrón González Víctor, Padilla Valverde David, Redondo Sánchez Jorge, Villarejo Campos Pedro Juan et al.
-- **DOI**: https://doi.org/10.3390/jpm15100457
-
-### Abstract
-
-Background/Objectives: The aim of this study was to evaluate fluid administration and intraoperative bleeding of patients who had major hepatic resection. We used artery pulse contour analysis monitor (ProAQT™) and personalized hemodynamic target-guided therapy, in which the administration of fluid, inotropes and vasopressors is guided by stroke volume, pulse pressure variation (SVV, PPV) and continuous cardiac index (CI). Methods: This trial was a prospective, randomized, parallel-group in adults scheduled for major hepatic resection. Participants were randomly assigned in equal numbers to one of two groups: (1) a control group receiving conventional perioperative care, and (2) an intervention group managed with goal-directed hemodynamic therapy guided by radial artery pulse contour analysis. Results: 45 patients were randomized to the GDHT (n = 16) and control group (n = 19). Blood loss was significantly higher in the control group than in GDHT group (728.13 ± 618.59 versus 292.63 ± 274.06, p = 0.009). The number of patients receiving intraoperative transfusion was significantly higher in the first group (6 ± 16 versus 0 ± 19, p = 0.005). Total volume infused was significantly higher in control group (CG) than in GDHT group (GG) (2853.13 ± 1432.18 versus 1125.79 ± 751.2, p = 0.001). Conclusions: Personalized goal-directed therapy optimizes intraoperative fluid administration during major liver resection and reduces blood transfusion.
-
----
-
-## 13. Hypotension prediction index smart alerts and trends to improve compliance with goal-directed hemodynamic therapy: a feasibility study.
-
-- **PMID**: [41029588](https://pubmed.ncbi.nlm.nih.gov/41029588/)
-- **Journal**: BMC anesthesiology
-- **Publication Date**: 2025 Sep 30
-- **Authors**: Guerra-Londono Carlos E, Hand William R, Fleming Neal, Davis Jeffrey, Treggiari Miriam M et al.
-- **DOI**: https://doi.org/10.1186/s12871-025-03336-z
-
-### Abstract
-
-**BACKGROUND**: Goal-directed hemodynamic therapy (GDHT) and Hypotension Prediction Index (HPI, Edwards Lifesciences, Irvine, CA) technology are used to improve post-operative patient outcomes. Trials evaluating GDHT are frequently limited by poor algorithm compliance. The Acumen HPI Software incorporates smart trends and alerts that highlight the probable mechanism(s) of hypotension and facilitate compliance with the GDHT algorithm. We hypothesized that prompts from the Acumen HPI Smart Alerts would improve compliance to a GDHT algorithm during moderate-to-high-risk elective noncardiac surgery. **METHODS**: This IRB-approved, multicenter, mixed-methods, single-arm feasibility trial included adults undergoing elective, moderate-to-high-risk noncardiac surgery requiring intra-arterial blood pressure monitoring. The HPI-guided GDHT algorithm included actionable trends at HPI > 50 and automated HPI Smart Alert notifications at HPI ≥ 85, displaying the most likely hypotension mechanism(s). The primary outcome was the proportion of HPI notifications resulting in timely algorithm-concordant interventions. The sample size was estimated to achieve a true compliance rate of at least 75% with a 95% confidence level above 60%. **RESULTS**: A total of 122 subjects were included. The enrollment among centers was balanced. The overall compliance rate was 77.1% (95% CI: 74.5-79.6%). The median area under the curve, time-weighted average, and minutes of hypotension below 65 mmHg were 8.8 (0.3, 33.7) mmHg*min, 0.0 (0.0, 0.1) mmHg, and 2.9 (0.4, 8.7) minutes, respectively. **CONCLUSIONS**: This study demonstrated the potential for HPI Smart Alerts to improve compliance with an intraoperative GDHT algorithm in adults undergoing moderate to high-risk non-cardiac surgery. A low burden of intra-operative hypotension was observed, suggesting potential decreases in other associated adverse outcomes. Larger-scale randomized studies are warranted. **TRIAL REGISTRATION**: This trial was retro
-
----
-
-## 14. Intraoperative goal-directed hemodynamic therapy targeting both arterial pressure and flow parameters using uncalibrated pulse contour techniques: A meta-analysis of randomized controlled trials.
-
-- **PMID**: [39706551](https://pubmed.ncbi.nlm.nih.gov/39706551/)
-- **Journal**: Revista espanola de anestesiologia y reanimacion
-- **Publication Date**: 2025 Mar
-- **Authors**: Ripollés-Melchor J, Espinosa Á V, Fernández-Valdes-Bango P, Navarro-Pérez R, Abad-Motos A et al.
-- **DOI**: https://doi.org/10.1016/j.redare.2024.501653
-
-### Abstract
-
-**BACKGROUND**: Goal-directed haemodynamic therapy (GDHT) aims to optimize haemodynamic variables. However, its effectiveness in reducing postoperative complications in major abdominal surgery, particularly when targeting both arterial pressure and flow variables, remains unclear. This meta-analysis addresses this by evaluating GDHT using uncalibrated pulse contour (uPC) methods. **METHODS**: We conducted a systematic review and meta-analysis of randomized controlled trials (RCT) in adult patients undergoing major abdominal surgery who received GDHT using uncalibrated pulse contour (uPC) methods for cardiac output monitoring, with predefined targets for both blood flow and blood pressure. The primary outcome was postoperative complications; secondary outcomes included postoperative acute kidney injury (AKI), hospital length of stay (EH), intraoperative fluid administration and mortality. **RESULTS**: Initial search retrieved 860 reports, with 12 RCTs (1367 patients) meeting the inclusion criteria. Our meta-analysis showed a significant reduction in postoperative complications (RR 0.78, 95% CI 0.68-0.90), AKI (RR 0.7, 95% CI 0.51-0.97), and hospital LOS (SMD -0.30, 95% CI -0.54 to -0.06) with uPC-guided GDHT. No significant differences were observed in intraoperative fluid volume and mortality. **CONCLUSIONS**: Implementing GDHT in major abdominal surgery with predefined arterial pressure and blood flow targets significantly reduces postoperative morbidity and hospital EH without increasing intraoperative fluid administration.
-
----
-
-## 15. Implementation of an Evidence-based Protocol to Increase the Use of Goal-directed Hemodynamic Therapy.
-
-- **PMID**: [39985551](https://pubmed.ncbi.nlm.nih.gov/39985551/)
-- **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
-- **Publication Date**: 2025 Aug
-- **Authors**: Davis Cole, Lindsay Kelly, Jacks Kelsey, Lowery Kendall, Nichols Jamie et al.
-- **DOI**: https://doi.org/10.1016/j.jopan.2024.09.014
-
-### Abstract
-
-**PURPOSE**: This quality improvement project aimed to increase goal-directed hemodynamic therapy (GHDT) utilization in adult patients undergoing coronary artery bypass grafts (CABG) by implementing an evidence-based intraoperative GDHT protocol. **DESIGN**: A quality improvement project. **METHODS**: The team implemented a training bundle to raise awareness of complications associated with IOH, educate providers about GDHT benefits, and explain how to incorporate the protocol to guide intraoperative hemodynamic management. The team performed retrospective chart reviews to determine baseline and post-implementation GDHT protocol utilization and IOH incidence. **FINDINGS**: After receiving the education and protocol implementation, anesthesia providers began using the GDHT monitors on 100% of CABG procedures at this facility. A total of 60 patient charts were reviewed. Average cumulative hypotensive time decreased by 16.8%, from 26.37 minutes to 21.93 minutes (P = .375, 95% CI [-5.49, 13.35]). **CONCLUSIONS**: Although there was no significant reduction in IOH, the training bundle and team support increased anesthesia providers' interest in using GDHT monitors. This led to a significant rise in its utilization. A future project is planned to expand the GDHT monitors and protocol to the entire operating room. Post-anesthesia care and intensive care units desiring to increase GDHT use may benefit from similar projects.
-
----
-
-## 16. Impact of goal-directed hemodynamic therapy on perioperative outcomes in head and neck free flap surgery: A before-and-after pilot study.
-
-- **PMID**: [38524770](https://pubmed.ncbi.nlm.nih.gov/38524770/)
-- **Journal**: Health science reports
-- **Publication Date**: 2024 Mar
-- **Authors**: Philteos Justine, McCluskey Stuart A, Emerson Sophia, Djaiani George, Goldstein David et al.
-- **DOI**: https://doi.org/10.1002/hsr2.1943
-
-### Abstract
-
-**BACKGROUND**: Free flap reconstruction for head and neck cancer is associated with a high risk of perioperative complications. One of the modifiable risk factors associated with perioperative morbidity is intraoperative hypotension (IOH). The main aim of this pilot study is to determine if the intraoperative use of goal-directed hemodynamic therapy (GDHT) is associated with a reduction in the number of IOH events in this population. **METHODS**: A before-and-after study design. The patients who had intraoperative GDHT were compared to patients from a previous period before the implementation of GDHT. The primary outcome was the number of IOH episodes defined as five or more successive minutes with a mean arterial pressure <65 mmHg. The secondary outcomes included major postoperative morbidity and 30-day mortality. **RESULTS**: A total of 414 patients were included. These were divided into two groups. The control group (n = 346; January 1, 2018, to December 31, 2019), and the monitored group (n = 68; January 1, 2020, to May 1, 2021). The median intraoperative administered fluid volume was similar between the control and monitored groups (2250 interquartile range [IQR] [1607-3050] vs. 2210 IQR [1700-2807] mL). The monitored group was found to have an increased use of norepinephrine and dobutamine (respectively, 1.2% vs. 5.9% and 2.4% vs. 30.9%; p < 0.05). When adjusting for confounders (comorbidities, estimated blood loss, and duration of anesthesia) the incidence rate ratio (95% confidence interval) of number of IOH events was 0.94 (0.86-1.03), p = 0.24. The rate of postoperative flap and medical complications did not differ between the two groups. **CONCLUSIONS**: Even though the use of vasopressors/inotropes was higher in the monitored group, the number of IOH episodes and postoperative morbidity and mortality were similar between the two groups. Further change in hemodynamic management will require the use of specific blood pressure targets in the GDHT fluid alg
-
----
-
-## 17. Hemodynamic monitoring in liver transplantation 'the hemodynamic system'.
-
-- **PMID**: [38032246](https://pubmed.ncbi.nlm.nih.gov/38032246/)
-- **Journal**: Current opinion in organ transplantation
-- **Publication Date**: 2024 Feb 01
-- **Authors**: Kandil Sherif, Sedra Ashraf
-- **DOI**: https://doi.org/10.1097/MOT.0000000000001125
-
-### Abstract
-
-**PURPOSE OF REVIEW**: The purpose of this article is to provide a comprehensive review of hemodynamic monitoring in liver transplantation. **RECENT FINDINGS**: Radial arterial blood pressure monitoring underestimates the aortic root arterial blood pressure and causes excessive vasopressor and worse outcomes. Brachial and femoral artery monitoring is well tolerated and should be considered in critically ill patients expected to be on high dose pressors. The pulmonary artery catheter is the gold standard of hemodynamic monitoring and is still widely used in liver transplantation; however, it is a highly invasive monitor with potential for serious complications and most of its data can be obtained by other less invasive monitors. Rescue transesophageal echocardiography relies on few simple views and should be available as a standby to manage sudden hemodynamic instability. Risk of esophageal bleeding from transesophageal echocardiography in liver transplantation is the same as in other patient populations. The arterial pulse waveform analysis based cardiac output devices are minimally invasive and have the advantage of real-time beat to beat monitoring of cardiac output. No hemodynamic monitor can improve clinical outcomes unless integrated into a goal-directed hemodynamic therapy. The hemodynamic monitoring technique should be tailored to the patient's medical status, surgical technique, and the anesthesiologist's level of expertise. **SUMMARY**: The current article provides a review of the current hemodynamic monitoring systems and their integration in goal-directed hemodynamic therapy.
-
----
-
-## 18. Unresponsive Low Mixed Venous Oxygen Saturation During Early Intensive Care Unit Stay is Associated With Increased Risk of Organ Dysfunction After Cardiac Surgery: A Single-Center Retrospective Study.
-
-- **PMID**: [38114371](https://pubmed.ncbi.nlm.nih.gov/38114371/)
-- **Journal**: Journal of cardiothoracic and vascular anesthesia
-- **Publication Date**: 2024 Feb
-- **Authors**: Holm Petteri, Erkinaro Tiina M, Karhu Jaana M, Ohtonen Pasi P, Liisanantti Janne H et al.
-- **DOI**: https://doi.org/10.1053/j.jvca.2023.11.021
-
-### Abstract
-
-**OBJECTIVES**: The aim of the study was to determine if unresponsive mixed venous oxygen saturation (SvO2) values during early postoperative hours are associated with postoperative organ dysfunction. **DESIGN**: A single-center retrospective observational study. **SETTING**: A university hospital. **PARTICIPANTS**: A total of 6,282 adult patients requiring cardiac surgery who underwent surgery in a University Hospital from 2007 to 2020. **INTERVENTIONS**: A pulmonary artery catheter was used to gather SvO2 samples after surgery at admission to the intensive care unit (ICU) and 4 hours later. For the analysis, patients were divided into 4 groups according to their SvO2 values. The rate of organ dysfunctions categorized according to the SOFA score was then studied among these subgroups. **MEASUREMENTS AND MAIN RESULTS**: The crude mortality rate for the cohort at 1 year was 4.3%. Multiple organ dysfunction syndrome (MODS) was present in 33.0% of patients in the early postoperative phase. During the 4-hour initial treatment period, 43% of the 931 patients with low SvO2 on admission responded to goal-directed therapy to increase SvO2 >60%; whereas, in 57% of the 931 patients, the low SvO2 was sustained. According to the adjusted logistic regression analyses, the odds ratio for MODS (4.23 [95% CI 3.41-5.25]), renal- replacement therapy (4.97 [95% CI 3.28-7.52]), time on a ventilator (2.34 [95% CI 2.17-2.52]), and vasoactive-inotropic score >30 (3.62 [95% CI 2.96-4.43]) were the highest in the group with sustained low SvO2. **CONCLUSIONS**: Patients with SvO2 <60% at ICU admission and 4 hours later had the greatest risk of postoperative MODS. Responsiveness to a goal-directed therapy protocol targeting maintaining or increasing SvO2 ≥60% at and after ICU admission may be beneficial.
-
----
-
-## 19. Intraoperative goal-directed hemodynamic therapy through fluid administration to optimize the stroke volume: A meta-analysis of randomized controlled trials.
-
-- **PMID**: [39243815](https://pubmed.ncbi.nlm.nih.gov/39243815/)
-- **Journal**: Revista espanola de anestesiologia y reanimacion
-- **Publication Date**: 2024 Dec
-- **Authors**: Ripollés-Melchor J, Espinosa Á V, Fernández-Valdes-Bango P, Navarro-Pérez R, Abad-Motos A et al.
-- **DOI**: https://doi.org/10.1016/j.redare.2024.09.004
-
-### Abstract
-
-**OBJECTIVE**: To evaluate the clinical impact of optimizing stroke volume (SV) through fluid administration as part of goal-directed hemodynamic therapy (GDHT) in adult patients undergoing elective major abdominal surgery. **METHODS**: This systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement and was registered in the PROSPERO database in January 2024. The intervention was defined as intraoperative GDHT based on the optimization or maximization of SV through fluid challenges, or by using dynamic indices of fluid responsiveness, including stroke volume variation, pulse pressure variation, and plethysmography variation index compared to usual fluid management. The primary outcome was postoperative complications. Secondary outcome variables included postoperative acute kidney injury (AKI), length of stay (LOS), intraoperative fluid administration, and 30-day mortality. **RESULTS**: A total of 29 randomized controlled trials (RCTs) met the inclusion criteria. There were no significant differences in the incidence of postoperative complications (RR 0.89; 95% CI, 0.78-1.00), postoperative AKI (OR 0.97; (95% IC, 0.55-1.70), and mortality (OR 0.80; 95% CI, 0.50-1.29). GDHT was associated with a reduced LOS compared to usual care (SMD: -0.17 [-0.32; -0.03]). The subgroup in which hydroxyethyl starch was used for hemodynamic optimization was associated with fewer complications (RR 0.79; 95% CI, 0.65-0.94), whereas the subgroup of patients in whom crystalloids were used was associated with an increased risk of postoperative complications (RR 1.08; 95% CI, 1.04-1.12). **CONCLUSIONS**: In adults undergoing major surgery, goal-directed hemodynamic therapy focused on fluid-based stroke volume optimization did not reduce postoperative morbidity and mortality.
-
----
-
-## 20. Pilot Study to Optimize Goal-directed Hemodynamic Management During Pancreatectomy.
-
-- **PMID**: [38815516](https://pubmed.ncbi.nlm.nih.gov/38815516/)
-- **Journal**: The Journal of surgical research
-- **Publication Date**: 2024 Aug
-- **Authors**: Galouzis Nicholas, Khawam Maria, Alexander Evelyn V, Khreiss Mohammad R, Luu Carrie et al.
-- **DOI**: https://doi.org/10.1016/j.jss.2024.04.035
-
-### Abstract
-
-**INTRODUCTION**: Intraoperative goal-directed hemodynamic therapy (GDHT) is a cornerstone of enhanced recovery protocols. We hypothesized that use of an advanced noninvasive intraoperative hemodynamic monitoring system to guide GDHT may decrease intraoperative hypotension (IOH) and improve perfusion during pancreatic resection. **METHODS**: The monitor uses machine learning to produce the Hypotension Prediction Index to predict hypotensive episodes. A clinical decision-making algorithm uses the Hypotension Prediction Index and hemodynamic data to guide intraoperative fluid versus pressor management. Pre-implementation (PRE), patients were placed on the monitor and managed per usual. Post-implementation (POST), anesthesia teams were educated on the algorithm and asked to use the GDHT guidelines. Hemodynamic data points were collected every 20 s (8942 PRE and 26,638 POST measurements). We compared IOH (mean arterial pressure <65 mmHg), cardiac index >2, and stroke volume variation <12 between the two groups. **RESULTS**: 10 patients were in the PRE and 24 in the POST groups. In the POST group, there were fewer minimally invasive resections (4.2% versus 30.0%, P = 0.07), more pancreaticoduodenectomies (75.0% versus 20.0%, P < 0.01), and longer operative times (329.0 + 108.2 min versus 225.1 + 92.8 min, P = 0.01). After implementation, hemodynamic parameters improved. There was a 33.3% reduction in IOH (5.2% ± 0.1% versus 7.8% ± 0.3%, P < 0.01, a 31.6% increase in cardiac index >2.0 (83.7% + 0.2% versus 63.6% + 0.5%, P < 0.01), and a 37.6% increase in stroke volume variation <12 (73.2% + 0.3% versus 53.2% + 0.5%, P < 0.01). **CONCLUSIONS**: Advanced intraoperative hemodynamic monitoring to predict IOH combined with a clinical decision-making tree for GDHT may improve intraoperative hemodynamic parameters during pancreatectomy. This warrants further investigation in larger studies.
 
 ---

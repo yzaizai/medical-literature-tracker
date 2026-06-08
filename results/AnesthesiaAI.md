@@ -1,26 +1,12 @@
 # AnesthesiaAI - PubMed Latest Papers
 
-**Update Time**: 2026-06-04
+**Update Time**: 2026-06-08
 **Search Range**: Last 30 days
-**Papers Found**: 16
+**Papers Found**: 10
 
 ---
 
-## 1. Preoperative considerations for nonoperating room anesthesia.
-
-- **PMID**: [42228413](https://pubmed.ncbi.nlm.nih.gov/42228413/)
-- **Journal**: Current opinion in anaesthesiology
-- **Publication Date**: 2026 May 29
-- **Authors**: Villa Juan F, Ramirez Maria F, Hepner David L
-- **DOI**: https://doi.org/10.1097/ACO.0000000000001674
-
-### Abstract
-
-**PURPOSE OF THE REVIEW**: This review aims to address the unique challenges in nonoperating room anesthesia (NORA) locations, emphasizing the importance of patient selection, risk stratification, and comprehensive preoperative evaluation to ensure safe anesthetic care for increasingly complex patients. **RECENT FINDINGS**: The volume of NORA procedures has risen significantly, with patients often presenting higher comorbidity burdens and advanced age. Standardized protocols and validated assessment tools, such as the STOP-Bang questionnaire and a simple frailty questionnaire (e.g., FRAIL), can aid anesthesiologists in effectively stratifying risk and tailoring anesthesia plans. Challenges in NORA include logistical constraints, personnel dynamics, and environmental factors that can compromise patient safety. The integration of telemedicine and artificial intelligence into preoperative assessments shows promise in improving efficiency and safety by allowing for remote evaluations and tailored care. **SUMMARY**: Adequate patient selection and preoperative optimization are essential for enhancing outcomes in NORA locations. Adherence to national safety guidelines and multidisciplinary collaboration is crucial for navigating the complexities of remote anesthesia care. Future research should focus on refining preoperative screening methods and utilizing artificial intelligence to better address the unique needs of patients undergoing procedures outside traditional operating rooms.
-
----
-
-## 2. Evaluation of the accuracy, quality, and readability of large language models on local anesthesia and general anesthesia-sedation in dentistry.
+## 1. Evaluation of the accuracy, quality, and readability of large language models on local anesthesia and general anesthesia-sedation in dentistry.
 
 - **PMID**: [42210079](https://pubmed.ncbi.nlm.nih.gov/42210079/)
 - **Journal**: BMC anesthesiology
@@ -34,27 +20,45 @@
 
 ---
 
-## 3. Caudal Anesthesia Patient Education Materials: Comprehensive Analysis of Generative Artificial Intelligence and Traditional Patient Information Leaflets.
+## 2. New Insights into Anesthesia-induced Postoperative Gastrointestinal Dysfunction: From Bench to Bedside.
 
-- **PMID**: [42200546](https://pubmed.ncbi.nlm.nih.gov/42200546/)
-- **Journal**: Paediatric anaesthesia
-- **Publication Date**: 2026 May 27
-- **Authors**: Khan Armanullah, Kundu Aritra, Saha Sourav, Gondode Prakash
-- **DOI**: https://doi.org/10.1002/pan.70233
-
----
-
-## 4. The Contemporary Role of Oral Maxillofacial Surgeons in Head and Neck Reconstructions.
-
-- **PMID**: [42194888](https://pubmed.ncbi.nlm.nih.gov/42194888/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 May 20
-- **Authors**: Marwan Hisham, Mosquera Camilo, Chandra Srinivasa R
-- **DOI**: https://doi.org/10.3390/jcm15103928
+- **PMID**: [42220124](https://pubmed.ncbi.nlm.nih.gov/42220124/)
+- **Journal**: Reviews on recent clinical trials
+- **Publication Date**: 2026 May 25
+- **Authors**: He Xiyan, Ge Li, Shi Lei, Yan Wenjun
+- **DOI**: https://doi.org/10.2174/0115748871458869260515041042
 
 ### Abstract
 
-Oral and Maxillofacial Surgery (OMFS) is a surgical specialty with a distinctive position at the intersection of medicine and dentistry. This unique expertise enables reliable reconstructions of complex head and neck defects, with a focus on function, esthetics, and quality of life. This review examines the historical progression, current practices, and prospective directions of head and neck reconstruction, with particular emphasis on the essential contributions of Oral and Maxillofacial Surgeons (OMSs). Beginning with early reconstructive efforts in ancient civilizations and progressing through the transformative advancements of the Renaissance, the introduction of anesthesia and antiseptics, and innovations during periods of war, the specialty has evolved in response to increasing clinical complexity. The contemporary era is characterized by the integration of microvascular reconstruction, dental rehabilitation, and advanced imaging modalities, enhancing the restoration of occlusal function, facial aesthetics, and overall quality of life. Emerging innovations such as patient-specific three-dimensional printed hardware, tissue engineering, regenerative medicine, artificial intelligence, and supermicrosurgical techniques are expected to further reshape reconstructive approaches. These technological advances aim to reduce the number of surgical steps, improve biological reconstruction, and enhance diagnostic and planning capabilities. However, they also raise ethical considerations and validation challenges that warrant careful assessment. In conclusion, Oral and Maxillofacial Surgeons continue to play a central and expanding role in head and neck reconstruction and rehabilitation. Owing to comprehensive training and technological expertise, the specialty is uniquely positioned to advance value-based, multidisciplinary care while persistently striving to improve functional, aesthetic, and quality-of-life outcomes for patients with complex craniofacial defects.
+**BACKGROUND**: Postoperative Gastrointestinal Dysfunction (PGD), a common surgical complication closely linked to anaesthetic agents and techniques, has garnered increasing research attention under the framework of Enhanced Recovery After Surgery (ERAS), driving significant progress in both basic and clinical understanding. This review aims to summarise the latest advances in anaesthesia-induced PGD, with a focus on its mechanisms, anaesthetic drug effects, and clinical management strategies, to provide evidence-based references for optimising perioperative care. **METHODS**: A comprehensive narrative review of recent literature from PubMed was conducted. The search terms included "anaesthetic drugs," "postoperative gastrointestinal dysfunction," "ERAS," and "multimodal analgesia." Both preclinical and clinical studies were included to synthesize current evidence. **RESULTS**: Anaesthetic drugs, especially opioids, significantly inhibit gastrointestinal motility and contribute to PGD. Inhalational anaesthetics such as sevoflurane may increase the risk of intestinal paralysis, while propofol demonstrates protective effects through anti-inflammatory and antioxidant mechanisms. Regional anaesthesia and multimodal analgesia reduce opioid exposure and improve gastrointestinal recovery. Emerging strategies, including novel opioid formulations, modulation of the gut microbiota, and non-pharmacological interventions (e.g., early enteral nutrition, electroacupuncture), show promising potential for mitigating PGD. **CONCLUSION**: Preventing and managing PGD requires optimizing anesthetic protocols, reducing opioid reliance, and integrating multimodal interventions, while future research should prioritize personalized anesthesia, modulation of the gut-brain axis, and AI-enhanced perioperative care to improve outcomes.
+
+---
+
+## 3. AI-Supported, Integrative Prediction of Postoperative Delirium: Protocol for the CONFUSED Study.
+
+- **PMID**: [42184339](https://pubmed.ncbi.nlm.nih.gov/42184339/)
+- **Journal**: JMIR research protocols
+- **Publication Date**: 2026 May 25
+- **Authors**: Rump Katharina, Nowak Hartmuth, Eisenacher Martin, Busch Samuel, Westhus Britta et al.
+- **DOI**: https://doi.org/10.2196/87020
+
+### Abstract
+
+**BACKGROUND**: Postoperative delirium (POD) is a frequent and serious complication in older surgical patients, characterized by acute cognitive dysfunction and fluctuating levels of consciousness. POD is associated with prolonged hospitalization, long-term cognitive decline, reduced quality of life, and increased mortality. Despite its clinical relevance, the underlying pathophysiological mechanisms remain poorly understood, and reliable biomarkers for early prediction and prevention are lacking. **OBJECTIVE**: The CONFUSED study aims to identify molecular and clinical predictors of POD by integrating clinical data with proteomic, transcriptomic, and epigenetic analyses. The primary objective is to develop predictive models for POD using multimodal data. Secondary objectives include the identification of delirium-associated genes, proteins, and epigenetic signatures, as well as the exploration of patient subgroups at increased risk for POD. **METHODS**: CONFUSED is a prospective observational cohort study conducted at a German university hospital. Adult patients undergoing major surgery under general anesthesia will be enrolled until 100 cases of POD have been observed, which is expected to require a total sample size of approximately 200 to 300 patients. Blood samples are collected at 4 predefined time points: before premedication, immediately after surgery, and on postoperative days 2 and 5. Samples undergo comprehensive proteomic profiling, transcriptomic analysis using RNA microarrays, DNA methylation analysis, and genotyping of selected polymorphisms. Clinical data, including demographics, comorbidities, perioperative variables, medications, and delirium assessments using the Confusion Assessment Method (CAM) and CAM for the intensive care unit, are systematically recorded. Statistical analyses include univariate and multivariate methods, as well as machine learning approaches such as random forests and support vector machines, to identify relevant biomarkers 
+
+---
+
+## 4. An Explainable, Knowledge-Driven System for Difficult Airway Risk Stratification and Planning.
+
+- **PMID**: [42174857](https://pubmed.ncbi.nlm.nih.gov/42174857/)
+- **Journal**: Studies in health technology and informatics
+- **Publication Date**: 2026 May 21
+- **Authors**: Redjdal Akram, Ugon Adrien, Abdoulaime Fahira, Bouchama' Lehna, Ritz Antoine et al.
+- **DOI**: https://doi.org/10.3233/SHTI260181
+
+### Abstract
+
+Anticipating a difficult airway during surgery is critical for patient safety, yet recognition and escalation can be inconsistent in practice. We present an ontology-based clinical decision support system that standardizes pre-anesthesia difficult-airway assessment and proposes evidence-based plans. The ontology models patient descriptors, predictive scores, and airway techniques. The system computes the ARNE score from recorded findings, applies an expert-curated mapping to provide appropriate techniques recommendations. The pipeline was evaluated on 20 simulated cases covering typical and edge presentations with 80% agreement on priority intubation technique. The system executed end-to-end for all cases, producing consistent, reasoner-validated outputs. In conclusion, these findings indicate that transparent, institution-aware decision support for airway planning is feasible and aligned with clinical realities.
 
 ---
 
@@ -72,77 +76,21 @@ Peripheral nerve blocks can effectively reduce the use of general anesthesia and
 
 ---
 
-## 6. Real-time artificial intelligence-based needle tracking for ultrasound-guided regional anesthesia training: a pilot prospective randomized controlled trial.
+## 6. Artificial intelligence in predicting anesthetic complications: current techniques, clinical applications, and limitations.
 
-- **PMID**: [42092786](https://pubmed.ncbi.nlm.nih.gov/42092786/)
-- **Journal**: BMC anesthesiology
-- **Publication Date**: 2026 May 06
-- **Authors**: Kurota Misato, Kubota Kai, Hayasaka Tatsuya, Toyama Hiroaki
-- **DOI**: https://doi.org/10.1186/s12871-026-03867-z
-
-### Abstract
-
-**BACKGROUND**: Proper needle visualization is a major technical challenge for novices learning ultrasound-guided regional anesthesia (UGRA). We developed a 'You Only Look Once version 5' (YOLOv5)-based system that records quantitative needle trajectory data and delivers real-time visual and auditory feedback to support training. This pilot study aimed to explore whether short-term use of the real-time feedback system improved puncture safety and whether needle oscillation amplitude, a system-derived trajectory-based metric, could serve as an objective indicator of technical proficiency in UGRA training. **METHODS**: Twenty-three medical students with no UGRA experience were randomized into control (n = 12) and YOLOv5 feedback (n = 11) groups. Participants performed three in-plane punctures of increasing difficulty on phantoms: sagittal (puncture A), coronal (puncture B), and transverse (puncture C). Each included watching an instructional video, a 5-minute practice (with feedback for the YOLOv5 group or without for the control group), and a test puncture without feedback. The outcomes were needle tip disappearance frequency compared between the control and YOLOv5 feedback groups and needle oscillation amplitude - the maximum lateral deviation from the ideal insertion line, automatically recorded by the system - compared between punctures classified as safe and unsafe by an independent blinded assessor. **RESULTS**: Needle tip disappearance frequency did not differ between the control and YOLOv5 feedback groups across all approaches (puncture A: median, 0 vs. 0, P = 0.933; puncture B: 0 vs. 1, P = 0.246; puncture C: 1 vs. 2, P = 0.463). Only puncture C yielded both safe and unsafe punctures, enabling comparative analysis of the needle oscillation amplitude. Participants performing safe punctures (Level 1, n = 9) exhibited significantly smaller needle oscillation amplitudes (136.0 ± 32.1 pixels) than those performing unsafe punctures (Level 3, n = 12, 230.5 ± 85.4 pi
-
----
-
-## 7. Predicting postoperative delayed awakening after flexible ureteroscopic lithotripsy based on radiomic features of body composition.
-
-- **PMID**: [42069920](https://pubmed.ncbi.nlm.nih.gov/42069920/)
-- **Journal**: Scientific reports
-- **Publication Date**: 2026 May 02
-- **Authors**: Lu Yao, Wu Xiaqiu, Chen Juanhua, Li Jian, Cai Weirong et al.
-- **DOI**: https://doi.org/10.1038/s41598-026-50706-9
-
-### Abstract
-
-We aimed to explore the predictive role of radiomic features of body compositions in the occurrence of delayed awakening after flexible ureteroscopic lithotripsy, and further develop a predictive model to identify patients at higher risk. We analyzed the data from 314 admitted patients undergoing total intravenous general anesthesia at two institutions. Binary logistic regression was used to assess univariable and multivariable associations of clinical factors with delayed awakening. Radiomic features of body compositions were deeply extracted from preoperative computed tomography (CT) scans using ResNet50 model. We developed a combined model by integrating significant clinical variables with radiomic score. SHapley Additive explanation (SHAP) method was adopted for model interpretation and helping clinicians understand the predictive results. At multivariable analysis, CT-derived visceral adipose tissue area and skeletal muscle index were independent predictors of postoperative delayed awakening. The combined model had area under curves (AUCs) of 0.85(95%CI: 0.82, 0.89), 0.83(95%CI: 0.80, 0.87) and 0.80(95%CI: 0.76, 0.84) in the derivation, internal and external test datasets, respectively. 8 radiomic features were selected using Spearman rank correlation test and the least absolute shrinkage and selection operator logistic regression analysis. This combined model showed better discrimination and calibration than clinical model alone. Furthermore, SHAP plots quantified the impact of key variables on prediction at the global level. The combined model may allow estimation of the risk of postoperative delayed awakening after flexible ureteroscopic lithotripsy.
-
----
-
-## 8. The Year in Electrophysiology: Selected Highlights From 2025.
-
-- **PMID**: [42215395](https://pubmed.ncbi.nlm.nih.gov/42215395/)
-- **Journal**: Journal of cardiothoracic and vascular anesthesia
-- **Publication Date**: 2026 May 01
-- **Authors**: Poorsattar Sophia P, Kumar Nicolas, Vanneman Matthew W, Kinney Daniel A, Tang Jonathan et al.
-- **DOI**: https://doi.org/10.1053/j.jvca.2026.04.044
-
-### Abstract
-
-This special article represents the eighth installment in an annual Journal of Cardiothoracic and Vascular Anesthesia series highlighting key advances in cardiac electrophysiology relevant to cardiothoracic anesthesiologists. The authors extend their gratitude to Editor-in-Chief Dr. Kaplan, Associate Editor-in-Chief Dr. Augoustides, and the editorial board for the opportunity to contribute to this series. Rapid innovations in electrophysiology continue to reshape perioperative care and expand the anesthesiologist's role. This 2025 update synthesizes developments in atrial fibrillation guidelines across major societies, emerging cardiac implantable electronic device technologies, and evolving evidence in pulsed field ablation, transcatheter left atrial appendage occlusion, and stereotactic arrhythmia radioablation. Advances in wearable technologies and artificial intelligence are also highlighted. Collectively, these developments underscore the anesthesiologist's integral role within the multidisciplinary electrophysiology team.
-
----
-
-## 9. Predicting Difficult Tracheal Intubation Using Multi-Angle Photographic Analysis with Convolutional Neural Networks and EfficientNet.
-
-- **PMID**: [41975752](https://pubmed.ncbi.nlm.nih.gov/41975752/)
-- **Journal**: Diagnostics (Basel, Switzerland)
-- **Publication Date**: 2026 Mar 30
-- **Authors**: Koca Erdinç, Kutlusoy Sevgi, Er Mehmet Bilal, Koca Tarkan
-- **DOI**: https://doi.org/10.3390/diagnostics16071042
-
-### Abstract
-
-Background: Difficult intubation is an important clinical problem faced by anesthesiologists and is one of the most important causes of anesthesia-related morbidity. According to various sources, the frequency of encountering a difficult airway is stated as 1-4%. Aim: We thought that difficult tracheal intubation could be predicted by photographic analysis using artificial intelligence. Methods: Sixteen photographs were taken in the preoperative period in the sitting and lying positions anteriorly, laterally, with the mouth open, with the mouth closed, with the neck straight, and with the neck extended. Intubations performed without intervention for the first time were considered easy. Intubations with external tracheal intervention and with more than one attempt were evaluated as medium. Intubations requiring more than three attempts; intubation with stylets, fiberoptic bronchoscopes, or video laryngoscopes; or cases in which patients could not be intubated and provided airway with a laryngeal mask were considered difficult. Results: In our study, the CNN (convolutional neural network) model performed well overall, with the best results generally obtained using batch sizes of 32 and 128 and learning rates ranging from 0.1 to 0.001. Conclusions: The prominent aspects of our study are that it can be conducted with an easily accessible mobile phone, can be performed at the bedside, and is successful in predicting difficult intubation. The sensitivity of methods currently used to assess difficult airways is generally low, and the likelihood of clinicians successfully identifying this condition using available information varies widely; thus far, there is no gold standard for prediction. We believe that our study will bring a different perspective to estimating the difficulty of intubation, which occupies a very important place in anesthesia practice.
-
----
-
-## 10. Impact of Deep-Learning Reconstruction on MRI Workflows: A Retrospective Analysis at a Large Academic Tertiary Center.
-
-- **PMID**: [42235553](https://pubmed.ncbi.nlm.nih.gov/42235553/)
-- **Journal**: RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin
+- **PMID**: [42248065](https://pubmed.ncbi.nlm.nih.gov/42248065/)
+- **Journal**: International journal of medical informatics
 - **Publication Date**: 2026 Jun 03
-- **Authors**: Rizzetti Melina, Michael Arwed E, Almansour Haidara, Schöffling Vanessa I, Brockmann Marc A et al.
-- **DOI**: https://doi.org/10.1055/a-2857-0974
+- **Authors**: Mohammadi Ali
+- **DOI**: https://doi.org/10.1016/j.ijmedinf.2026.106527
 
 ### Abstract
 
-**PURPOSE**: Artificial intelligence is increasingly integrated in clinical practice. In radiological imaging, deep-learning (DL)-based image reconstruction techniques show potential for accelerating and enhancing the quality of examination procedures in magnetic resonance imaging (MRI). This study evaluated the impact of DL on MRI workflows and protocols over a one-year period following clinical implementation. **MATERIALS AND METHODS**: This retrospective, single-center study included 8,183 MRI examinations performed between 2023 and 2024 to assess daily examination volume, examination duration, and rates of repeated and aborted scans. Furthermore, 43 comparable sequences and 34 protocols on a 1.5T MRI (Siemens Magnetom Sola) were analyzed and surveys were conducted among 23 medical staff members to evaluate the perceived effects of DL on workflow efficiency, diagnostic performance, stress levels, and technology acceptance. **RESULTS**: 88% of the DL-reconstructed sequences demonstrated reduced acquisition times, yielding an overall 13% reduction in protocol duration, despite higher resolution or reduced slice thickness. On days without anesthesia support, the average examination time decreased by 11%, accompanied by increased patient throughput (+7.2%) and fewer repeats (-25%) and aborts (-100%). Medical staff reported high levels of technology acceptance (90%), perceived improvements in image quality (90.5%), and reduced stress levels. Shorter times required for generating medical reports were noted by 45.5% of respondents, particularly among residents (70%). **CONCLUSION**: DL enables significant potential for MRI-workflow optimization and protocol improvements, while maintaining high staff satisfaction, thereby highlighting the great potential of DL in radiology practice. **KEY POINTS**: · While maintaining or increasing image quality, DL reduced examination duration (-11%) and protocol length (-13%).. · Patient throughput increased (+7.2%), while repeats (-25
+Artificial intelligence (AI) is revolutionizing anesthesiology by enhancing the prediction and management of perioperative complications, including intraoperative hypotension, respiratory failure, postoperative nausea and vomiting (PONV), and pain control challenges. This scoping review synthesizes evidence from 82 studies, identified through a systematic search of PubMed, Scopus, Web of Science, and grey literature from January 2010 to September 2025, to map AI techniques, their clinical applications, and limitations. Techniques include Machine Learning (ML) (e.g., random forests, support vector machines), deep learning, natural language processing (NLP), Computer Vision, Bayesian models, and fuzzy logic, applied across preoperative, intraoperative, and postoperative phases. AI models achieve superior predictive accuracy (AUC 0.85-0.94) compared to traditional methods (AUC 0.76-0.88), enabling early detection of complications and reducing opioid use by 15-35%. Applications include preoperative risk stratification, intraoperative monitoring, and postoperative analgesia optimization. Challenges include algorithmic bias, data reliability, interoperability, and real-time integration barriers. Ethical considerations emphasize transparency, equity, and clinician oversight. This review positions AI as a decision-support tool within the P4 medicine framework (Predictive, Preventive, Personalized, Participatory), advocating for validation, ethical frameworks, and integration with anesthesia information management systems (AIMS) to enhance perioperative safety.
 
 ---
 
-## 11. A two-step deep learning framework for predicting difficult video laryngoscopy from ultrasound images: a prospective cohort study.
+## 7. A two-step deep learning framework for predicting difficult video laryngoscopy from ultrasound images: a prospective cohort study.
 
 - **PMID**: [42226131](https://pubmed.ncbi.nlm.nih.gov/42226131/)
 - **Journal**: BMC anesthesiology
@@ -156,49 +104,21 @@ Background: Difficult intubation is an important clinical problem faced by anest
 
 ---
 
-## 12. Identification of Pathological Secretions in Bronchoscopic Images Based on Edge Features and Multi-Scale Attention Mechanism.
+## 8. Intraoperative neurophysiological monitoring (IONM) in neurosurgery: A critical appraisal of established practices, ongoing controversies, and future trajectories.
 
-- **PMID**: [42229724](https://pubmed.ncbi.nlm.nih.gov/42229724/)
-- **Journal**: SLAS technology
-- **Publication Date**: 2026 Jun 01
-- **Authors**: Su Hang, Huang Fengmei, Wang Yongxuan
-- **DOI**: https://doi.org/10.1016/j.slast.2026.100443
-
-### Abstract
-
-The accumulation of pathological bronchial secretions compromises ventilation and oxygenation in critically ill patients and may lead to atelectasis or secondary infection in severe cases, making timely identification and removal of pathological secretions essential during intensive care and surgical anesthesia. Conventional manual bronchoscopic assessment depends heavily on operator experience, lacks real-time reliability, and fails to meet clinical requirements for efficient and precise intervention. To address this limitation, this study proposes an Edge-Aware Dual-Scale Transformer (EADST) for intelligent and automated bronchial secretion recognition based on Canny edge features. Bronchoscopic image data from 50 critically ill pneumonia patients, including both normal physiological and pathological secretions, were preprocessed by grayscale enhancement and Canny edge detection to generate structural representations of secretion regions, which were subsequently processed through a patch embedding module for edge-aware feature mapping, a dual-scale attention module for capturing both global semantic and local structural dependencies, and an edge-aware feed-forward network to adaptively enhance critical channels, followed by a back-end classification head for real-time pathological secretion discrimination. All experiments were conducted under a unified Canny feature representation, and the proposed framework was evaluated against several classic state-of-the-art (SOTA) models, including VGG-16, ResNet-50, EfficientNet, MobileNet, and Vision Transformer (ViT). Experimental results demonstrate that EADST achieves superior accuracy (89.2%) and robustness in pathological secretion recognition on edge-derived features, indicating that attention-driven and edge-adaptive feature modeling effectively enhances bronchoscopic visual perception and providing a promising foundation for intelligent, real-time bronchoscopic pathological secretion aspiration decision support syst
-
----
-
-## 13. Comorbidities in Age-Related Cataract: Epidemiological Burden and Public Health Implications.
-
-- **PMID**: [42201152](https://pubmed.ncbi.nlm.nih.gov/42201152/)
-- **Journal**: Vision (Basel, Switzerland)
-- **Publication Date**: 2026 Apr 28
-- **Authors**: Ripa Matteo, Forlini Matteo, Schipa Chiara, Shah Neeraj Apoorva
-- **DOI**: https://doi.org/10.3390/vision10020024
+- **PMID**: [42181801](https://pubmed.ncbi.nlm.nih.gov/42181801/)
+- **Journal**: Journal of anesthesia and translational medicine
+- **Publication Date**: 2026 Jun
+- **Authors**: Sun Yu'e, Xu Fei, Sudhan Nazneen, Ji Fuhai, Peng Ke et al.
+- **DOI**: https://doi.org/10.1016/j.jatmed.2026.03.007
 
 ### Abstract
 
-Cataracts represent the leading cause of blindness worldwide, particularly in older adults, and constitute a significant public health challenge. Although cataract surgery is generally associated with a high safety profile, both patients and healthcare providers often face significant challenges due to age-related physiological changes and the high prevalence of comorbidities, which are directly linked to cataractogenesis and other systemic diseases that can complicate both the surgical procedure and postoperative recovery. This narrative review aimed to assess the epidemiological characteristics of age-related physiological and pathological comorbidities in older adults with cataracts, evaluating their impact on preoperative assessment, surgical outcomes, and public health planning. Articles were identified through non-systematic searches of PubMed, EMBASE, and Scopus using a combination of medical subject headings (MeSH) terms and free-text keywords. Among the multiple non-ocular comorbidities, carotid artery disease (CAD) and hypertension (HTN) are among the cardiovascular diseases (CVDs) with the highest correlations with cataract. Diabetes, dyslipidemia, and metabolic syndrome are also highly prevalent and significantly influence surgical outcomes, as poor glycemic control increases intraoperative risks and postoperative complications. Additionally, neurological conditions such as stroke, Parkinson's disease, and epilepsy often complicate anesthesia administration, contribute to postoperative delirium, and affect adherence to treatment protocols. Given these complexities, a multidisciplinary approach and targeted preoperative screening may offer personalized care to improve safety and outcomes. Despite advances in clinical care, disparities in access to cataract surgery, especially in underserved populations, continue to exist. Thus, a coordinated public health strategy that promotes early detection, equitable access, and the integration of innovations such as 
+Intraoperative neurophysiological monitoring (IONM) has evolved from a novel technique into an evidence-based standard treatment method for high-risk neurosurgical and spinal surgeries. Its effectiveness is based on two interrelated pillars: optimized multimodal monitoring, mainly including motor and somatosensory evoked potentials (MEPs/SSEPs) as well as electromyography (EMG), and total intravenous anesthesia (TIVA) combined with a precise neuromuscular blockade-based anesthesia protocol. IONM significantly reduces neurological function damage during surgeries for spinal deformities, intramedullary tumors, acoustic neuromas, and gliomas in the brain functional area, redefining the standards of safe surgical practice. However, there are still certain challenges, including the difficulty in converting signal changes into clinical actions, controlling high false alarm rates, and overcoming technical/logistical obstacles in complex and lengthy surgeries. These objectively existing problems further highlight the importance of clinical judgment. Looking to the future, a key developmental direction involves transforming intraoperative neurophysiological monitoring (IONM) from a passive monitoring tool into a system capable of predictive guidance and comprehensive neuroprotection. Emerging models include artificial intelligence (AI) technologies for real-time analysis and technologies for fusing multimodal data into surgical "dashboards", but they still face significant obstacles in data quality, clinical validation, and human-centered design. Closed-loop systems and the application of neurobiomarker recognition to achieve neuroprotection remain enduring research topics. In summary, the development of IONM technology towards a more mature direction requires a coordinated planning scheme: establishing evidence-based standards, promoting data-driven discoveries through large-scale collaborative research, and achieving deep multidisciplinary integration within the surgical t
 
 ---
 
-## 14. DSPONVNet: a multimodal deep learning model integrating intraoperative monitoring and clinical features for predicting postoperative nausea and vomiting risk.
-
-- **PMID**: [41928118](https://pubmed.ncbi.nlm.nih.gov/41928118/)
-- **Journal**: BMC medical research methodology
-- **Publication Date**: 2026 Apr 02
-- **Authors**: Liu Lixin, Wang Haifeng, Wei Yi, Kong Di, Xue Zhaoping et al.
-- **DOI**: https://doi.org/10.1186/s12874-026-02845-w
-
-### Abstract
-
-**PURPOSE**: Postoperative nausea and vomiting (PONV) is a frequent and distressing complication that affects patient comfort and recovery following surgery. Conventional risk prediction models rely heavily on static clinical features, often overlooking real-time physiological signals. This study aimed to develop a robust prediction model that integrates intraoperative monitoring data with structured clinical variables to enhance the accuracy of PONV risk assessment. **METHODS**: We proposed DSPONVNet, a multimodal deep learning model incorporating a multilayer perceptron (MLP) for static features, a long short-term memory (LSTM) network for dynamic intraoperative monitoring data, and a self-attention mechanism for feature fusion. A total of 53,250 patients who underwent general anesthesia were retrospectively included. The model was trained and evaluated using stratified data partitioning and compared with five baseline models. **RESULTS**: DSPONVNet achieved superior performance, with a ROC-AUC of 0.9376 and F1 score of 0.8701, outperforming all baseline models. SHAP analysis revealed that both traditional risk factors (e.g., female sex, prior PONV) and intraoperative heart rate fluctuation significantly contributed to risk prediction, highlighting the value of integrating dynamic physiological data. **CONCLUSION**: DSPONVNet demonstrates enhanced predictive capability and interpretability by incorporating intraoperative monitoring data, enabling more accurate and individualized PONV risk assessment. These findings support the use of real-time data fusion in clinical decision support systems for perioperative care optimization.
-
----
-
-## 15. AI-based decision models for difficult airway assessment: from research innovation to clinical implementation-a narrative review.
+## 9. AI-based decision models for difficult airway assessment: from research innovation to clinical implementation-a narrative review.
 
 - **PMID**: [42210958](https://pubmed.ncbi.nlm.nih.gov/42210958/)
 - **Journal**: Frontiers in medicine
@@ -212,16 +132,16 @@ Difficult airway management causes significant anesthesia-related morbidity, yet
 
 ---
 
-## 16. Deep learning guided propofol ketamine dosing and inflammation trajectories in elderly burns.
+## 10. Rethinking intraoperative blood loss monitoring: a decision-oriented framework for clinically integrated assessment.
 
-- **PMID**: [42232895](https://pubmed.ncbi.nlm.nih.gov/42232895/)
-- **Journal**: Frontiers in computational neuroscience
+- **PMID**: [42181146](https://pubmed.ncbi.nlm.nih.gov/42181146/)
+- **Journal**: International journal of burns and trauma
 - **Publication Date**: 2026
-- **Authors**: Yuan Xiaohui, Wang Gang, Jiang Xiaoyang, Miao Wenjing
-- **DOI**: https://doi.org/10.3389/fncom.2026.1824898
+- **Authors**: Bai Jiangtao, Lu Yutong, Wang Guilin, Zheng Qihui, Jia Haitao et al.
+- **DOI**: https://doi.org/10.62347/RYZE7872
 
 ### Abstract
 
-**BACKGROUND AND OBJECTIVES**: Elderly patients (≥65 years) who sustain burn injuries encounter a clinically significant perioperative challenge: a dysregulated hyperinflammatory response, characterized by elevated levels of interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP), compounded by a markedly reduced hemodynamic reserve. Both propofol and low-dose ketamine exhibit distinct anti-inflammatory mechanisms; however, the optimization of their combined dosing within explicit safety parameters remains unestablished. Our objectives were to: (1) develop and externally validate a probabilistic machine learning (ML) model to predict dynamic 24-h trajectories of inflammatory markers; and (2) integrate these predictions with a safety-constrained offline reinforcement learning (RL) agent to formulate individualized propofol-ketamine dosing recommendations. **STUDY DESIGN**: This study employed a retrospective multi-cohort analysis utilizing two publicly accessible intensive care databases. **SETTING**: The research was conducted in an academic medical center ICU (MIMIC-IV) and across 208 community and academic hospitals (eICU Collaborative Research Database). **MEASUREMENTS**: The study analyzed 614 perioperative episodes in patients aged ≥65 years with confirmed burn injuries who received propofol-based anesthesia for ≥30 min and had ≥2 inflammatory laboratory measurements within 6-24 h post-induction. External validation was performed on 206 independent episodes. **MAIN RESULTS**: The proposed Event-Transformer with continuous-time Neural ODE dynamics demonstrated a 12-h IL-6 mean absolute error (MAE) of 6.82 pg/mL, representing a 70.1% improvement over linear mixed models (22.8 pg/mL). It achieved an inflammatory spike detection area under the receiver operating characteristic curve (AUROC) of 0.814 and empirical 90% prediction interval (PI) coverage of 87.2%. The Conservative Policy with Q-Learning (CPQL) dosing agent enhanced the t
+Intraoperative blood loss (IBL) monitoring is an important factor in decision-making of anesthesia, and real-time and reliable IBL is vital in the safety of the patient during the perioperative period. But even now after decades of technological development in medicine, this basic clinical issue has not been addressed. The current strategies of monitoring do not usually achieve all the needs of accuracy, timeliness, and procedural flexibility in regular clinical care. This article re-examines this critical issue of intraoperative blood loss monitoring from the perspective of actual clinical surgery and anesthesiology. We analyzed the structural reasons for the long-term unreliability of IBL clinical measurements and proposed some core principles for future surveillance strategies. Traditional methods for assessing intraoperative blood loss include visual estimation, gravimetric methods, volumetric methods, and laboratory or spectrophotometric methods. These methods all have inherent limitations. We believe these shortcomings are not isolated technical problems, but rather stem from a design philosophy that did not address the needs of clinical decision-making from the outset. To better explain the clinical challenges faced by IBL monitoring, we propose the "Irreconcilable Triangle of IBL Monitoring" model. This model consists of three conflicting requirements: accuracy, timeliness, and workflow compatibility. Optimizing one dimension of technology inevitably compromises other dimensions. Therefore, we redefine accuracy as "functional accuracy". That is, the accuracy of intraoperative bleeding monitoring should reach the level necessary to support intraoperative clinical decision-making, without pursuing absolute accuracy. Simultaneously, it should be made as time-relevant and clinically feasible as possible to meet clinical needs. This paper envisions future strategies for intraoperative blood loss monitoring. Future clinical practice requires automated equipment ca
 
 ---
