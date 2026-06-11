@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-06-08
+**Update Time**: 2026-06-11
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -20,21 +20,7 @@ Delirium represents a frequent and serious complication in neurosurgical patient
 
 ---
 
-## 2. Evidence-based practice of enhanced recovery after surgery in spinal surgery: Comprehensive insights into perioperative care and outcome improvement.
-
-- **PMID**: [41915811](https://pubmed.ncbi.nlm.nih.gov/41915811/)
-- **Journal**: The Journal of international medical research
-- **Publication Date**: 2026 Mar
-- **Authors**: Han Yutong, Yin Kailong
-- **DOI**: https://doi.org/10.1177/03000605261436583
-
-### Abstract
-
-Enhanced recovery after surgery protocols, first proposed in the late 1990s, represent a multimodal and interdisciplinary framework for surgical management and perioperative care, with nursing involvement as a pivotal component. The application of enhanced recovery after surgery in cranial and spinal neurosurgery has advanced rapidly, with 89.01% of relevant publications emerging in the past 5 years. However, research on its implementation in this subfield remains immature. This narrative review focuses on the development of fast-track surgery, refinement of enhanced recovery after surgery protocols in spinal surgery, and the roles of nursing within enhanced recovery after surgery. Key perioperative interventions include preoperative personalized education, smoking cessation (≥4 weeks), nutritional support, prehabilitation, and preemptive analgesia; intraoperative tranexamic acid use, rational antibiotic administration, standardized or minimally invasive surgery, and goal-directed fluid therapy; and postoperative multimodal analgesia and early mobilization. Clinical evidence confirms that these interventions collectively reduce postoperative complication rates, shorten hospital stay, alleviate pain, and improve prognosis, with nurses playing a central role in enhanced recovery after surgery implementation across all phases. In conclusion, successful enhanced recovery after surgery adoption in spinal surgery relies on multidisciplinary collaboration, and evidence-based individualized care is critical for optimizing recovery. Future studies should focus on refining guidelines to promote enhanced recovery after surgery standardization and broader application.
-
----
-
-## 3. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+## 2. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
 
 - **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
 - **Journal**: BMJ open
@@ -48,7 +34,7 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 
 ---
 
-## 4. Enhanced Recovery After Surgery (ERAS) in Neonatal Cardiac Care: A Case Report of Nursing-Led Management for Obstructed Mixed-Type Total Anomalous Pulmonary Venous Connection.
+## 3. Enhanced Recovery After Surgery (ERAS) in Neonatal Cardiac Care: A Case Report of Nursing-Led Management for Obstructed Mixed-Type Total Anomalous Pulmonary Venous Connection.
 
 - **PMID**: [42130398](https://pubmed.ncbi.nlm.nih.gov/42130398/)
 - **Journal**: Advances in neonatal care : official journal of the National Association of Neonatal Nurses
@@ -59,6 +45,20 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 ### Abstract
 
 **BACKGROUND**: Obstructed mixed-type total anomalous pulmonary venous connection (TAPVC) is a rare life-threatening congenital heart defect requiring urgent, high-risk surgery. Postoperative care is complex and fraught with complications. Enhanced recovery after surgery (ERAS) is a multimodal, evidence-based approach to optimize perioperative care, yet its application in neonatal cardiac surgery is nascent. **CLINICAL FINDINGS**: A 12-day-old male infant presented with lethargy, poor feeding, and severe respiratory distress (SpO 2 80%-85%), requiring immediate intubation. Examination revealed diminished mental responsiveness and signs of poor perfusion. **PRIMARY DIAGNOSIS**: Obstructed mixed-typeTAPVC with an atrial septal defect, a ventricular septal defect, a patent ductus arteriosus, and severe pulmonary hypertension. **INTERVENTIONS**: The infant underwent surgical correction. Postoperatively, a comprehensive, nursing-led ERAS protocol was implemented. Core interventions encompassed goal-directed fluid therapy, proactive respiratory support to prevent pulmonary hypertensive crises, standardized sedation, early complication surveillance (thrombosis, capillary leak syndrome), and structured early rehabilitation. **OUTCOMES**: The infant was successfully weaned from mechanical ventilation on postoperative Day 5, achieved full oral feeding by Day 13, and was discharged on Day 18. This recovery timeline compares favorably to published data for similar complex cases. At the 3-month follow-up, he demonstrated age-appropriate growth and development with no significant cardiac sequelae. **PRACTICE RECOMMENDATIONS**: A structured, nursing-driven ERAS protocol is a valuable clinical tool to enhance outcomes, accelerate recovery, and reduce complications in high-risk neonatal cardiac surgery. This case affirms the pivotal role of neonatal nurses in perioperative care.
+
+---
+
+## 4. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+
+- **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
+- **Journal**: Cureus
+- **Publication Date**: 2026 Jun
+- **Authors**: Ashraf Nashrah, Zargar Owais Ul Umer, Albina Aayat
+- **DOI**: https://doi.org/10.7759/cureus.110243
+
+### Abstract
+
+Goal-directed fluid therapy (GDFT) has emerged as an important perioperative strategy aimed at optimizing hemodynamic status and improving surgical outcomes; however, evidence regarding its effectiveness in patients undergoing major abdominal surgery remains variable. This meta-analysis was conducted to evaluate the impact of intraoperative GDFT compared with conventional fluid therapy on postoperative morbidity and clinical outcomes in adult patients undergoing elective major abdominal surgery. Randomized controlled trials comparing GDFT with conventional intraoperative fluid therapy were analyzed. The assessed outcomes included postoperative morbidity, 30-day mortality, length of hospital stay, intensive care unit (ICU) stay, recovery of gastrointestinal function, and incidence of paralytic ileus. A total of 14 randomized controlled trials involving approximately 2,750 patients were included, with 1,433 patients receiving GDFT and 1,317 receiving conventional fluid therapy. GDFT was associated with a significant reduction in hospital length of stay (mean difference (MD) 2.5 days, 95% confidence interval (CI) 4.5 to -0.5), earlier passage of flatus (MD 6.8 hours, 95% CI 11.2 to -2.4), earlier tolerance of oral intake (MD 15.2 hours, 95% CI 26.8 to -3.6), and reduced incidence of postoperative ileus (risk ratio (RR) 0.48, 95% CI 0.28-0.82). However, no significant reduction was observed in overall postoperative morbidity (RR 0.78, 95% CI 0.57-1.07) or mortality (RR 1.02, 95% CI 0.45-2.34). Intraoperative GDFT in elective major abdominal surgery was associated with improved postoperative gastrointestinal recovery, reduced incidence of postoperative ileus, and shorter hospital length of stay compared with conventional fluid therapy. However, no significant reduction in overall postoperative morbidity or mortality was observed. These findings support the use of GDFT as a safe and effective perioperative strategy to enhance postoperative recovery in major abdominal surg
 
 ---
 
@@ -76,7 +76,21 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 
 ---
 
-## 6. Effect of adding phenylephrine infusion to goal-directed fluid therapy on postoperative quality of recovery in elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized controlled trial.
+## 6. Consensus Guidelines on Perioperative Care in Primary Retroperitoneal Sarcoma Surgery.
+
+- **PMID**: [41973294](https://pubmed.ncbi.nlm.nih.gov/41973294/)
+- **Journal**: Annals of surgical oncology
+- **Publication Date**: 2026 Jul
+- **Authors**: Lominchar Pablo Lozano, Díaz-Cambronero Óscar, Muñoz-Muñoz Paula, Fernández-Candela Alba, Hernández-Sánchez Pilar et al.
+- **DOI**: https://doi.org/10.1245/s10434-026-19520-5
+
+### Abstract
+
+**BACKGROUND**: Primary retroperitoneal sarcomas (RPS) represent a rare group of malignancies requiring aggressive surgical management. While Enhanced Recovery After Surgery (ERAS) protocols have improved perioperative outcomes across many surgical disciplines, disease-specific guidance for RPS is lacking. This consensus aims to standardize perioperative care in primary RPS surgery on the basis of current evidence and expert opinion. **METHODS**: A multidisciplinary panel of experts was convened under the auspices of the Spanish Society of Surgeons and the Portuguese Sarcoma Group. Between January and June 2025, a modified Delphi process was conducted, incorporating systematic literature review, subgroup synthesis, and four structured voting rounds. The strength of each recommendation was graded using the GRADE framework, and consensus was defined as ≥80% agreement among participants. **RESULTS**: A total of 42 recommendations were proposed, addressing preoperative (e.g., anemia correction, smoking cessation, nutritional optimization), intraoperative (e.g., antimicrobial prophylaxis, goal-directed fluid therapy, multimodal analgesia), and postoperative care (e.g., ileus prevention, early feeding, opioid-sparing strategies, mobilization). In total, 33 recommendations reached consensus-17 with weak consensus and 16 with strong consensus-while 9 did not meet the predefined threshold. Most recommendations were supported by indirect evidence from major abdominal and oncologic surgery literature. **CONCLUSIONS**: These are the first consensus-based, multidisciplinary perioperative care guidelines tailored to primary RPS surgery. They aim to harmonize clinical practice, reduce variation, and improve surgical and recovery outcomes in high-risk patients. Prospective validation and international collaboration are encouraged to further refine and implement these recommendations.
+
+---
+
+## 7. Effect of adding phenylephrine infusion to goal-directed fluid therapy on postoperative quality of recovery in elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized controlled trial.
 
 - **PMID**: [42053439](https://pubmed.ncbi.nlm.nih.gov/42053439/)
 - **Journal**: Minerva anestesiologica
@@ -90,7 +104,7 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 
 ---
 
-## 7. Incidence and Associations of Acute Kidney Injury After Lung Resection Surgery: A Systematic Review and Meta-analysis.
+## 8. Incidence and Associations of Acute Kidney Injury After Lung Resection Surgery: A Systematic Review and Meta-analysis.
 
 - **PMID**: [42191521](https://pubmed.ncbi.nlm.nih.gov/42191521/)
 - **Journal**: Journal of cardiothoracic and vascular anesthesia
@@ -101,20 +115,6 @@ Enhanced recovery after surgery protocols, first proposed in the late 1990s, rep
 ### Abstract
 
 The incidence and clinical implications of acute kidney injury (AKI) following thoracic lung resection surgery remain insufficiently characterized. The authors conducted a systematic review to determine the incidence of AKI, identify risk factors for AKI, evaluate preventive interventions for AKI, and assess the associations of AKI with key postoperative outcomes. A systematic search of PubMed, Embase, and the Cochrane Library was conducted through June 25, 2025. The authors included observational and interventional studies that reported the incidence of AKI following lung resection, defined according to Risk, Injury, Failure, Loss, End-stage (RIFLE), Acute Kidney Injury Network (AKIN), or Kidney Disease: Improving Global Outcomes (KDIGO) consensus-based criteria. The study protocol was prospectively registered in the International Prospective Register of Systematic Reviews (CRD420251142075). Twenty studies involving 19,918 patients were included. The pooled incidence of AKI was 5.31% (95% confidence interval [CI], 3.61%-6.70%), with mild AKI and moderate to severe AKI occurring in 5.51% and 0.96% of patients, respectively. AKI was significantly associated with prolonged hospital stay (mean difference, 0.92 days; 95% CI, 0.52-1.30 days) and increased short-term mortality (risk ratio, 5.60; 95% CI, 1.66-18.83). Goal-directed fluid therapy did not significantly reduce the risk of AKI (risk ratio, 0.64; 95% CI, 0.32-1.27). AKI is a common complication following thoracic lung resection surgery and is strongly associated with a broad spectrum of severe adverse postoperative outcomes. In patients undergoing lung resection, AKI should be considered as a highly significant prognostic indicator that requires early risk stratification and proactive preventive strategies.
-
----
-
-## 8. Consensus Guidelines on Perioperative Care in Primary Retroperitoneal Sarcoma Surgery.
-
-- **PMID**: [41973294](https://pubmed.ncbi.nlm.nih.gov/41973294/)
-- **Journal**: Annals of surgical oncology
-- **Publication Date**: 2026 Apr 13
-- **Authors**: Lominchar Pablo Lozano, Díaz-Cambronero Óscar, Muñoz-Muñoz Paula, Fernández-Candela Alba, Hernández-Sánchez Pilar et al.
-- **DOI**: https://doi.org/10.1245/s10434-026-19520-5
-
-### Abstract
-
-**BACKGROUND**: Primary retroperitoneal sarcomas (RPS) represent a rare group of malignancies requiring aggressive surgical management. While Enhanced Recovery After Surgery (ERAS) protocols have improved perioperative outcomes across many surgical disciplines, disease-specific guidance for RPS is lacking. This consensus aims to standardize perioperative care in primary RPS surgery on the basis of current evidence and expert opinion. **METHODS**: A multidisciplinary panel of experts was convened under the auspices of the Spanish Society of Surgeons and the Portuguese Sarcoma Group. Between January and June 2025, a modified Delphi process was conducted, incorporating systematic literature review, subgroup synthesis, and four structured voting rounds. The strength of each recommendation was graded using the GRADE framework, and consensus was defined as ≥80% agreement among participants. **RESULTS**: A total of 42 recommendations were proposed, addressing preoperative (e.g., anemia correction, smoking cessation, nutritional optimization), intraoperative (e.g., antimicrobial prophylaxis, goal-directed fluid therapy, multimodal analgesia), and postoperative care (e.g., ileus prevention, early feeding, opioid-sparing strategies, mobilization). In total, 33 recommendations reached consensus-17 with weak consensus and 16 with strong consensus-while 9 did not meet the predefined threshold. Most recommendations were supported by indirect evidence from major abdominal and oncologic surgery literature. **CONCLUSIONS**: These are the first consensus-based, multidisciplinary perioperative care guidelines tailored to primary RPS surgery. They aim to harmonize clinical practice, reduce variation, and improve surgical and recovery outcomes in high-risk patients. Prospective validation and international collaboration are encouraged to further refine and implement these recommendations.
 
 ---
 
