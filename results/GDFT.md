@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-06-11
+**Update Time**: 2026-06-15
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -20,7 +20,21 @@ Delirium represents a frequent and serious complication in neurosurgical patient
 
 ---
 
-## 2. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+## 2. Perioperative Management of Patients Receiving Renal Replacement Therapy Undergoing Major Cardiac Surgery: A Narrative Review.
+
+- **PMID**: [42288395](https://pubmed.ncbi.nlm.nih.gov/42288395/)
+- **Journal**: Journal of cardiothoracic and vascular anesthesia
+- **Publication Date**: 2026 May 22
+- **Authors**: Strumia Alessandro, Testa Ylenia, Di Benedetto Laura, Lavorante Fedra, Lusini Mario et al.
+- **DOI**: https://doi.org/10.1053/j.jvca.2026.05.050
+
+### Abstract
+
+The perioperative management of patients with end-stage renal disease on renal replacement therapy undergoing cardiac surgery presents significant clinical challenges and is associated with high morbidity and mortality. These patients frequently exhibit multiple comorbidities, including electrolyte disturbances, anemia, bleeding tendency, and cardiovascular instability, all of which complicate surgical management and postoperative recovery. Renal dysfunction markedly increases the risk of adverse postoperative events, even at mild stages, and is incorporated into established risk stratification models, including EuroSCORE II and the Society of Thoracic Surgeons score. Intraoperative renal injury may result from hypoperfusion, ischemia-reperfusion injury, systemic inflammation, hemolysis, and exposure to nephrotoxic agents. Preoperative optimization includes appropriate timing of dialysis-preferably within 24 hours before surgery-correction of electrolyte imbalances, optimization of hemoglobin levels, and careful assessment of bleeding risk. Intraoperatively, goal-directed fluid therapy guided by dynamic hemodynamic parameters and venous oxygen saturation monitoring is recommended. Integration of hemofiltration into the cardiopulmonary bypass circuit enables effective control of volume status and electrolyte levels. Postoperatively, early resumption of renal replacement therapy, ideally within 24 hours, is advised, with continuous modalities favored in hemodynamically unstable patients. Vasoplegic syndrome represents a frequent and severe complication requiring prompt recognition and targeted management. This review underscores the importance of a multidisciplinary, individualized perioperative approach involving cardiologists, nephrologists, anesthesiologists, and cardiac surgeons to reduce complications and improve outcomes in patients with end-stage renal disease undergoing cardiac surgery.
+
+---
+
+## 3. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
 
 - **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
 - **Journal**: BMJ open
@@ -34,7 +48,7 @@ Delirium represents a frequent and serious complication in neurosurgical patient
 
 ---
 
-## 3. Enhanced Recovery After Surgery (ERAS) in Neonatal Cardiac Care: A Case Report of Nursing-Led Management for Obstructed Mixed-Type Total Anomalous Pulmonary Venous Connection.
+## 4. Enhanced Recovery After Surgery (ERAS) in Neonatal Cardiac Care: A Case Report of Nursing-Led Management for Obstructed Mixed-Type Total Anomalous Pulmonary Venous Connection.
 
 - **PMID**: [42130398](https://pubmed.ncbi.nlm.nih.gov/42130398/)
 - **Journal**: Advances in neonatal care : official journal of the National Association of Neonatal Nurses
@@ -48,7 +62,7 @@ Delirium represents a frequent and serious complication in neurosurgical patient
 
 ---
 
-## 4. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+## 5. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
 
 - **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
 - **Journal**: Cureus
@@ -62,7 +76,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 5. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
+## 6. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
 
 - **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
 - **Journal**: Journal of clinical anesthesia
@@ -73,20 +87,6 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 ### Abstract
 
 **OBJECTIVE**: To compare and rank preventive interventions for postoperative delirium (POD) in elderly spinal surgery patients via network meta-analysis. **METHODS**: We searched major databases (inception to March 2025) for relevant randomized controlled trials (RCTs). Methodological quality was assessed using the Cochrane RoB 2.0 tool. A frequentist random-effects network meta-analysis was performed. **RESULTS**: Thirty-two RCTs (enrolling 3454 patients) evaluating 19 interventions were included. Most studies (n = 25) demonstrated low risk of bias or raised only some concerns. Global inconsistency assessment indicated consistency (P = 0.44). Ten interventions significantly reduced POD incidence compared to control. Surface under the cumulative ranking curve (SUCRA) analysis ranked temperature protection combined with dexmedetomidine (OR = 0.11, 95% CI: 0.02-0.59, SUCRA = 81.7%) as the most effective intervention, followed by melatonin (OR = 0.20, 95% CI: 0.05-0.81, SUCRA = 70.3%) and goal-directed fluid therapy (OR = 0.25, 95% CI: 0.09-0.66, SUCRA = 63.6%). **CONCLUSIONS**: Dexmedetomidine monotherapy is the only intervention supported by moderate-certainty evidence (OR = 0.35) and should be the core POD prevention strategy. Other top-ranked interventions (temperature protection+DEX, melatonin, GDFT) showed promise but are based on low-certainty evidence, often from single trials, and require confirmation. All 32 trials were from China, limiting generalizability; international validation is needed. **REGISTRATION**: PROSPERO CRD420251014832.
-
----
-
-## 6. Consensus Guidelines on Perioperative Care in Primary Retroperitoneal Sarcoma Surgery.
-
-- **PMID**: [41973294](https://pubmed.ncbi.nlm.nih.gov/41973294/)
-- **Journal**: Annals of surgical oncology
-- **Publication Date**: 2026 Jul
-- **Authors**: Lominchar Pablo Lozano, Díaz-Cambronero Óscar, Muñoz-Muñoz Paula, Fernández-Candela Alba, Hernández-Sánchez Pilar et al.
-- **DOI**: https://doi.org/10.1245/s10434-026-19520-5
-
-### Abstract
-
-**BACKGROUND**: Primary retroperitoneal sarcomas (RPS) represent a rare group of malignancies requiring aggressive surgical management. While Enhanced Recovery After Surgery (ERAS) protocols have improved perioperative outcomes across many surgical disciplines, disease-specific guidance for RPS is lacking. This consensus aims to standardize perioperative care in primary RPS surgery on the basis of current evidence and expert opinion. **METHODS**: A multidisciplinary panel of experts was convened under the auspices of the Spanish Society of Surgeons and the Portuguese Sarcoma Group. Between January and June 2025, a modified Delphi process was conducted, incorporating systematic literature review, subgroup synthesis, and four structured voting rounds. The strength of each recommendation was graded using the GRADE framework, and consensus was defined as ≥80% agreement among participants. **RESULTS**: A total of 42 recommendations were proposed, addressing preoperative (e.g., anemia correction, smoking cessation, nutritional optimization), intraoperative (e.g., antimicrobial prophylaxis, goal-directed fluid therapy, multimodal analgesia), and postoperative care (e.g., ileus prevention, early feeding, opioid-sparing strategies, mobilization). In total, 33 recommendations reached consensus-17 with weak consensus and 16 with strong consensus-while 9 did not meet the predefined threshold. Most recommendations were supported by indirect evidence from major abdominal and oncologic surgery literature. **CONCLUSIONS**: These are the first consensus-based, multidisciplinary perioperative care guidelines tailored to primary RPS surgery. They aim to harmonize clinical practice, reduce variation, and improve surgical and recovery outcomes in high-risk patients. Prospective validation and international collaboration are encouraged to further refine and implement these recommendations.
 
 ---
 
@@ -118,7 +118,21 @@ The incidence and clinical implications of acute kidney injury (AKI) following t
 
 ---
 
-## 9. A clinically useful nomogram integrating bedside lung ultrasound and clinical parameters for pulmonary complications after non-thoracic surgery in blunt chest trauma patients.
+## 9. Revisiting the fluid challenge and stroke volume optimisation after induction of general anaesthesia.
+
+- **PMID**: [42282954](https://pubmed.ncbi.nlm.nih.gov/42282954/)
+- **Journal**: Annals of intensive care
+- **Publication Date**: 2026
+- **Authors**: O'Brien Terry, Hahn Robert G
+- **DOI**: https://doi.org/10.1016/j.aicoj.2026.100093
+
+### Abstract
+
+**BACKGROUND**: To be clinically useful in goal-directed fluid therapy, a fluid challenge (FC) must achieve a large enough blood volume change (ΔBV) to materially change ventricular preload and stroke volume (ΔSV). The same % change in BV for all the subsequent FCs must also be achieved. We explored under what circumstances these prerequisites can be met by referring to data from a clinical trial where 111 patients underwent three successive intravenous FCs using crystalloid (Ringer´s lactate) or colloid (hydroxyethyl starch), involving a total of 9 mL/kg of fluid, just after induction of general anaesthesia. **RESULTS**: The three FC using crystalloid fluid increased SV by 2.5% while the colloid increased the SV by 29.2% (medians, P < 0.001). Moreover, crystalloid expanded the BV by 20.8% while the corresponding expansion by colloid was 29.5% (P < 0.001). The cardiac response to increased BV was normalized by calculating the ΔSV%/ΔBV% ratio, which was much lower at 0.12 for the crystalloid fluid versus 0.98 for colloid (P < 0.001). The poor SV response can possibly be explained by the underlying changes in the mean circulatory filling pressure, which suggest crystalloid FCs was less effective in increasing the stressed blood volume (preload). On the other hand, the inferior BV expanding effect of crystalloid is likely due to the fast tissue redistribution pharmacokinetic profile of administered boluses. Finally, the cardiac response to the first FC and impact on oxygen delivery became falsely low in both groups due to a reflex redistribution of a substantial volume of interstitial fluid into the circulation after anaesthetic induction. **CONCLUSION**: Differences in effectiveness between crystalloid and colloid fluid when providing repeated FCs increase the risk of false negative indications of fluid non-responsiveness when crystalloid is used.
+
+---
+
+## 10. A clinically useful nomogram integrating bedside lung ultrasound and clinical parameters for pulmonary complications after non-thoracic surgery in blunt chest trauma patients.
 
 - **PMID**: [42027823](https://pubmed.ncbi.nlm.nih.gov/42027823/)
 - **Journal**: Frontiers in medicine
@@ -129,15 +143,5 @@ The incidence and clinical implications of acute kidney injury (AKI) following t
 ### Abstract
 
 **OBJECTIVES**: Lung ultrasonography can be used to effectively evaluate the severity of pulmonary injury. This study aimed to develop a nomogram that incorporated the results of lung ultrasonography and traditional clinical parameters to predict postoperative pulmonary complications (PPCs) in patients with blunt chest trauma who underwent non-thoracic surgery. **DESIGN**: Prospective, observational study. **SETTING**: The study was performed in a first 3A-grade hospitals in China. **PARTICIPANTS**: This study included 374 patients with blunt chest trauma who underwent extremity or pelvic fracture surgery. **INTERVENTIONS**: All patients underwent lung ultrasonography before surgery and received general anesthesia combined with a regional block, goal-directed fluid therapy, and lung-protective ventilation. 30-days postoperatively, all participants were followed up to assess PPCs. Logistic regression was used to identify the key predictors of PPCs, and a nomogram was constructed. The predictive efficacy of the model was evaluated using receiver operating characteristic (ROC) and calibration curves, and the clinical application value was evaluated using decision curve analysis (DCA). **RESULTS**: PPC incidence was 26.73%. American Society of Anesthesiologists physical status class, chronic obstructive pulmonary disease, recent respiratory infection, pneumothorax, lung ultrasonography score, and number of rib fractures were incorporated into the nomogram. The nomogram exhibited an excellent discriminative ability, with an area under the ROC curve of 0.932. The DCA demonstrated significant clinical utility of this nomogram in predicting PPCs. **CONCLUSION**: We developed a nomogram that combined the results of lung ultrasonography and traditional clinical parameters to predict the risk of PPCs in patients with blunt chest trauma who underwent non-thoracic surgery. This validation revealed satisfactory discrimination, indicating its potential clinical utility. This may a
-
----
-
-## 10. Comment on: "A comparative study of stroke volume variation and plethysmography variability index as goal-directed fluid therapy in major abdominal oncosurgeries".
-
-- **PMID**: [42022063](https://pubmed.ncbi.nlm.nih.gov/42022063/)
-- **Journal**: Saudi journal of anaesthesia
-- **Publication Date**: 2026
-- **Authors**: Narayanan Vidhya
-- **DOI**: https://doi.org/10.4103/sja.sja_13_26
 
 ---
