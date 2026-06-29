@@ -1,26 +1,40 @@
 # AnesthesiaAI - PubMed Latest Papers
 
-**Update Time**: 2026-06-25
+**Update Time**: 2026-06-29
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
 ---
 
-## 1. Deep Learning-Based Tracking of Neurovascular Features Toward Semi-Automated Ultrasound-Guided Peripheral Nerve Blocks by Non-Specialists.
+## 1. Artificial intelligence in predicting anesthetic complications: current techniques, clinical applications, and limitations.
 
-- **PMID**: [42194313](https://pubmed.ncbi.nlm.nih.gov/42194313/)
-- **Journal**: Bioengineering (Basel, Switzerland)
-- **Publication Date**: 2026 May 15
-- **Authors**: Gjesteby Lars A, Carruthers Alec, Werblin Joshua, DeLosa Nancy, Bedolla Carlos et al.
-- **DOI**: https://doi.org/10.3390/bioengineering13050556
+- **PMID**: [42248065](https://pubmed.ncbi.nlm.nih.gov/42248065/)
+- **Journal**: International journal of medical informatics
+- **Publication Date**: 2026 Sep 15
+- **Authors**: Mohammadi Ali
+- **DOI**: https://doi.org/10.1016/j.ijmedinf.2026.106527
 
 ### Abstract
 
-Peripheral nerve blocks can effectively reduce the use of general anesthesia and opioids in situations where robust pain management is critical, such as severe extremity trauma and hip, femur, and knee surgeries. Despite these benefits, nerve blocks are underutilized due to the high skill required to accurately insert a needle and safely deliver local anesthetic. To overcome this challenge, ultrasound image guidance enabled by artificial intelligence (AI) offers a semi-automated solution for regional anesthesia delivery by non-specialists. As a first step towards realizing an integrated platform for AI-guided nerve blocks, the main objective of this study is to develop and characterize deep learning algorithms to interpret anatomical landmarks on ultrasound images in real time and identify aimpoints for needle placement. Our AI system was trained on over 55,000 images from 20 porcine models and demonstrated an average area under the precision-recall curve of 0.92 (SD = 0.03) for in vivo landmark detection in the femoral nerve region. In prospective live animal testing, aimpoint identification had a 98.3% success rate with an average time of 40.5 s (SD = 33.5). Future work will focus on integrated testing with handheld robotics towards a more accessible method for delivering regional anesthesia in settings from point of injury to medical transport to hospitals.
+Artificial intelligence (AI) is revolutionizing anesthesiology by enhancing the prediction and management of perioperative complications, including intraoperative hypotension, respiratory failure, postoperative nausea and vomiting (PONV), and pain control challenges. This scoping review synthesizes evidence from 82 studies, identified through a systematic search of PubMed, Scopus, Web of Science, and grey literature from January 2010 to September 2025, to map AI techniques, their clinical applications, and limitations. Techniques include Machine Learning (ML) (e.g., random forests, support vector machines), deep learning, natural language processing (NLP), Computer Vision, Bayesian models, and fuzzy logic, applied across preoperative, intraoperative, and postoperative phases. AI models achieve superior predictive accuracy (AUC 0.85-0.94) compared to traditional methods (AUC 0.76-0.88), enabling early detection of complications and reducing opioid use by 15-35%. Applications include preoperative risk stratification, intraoperative monitoring, and postoperative analgesia optimization. Challenges include algorithmic bias, data reliability, interoperability, and real-time integration barriers. Ethical considerations emphasize transparency, equity, and clinician oversight. This review positions AI as a decision-support tool within the P4 medicine framework (Predictive, Preventive, Personalized, Participatory), advocating for validation, ethical frameworks, and integration with anesthesia information management systems (AIMS) to enhance perioperative safety.
 
 ---
 
-## 2. A Real-Time Automated Deep Learning Workflow for Non-invasive High-Magnification Imaging of 
+## 2. A Multitask Time-Frequency Deep Learning Approach for Anesthesia Depth Monitoring and Transition Prediction.
+
+- **PMID**: [42351597](https://pubmed.ncbi.nlm.nih.gov/42351597/)
+- **Journal**: Diagnostics (Basel, Switzerland)
+- **Publication Date**: 2026 Jun 22
+- **Authors**: Kavuncu Saliha Kevser, Yalvac Mehmet, Basturk Alper
+- **DOI**: https://doi.org/10.3390/diagnostics16121937
+
+### Abstract
+
+Background: Electroencephalography (EEG) signals are widely used for monitoring anesthesia depth during surgery. Current commercial indicators are largely closed-source and may reflect dynamic changes with some delay. Methods: This study proposes a multitask deep learning model for continuous Bispectral Index (BIS) estimation, binary anesthesia-state classification, and prediction of transitions toward light anesthesia at different time intervals. Dual-channel EEG signals from 5471 surgical cases in the VitalDB dataset were divided into 60 s windows. Short-Time Fourier Transform (STFT) captured instantaneous frequency changes to transform the signal into a two-dimensional map. A ResNet-SE architecture incorporating Squeeze-and-Excitation blocks was used to identify EEG features associated with anesthesia depth. Results: A Mean Absolute Error of 3.27 and a Root Mean Square Error of 5.48 were obtained in anesthesia depth estimation. Light anesthesia classification achieved an AUC of 0.99 on the internal test set. Conclusions: The proposed multitask model enables the assessment of anesthesia depth and transitions toward light anesthesia using EEG signals.
+
+---
+
+## 3. A Real-Time Automated Deep Learning Workflow for Non-invasive High-Magnification Imaging of 
 
 - **PMID**: [42282531](https://pubmed.ncbi.nlm.nih.gov/42282531/)
 - **Journal**: bioRxiv : the preprint server for biology
@@ -31,20 +45,6 @@ Peripheral nerve blocks can effectively reduce the use of general anesthesia and
 ### Abstract
 
 Caenorhabditis elegans is a premier model organism for aging and neurobiology research, valued for its short lifespan, optical transparency, genetic tractability, and well-mapped nervous system. Non-invasive automated recording of biomarkers is a fundamental goal in modern biology because it preserves natural physiology and eliminates confounds from anesthesia, restraint, or repeated handling in C. elegans . Yet high-magnification imaging of freely moving worms remains a persistent challenge: as magnification increases, the narrowing field of view compounds target loss, motion blur, and focal drift, pushing researchers toward immobilization strategies that compromise physiology, suppress natural behavior, and preclude the continuous longitudinal observation essential for aging and neurobiological studies. Here, we present a real-time tracking workflow for imaging individual worms in a microfluidic platform under controlled culture conditions. The system integrates deep learning head detection, image-based autofocus, and rapid motorized-stage feedback to support stable imaging across multiple magnifications, including neuronal-scale imaging. Hundreds of individually housed worms in separate incubation chambers enable repeated daily imaging of the same animals throughout their lifespan. Built entirely on a commercially available inverted microscope without additional custom hardware, the platform features a modular, user-configurable interface adaptable to diverse microscope setups, specimens, and experimental goals. Fluorescence images from freely moving worms were visually comparable to those from immobilized animals, supporting longitudinal phenotyping in aging and neurobiology studies.
-
----
-
-## 3. Artificial intelligence in predicting anesthetic complications: current techniques, clinical applications, and limitations.
-
-- **PMID**: [42248065](https://pubmed.ncbi.nlm.nih.gov/42248065/)
-- **Journal**: International journal of medical informatics
-- **Publication Date**: 2026 Jun 03
-- **Authors**: Mohammadi Ali
-- **DOI**: https://doi.org/10.1016/j.ijmedinf.2026.106527
-
-### Abstract
-
-Artificial intelligence (AI) is revolutionizing anesthesiology by enhancing the prediction and management of perioperative complications, including intraoperative hypotension, respiratory failure, postoperative nausea and vomiting (PONV), and pain control challenges. This scoping review synthesizes evidence from 82 studies, identified through a systematic search of PubMed, Scopus, Web of Science, and grey literature from January 2010 to September 2025, to map AI techniques, their clinical applications, and limitations. Techniques include Machine Learning (ML) (e.g., random forests, support vector machines), deep learning, natural language processing (NLP), Computer Vision, Bayesian models, and fuzzy logic, applied across preoperative, intraoperative, and postoperative phases. AI models achieve superior predictive accuracy (AUC 0.85-0.94) compared to traditional methods (AUC 0.76-0.88), enabling early detection of complications and reducing opioid use by 15-35%. Applications include preoperative risk stratification, intraoperative monitoring, and postoperative analgesia optimization. Challenges include algorithmic bias, data reliability, interoperability, and real-time integration barriers. Ethical considerations emphasize transparency, equity, and clinician oversight. This review positions AI as a decision-support tool within the P4 medicine framework (Predictive, Preventive, Personalized, Participatory), advocating for validation, ethical frameworks, and integration with anesthesia information management systems (AIMS) to enhance perioperative safety.
 
 ---
 
@@ -118,7 +118,21 @@ Lumbar plexus block (LPB) is a regional anesthesia technique widely used for hip
 
 ---
 
-## 9. Deep learning guided propofol ketamine dosing and inflammation trajectories in elderly burns.
+## 9. Current Status and Future Projections of Artificial Intelligence-Assisted Ultrasonography and Needle Visibility Methods in Regional Anesthesia.
+
+- **PMID**: [42364233](https://pubmed.ncbi.nlm.nih.gov/42364233/)
+- **Journal**: The Eurasian journal of medicine
+- **Publication Date**: 2026 Apr 24
+- **Authors**: Tire Yasin, Mermer Aydın, Aydemir Mustafa, Keklicek Ömer, Koç Muhammed Nezih et al.
+- **DOI**: https://doi.org/10.5152/eurasianjmed.2026.261453
+
+### Abstract
+
+Ultrasound-guided regional anesthesia (UGRA) has revolutionized regional anesthesia by enabling direct visualization of neural structures, surrounding anatomy, and local anesthetic spread. However, consistent needle visualization remains challenging due to anisotropy, steep insertion angles, tissue deformation, and ultrasound artifacts, potentially increasing procedural difficulty and the risk of complications such as vascular puncture, pneumothorax, or intraneural injection. Recent advances in artificial intelligence (AI) offer promising solutions. Artificial intelligence-assisted ultrasound systems using deep learning and convolutional neural networks can perform real-time anatomical segmentation, automated needle tracking, and image optimization. These platforms highlight nerves, vessels, and fascial planes with color overlays, guide needle trajectory, and provide feedback on image quality and probe positioning. In addition to procedural assistance, AI may improve training by accelerating anatomical recognition and reducing inter-operator variability. Nevertheless, concerns persist regarding automation bias, algorithm performance in atypical anatomy, and the necessity of ongoing clinician oversight. Overall, AI-assisted ultrasonography represents a significant step toward safer, more standardized, and potentially more efficient regional anesthesia practice. Cite this article as: Tire Y, Mermer A, Aydemir M, Keklicek Ö, Koç MN, Yazar MA. Current status and future projections of artificial intelligence-assisted ultrasonography and needle visibility methods in regional anesthesia. Eurasian J Med. 2026, 58(3), 1453, doi: 10.5152/eurasianjmed.2026.261453.
+
+---
+
+## 10. Deep learning guided propofol ketamine dosing and inflammation trajectories in elderly burns.
 
 - **PMID**: [42232895](https://pubmed.ncbi.nlm.nih.gov/42232895/)
 - **Journal**: Frontiers in computational neuroscience
@@ -129,19 +143,5 @@ Lumbar plexus block (LPB) is a regional anesthesia technique widely used for hip
 ### Abstract
 
 **BACKGROUND AND OBJECTIVES**: Elderly patients (≥65 years) who sustain burn injuries encounter a clinically significant perioperative challenge: a dysregulated hyperinflammatory response, characterized by elevated levels of interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP), compounded by a markedly reduced hemodynamic reserve. Both propofol and low-dose ketamine exhibit distinct anti-inflammatory mechanisms; however, the optimization of their combined dosing within explicit safety parameters remains unestablished. Our objectives were to: (1) develop and externally validate a probabilistic machine learning (ML) model to predict dynamic 24-h trajectories of inflammatory markers; and (2) integrate these predictions with a safety-constrained offline reinforcement learning (RL) agent to formulate individualized propofol-ketamine dosing recommendations. **STUDY DESIGN**: This study employed a retrospective multi-cohort analysis utilizing two publicly accessible intensive care databases. **SETTING**: The research was conducted in an academic medical center ICU (MIMIC-IV) and across 208 community and academic hospitals (eICU Collaborative Research Database). **MEASUREMENTS**: The study analyzed 614 perioperative episodes in patients aged ≥65 years with confirmed burn injuries who received propofol-based anesthesia for ≥30 min and had ≥2 inflammatory laboratory measurements within 6-24 h post-induction. External validation was performed on 206 independent episodes. **MAIN RESULTS**: The proposed Event-Transformer with continuous-time Neural ODE dynamics demonstrated a 12-h IL-6 mean absolute error (MAE) of 6.82 pg/mL, representing a 70.1% improvement over linear mixed models (22.8 pg/mL). It achieved an inflammatory spike detection area under the receiver operating characteristic curve (AUROC) of 0.814 and empirical 90% prediction interval (PI) coverage of 87.2%. The Conservative Policy with Q-Learning (CPQL) dosing agent enhanced the t
-
----
-
-## 10. AI-based decision models for difficult airway assessment: from research innovation to clinical implementation-a narrative review.
-
-- **PMID**: [42210958](https://pubmed.ncbi.nlm.nih.gov/42210958/)
-- **Journal**: Frontiers in medicine
-- **Publication Date**: 2026
-- **Authors**: Shen Yang, Wu Yulan, Qiu Yuwei, Wu Jingxiang
-- **DOI**: https://doi.org/10.3389/fmed.2026.1818061
-
-### Abstract
-
-Difficult airway management causes significant anesthesia-related morbidity, yet traditional assessments lack sensitivity (30%-50%) and consistency. This review (2010-2025) examines artificial intelligence (AI) decision models for airway assessment, focusing on performance, limitations, and clinical translation. AI demonstrates significant statistical superiority: facial image analysis achieves 80%-90% sensitivity (vs. Mallampati's 39%), and deep learning models yield a pooled AUC of 0.84. Key techniques include convolutional neural networks, semi-supervised learning, and multimodal integration. Despite high predictive performance, widespread adoption faces fundamental barriers. Current studies are predominantly single-center and retrospective, lacking external validation, algorithmic fairness, standardized outcomes, and proven workflow integration. Furthermore, research heavily favors upper airway evaluation. Thoracic anesthesia, utilizing routine preoperative CTs, offers an immediate pathway for comprehensive whole-airway assessment. Ultimately, bridging the translational gap requires rigorous, prospective multicenter validation demonstrating tangible patient safety improvements, rather than relying solely on algorithmic sophistication.
 
 ---

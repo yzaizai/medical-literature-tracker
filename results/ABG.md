@@ -1,6 +1,6 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-06-25
+**Update Time**: 2026-06-29
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -48,35 +48,21 @@ Carbon monoxide poisoning is a potentially fatal yet frequently overlooked condi
 
 ---
 
-## 4. [The impact of ultrasound-based diaphragmatic targeted functional exercise bundle strategy on clinical outcomes of patients with acute exacerbation of chronic obstructive pulmonary disease combined with type II respiratory failure receiving mechanical ventilation].
+## 4. Effect of ultrasound-guided fascial plane block (UGPB) on pain control of rib fractures: a systematic review and meta-analysis.
 
-- **PMID**: [42281544](https://pubmed.ncbi.nlm.nih.gov/42281544/)
-- **Journal**: Zhonghua wei zhong bing ji jiu yi xue
-- **Publication Date**: 2026 May
-- **Authors**: Feng Liwei, Chen Bing, Zhao Yue, Wang Bin, Li Zhenyu et al.
-- **DOI**: https://doi.org/10.3760/cma.j.cn121430-20251023-00523
-
-### Abstract
-
-**OBJECTIVE**: To explore the interventional effects of a targeted diaphragmatic function exercise bundle strategy, guided by ultrasound assessment, on nutritional status, diaphragmatic function, muscle strength, and hospital stay of mechanically ventilated patients with acute exacerbation of chronic obstructive pulmonary disease (AECOPD) complicated by type II respiratory failure. **METHODS**: A randomized controlled study was conducted. Patients with AECOPD complicated by type II respiratory failure who received mechanical ventilation in the Department of Critical Care Medicine, the Second Hospital of Tianjin Medical University from January to December 2024 were enrolled. Using a random number table, patients were divided into an experimental group and a control group. The control group received routine intensive care unit (ICU) treatment and nursing care. On the basis of routine care, the experimental group received a targeted diaphragmatic function exercise bundle strategy based on ultrasound assessment, including limb function exercises and respiratory function training. The duration and intensity of the exercises were adjusted according to the patient's vital signs, clinical condition, tolerance, and daily improvement in diaphragmatic function. The following indicators were compared between the two groups before the intervention and on the 7th day of intervention: nutritional indicators [albumin, total protein, hemoglobin, body mass index (BMI), Nutritional Risk Screening 2002 (NRS2002) score]; diaphragmatic function (diaphragmatic excursion, diaphragmatic thickness); blood gas analysis indicators (pH value, arterial partial pressure of oxygen, arterial partial pressure of carbon dioxide, base excess, lactate, alveolar-arterial oxygen gradient); and muscle strength. The duration of mechanical ventilation, length of ICU stay, and total hospital stay were also compared between the two groups. **RESULTS**: A total of 134 patients were finally enrolled, including 
-
----
-
-## 5. Improving blood gas analysis sample collection in pediatric emergency departments: a best practice implementation project.
-
-- **PMID**: [42319086](https://pubmed.ncbi.nlm.nih.gov/42319086/)
-- **Journal**: JBI evidence implementation
-- **Publication Date**: 2026 Jun 22
-- **Authors**: Zeng Liemei, Tan Yufei, Zhang Yan, Yang Shuang, Fang Xiaoli et al.
-- **DOI**: https://doi.org/10.1097/XEB.0000000000000604
+- **PMID**: [42343198](https://pubmed.ncbi.nlm.nih.gov/42343198/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 Jun 24
+- **Authors**: Ge Yinping, Liu Zhengfang, Wu Weichun, Zhang Ming, Gan Yun
+- **DOI**: https://doi.org/10.1186/s12871-026-04045-x
 
 ### Abstract
 
-**INTRODUCTION**: Critically ill children in the pediatric emergency department require quick evaluation and decision-making. Blood gas analysis is a frequently conducted procedure and is used to assess respiratory failure, electrolyte disturbance, and acid-base imbalance, among others. However, inappropriate blood sample collection and processes can result in inaccurate blood gas analysis results and delay treatment. **OBJECTIVE**: This project aimed to improve compliance with evidence-based practices for blood gas sample collection in a pediatric emergency department. **METHODS**: Using the JBI Evidence Implementation Framework, this project involved three phases: baseline audits, intervention strategy implementation, and follow-up audits. Conducted at Shenzhen Children's Hospital in China, the study involved the participation of 42 nurses and 300 patients between June and December 2023. Baseline evaluations identified compliance issues and barriers, leading to targeted interventions. **RESULTS**: The baseline audit revealed poor compliance with evidence-based practice. Out of 12 criteria, three criteria achieved 100% compliance and four criteria exceeded 80% compliance, while the other five criteria showed ≤60% compliance. The main barriers were insufficient staff education, lack of accessible workflows, and limited motivation for evidence-based practices. After implementing evidence-based practice interventions, a follow-up audit demonstrated significant improvements across all criteria. **CONCLUSIONS**: Enhancing evidence-based blood gas sample collection increased nurses' compliance and highlighted potential areas for improving pediatric patient care. Future studies should evaluate sustainable methods for pain management and arterial catheterization blood collections. **SPANISH ABSTRACT**: http://links.lww.com/IJEBH/A591.
+**BACKGROUND**: Effective pain management for rib fractures is crucial to prevent pulmonary complications and facilitate recovery. UGPB has emerged as a promising regional analgesic technique for these patients. **OBJECTIVE**: This systematic review with meta-analysis aims to evaluate the effectiveness of UGPB compared with standard care for managing pain associated with rib fractures. In this review, the term UGPB serves as an umbrella term for various UGPBs, with the erector spinae plane block (ESPB) and serratus anterior plane block (SAPB) being the two specific techniques evaluated in the included studies. **METHODS**: This study conducted a comprehensive search of electronic databases including PubMed, Embase, Cochrane Library, Web of science and China National Knowledge Infrastructure (CNKI) up to 31 March 2026. Eligibility criteria were established based on the inclusion of adult patients diagnosed with rib fractures treated with UGPB versus standard care. The primary outcome was pain intensity, assessed using a Visual Analog Scale (VAS) or Numeric Rating Scale (NRS). Secondary outcomes included total amount of analgesic consumption, respiratory function (PaO₂ and PaCO₂ via arterial blood gas analysis), and adverse events. Risk of bias was assessed using the Cochrane Risk of Bias (RoB 2) tool. The certainty of evidence for primary outcomes was assessed using the GRADE framework. Continuous outcomes were pooled as standardized mean differences (SMD) with 95% confidence intervals using a random-effects model; heterogeneity was assessed via I². **RESULTS**: Nine randomized controlled trials (RCTs) involving 664 participants were included. Most studies raised some concerns regarding risk of bias, primarily related to the randomization process, allocation concealment, or blinding of participants and personnel; four studies were judged to be at high overall risk of bias, and none at low risk. The pooled data from 7 studies (423 participants) showed that UGPB signif
 
 ---
 
-## 6. Hereditary methemoglobinemia diagnosed in adulthood: Type 1 cytochrome B5 reductase deficiency.
+## 5. Hereditary methemoglobinemia diagnosed in adulthood: Type 1 cytochrome B5 reductase deficiency.
 
 - **PMID**: [42319687](https://pubmed.ncbi.nlm.nih.gov/42319687/)
 - **Journal**: Irish journal of medical science
@@ -90,21 +76,21 @@ Carbon monoxide poisoning is a potentially fatal yet frequently overlooked condi
 
 ---
 
-## 7. Continuous Bluetooth pulse oximetry monitoring in conscious and anesthetized horses: a pilot study.
+## 6. When Fire and Ice Collide: A Rare Case of Idiopathic Angioedema with Dapsone-Induced Methemoglobinemia.
 
-- **PMID**: [42276116](https://pubmed.ncbi.nlm.nih.gov/42276116/)
-- **Journal**: American journal of veterinary research
-- **Publication Date**: 2026 Jun 11
-- **Authors**: Granacka Viktoria, Kapaldo Nathaniel
-- **DOI**: https://doi.org/10.2460/ajvr.26.04.0147
+- **PMID**: [42269256](https://pubmed.ncbi.nlm.nih.gov/42269256/)
+- **Journal**: The Journal of emergency medicine
+- **Publication Date**: 2026 Jun 10
+- **Authors**: Siddiqua Naazia, Panda Barada Prasad Debasish, Joshi Shrirang, Jamshed Nayer
+- **DOI**: https://doi.org/10.1016/j.jemermed.2026.05.002
 
 ### Abstract
 
-**OBJECTIVE**: To assess the feasibility, patient tolerance, and accuracy of a wireless Bluetooth pulse oximeter sensor system on horses for an extended period. **METHODS**: A prospective, case-control, unblinded study involved 7 horses at risk of hypoxemia and 7 healthy controls. A wireless Bluetooth transmission sensor was attached to their nostril for a prolonged period. Sensor retention time, patient tolerance, and sensor performance in capturing valid monitoring points were recorded. During the monitoring, 4 samples of arterial blood were collected, and paired measurements (SaO2) and estimations (SpO2) of oxygen hemoglobin saturation were performed. Bland-Altman analysis was used for accuracy assessment. Data are presented as median values and ranges. **RESULTS**: Monitoring time varied between 28 and 492 minutes (median, 356 minutes), with 11 of 14 horses maintaining the sensor at the end of the observation period. The sensor was well tolerated, and valid captured data were recorded 84.66% to 100% of the time (mean, 98.17%). Forty-nine paired SaO2/SpO2 readings were analyzed, showing that the pulse oximeter overestimated SaO2 (bias, 1.16%; precision, 1.83%). Calculated accuracy root mean square was 2.15%. **CONCLUSIONS**: The Bluetooth pulse oximetry monitoring is well tolerated, easily maintained, and shows good agreement with SaO2 measurements in nonhypoxemic horses. Further studies are needed to assess its performance under circumstances of decreased blood oxygenation. **CLINICAL RELEVANCE**: Wireless Bluetooth pulse oximetry can be used in conscious, nonhypoxemic horses at risk of a desaturation event requiring continuous/prolonged oxygenation monitoring as an accurate alternative to blood gas analysis.
+**BACKGROUND**: Idiopathic angioedema is a potentially life-threatening cause of acute airway compromise, with reported mortality rates up to 30% when airway intervention is delayed. Methemoglobinemia, a dyshemoglobinemia that reduces hemoglobin's oxygen-carrying capacity, can be acquired from drugs such as dapsone and occurs in approximately 0.4-1% of exposed patients. The coexistence of these two entities is exceptionally rare, posing diagnostic and management challenges in the emergency setting. **CASE REPORT**: A 16-year-old male presented to the emergency department with an acute onset swelling of the tongue and lips, accompanied by hypoxia. Endotracheal intubation was performed for airway protection. Adrenaline and fresh-frozen plasma were administered, resulting in the rapid resolution of angioedema. However, refractory hypoxia persisted despite adequate ventilation, normal point-of-care lung ultrasound, and unremarkable chest radiography. Arterial blood gas analysis revealed elevated methemoglobin levels (28%), confirming methemoglobinemia, attributed to recent dapsone use. Intravenous methylene blue was administered, leading to prompt normalization of oxygen saturation. The patient was extubated and discharged the following day without complications. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: This case underscores the importance of recognizing that more than one life-threatening condition can coexist in the same patient. Anchoring on a single diagnosis may delay identification of an equally dangerous concurrent pathology. Emergency physicians should maintain diagnostic vigilance, especially when expected improvement after treatment is incomplete or followed by unexplained deterioration. Timely recognition and targeted management of each condition can be lifesaving.
 
 ---
 
-## 8. Comparison of Perioperative Metabolic, Hemodynamic, and Respiratory Effects of Intraperitoneal Versus Preperitoneal CO2 Insufflation.
+## 7. Comparison of Perioperative Metabolic, Hemodynamic, and Respiratory Effects of Intraperitoneal Versus Preperitoneal CO2 Insufflation.
 
 - **PMID**: [42284477](https://pubmed.ncbi.nlm.nih.gov/42284477/)
 - **Journal**: Surgical laparoscopy, endoscopy & percutaneous techniques
@@ -115,6 +101,20 @@ Carbon monoxide poisoning is a potentially fatal yet frequently overlooked condi
 ### Abstract
 
 **PURPOSE**: Since laparoscopic surgery is performed with carbon dioxide (CO2) insufflation, it is known to have some metabolic consequences. Due to these metabolic changes, some clinicians may prefer open surgery for inguinal hernia in patients with pulmonary comorbidities. Our study aimed to compare the metabolic and systemic perioperative effects of preperitoneal insufflation with those of intraperitoneal insufflation. **METHODS**: This prospective controlled study included 20 patients who underwent totally extraperitoneal (TEP) inguinal hernia repair and 20 patients who underwent laparoscopic cholecystectomy. End-tidal carbon dioxide (ETCO2), peak inspiratory pressure (PIP), vital parameters, and arterial blood gas analysis results [pH, bicarbonate (HCO3-), partial pressure of carbon dioxide (PCO2), and lactate] were recorded before insufflation and at 10 and 20 minutes after insufflation. These parameters were compared between the 2 groups. **RESULTS**: In comparison between groups, no statistically significant differences were found in terms of age, gender, ASA score, or BMI (P>0.05). In both groups, within-group analyses of HCO3, ETCO2, and PCO2 showed that 10-minute measurements were significantly higher than preinsufflation and 20-minute measurements (P<0.05), whereas lactate levels did not show significant variation. When vital parameters were evaluated within-group analysis, diastolic blood pressure and pulse were observed to be lower in both groups at preinsufflation compared with the 10- and 20-minute measurements (P>0.05). No statistically significant difference was observed between the groups when preinsufflation 10-minute and 20-minute analyses were evaluated for all parameters (P<0.05). **CONCLUSION**: On the basis of the standardized intergroup analyses of pulmonary and metabolic parameters, preperitoneal and intraperitoneal CO2 insufflation demonstrated similar perioperative respiratory and metabolic effects. Laparoscopic inguinal hernia repair, w
+
+---
+
+## 8. Biochemical and blood gas parameters in llamas (Lama glama) raised at moderate altitude: preliminary data from a subtropical environment.
+
+- **PMID**: [42243584](https://pubmed.ncbi.nlm.nih.gov/42243584/)
+- **Journal**: Tropical animal health and production
+- **Publication Date**: 2026 Jun 04
+- **Authors**: Marques Ana Letícia Rodrigues, Marangoni Marina, Mamgue Vitor Eduardo, Braz Paulo Henrique
+- **DOI**: https://doi.org/10.1007/s11250-026-05118-2
+
+### Abstract
+
+This study presents preliminary baseline biochemical and venous blood gas data obtained from llamas (Lama glama) raised under semi-intensive management at medium altitude (595 m asl) in subtropical Brazil. Blood samples from 9 clinically healthy llamas were analyzed. Most biochemical values fell within ranges previously described for the species, although substantial inter-individual variability was observed for several parameters (CK: CV = 0.81; lactate: CV = 0.63; alkaline phosphatase: CV = 0.51; lipids: CV = 0.54), which limits the representativeness of the reported means. Variations in ALT, AST, and CK (200 ± 163 U/L) enzyme levels possibly related to partial confinement and handling was observed. High glucose concentrations (146 ± 14 mg/dL) may reflect species-specific metabolic characteristics, though this interpretation requires validation in larger samples. Urea (46 ± 10 mg/dL) and creatinine (2.16 ± 0.42 mg/dL) reflected dietary protein intake and the species' efficient nitrogen metabolism. Mineral analysis revealed slightly elevated phosphorus and magnesium, likely due to high-quality forage. Blood gas analysis indicated a lower venous pH (7.269 ± 0.075) and elevated pCO₂ (52.5 ± 1.5 mmHg) and bicarbonate compared to previous reports, potentially consistent with responses to the local environmental conditions. Lactate concentrations (78.9 ± 28 mg/dL) were also elevated; however, this finding should be interpreted cautiously due to potential influences of handling stress, analytical methodology, and sample size limitations. These findings offer valuable baseline data for llamas raised outside their native Andean environment and emphasize the importance of considering environmental and management factors in clinical evaluations. Further studies should include larger populations, arterial blood gas analysis, and longitudinal sampling to better understand physiological adaptations in non-native settings.
 
 ---
 
