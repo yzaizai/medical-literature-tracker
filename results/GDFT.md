@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-07-06
+**Update Time**: 2026-07-09
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
