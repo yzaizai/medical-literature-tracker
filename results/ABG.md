@@ -1,12 +1,26 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-07-13
+**Update Time**: 2026-07-16
 **Search Range**: Last 30 days
-**Papers Found**: 9
+**Papers Found**: 18
 
 ---
 
-## 1. Assessment of Conventional Oxygen Therapy, High-Flow Nasal Cannula, and Non-Invasive Ventilation to Secure Bronchofiberoscopy in Patients with Respiratory Acidosis: A Narrative Review and a Proposal for a Protocol in View of a Randomized Multicenter Study.
+## 1. Development and Validation of an Integrated Artificial Intelligence-Powered Clinical Decision Support Application for Cardiac Critical Care: Combining Coagulation Management, Blood Gas Analysis, Mechanical Ventilation, Hemodynamic Assessment, and Extracorporeal Membrane Oxygenation.
+
+- **PMID**: [42409648](https://pubmed.ncbi.nlm.nih.gov/42409648/)
+- **Journal**: Journal of cardiothoracic and vascular anesthesia
+- **Publication Date**: 2026 May 27
+- **Authors**: El-Sonbaty Ahmed Ibrahim
+- **DOI**: https://doi.org/10.1053/j.jvca.2026.05.062
+
+### Abstract
+
+This study describes the development and preliminary validation of an integrated clinical decision support application (Cardiac Critical Care Advisor Pro, CCA Pro v6.0) that combines viscoelastic coagulation analysis, arterial blood gas interpretation, mechanical ventilation management, intraoperative hemodynamic assessment, and extracorporeal membrane oxygenation (ECMO) management with artificial intelligence (AI)-powered image recognition in a single platform. This study used software development and descriptive validation to simulate clinical scenarios in a cardiac surgical intensive care unit at a university teaching hospital. The application was evaluated using 50 simulated clinical scenarios derived from real cardiac surgical cases, with expert review by 3 senior cardiac anesthesiologists. Development of a web-based application incorporated 6 clinical modules with 108 input parameters, over 100 automated calculations, evidence-based treatment algorithms with weight-adjusted dosing, and 7 AI-powered camera zones for automated clinical screen data extraction. The application demonstrated agreement with expert consensus in coagulation management (ROTEM/TEG pathway selection and dosing), acid-base classification, ventilator parameter recommendations, and ECMO troubleshooting. The AI camera system successfully extracted clinical values from photographs of ROTEM displays, blood gas printouts, ventilator screens, patient monitors, and ECMO consoles. All treatment recommendations included weight-adjusted dosing consistent with current guidelines (ARDSNet, Surviving Sepsis Campaign 2021, Extracorporeal Life Support Organization 2021, Berlin criteria for acute respiratory distress syndrome). CCA Pro v6.0 represents a comprehensive, integrated clinical decision support tool for cardiac critical care. By combining multiple clinical domains with AI-powered data capture, the application has the potential to reduce cognitive load, minimize dosing errors, and standardize evid
+
+---
+
+## 2. Assessment of Conventional Oxygen Therapy, High-Flow Nasal Cannula, and Non-Invasive Ventilation to Secure Bronchofiberoscopy in Patients with Respiratory Acidosis: A Narrative Review and a Proposal for a Protocol in View of a Randomized Multicenter Study.
 
 - **PMID**: [42194921](https://pubmed.ncbi.nlm.nih.gov/42194921/)
 - **Journal**: Journal of clinical medicine
@@ -20,7 +34,7 @@ Background: Fiberoptic bronchoscopy (FOB) is a procedure routinely performed in 
 
 ---
 
-## 2. Evaluating pulse oximeters in ICU according to the new FDA guidances: skin tone and LED spectra assessment.
+## 3. Evaluating pulse oximeters in ICU according to the new FDA guidances: skin tone and LED spectra assessment.
 
 - **PMID**: [42009046](https://pubmed.ncbi.nlm.nih.gov/42009046/)
 - **Journal**: Physiological measurement
@@ -34,7 +48,7 @@ Objective.To evaluate whether pulse oximeters cleared under older U.S. food and 
 
 ---
 
-## 3. Differences in umbilical cord blood gas parameters between women with and without gestational diabetes: a single-center prospective-retrospective cohort study.
+## 4. Differences in umbilical cord blood gas parameters between women with and without gestational diabetes: a single-center prospective-retrospective cohort study.
 
 - **PMID**: [42091959](https://pubmed.ncbi.nlm.nih.gov/42091959/)
 - **Journal**: Scientific reports
@@ -48,7 +62,7 @@ Gestational diabetes mellitus (GDM) is associated with various perinatal complic
 
 ---
 
-## 4. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
+## 5. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
 
 - **PMID**: [42326233](https://pubmed.ncbi.nlm.nih.gov/42326233/)
 - **Journal**: Cureus
@@ -62,7 +76,21 @@ Delayed emergence from anesthesia is a frequent challenge in surgical settings. 
 
 ---
 
-## 5. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
+## 6. Fatal pufferfish poisoning 1000 km inland: a case series from eastern Turkey.
+
+- **PMID**: [42398008](https://pubmed.ncbi.nlm.nih.gov/42398008/)
+- **Journal**: Arhiv za higijenu rada i toksikologiju
+- **Publication Date**: 2026 Jun 01
+- **Authors**: Tatlı Mehmet, Bulut Selin
+- **DOI**: https://doi.org/10.2478/aiht-2026-77-4088
+
+### Abstract
+
+We report the first tetrodotoxin (TTX) poisoning cases from Van, Eastern Turkey, a city located more than 1000 km inland. Three male patients presented in December 2020 after eating Lagocephalus sceleratus, which a local vendor mistook for an edible fish. One patient, a 41-year-old man who consumed the fish liver, rapidly developed severe signs of poisoning (adverse event grade 4) with complete paralysis and respiratory failure. Arterial blood gas analysis showed severe acidosis (pH 7.179) and high lactate levels (5.3 mmol/L). Despite intensive care, including mechanical ventilation and high-dose vasopressors, the patient died on the fourth day of hospitalisation due to refractory cardiac arrest. The other two patients, who consumed less fish and no liver, had only mild symptoms (adverse event grades 1 and 2) and recovered completely within 24 h. This incident illustrates the extreme danger of consuming pufferfish and particularly its visceral organs, which typically contain substantially higher tetrodotoxin levels. Finding these cases so far inland reveals serious gaps in the Turkish food distribution system. The fish likely travelled from Mediterranean ports to Van in mixed fish crates without having been identified. Fish vendors need proper training to identify toxic species, and supply chains require better oversight to prevent such tragedies. Ovo je prvi prikaz niza slučajeva trovanja tetrodotoksinom (TTX) u gradu Vanu u istočnoj Turskoj, smještenom više od 1000 km od obale. Tri muškarca primljena su u hitnu službu u prosincu 2020. nakon konzumacije otrovne napuhače, vrste Lagocephalus sceleratus, koju je mjesni prodavač zamijenio s jestivom ribom. Jedan bolesnik, 41-godišnji muškarac koji je pojeo riblju jetru, ubrzo je dobio teške znakove trovanja (4. stupanj štetnih događaja) s potpunom paralizom i respiratornim zatajenjem. Analiza plinova arterijske krvi pokazala je tešku acidozu (pH 7,179) i povišene vrijednosti laktata (5,3 mmol/L). Unatoč intenzivnom lij
+
+---
+
+## 7. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
 
 - **PMID**: [42238863](https://pubmed.ncbi.nlm.nih.gov/42238863/)
 - **Journal**: Journal of acute medicine
@@ -76,7 +104,77 @@ Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity
 
 ---
 
-## 6. Reference intervals for venous blood gas measurement in a healthy Chinese population.
+## 8. Normoglycemic High Anion Gap Metabolic Acidosis With Hyperkalemia: An Unusual Presentation of Alcoholic Ketoacidosis.
+
+- **PMID**: [42428214](https://pubmed.ncbi.nlm.nih.gov/42428214/)
+- **Journal**: Cureus
+- **Publication Date**: 2026 Jun
+- **Authors**: Mishra Armaan, Shagil Mohammad, Singh Lakhan
+- **DOI**: https://doi.org/10.7759/cureus.110494
+
+### Abstract
+
+Alcoholic ketoacidosis (AKA) is a form of high anion gap metabolic acidosis characterized by ketosis, typically occurring in malnourished individuals after binge alcohol consumption. If not identified early, it can lead to life-threatening electrolyte disturbances and cardiac arrhythmias. A man in his fifties presented with altered mental status and shortness of breath. Arterial blood gas analysis revealed severe metabolic acidosis with a pH of 7.22, a bicarbonate level of 4.2 mmol/L, and normal lactate levels. Urine ketones were strongly positive (4+). Electrocardiography demonstrated tall T waves, and serum potassium was elevated at 5.8 mEq/L. The combination of recent binge alcohol use, normoglycemia, ketosis, and high anion gap metabolic acidosis suggested AKA. Prompt fluid resuscitation and electrolyte correction resulted in progressive clinical improvement, and the patient was discharged without complications. This case highlights the importance of considering AKA in normoglycemic patients presenting with high anion gap metabolic acidosis and ketosis, particularly those with a history of excessive alcohol consumption. Accurate differentiation from diabetic ketoacidosis is essential because management strategies differ significantly. It is further distinguished by significant hyperkalemia with electrocardiographic changes, an atypical presentation of AKA in which serum potassium levels are usually normal or low.
+
+---
+
+## 9. [Predictive value of the Vasoactive Inotropic Score for 28-day mortality in patients with atrial fibrillation-related hemodynamic deterioration in the intensive care unit].
+
+- **PMID**: [42427324](https://pubmed.ncbi.nlm.nih.gov/42427324/)
+- **Journal**: Zhonghua wei zhong bing ji jiu yi xue
+- **Publication Date**: 2026 Jun
+- **Authors**: Guo Zhaoxuan, Chang Xiujun, Qin Xian, Fang Jiayu, Shi Xingfu et al.
+- **DOI**: https://doi.org/10.3760/cma.j.cn121430-20260108-00018
+
+### Abstract
+
+**OBJECTIVE**: To evaluate the predictive value of the Vasoactive Inotropic Score (VIS) for 28-day mortality in intensive care unit (ICU) patients with atrial fibrillation (AF)-related hemodynamic deterioration, to determine its optimal cutoff value, and to analyze its independent association with 28-day mortality risk. **METHODS**: A retrospective cohort study was conducted. Patients with AF-related hemodynamic deterioration treated in the Department of Critical Care Medicine of Sichuan Provincial People's Hospital from September 2020 to May 2025 were enrolled. General clinical data, laboratory indices at ICU admission, arterial blood gas analysis and vital signs at AF onset, and the peak VIS within 48 hours of AF onset were collected through the electronic medical record system. According to the 28-day outcome, the patients were divided into a survivor group and a non-survivor group. Clinical data were compared between the two groups. Receiver operator characteristic curve (ROC curve) analysis was performed to evaluate the predictive value of VIS for 28-day mortality and to determine its optimal cutoff value. After stratifying patients by VIS using the optimal cut off value, variables with statistically significant differences in univariate analysis were entered into a multivariable logistic regression model to identify independent predictors of 28-day mortality. An ROC curve was further plotted to evaluate the predictive performance of the combined predictive model. **RESULTS**: A total of 123 ICU patients who met the definition of AF-related hemodynamic deterioration were identified through retrospective review of continuous electrocardiographic monitoring records and expert adjudication. Among them, 68 died and 55 survived within 28 days. Univariate analysis showed that, compared with the survivor group, patients in the non-survivor group were older, had higher proportions of diabetes mellitus, sepsis, and severe pneumonia, were more likely to receive continuou
+
+---
+
+## 10. Liddle syndrome caused by SCNN1B mutation presenting with severe early-onset hypertension and hypokalemia in an adolescent: a case report.
+
+- **PMID**: [42426704](https://pubmed.ncbi.nlm.nih.gov/42426704/)
+- **Journal**: BMC endocrine disorders
+- **Publication Date**: 2026 Jul 09
+- **Authors**: Min Xiao, Liang Yuan
+- **DOI**: https://doi.org/10.1186/s12902-026-02407-7
+
+### Abstract
+
+**BACKGROUND**: Liddle syndrome is a rare autosomal dominant form of monogenic hypertension caused by gain-of-function mutations in genes encoding the epithelial sodium channel (ENaC). The disease is characterized by early-onset hypertension, hypokalemia, metabolic alkalosis, and suppression of the renin-angiotensin-aldosterone system (RAAS). Early diagnosis is essential because targeted therapy with ENaC inhibitors can effectively control blood pressure and prevent end-organ damage, whereas mineralocorticoid receptor antagonists are ineffective. **CASE PRESENTATION**: We report a 15-year-old Chinese male who presented with severe hypertension (196/143 mmHg) and profound hypokalemia (1.73 mmol/L) with a history of hypertension since the age of 10 years. Laboratory evaluation revealed suppressed plasma renin concentration (3.157 pg/mL), relatively normal aldosterone (61.784 pg/mL), and an aldosterone-to-renin ratio of 19.57. Arterial blood gas analysis demonstrated metabolic alkalosis (pH 7.48, HCO₃⁻ 28 mmol/L). A 24-hour urinary potassium excretion of 81.65 mmol/day confirmed renal potassium wasting. Serum cortisol and ACTH were within normal limits. Although definitive biochemical exclusion of apparent mineralocorticoid excess (AME) and glucocorticoid-remediable aldosteronism (GRA) was not performed, no pathogenic variants were identified in HSD11B2, CYP11B1, or CYP11B2 on the comprehensive genetic panel, providing molecular-level exclusion of these conditions. Echocardiography demonstrated ventricular wall thickening with mild valvular regurgitation. Brain MRI revealed bilateral basal ganglia and left corona radiata encephalomalacia with white-matter hyperintensity (Fazekas grade 1), indicating chronic hypertensive brain injury. Next-generation sequencing identified a heterozygous SCNN1B variant (NM_000336.3: c.1853 C > G; p.Pro618Arg; absent from gnomAD), classified as Likely Pathogenic per ACMG/AMP guidelines (criteria: PM1, PM2, PP3, PP4), confirming the diagno
+
+---
+
+## 11. Early EEG Detection of Treatable Non-Convulsive Status Epilepticus in Severe COVID-19-Associated Encephalopathy: A Case Report.
+
+- **PMID**: [42423563](https://pubmed.ncbi.nlm.nih.gov/42423563/)
+- **Journal**: Clinical EEG and neuroscience
+- **Publication Date**: 2026 Jul 09
+- **Authors**: Chu Yu-Cheng, Chu Chan-Lin, Kwan Shang-Yeong
+- **DOI**: https://doi.org/10.1177/15500594261467526
+
+### Abstract
+
+BackgroundPersistent depressed consciousness in severe coronavirus disease 2019 (COVID-19) is commonly attributed to hypoxemia, systemic inflammation, sedative exposure, or metabolic disturbance. Non-convulsive status epilepticus (NCSE), however, may be overlooked without electroencephalography (EEG). This diagnostic principle also applies to persistent unexplained encephalopathy more broadly, particularly when impaired consciousness remains disproportionate to systemic illness.CaseAn 85-year-old woman with Parkinsonism, diabetes mellitus, and prior cerebrovascular disease developed severe COVID-19 pneumonia followed by persistent coma during intensive care. Brain computed tomography showed chronic atrophic change without acute structural lesions, and laboratory and cerebrospinal fluid findings did not identify a major alternative explanation for coma. On the day of EEG, arterial blood gas analysis showed adequate oxygenation without hypercapnia. EEG on hospital day 10 demonstrated abundant right-hemispheric rhythmic/periodic discharges at approximately 2 Hz and focal electrographic seizures arising from the right temporal region with spatiotemporal evolution, consistent with NCSE. Levetiracetam, lacosamide, and midazolam infusion were administered.OutcomeMidazolam infusion was followed by electrographic seizure resolution but did not produce immediate clinical awakening during sedation; spontaneous eye opening emerged approximately 4 days later. Follow-up EEG on hospital day 13 showed seizure resolution with residual diffuse slowing and a sporadic right-hemispheric spike.ConclusionThis case highlights early EEG as a practical diagnostic and treatment-monitoring tool in severe COVID-19-associated encephalopathy when depressed consciousness is persistent or disproportionate to systemic illness. More generally, EEG should be considered in persistent unexplained coma or encephalopathy after stabilization of cardiopulmonary factors.
+
+---
+
+## 12. Reliability of end-tidal carbon dioxide as a surrogate for arterial carbon dioxide assessment in infants undergoing thoracoscopic surgery with one-lung ventilation.
+
+- **PMID**: [42399796](https://pubmed.ncbi.nlm.nih.gov/42399796/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 Jul 03
+- **Authors**: Zhu Change, Wei Sisi, Zhang Rufang, Zhang Mazhong, Wei Rong
+- **DOI**: https://doi.org/10.1186/s12871-026-04077-3
+
+### Abstract
+
+**BACKGROUND**: The reliability of end-tidal carbon dioxide (EtCO₂) as a surrogate for arterial arterial carbon dioxide partial pressure (PaCO₂) during one-lung ventilation (OLV) in infants is uncertain. This study evaluated EtCO₂-PaCO₂ agreement in infants undergoing OLV and identified factors associated with clinically significant discrepancy. **METHODS**: This secondary analysis of a prospective, randomized controlled trial included 172 infants (aged ≤ 2 years) undergoing thoracoscopic surgery. Paired PaCO₂ and EtCO₂ measurements were obtained 20 min after initiating OLV. Clinical agreement was defined a priori as an absolute difference of ≤ 5 mmHg. Statistical evaluations included Bland-Altman analysis and multivariable logistic regression to identify predictors of disagreement, and correlation analyses. **RESULTS**: During OLV, the mean EtCO₂-PaCO₂ bias was 2.8 mmHg with wide 95% limits of agreement (-4.7 to 10.3 mmHg), exceeding the clinically acceptable threshold. Oxygenation impairment (PaO₂/FiO₂ < 200 mmHg) significantly reduced the proportion of clinically acceptable measurements (55.9% vs. 81.7%, P = 0.0001). In multivariable analysis, EtCO₂-PaCO₂ disagreement occurred exclusively in infants ventilated under the non-protective protocol (VT 8 mL/kg with ZEEP). After excluding ventilatory variables that were structurally confounded with randomized allocation, lower lung compliance was independently associated with disagreement (adjusted OR 1.66, 95% CI 1.05-2.64, P = 0.030). **CONCLUSIONS**: EtCO₂ provides only limited reliability as a stand-alone substitute for arterial blood gas analysis in infants during OLV, particularly under non-protective ventilation. The lung-protective ventilation strategy as a composite intervention is associated with substantially improved EtCO₂-PaCO₂ agreement during OLV in infants. Among individual patient-level factors, lower lung compliance independently predicts EtCO₂-PaCO₂ disagreement and may serve as a bedside indicator f
+
+---
+
+## 13. Reference intervals for venous blood gas measurement in a healthy Chinese population.
 
 - **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
 - **Journal**: Clinica chimica acta; international journal of clinical chemistry
@@ -90,7 +188,7 @@ Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity
 
 ---
 
-## 7. Correlation of pulse oximetry with arterial blood gas-derived oxygen saturation in ICU patients on supplemental oxygen: a cross-sectional study.
+## 14. Correlation of pulse oximetry with arterial blood gas-derived oxygen saturation in ICU patients on supplemental oxygen: a cross-sectional study.
 
 - **PMID**: [42433828](https://pubmed.ncbi.nlm.nih.gov/42433828/)
 - **Journal**: Annals of medicine and surgery (2012)
@@ -104,7 +202,7 @@ Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity
 
 ---
 
-## 8. Lung protective ventilation and intraocular pressure in Trendelenburg laparoscopic myomectomy: a randomised trial.
+## 15. Lung protective ventilation and intraocular pressure in Trendelenburg laparoscopic myomectomy: a randomised trial.
 
 - **PMID**: [42056209](https://pubmed.ncbi.nlm.nih.gov/42056209/)
 - **Journal**: Scientific reports
@@ -118,7 +216,21 @@ The Trendelenburg position frequently elevates intraocular pressure (IOP), poten
 
 ---
 
-## 9. The Successful Use of Noninvasive Ventilation in Severe Asthma Exacerbation: A Case Report and Review of the Literature.
+## 16. Acute methemoglobinemia- Diagnosing and managing in family practice.
+
+- **PMID**: [42453244](https://pubmed.ncbi.nlm.nih.gov/42453244/)
+- **Journal**: Journal of family medicine and primary care
+- **Publication Date**: 2026 Apr
+- **Authors**: Vyas Raj D
+- **DOI**: https://doi.org/10.4103/jfmpc.jfmpc_1734_24
+
+### Abstract
+
+Methemoglobinemia is a rare but serious disorder in which hemoglobin is oxidized to methemoglobin, impairing oxygen transport. This condition can present in primary care with cyanosis and oxygen desaturation and is potentially misdiagnosed as respiratory or cardiac failure. We present the case of a 38-year-old male driver who was brought to the emergency department unconscious, with cyanosis, and unresponsive to oxygen therapy. His oxygen saturation was 86% on pulse oximetry, although arterial blood gas analysis showed a normal partial pressure of oxygen. The source of poisoning was unknown at the time of admission. Subsequent co-oximetry testing revealed elevated methemoglobin (MtHb) levels (64.8%), confirming a diagnosis of methemoglobinemia. Immediate treatment with intravenous methylene blue resulted in a prompt clinical recovery, with a return to consciousness and normalization of methemoglobin levels within hours. This case highlights the importance of considering methemoglobinemia in patients presenting with unexplained unconsciousness and cyanosis. Early diagnosis and treatment, even when the source of poisoning is unclear, are key to preventing complications and improving patient outcomes.
+
+---
+
+## 17. The Successful Use of Noninvasive Ventilation in Severe Asthma Exacerbation: A Case Report and Review of the Literature.
 
 - **PMID**: [42147523](https://pubmed.ncbi.nlm.nih.gov/42147523/)
 - **Journal**: Cureus
@@ -129,5 +241,19 @@ The Trendelenburg position frequently elevates intraocular pressure (IOP), poten
 ### Abstract
 
 Acute exacerbations of bronchial asthma (AEBA) complicated by hypercapnic respiratory failure (RF) are traditionally managed with invasive mechanical ventilation (IMV) when medical therapy fails. However, IMV is associated with significant complications, including barotrauma, hemodynamic instability, and increased mortality. The role of noninvasive ventilation (NIV) in AEBA remains controversial due to the limited and inconsistent nature of the available evidence. We report the case of an 18-year-old female with a history of bronchial asthma who presented with severe AEBA and acute hypercapnic RF that was refractory to standard medical therapy, including bronchodilators, systemic corticosteroids, epinephrine, and magnesium sulfate. Arterial blood gas (ABG) analysis demonstrated respiratory acidosis, with a peak partial pressure of carbon dioxide (PaCO2) of 58 mmHg and a pH of 7.21. Although she was markedly tachypneic and in significant respiratory distress, she remained alert and hemodynamically stable, which allowed for a closely monitored trial of bilevel positive airway pressure (BiPAP) in the ICU. Rapid improvement in gas exchange was observed within three hours, with complete normalization by 10 hours, thereby avoiding the need for endotracheal intubation.
+
+---
+
+## 18. Successful management of life-threatening acute pulmonary embolism during anesthesia induction for comminuted intertrochanteric fracture surgery: a case report.
+
+- **PMID**: [42440677](https://pubmed.ncbi.nlm.nih.gov/42440677/)
+- **Journal**: Frontiers in cardiovascular medicine
+- **Publication Date**: 2026
+- **Authors**: Tang Minghao, Zhao Jing, Tong Ruijun
+- **DOI**: https://doi.org/10.3389/fcvm.2026.1791835
+
+### Abstract
+
+**BACKGROUND**: Acute perioperative pulmonary embolism (APE) is a life-threatening complication that demands immediate clinical recognition and intervention. This report describes the emergency management and successful recovery of an 85-year-old female who experienced sudden, catastrophic cardiovascular collapse due to APE immediately following general anesthesia induction for orthopedic surgery. **METHODS**: A retrospective analysis was conducted on an 85-year-old female admitted with an un-stabilized comminuted intertrochanteric fracture of the right femur. The study chronologically details the clinical presentation during an 11-day preoperative immobilization window, the intraoperative crisis management utilizing real-time bedside diagnostics, and the subsequent multidisciplinary rescue protocol involving targeted pharmacological thrombolysis and intensive care stabilization. **RESULTS**: Initial screening revealed a profound hypercoagulable state. Following anesthesia induction, the patient experienced sudden cardiovascular collapse and new-onset atrial fibrillation with complete right bundle branch block. Bedside echocardiography rapidly confirmed right ventricular enlargement, indicating massive APE and obstructive shock. An emergency low-dose systemic thrombolysis regimen (50 mg alteplase) was successfully executed. Post-thrombolysis evaluations in the intensive care unit noted expected consumptive coagulopathy and transient anemia, managed via supportive care and blood transfusion. Computed tomography pulmonary angiography confirmed bi-lobed pulmonary embolism. Under multidisciplinary optimization and transitioned rivaroxaban therapy, the patient achieved complete clinical recovery at 1-year follow-up. **CONCLUSIONS**: This case underscores the importance of intraoperative point-of-care ultrasound and electrocardiographic monitoring in fragile geriatric patients undergoing extended preoperative delays. When mechanical options are unavailable, low-dose syste
 
 ---
