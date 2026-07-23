@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-07-20
+**Update Time**: 2026-07-23
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -76,7 +76,21 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 6. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 6. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+
+- **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
+- **Journal**: Journal of chest surgery
+- **Publication Date**: 2026 Jul 22
+- **Authors**: de Avila Carvalho Erlon
+- **DOI**: https://doi.org/10.5090/jcs.25.160
+
+### Abstract
+
+Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional therapy for pleural malignancies. However, the combination of surgical trauma, intrathoracic hyperthermia, and cytotoxic exposure to cisplatin can trigger a complex systemic inflammatory response that resembles septic shock, vasoplegic syndrome, and major burn injury. This review proposes the concept of aseptic-thermochemical shock as a pathophysiological framework for understanding the systemic inflammatory response induced by hyperthermic intrathoracic chemotherapy and outlines a perioperative management protocol that integrates strategies from burn and sepsis care. A narrative review was conducted using PubMed, Scopus, Embase, and LILACS to identify relevant studies on hyperthermic intrathoracic chemotherapy, systemic inflammation, vasoplegic syndrome, and cisplatin nephrotoxicity. Clinical analogies with septic and burn physiology were analyzed to develop a framework for perioperative management. Hyperthermic intrathoracic chemotherapy induces a sterile thermochemical inflammatory response characterized by endothelial dysfunction, vasodilation, capillary leak, and hemodynamic instability. The proposed management strategy includes prophylactic hydration, gastric protection, and nephroprotective agents during the preoperative phase; temperature control, goal-directed fluid therapy, and selective use of methylene blue for refractory vasoplegia during the intraoperative phase; and fluid resuscitation based on modified Parkland-derived principles with hemodynamic optimization guided by Surviving Sepsis Campaign principles during the postoperative phase. These measures are intended to reduce vasoplegic and nephrotoxic complications and improve perioperative outcomes. Hyperthermic intrathoracic chemotherapy can produce a systemic inflammatory response that combines physiological features of major burns, vasoplegic syndrome, and septic shock. The proposed paradigm of "aseptic-thermochemical 
+
+---
+
+## 7. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -90,7 +104,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 7. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
+## 8. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
 
 - **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
 - **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
@@ -101,20 +115,6 @@ Airway complications after cervical spine surgery are infrequent but potentially
 ### Abstract
 
 This case report outlines the multidisciplinary perioperative management of a 69-year old female with a giant ovarian borderline tumor and severe scoliosis who underwent total hysterectomy and bilateral salpingo-oophorectomy. Preoperative optimization incorporated respiratory training and nutritional support. Intraoperative interventions included video laryngoscopy, lung-protective ventilation, individualized positioning, and goal-directed fluid therapy with prophylactic vasopressor use during tumor resection. The postoperative course was complicated by upper gastrointestinal bleeding, managed endoscopically. This experience reinforces the necessity of a physiology based, nurse-coordinated multidisciplinary strategy in patients with concurrent giant pelvic tumors and spinal deformity, and advocates for gastrointestinal prophylaxis in chronic NSAID users undergoing major surgery.
-
----
-
-## 8. Incidence and Associations of Acute Kidney Injury After Lung Resection Surgery: A Systematic Review and Meta-analysis.
-
-- **PMID**: [42191521](https://pubmed.ncbi.nlm.nih.gov/42191521/)
-- **Journal**: Journal of cardiothoracic and vascular anesthesia
-- **Publication Date**: 2026 Apr 25
-- **Authors**: Shan Xi-Sheng, Yan Jing, Wang Yi-Qing, Zhang Yang, Li Xin-Yu et al.
-- **DOI**: https://doi.org/10.1053/j.jvca.2026.04.035
-
-### Abstract
-
-The incidence and clinical implications of acute kidney injury (AKI) following thoracic lung resection surgery remain insufficiently characterized. The authors conducted a systematic review to determine the incidence of AKI, identify risk factors for AKI, evaluate preventive interventions for AKI, and assess the associations of AKI with key postoperative outcomes. A systematic search of PubMed, Embase, and the Cochrane Library was conducted through June 25, 2025. The authors included observational and interventional studies that reported the incidence of AKI following lung resection, defined according to Risk, Injury, Failure, Loss, End-stage (RIFLE), Acute Kidney Injury Network (AKIN), or Kidney Disease: Improving Global Outcomes (KDIGO) consensus-based criteria. The study protocol was prospectively registered in the International Prospective Register of Systematic Reviews (CRD420251142075). Twenty studies involving 19,918 patients were included. The pooled incidence of AKI was 5.31% (95% confidence interval [CI], 3.61%-6.70%), with mild AKI and moderate to severe AKI occurring in 5.51% and 0.96% of patients, respectively. AKI was significantly associated with prolonged hospital stay (mean difference, 0.92 days; 95% CI, 0.52-1.30 days) and increased short-term mortality (risk ratio, 5.60; 95% CI, 1.66-18.83). Goal-directed fluid therapy did not significantly reduce the risk of AKI (risk ratio, 0.64; 95% CI, 0.32-1.27). AKI is a common complication following thoracic lung resection surgery and is strongly associated with a broad spectrum of severe adverse postoperative outcomes. In patients undergoing lung resection, AKI should be considered as a highly significant prognostic indicator that requires early risk stratification and proactive preventive strategies.
 
 ---
 
