@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-07-27
+**Update Time**: 2026-07-30
 **Search Range**: Last 30 days
 **Papers Found**: 18
 
@@ -20,21 +20,7 @@
 
 ---
 
-## 2. Diagnosis, Prevention, Management, and Prognostication of Delirium in Acute-Care Neurosurgical Patients: A Systematic Scoping Review.
-
-- **PMID**: [42209900](https://pubmed.ncbi.nlm.nih.gov/42209900/)
-- **Journal**: Neurocritical care
-- **Publication Date**: 2026 May 28
-- **Authors**: Marchesini Nicolò, Pasqualini Filippo, Picetti Edoardo, Sala Francesco
-- **DOI**: https://doi.org/10.1007/s12028-026-02553-9
-
-### Abstract
-
-Delirium represents a frequent and serious complication in neurosurgical patients, contributing to worse clinical outcomes and increased healthcare burden, yet evidence specific to this population remains fragmented. This scoping review systematically mapped literature on diagnosis, prevention, management, and prognostication of delirium in adult neurosurgical patients, including both surgical and nonsurgical settings, to identify knowledge gaps and inform future research and practice. Following JBI methodology and PRISMA-ScR guidelines, PubMed, MEDLINE, Scopus, and Web of Science were searched for studies published between January 2000 and November 2024. Of 4519 records screened, 102 studies met inclusion criteria. Reported delirium incidence varied widely (0.47-85%), with higher rates in cranial compared with spinal populations. Diagnosis relied mainly on validated screening tools such as the Confusion Assessment Method, while emerging approaches-including structured fluctuation-based assessments, electroencephalography, and pupillometry-showed potential for improved detection. Preventive evidence was limited; dexmedetomidine use, goal-directed fluid therapy, and early frailty-focused rehabilitation were associated with reduced incidence. Management data were scarce, with only two small randomized trials suggesting benefit from nonpharmacological family-environmental interventions and dexmedetomidine compared with haloperidol. Most studies focused on prognostication, identifying consistent risk factors such as preoperative cognitive impairment, frailty, sleep disruption, intraoperative hemodynamic instability, transfusion, and inflammatory or neuronal biomarkers. Across settings, delirium was associated with prolonged hospitalization, long-term cognitive decline, increased mortality, and greater influence on end-of-life decision-making. Overall, current evidence emphasizes risk identification rather than intervention. Significant gaps persist in neurosurgery-speci
-
----
-
-## 3. Perioperative Management of Patients Receiving Renal Replacement Therapy Undergoing Major Cardiac Surgery: A Narrative Review.
+## 2. Perioperative Management of Patients Receiving Renal Replacement Therapy Undergoing Major Cardiac Surgery: A Narrative Review.
 
 - **PMID**: [42288395](https://pubmed.ncbi.nlm.nih.gov/42288395/)
 - **Journal**: Journal of cardiothoracic and vascular anesthesia
@@ -48,7 +34,7 @@ The perioperative management of patients with end-stage renal disease on renal r
 
 ---
 
-## 4. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
+## 3. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
 
 - **PMID**: [41732299](https://pubmed.ncbi.nlm.nih.gov/41732299/)
 - **Journal**: Journal of clinical orthopaedics and trauma
@@ -62,7 +48,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 5. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+## 4. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
 
 - **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
 - **Journal**: BMJ open
@@ -76,7 +62,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 6. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+## 5. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
 
 - **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
 - **Journal**: Cureus
@@ -90,7 +76,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 7. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
+## 6. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
 
 - **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
 - **Journal**: Journal of clinical anesthesia
@@ -104,7 +90,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 8. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 7. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
 
 - **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
 - **Journal**: Journal of chest surgery
@@ -118,7 +104,7 @@ Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional 
 
 ---
 
-## 9. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 8. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -132,7 +118,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 10. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
+## 9. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
 
 - **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
 - **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
@@ -143,6 +129,20 @@ Airway complications after cervical spine surgery are infrequent but potentially
 ### Abstract
 
 This case report outlines the multidisciplinary perioperative management of a 69-year old female with a giant ovarian borderline tumor and severe scoliosis who underwent total hysterectomy and bilateral salpingo-oophorectomy. Preoperative optimization incorporated respiratory training and nutritional support. Intraoperative interventions included video laryngoscopy, lung-protective ventilation, individualized positioning, and goal-directed fluid therapy with prophylactic vasopressor use during tumor resection. The postoperative course was complicated by upper gastrointestinal bleeding, managed endoscopically. This experience reinforces the necessity of a physiology based, nurse-coordinated multidisciplinary strategy in patients with concurrent giant pelvic tumors and spinal deformity, and advocates for gastrointestinal prophylaxis in chronic NSAID users undergoing major surgery.
+
+---
+
+## 10. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
+
+- **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
+- **Journal**: Journal of clinical medicine
+- **Publication Date**: 2026 Jul 10
+- **Authors**: Torabi Saeed, Omuro Philipp K, Overbeek Remco, Adam Elisabeth H, Stoll Sandra E et al.
+- **DOI**: https://doi.org/10.3390/jcm15145432
+
+### Abstract
+
+Background: Perioperative fluid therapy plays a critical role in the outcome of microvascular free-flap surgery. While both inadequate and excessive fluid administration may impair flap perfusion and systemic recovery, the impact of fluid balance and crystalloid volume-normalized to body weight and operative time-on postoperative complications remains underexplored. This study investigates the dose-dependent effects of intraoperative fluid and crystalloid administration on flap-related and systemic outcomes. Methods: This retrospective, single-centre cohort study included 495 adult patients who underwent microvascular free-flap transplantation between 2009 and 2020. Intraoperative fluid balance and crystalloid volumes were normalized to patient weight and operative duration (mL/kg/h) and stratified into pre-defined thresholds. The primary endpoint was the incidence of flap-related complications (partial/total flap loss, thrombosis, revision surgery). Secondary endpoints included flap loss, suture insufficiency, pneumonia, ICU length of stay (LOS-ICU), and in-hospital mortality. Results: Higher intraoperative fluid rates were significantly associated with higher complication rates. Flap-related complications occurred in 54.8% of patients receiving >10 mL/kg/h versus 37.1% in the ≤5 mL/kg/h group (p < 0.01) and reached 100% in patients receiving >20 mL/kg/h, although this category comprised only seven patients (p < 0.01). Suture insufficiency increased from 3.1% (≤5 mL/kg/h) to 57.1% (>20 mL/kg/h; p < 0.01). Pneumonia incidence rose from 8.8% (≤5 mL/kg/h) to 31.9% (>10 mL/kg/h; p < 0.01). A U-shaped trend was observed for flap loss, with the highest rate (24.6%) at >10 mL/kg/h. Crystalloid volume > 3000 mL was significantly associated with higher flap loss (20.2% vs. 0.2%; p < 0.01) and suture insufficiency (7.0% vs. 0.2%; p = 0.02). Red blood-cell (RBC) transfusions were associated with higher overall complication rates (45.6% vs. 34.2%; p < 0.01) and suture insuffic
 
 ---
 

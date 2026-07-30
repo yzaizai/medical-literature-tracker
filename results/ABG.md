@@ -1,147 +1,119 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-07-27
+**Update Time**: 2026-07-30
 **Search Range**: Last 30 days
-**Papers Found**: 10
+**Papers Found**: 8
 
 ---
 
-## 1. Butterfly Glioma of the Corpus Callosum Mimicking Rapidly Progressive Dementia.
+## 1. Assessment of Conventional Oxygen Therapy, High-Flow Nasal Cannula, and Non-Invasive Ventilation to Secure Bronchofiberoscopy in Patients with Respiratory Acidosis: A Narrative Review and a Proposal for a Protocol in View of a Randomized Multicenter Study.
 
-- **PMID**: [42502551](https://pubmed.ncbi.nlm.nih.gov/42502551/)
+- **PMID**: [42194921](https://pubmed.ncbi.nlm.nih.gov/42194921/)
+- **Journal**: Journal of clinical medicine
+- **Publication Date**: 2026 May 21
+- **Authors**: Rycerski Mikołaj, Warcholiński Adam, Zieliński Michał, Longhini Federico, Sircar Mrinal et al.
+- **DOI**: https://doi.org/10.3390/jcm15103960
+
+### Abstract
+
+Background: Fiberoptic bronchoscopy (FOB) is a procedure routinely performed in clinical practice for both diagnostic and therapeutic purposes. FOB frequently impairs respiratory function, which may exacerbate respiratory failure. Currently, conventional oxygen therapy (COT) is the most commonly used form of respiratory support; however, non-invasive ventilation (NIV) and high-flow nasal cannula (HFNC) are being used increasingly. The optimal settings and indications for NIV and HFNC in patients with respiratory acidosis undergoing FOB have not yet been determined. Methods: This is a prospective, multicenter, randomized controlled trial including two parallel study populations defined by the indication for bronchoscopy and the type of respiratory acidosis. Therapeutic FOB (Study 1): Patients with decompensated type 2 respiratory failure (pH < 7.35 and PaCO2 > 45 mmHg) will be randomized to receive one of four methods of respiratory support during bronchoscopy: COT, NIV, HFNC, or invasive mechanical ventilation (IMV) (n = 315). Diagnostic FOB (Study 2): Patients with chronic respiratory acidosis (pH ≥ 7.35, PaCO2 > 45 mmHg, and/or HCO3- > 27 mmol/L) will be randomized to receive COT, NIV, or HFNC during bronchoscopy (n = 210). Before FOB, patients in both groups will undergo arterial blood gas (ABG) analysis. During FOB, vital signs will be continuously monitored, including SpO2, FiO2, TcCO2, ECG, and heart rate. After FOB, ABG analysis will be repeated, and study endpoints and complications, if any, will be recorded. The planned study period is from April 2026 to April 2029. Results: Based on the study results, we aim to evaluate the effectiveness and safety of different respiratory support strategies during flexible bronchoscopy, with the primary objective of comparing the rate of treatment failure among COT, HFNC, NIV, and IMV. Treatment failure is defined as the need for endotracheal intubation, premature termination of the procedure, or escalation of respiratory
+
+---
+
+## 2. Differences in umbilical cord blood gas parameters between women with and without gestational diabetes: a single-center prospective-retrospective cohort study.
+
+- **PMID**: [42091959](https://pubmed.ncbi.nlm.nih.gov/42091959/)
+- **Journal**: Scientific reports
+- **Publication Date**: 2026 May 06
+- **Authors**: Szablewska Anna Weronika, Zając Bartosz
+- **DOI**: https://doi.org/10.1038/s41598-026-43352-8
+
+### Abstract
+
+Gestational diabetes mellitus (GDM) is associated with various perinatal complications and may affect neonatal acid-base status. Umbilical cord arterial blood gas (ABG) analysis provides an objective measure of fetal well-being at birth, although existing evidence on the impact of GDM on ABG parameters remains inconclusive. The objective of the study is to compare umbilical cord ABG parameters-pH, partial pressure of carbon dioxide (pCO2) and partial pressure of oxygen (pO2), base excess and bicarbonate-between pregnancies with and without GDM complications, and to evaluate the potential influence of GDM on neonatal oxygenation and acid-base balance. This single-center prospective-retrospectivecohort study was conducted in a tertiary care hospital in northern Poland and included 191 pregnant women (44 with GDM, 147 without). GDM was diagnosed based on International Association of Diabetes and Pregnancy Study Groups, World Health Organization, and national guidelines. Arterial cord blood samples were collected immediately after birth and analyzed for ABG parameters. The newborns of mothers with GDM had significantly higher pH values and significantly lower pCO2 levels compared to the controls. No significant difference was observed in pO2, base excess and bicarbonate values between the groups. These findings suggest that, in well-managed pregnancies, GDM may not lead to impaired fetal oxygenation or acidosis at birth. Our findings are consistent with the hypothesis that effective glycemic control and standardized perinatal care may mitigate the risk of neonatal acid-base disturbances. Further studies are warranted to explore the role of treatment modalities and delivery factors in shaping neonatal outcomes.
+
+---
+
+## 3. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
+
+- **PMID**: [42326233](https://pubmed.ncbi.nlm.nih.gov/42326233/)
 - **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Maity Soumyadeep, Ray Girin, Gupta Chandra Paul, Basu Satyaki, Kishlay Kumar
-- **DOI**: https://doi.org/10.7759/cureus.111462
+- **Publication Date**: 2026 May
+- **Authors**: Khan Imran Ahmed, Tiwari Jai Prakash
+- **DOI**: https://doi.org/10.7759/cureus.109051
 
 ### Abstract
 
-A butterfly-pattern, high-grade glioma involving the corpus callosum is an uncommon but highly aggressive brain tumour that may present with neuropsychiatric manifestations and mimic rapidly progressive dementia, leading to diagnostic delay. Disruption of frontal-callosal connectivity may produce behavioural and cognitive abnormalities resembling behavioural and psychological symptoms of dementia (BPSD), resulting in initial misdiagnosis. A 65-year-old postmenopausal woman presented with a two-week history of vomiting, progressive disorientation, generalized weakness, irrelevant speech, cognitive decline, and bladder and bowel dysfunction. She had previously been treated for acute-onset dementia with BPSD using donepezil and memantine without prior neuroimaging. Neurological examination revealed asymmetric pyramidal signs, rigidity, and bilaterally constricted pupils. Arterial blood gas analysis showed respiratory alkalosis with hypocalcaemia, and urine culture isolated extended-spectrum beta-lactamase (ESBL)/AmpC-producing Klebsiella aerogenes. Contrast-enhanced MRI demonstrated a greater than 65 × 61 mm solid-cystic heterogeneously enhancing mass involving the genu of the corpus callosum with bifrontal extension and perilesional oedema, favouring a radiologically suspected high-grade glioma involving the corpus callosum. A stereotactic biopsy was planned for histopathological confirmation. The patient received corticosteroids, anti-epileptics, antibiotics, and supportive treatment, with subsequent clinical improvement. This case underscores the importance of early neuroimaging in atypical dementia presentations, especially when focal neurological deficits or signs of raised intracranial pressure are present. Histopathological confirmation remains essential for definitive diagnosis and treatment planning.
+Delayed emergence from anesthesia is a frequent challenge in surgical settings. Common etiologies include residual drug effects, metabolic derangements, or neurological insults. We report a case of a 55-year-old woman who underwent an elective six-hour lumbar laminectomy and cervical implantation surgery. Despite an uneventful intraoperative course and routine neuromuscular blockade reversal, the patient exhibited somnolence and ventilatory failure after reversal and extubation. Arterial blood gas (ABG) analysis revealed severe respiratory acidosis. The patient required re-intubation and controlled mechanical ventilation to facilitate carbon dioxide (CO₂) washout. Following normalization of arterial partial pressure of carbon dioxide (PaCO₂), the patient regained consciousness and was successfully extubated the following morning. This case highlights the importance of monitoring ventilation adequacy in the transition from controlled to spontaneous respiration following long-duration surgeries. Importantly, normal intraoperative end-tidal CO₂ values should not be considered reassuring in high-risk patients, as significant arterial hypercapnia may remain undetected.
 
 ---
 
-## 2. Pulmonary Tumor Thrombotic Microangiopathy Diagnosed by Right Heart Catheterization in a Patient With Breast Cancer: A Case Report.
+## 4. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
 
-- **PMID**: [42500795](https://pubmed.ncbi.nlm.nih.gov/42500795/)
+- **PMID**: [42238863](https://pubmed.ncbi.nlm.nih.gov/42238863/)
+- **Journal**: Journal of acute medicine
+- **Publication Date**: 2026 Jun 01
+- **Authors**: Chororia Samata, Guru Satyabrata, Hansda Upendra, Brink Sadananda
+- **DOI**: https://doi.org/10.6705/j.jacme.202606_16(2).0006
+
+### Abstract
+
+Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity by inhibiting post-synaptic nicotinic acetylcholine receptors and affecting calcium release in the sarcoplasmic reticulum. While mortality is generally low, severe cases can lead to respiratory failure. A 25-year-old male presented to the emergency department six hours after intentionally consuming approximately 12 g of 50% CH. He exhibited vomiting, drowsiness (Glasgow Coma Score [GCS]: 13/15), and bradycardia (HR: 52/min). Initial arterial blood gas (ABG) analysis revealed mixed acidosis (pH: 7.296, pCO2: 60.8, pO2: 102.8, Lactate: 4.2, and HCO3: 20.3). Notably, serum pseudo-cholinesterase levels and other laboratory findings were within normal limits. The patient was treated with non-invasive ventilation (NIV) for respiratory acidosis and administered a loading dose of N-acetylcysteine (NAC) (150 mg/kg) along with symptomatic management. His sensorium and ABG parameters normalized within six hours of treatment. He remained asymptomatic and was discharged after three days. Human toxicity from CH is rarely reported, and cases involving mixed acidosis are particularly sparse in literature. This case highlights the importance of recognizing CH poisoning, which can mimic organophosphate toxicity. Vigilant monitoring for acidosis via ABG and early intervention with NAC and supportive care, such as NIV, are crucial for successful clinical outcomes.
+
+---
+
+## 5. Reference intervals for venous blood gas measurement in a healthy Chinese population.
+
+- **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
+- **Journal**: Clinica chimica acta; international journal of clinical chemistry
+- **Publication Date**: 2026 Jul 02
+- **Authors**: Jiang Sheng, Zhao Qian, Wang Hua, Li Min, Ou Yuanzhu et al.
+- **DOI**: https://doi.org/10.1016/j.cca.2026.121212
+
+### Abstract
+
+**OBJECTIVES**: Venous blood gas (VBG) analysis has gained increasing popularity as an alternative to arterial blood gas (ABG) analysis, owing to its lower invasiveness and greater feasibility of sample collection. However, currently available reference intervals may not be applicable to the Chinese population due to regional, ethnic, environmental, and lifestyle differences. Therefore, this study aimed to establish appropriate venous blood gas reference intervals (RI) for the Chinese population from plain areas. **METHODS**: A total of 1189 volunteers (595 males, 594 females, aged 10-97 years) and 149 validation volunteers (94 females, 55 males, aged 10-97 years) with conditions unlikely to influence blood gas and acid-base balance were enrolled. Venous blood samples were collected in syringes and analyzed using an ABL90 blood gas analyzer (Radiometer Pacific Pty. Ltd.). Non-parametric methods were applied to establish VBG reference intervals and parametric methods were applied to pCO2 reference intervals. **RESULTS**: After exclusions, VBG RI was derived from 1189 volunteers: pH 7.282-7.438, partial pressure of carbon dioxide(pCO2) Male 32.8-62.2 mmHg Female 33.2-58.7 mmHg, partial pressure of oxygen(pO2)16.0-74.0 mmHg, sodium 134-148 mmol/L, potassium 3.14-4.55 mmol/L, chloride 99-111 mmol/L, ionized calcium 1.07-1.26 mmol/L, total hemoglobin(THB) Male 10.69-17.5 g/dL Female 10.3-15.9 g/dL. After verification in 149 healthy individuals, all reference intervals showed qualified rates above 92%, supporting their clinical applicability.
+
+---
+
+## 6. Is respiratory failure in patients of post-tuberculosis COPD less responsive to non-invasive ventilation?
+
+- **PMID**: [42457296](https://pubmed.ncbi.nlm.nih.gov/42457296/)
+- **Journal**: The Indian journal of tuberculosis
+- **Publication Date**: 2026 Jul
+- **Authors**: Mishra Alok Kumar, Shukla Amitabh Das, Singh Abhishek, Yadav Dharmendra Kumar
+- **DOI**: https://doi.org/10.1016/j.ijtb.2025.10.008
+
+### Abstract
+
+**BACKGROUND**: Chronic obstructive pulmonary disease (COPD) represents a heterogeneous condition with varying etiological backgrounds. Present study aimed to compare the clinical features, effectiveness of non-invasive ventilation (NIV-BiPAP) and outcome of respiratory failure, among patients with post-infectious (COPD-I) versus environmental (COPD-E) etiotypes. **METHODOLOGY**: This comparative observational study was conducted on 120 respiratory failure patients of COPD, divided into two etiotype groups as, COPD-I with post-tubercular etiology and COPD-E with environmental exposure etiology. Patients of both groups were monitored and compared for clinical features, effectiveness of NIV (BiPAP) on basis of arterial blood gas (ABG) parameters and 12-h outcome. **RESULTS**: Apart from body weight, analysis of demographic features revealed no significant differences between groups, where COPD-I patients had significantly lower body weight (45.94 kg vs 48.81 kg, p = 0.014). Both groups showed improvement in respiratory parameters over 12 h. ABG analysis demonstrated correction of respiratory acidosis with pH improving from acidosis (7.28-7.39 in COPD I; 7.25 to 7.38 in COPD E) and PaCO2 levels reducing from hypercapnic values, (69-52 mmHg in COPD I; 72 to 48 mmHg in COPD E). Hemodynamic improvement was observed in both the groups with no significant intergroup variation. Clinical improvement was observed in 90.32 % of COPD-I and 98.27 % of COPD-E patients, with intubation rates of 9.67 % and 1.72 % respectively (p = 0.063). **CONCLUSION**: NIV has comparable effectiveness and outcome in respiratory failure patients of both COPD etiotypes. Both groups showed equally effective response to NIV therapy, supporting its use as first-line treatment, regardless of COPD etiology.
+
+---
+
+## 7. Correlation of pulse oximetry with arterial blood gas-derived oxygen saturation in ICU patients on supplemental oxygen: a cross-sectional study.
+
+- **PMID**: [42433828](https://pubmed.ncbi.nlm.nih.gov/42433828/)
+- **Journal**: Annals of medicine and surgery (2012)
+- **Publication Date**: 2026 Jul
+- **Authors**: Pandey Bikash, Jha Birendra, Shahi Sumit, Adhikari Shital
+- **DOI**: https://doi.org/10.1097/MS9.0000000000004747
+
+### Abstract
+
+**INTRODUCTION**: Oxygen is essential for maintaining proper bodily functions and is closely regulated within the body. Hypoxemic patients, who have lower than normal oxygen levels in their blood, require precise monitoring to ensure appropriate oxygen therapy. Arterial blood gas (ABG) analysis (SaO2) and pulse oximetry (SpO2) and are two widely used methods to assess oxygen saturation of hemoglobin in blood. Although ABG analysis is gold standard, it is an invasive procedure. On the other hand, pulse oximeter is a small handy device that is non-invasive and accurate to certain extent in the determination of oxygen saturation. In developing countries like Nepal where ABG machines are not available in every health care facility, this study aims to compare oxygen saturation by ABG with pulse oximeter and look for the reliability of pulse oximeter as alternative to ABG. **METHOD**: This was a prospective cross-sectional observational study conducted among 152 patients, admitted to Medical Intensive Care Unit (MICU), who required supplemental oxygen during hospital stay. The ABG analysis was done, and pulse oximeter reading was recorded simultaneously. Data were entered in a structured proforma. The collected data were entered into IBM SPSS for statistical analysis. Statistical analysis included percentage, mean, median, standard deviation, and correlation between SaO2 and SpO2 were calculated using Pearson's correlation coefficient. **RESULT**: A total of 152 patients were included in the study, of which 74 were male and 78 were female with median age of 73.50 (interquartile range [IQR] 16) years. Most of the hypoxemic patients, 132 (86.84%), admitted to MICU had shortness of breath as the most prominent symptom and leading cause of MICU admission with hypoxemia was acute exacerbation of chronic obstructive pulmonary disease in 78 patients (51.32%). The most common mode of respiratory support was in the form of nasal prongs in 90 (59.21%) patients followed by non-invas
+
+---
+
+## 8. The Successful Use of Noninvasive Ventilation in Severe Asthma Exacerbation: A Case Report and Review of the Literature.
+
+- **PMID**: [42147523](https://pubmed.ncbi.nlm.nih.gov/42147523/)
 - **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Tajima Shonosuke, Nakata Yugo, Sanda Kazuhiro, Koshimo Yoshihiko, Shigematsu Michio
-- **DOI**: https://doi.org/10.7759/cureus.111406
+- **Publication Date**: 2026 Apr
+- **Authors**: Gharti Sakar B, Tan Ernestine Faye S, Schmidt Marie
+- **DOI**: https://doi.org/10.7759/cureus.107025
 
 ### Abstract
 
-Pulmonary tumor thrombotic microangiopathy (PTTM) is a severe complication of malignancy, characterized by rapidly progressive pulmonary hypertension and a dismal prognosis. This report describes the case of a 71-year-old woman with a history of estrogen receptor (ER)-positive left breast cancer who developed PTTM. She presented with exertional dyspnea and a cough. Arterial blood gas analysis revealed hypoxemia with an elevated alveolar-arterial oxygen gradient. Chest computed tomography (CT) showed diffuse ground-glass and nodular opacities without obvious pulmonary embolism (PE). Echocardiography revealed right ventricular enlargement and moderate pulmonary hypertension. Right heart catheterization confirmed severe pulmonary hypertension with a mean pulmonary artery pressure of 46 mmHg and pulmonary vascular resistance of 844 dynes/sec/cm⁵. After transbronchial lung biopsy (TBLB) and bronchoalveolar lavage (BAL) failed to yield a diagnosis, PTTM was confirmed by detecting malignant cells via cytology of blood aspirated from the pulmonary artery during catheterization. The administration of systemic chemotherapy resulted in a marked improvement in hemodynamics, radiological findings, and symptoms, allowing her to be weaned from home oxygen therapy.
-
----
-
-## 3. Urinothorax Secondary to Pyelonephritis With Obstructing Ureteric Calculi: A Rare Cause of Pleural Effusion.
-
-- **PMID**: [42483122](https://pubmed.ncbi.nlm.nih.gov/42483122/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Panda Anshuman, Jayprakash Navneeth, Bhatia Prashant, Singh Ashutosh K, Mahalpure Sneha
-- **DOI**: https://doi.org/10.7759/cureus.111247
-
-### Abstract
-
-Urinothorax is a rare cause of pleural effusion resulting from the presence of urine in the pleural space due to disruption of the urinary tract or obstructive uropathy. Only a limited number of cases have been reported in the literature to date. It is an underrecognized condition frequently delayed in diagnosis when respiratory symptoms predominate over genitourinary complaints. Prompt recognition is essential, as management must be directed at the underlying uropathy rather than the pleural effusion itself. We report a case of urinothorax secondary to pyelonephritis with obstructing ureteric calculi in a 30-year-old man who presented with progressive breathlessness and required admission to the intensive care unit. Admission arterial blood gas analysis demonstrated metabolic acidosis with inadequate respiratory compensation (pH 7.29, partial pressure of arterial carbon dioxide 38 mmHg, bicarbonate 17 mEq/L, partial pressure of arterial oxygen 62 mmHg, and lactate 3.2 mmol/L). Noncontrast computed tomography of the chest and abdomen demonstrated right-sided ureteric calculi with mild hydroureteronephrosis, perinephric fat stranding, and fluid collections extending from the perinephric and posterior pararenal spaces cranially toward the right pleural cavity, consistent with urinary extravasation. Pleural fluid analysis demonstrated markedly elevated urea (135 mg/dL) and creatinine (6.9 mg/dL), yielding a pleural fluid-to-serum creatinine ratio of 2.65, confirming the diagnosis of urinothorax. Pleural fluid pH was 7.25, consistent with the characteristically low pH seen in urinothorax. Both urine and pleural fluid cultures grew multidrug-resistant Escherichia coli, and the patient was treated with meropenem. Bilateral double-J stenting led to progressive recovery in renal function (serum creatinine 2.6 mg/dL on admission, improving to 1.5 mg/dL by day 4) and successful weaning from respiratory support. This case highlights the importance of clinical suspicion for uri
-
----
-
-## 4. Acute Respiratory Distress Syndrome as a Rare but Potentially Fatal Complication of Acute Type B Aortic Dissection: A Case Report.
-
-- **PMID**: [42483118](https://pubmed.ncbi.nlm.nih.gov/42483118/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Erregui Hafsa, Moujahid Mehdi, Madouim Hamza, Houba Abdelhafid, Doghmi Nawfal
-- **DOI**: https://doi.org/10.7759/cureus.111243
-
-### Abstract
-
-Acute respiratory distress syndrome (ARDS) is an exceptionally rare complication of acute Stanford type B aortic dissection. We report the case of an 84-year-old woman with hypertension and end-stage renal disease on chronic hemodialysis who presented with acute interscapular and chest pain. Computed tomography angiography confirmed an uncomplicated Stanford type B aortic dissection without rupture, malperfusion syndrome, or other indications for urgent intervention. The patient was initially hemodynamically stable and managed conservatively according to current guideline recommendations. Approximately 24 hours after admission, she developed rapidly progressive dyspnea and severe hypoxemic respiratory failure. Chest imaging demonstrated bilateral pulmonary infiltrates, while cardiogenic, embolic, and infectious causes were systematically excluded. Arterial blood gas analysis revealed a partial pressure of arterial oxygen (PaO₂)/fraction of inspired oxygen (FiO₂) ratio of 67 mmHg, fulfilling the Berlin criteria for severe ARDS. Despite invasive mechanical ventilation, prone positioning, and maximal supportive care, respiratory failure progressed rapidly, resulting in multiorgan failure and death approximately 32 hours after admission. This case highlights a rare but potentially fatal inflammatory complication of acute type B aortic dissection. The temporal association, marked inflammatory response, and exclusion of alternative etiologies support the hypothesis of inflammation-mediated lung injury. Early recognition of unexplained respiratory deterioration may facilitate closer monitoring and timely supportive management, particularly in high-risk patients with advanced age and chronic kidney disease.
-
----
-
-## 5. Longitudinal Changes in Acid-Base Parameters From Dialysis Initiation to Death in Maintenance Hemodialysis Patients.
-
-- **PMID**: [42496588](https://pubmed.ncbi.nlm.nih.gov/42496588/)
-- **Journal**: Hemodialysis international. International Symposium on Home Hemodialysis
-- **Publication Date**: 2026 Jul 24
-- **Authors**: Schwarz Christoph, Lindner Gregor, Pirklbauer Markus
-- **DOI**: https://doi.org/10.1111/hdi.70118
-
-### Abstract
-
-**INTRODUCTION**: Blood gas analysis is routinely performed in hemodialysis patients to monitor acid-base status and serum potassium. Despite frequent testing, longitudinal analyses of acid-base parameters over patients' lifetime are lacking. **METHODS**: We conducted a retrospective analysis of 45 chronic hemodialysis patients at a secondary dialysis center in Austria, including 7946 blood gas analyses. Acid-base disturbances and respiratory compensation to metabolic acidosis were evaluated. Longitudinal changes were assessed at three time points: START (4 weeks after dialysis initiation), MID (mid-survival), and EOL (last 4 weeks of dialysis). Four measurements per patient were included at each time point. Venous blood gas values were adjusted to arterial equivalents to improve comparability. Linear mixed-effects models were used for analysis. **FINDINGS**: Venous blood gas analysis systematically misclassified respiratory status; standard formulas for compensation (e.g., Winter's formula) were not applicable. Over the course of dialysis treatment, acid-base and electrolyte homeostasis changed significantly. Temporal patterns were largely comparable between expected and unexpected death, with the exception of lactate, which increased significantly in patients with unexpected death. **DISCUSSION**: This study provides a comprehensive longitudinal evaluation of acid-base parameters from dialysis initiation to death. Observed temporal patterns, particularly in patients with unexpected death, suggest distinct terminal metabolic trajectories. These findings warrant further investigation in larger cohorts, potentially supported by artificial intelligence-based analyses.
-
----
-
-## 6. Thyrotoxic periodic paralysis presenting with transient ventricular arrhythmia: a rare variant presentation of Graves' disease.
-
-- **PMID**: [42463171](https://pubmed.ncbi.nlm.nih.gov/42463171/)
-- **Journal**: BMJ case reports
-- **Publication Date**: 2026 Jul 16
-- **Authors**: Makashir Prachee, Gupta Isha, Darak Anuj
-- **DOI**: https://doi.org/10.1136/bcr-2025-267568
-
-### Abstract
-
-Thyrotoxic periodic paralysis (TPP) is a rare variant presentation associated with thyrotoxicosis. It is characterised by acute hypokalaemic paralysis due to intracellular potassium shift. We describe a man in his early 30s who presented with sudden-onset flaccid quadriparesis and transient self-reverted broad-complex tachycardia. Arterial blood gas analysis revealed severe hypokalaemia (1.2 mmol/L; reference range 3.5-5.1 mmol/L). Thyroid function tests demonstrated suppressed thyroid-stimulating hormone (<0.01 mIU/L; reference range 0.4-4.0 mIU/L) with markedly elevated free triiodothyronine and thyroxine levels, consistent with thyrotoxicosis due to Graves' disease. He was treated with cautious intravenous potassium replacement and initiation of antithyroid therapy with beta-blockade, resulting in rapid and complete neurological recovery. This case underscores the importance of recognising TPP as a distinct clinical presentation of thyrotoxicosis in young men presenting with acute paralysis and cardiac arrhythmia.
-
----
-
-## 7. A Standardized Multicomponent Respiratory Guidance and Nursing Care Protocol for Elderly Patients with Chronic Obstructive Pulmonary Disease.
-
-- **PMID**: [42475357](https://pubmed.ncbi.nlm.nih.gov/42475357/)
-- **Journal**: Journal of visualized experiments : JoVE
-- **Publication Date**: 2026 Jul 03
-- **Authors**: Liang Yajing, Cao Chongwei, Pan Xiaodan, Xu Qinhong, Pei Hualian et al.
-- **DOI**: https://doi.org/10.3791/70057
-
-### Abstract
-
-This protocol describes a standardized, reproducible, multicomponent respiratory guidance and nursing care intervention for elderly patients with chronic obstructive pulmonary disease (COPD). Based on Orem's self-care deficit nursing theory, the method integrates structured breathing training, respiratory muscle training, aerobic exercise, and continuous nursing support. The intervention is delivered by trained respiratory nurses over a 12-week period in inpatient and outpatient settings. The protocol includes procedures for patient selection, group allocation, baseline assessment, and structured implementation of intervention components. Breathing training incorporates guided respiratory exercises and spirometer-assisted techniques, combined with individualized exercise programs, psychological support, and discharge planning. The protocol specifies intervention frequency, duration, supervision, safety monitoring, and adherence tracking to ensure consistency and reproducibility. Standardized outcome assessment procedures are outlined, including pulmonary function testing, arterial blood gas analysis, dyspnea evaluation, functional ability assessment, sleep quality measurement, and quality-of-life evaluation using validated clinical instruments. This protocol provides a practical and structured framework for implementing nonpharmacological respiratory care in elderly patients with COPD across clinical and rehabilitation settings.
-
----
-
-## 8. Early arterial blood gas parameters, clinical features, and neuroimaging findings in neonates undergoing therapeutic hypothermia for suspected hypoxic-ischemic encephalopathy: a retrospective single-center study.
-
-- **PMID**: [42495254](https://pubmed.ncbi.nlm.nih.gov/42495254/)
-- **Journal**: Frontiers in pediatrics
-- **Publication Date**: 2026
-- **Authors**: Gültekin Ece
-- **DOI**: https://doi.org/10.3389/fped.2026.1826725
-
-### Abstract
-
-**BACKGROUND**: Hypoxic-ischemic encephalopathy (HIE) remains an important cause of neonatal mortality and long-term neurodevelopmental impairment. Although therapeutic hypothermia is the standard treatment for term and near-term infants with suspected moderate-to-severe HIE, the relationships among early blood gas parameters, clinical findings, and radiologic abnormalities in cooled neonates are not fully defined. **METHODS**: This retrospective observational study included neonates aged 0-28 days who underwent therapeutic hypothermia for suspected HIE at any neonatal intensive care unit and were subsequently evaluated by the Department of Pediatric Neurology at Biruni University Hospital. Demographic and perinatal characteristics, blood gas parameters, seizure status, electroencephalographic findings, antiepileptic treatment, cranial ultrasonography, and cranial MRI findings were obtained from medical records. Final HIE classification was assigned retrospectively after review of the clinical course, documented seizures, serial neurologic findings, electroencephalographic data, and neuroimaging findings. **RESULTS**: A total of 22 neonates were included. Final HIE classification identified no final evidence of HIE in 16 patients (72.7%), stage 1 HIE in 1 (4.5%), stage 2 HIE in 3 (13.6%), and stage 3 HIE in 2 (9.1%). Compared with neonates without HIE, those with any HIE had significantly lower bicarbonate levels (p = 0.010). Blood gas pH and 5 min Apgar scores also tended to be lower in the HIE group, although without statistical significance. Neonates with seizures had lower gestational age (p = 0.002) and more negative base excess values (p = 0.029). Concordance between cranial ultrasonography and MRI was low; many neonates with normal ultrasonography had abnormal MRI findings. **CONCLUSIONS**: Lower bicarbonate levels were associated with the presence of any-stage HIE compared with no final evidence of HIE, while more severe metabolic acidosis was associated wit
-
----
-
-## 9. Variations in shock indicators in arterial blood gas analysis and prognosis in patients with severe trauma.
-
-- **PMID**: [42484271](https://pubmed.ncbi.nlm.nih.gov/42484271/)
-- **Journal**: Revista do Colegio Brasileiro de Cirurgioes
-- **Publication Date**: 2026
-- **Authors**: Sayed Jihad Manaf El, Antonio William Jorge Alves, Sciarra Adilia Maria Pires, Castiglioni Lilian, Espada Paulo César
-- **DOI**: https://doi.org/10.1590/0100-6991e-2026005525-en
-
-### Abstract
-
-**INTRODUCTION**: Shock indicators in arterial blood gas analysis in the context of trauma are essential tools for early diagnosis, when clinical signs are not yet present. The study aimed to analyze the potential prognostic role these indicators may play in the evaluation of trauma patients. **METHODS**: A retrospective study of 294 patients with severe trauma treated between 2016 and 2025 at a tertiary care hospital. Only patients with blood gas analysis at admission and after 24 hours, activation of the massive transfusion protocol, and exploratory laparotomy were included. **RESULTS**: Of the 294 patients, 74 (25.2%) died. Lactate variation was significantly higher in patients who died (p < 0.001). The AUC of the ROC curve was 0.6949, with a sensitivity of 72%, specificity of 98.5%, and positive predictive value of 96.4%. The odds ratio for death in patients with an increase in lactate ≤1 mmol/L was 167.14. In contrast, the variation in base excess was not statistically significant (p = 0.054), with an AUC of 0.5748. There was a weak correlation between the variation in base excess and the outcome (r = -0.1124; p = 0.0063), and a weak to moderate correlation for the variation in lactate (r = 0.2931; p < 0.0001). There was also a significant association between outcome and age, Glasgow Coma Scale score, and laboratory parameters at admission and 24 hours. **CONCLUSION**: Lactate variation in the first 24 hours was associated with mortality in patients with severe trauma and demonstrated superior prognostic performance compared to base excess in this sample, with moderate discriminatory power.
-
----
-
-## 10. Application and advantages of intrathoracic paravertebral block in uniportal video-assisted thoracoscopic surgery.
-
-- **PMID**: [42465869](https://pubmed.ncbi.nlm.nih.gov/42465869/)
-- **Journal**: Frontiers in surgery
-- **Publication Date**: 2026
-- **Authors**: Li Zhengjun, Chao Siwei, Ma Shuai, Li Ding, Liu Chang et al.
-- **DOI**: https://doi.org/10.3389/fsurg.2026.1867293
-
-### Abstract
-
-**INTRODUCTION**: Uniportal video-assisted thoracoscopic surgery (VATS) is widely used as a minimally invasive approach for pulmonary diseases. Although this technique reduces postoperative pain, acute postoperative pain remains clinically significant. This study aimed to evaluate the feasibility and advantages of thoracoscopic paravertebral block. **METHODS**: This single-center prospective randomized comparative study included 228 consecutive patients who underwent uniportal VATS at our institution between August 2022 and June 2024. Patients were randomly assigned to Group A (122 patients; intraoperative thoracoscopic direct-vision transthoracic paravertebral block) or Group B (106 patients; preoperative ultrasound-guided thoracic paravertebral block). Perioperative data, postoperative pain scores, opioid rescue analgesic use, and postoperative complications were analyzed. Repeated-measures analysis of variance was used to assess differences in postoperative pain scores over time between the two groups. **RESULTS**: A total of 228 patients underwent uniportal VATS pulmonary resection. No significant differences were observed between the two groups in terms of age, sex, pulmonary function, arterial blood gas analysis, surgical side, incision location, nodule size, nodule position, operative time, blood loss, drainage duration, length of hospital stay, tumor stage, or postoperative complications (P > 0.05). Postoperative complications were less frequent in Group A than in Group B. No intraoperative or 30-day postoperative mortality occurred in either group. Repeated-measures ANOVA showed significant effects of group (F = 774.002, P < 0.001), time (F = 520.972, P < 0.001), and group×time interaction (F = 4.983, P = 0.001) on VAS scores. **CONCLUSIONS**: These findings indicate that thoracoscopic paravertebral block is safe and effective. Compared with ultrasound-guided approaches, it was associated with lower postoperative pain scores and reduced rescue tramadol requ
+Acute exacerbations of bronchial asthma (AEBA) complicated by hypercapnic respiratory failure (RF) are traditionally managed with invasive mechanical ventilation (IMV) when medical therapy fails. However, IMV is associated with significant complications, including barotrauma, hemodynamic instability, and increased mortality. The role of noninvasive ventilation (NIV) in AEBA remains controversial due to the limited and inconsistent nature of the available evidence. We report the case of an 18-year-old female with a history of bronchial asthma who presented with severe AEBA and acute hypercapnic RF that was refractory to standard medical therapy, including bronchodilators, systemic corticosteroids, epinephrine, and magnesium sulfate. Arterial blood gas (ABG) analysis demonstrated respiratory acidosis, with a peak partial pressure of carbon dioxide (PaCO2) of 58 mmHg and a pH of 7.21. Although she was markedly tachypneic and in significant respiratory distress, she remained alert and hemodynamically stable, which allowed for a closely monitored trial of bilevel positive airway pressure (BiPAP) in the ICU. Rapid improvement in gas exchange was observed within three hours, with complete normalization by 10 hours, thereby avoiding the need for endotracheal intubation.
 
 ---
