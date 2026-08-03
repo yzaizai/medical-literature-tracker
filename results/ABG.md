@@ -1,119 +1,147 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-07-30
+**Update Time**: 2026-08-03
 **Search Range**: Last 30 days
-**Papers Found**: 8
+**Papers Found**: 10
 
 ---
 
-## 1. Assessment of Conventional Oxygen Therapy, High-Flow Nasal Cannula, and Non-Invasive Ventilation to Secure Bronchofiberoscopy in Patients with Respiratory Acidosis: A Narrative Review and a Proposal for a Protocol in View of a Randomized Multicenter Study.
+## 1. Butterfly Glioma of the Corpus Callosum Mimicking Rapidly Progressive Dementia.
 
-- **PMID**: [42194921](https://pubmed.ncbi.nlm.nih.gov/42194921/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 May 21
-- **Authors**: Rycerski Mikołaj, Warcholiński Adam, Zieliński Michał, Longhini Federico, Sircar Mrinal et al.
-- **DOI**: https://doi.org/10.3390/jcm15103960
-
-### Abstract
-
-Background: Fiberoptic bronchoscopy (FOB) is a procedure routinely performed in clinical practice for both diagnostic and therapeutic purposes. FOB frequently impairs respiratory function, which may exacerbate respiratory failure. Currently, conventional oxygen therapy (COT) is the most commonly used form of respiratory support; however, non-invasive ventilation (NIV) and high-flow nasal cannula (HFNC) are being used increasingly. The optimal settings and indications for NIV and HFNC in patients with respiratory acidosis undergoing FOB have not yet been determined. Methods: This is a prospective, multicenter, randomized controlled trial including two parallel study populations defined by the indication for bronchoscopy and the type of respiratory acidosis. Therapeutic FOB (Study 1): Patients with decompensated type 2 respiratory failure (pH < 7.35 and PaCO2 > 45 mmHg) will be randomized to receive one of four methods of respiratory support during bronchoscopy: COT, NIV, HFNC, or invasive mechanical ventilation (IMV) (n = 315). Diagnostic FOB (Study 2): Patients with chronic respiratory acidosis (pH ≥ 7.35, PaCO2 > 45 mmHg, and/or HCO3- > 27 mmol/L) will be randomized to receive COT, NIV, or HFNC during bronchoscopy (n = 210). Before FOB, patients in both groups will undergo arterial blood gas (ABG) analysis. During FOB, vital signs will be continuously monitored, including SpO2, FiO2, TcCO2, ECG, and heart rate. After FOB, ABG analysis will be repeated, and study endpoints and complications, if any, will be recorded. The planned study period is from April 2026 to April 2029. Results: Based on the study results, we aim to evaluate the effectiveness and safety of different respiratory support strategies during flexible bronchoscopy, with the primary objective of comparing the rate of treatment failure among COT, HFNC, NIV, and IMV. Treatment failure is defined as the need for endotracheal intubation, premature termination of the procedure, or escalation of respiratory
-
----
-
-## 2. Differences in umbilical cord blood gas parameters between women with and without gestational diabetes: a single-center prospective-retrospective cohort study.
-
-- **PMID**: [42091959](https://pubmed.ncbi.nlm.nih.gov/42091959/)
-- **Journal**: Scientific reports
-- **Publication Date**: 2026 May 06
-- **Authors**: Szablewska Anna Weronika, Zając Bartosz
-- **DOI**: https://doi.org/10.1038/s41598-026-43352-8
-
-### Abstract
-
-Gestational diabetes mellitus (GDM) is associated with various perinatal complications and may affect neonatal acid-base status. Umbilical cord arterial blood gas (ABG) analysis provides an objective measure of fetal well-being at birth, although existing evidence on the impact of GDM on ABG parameters remains inconclusive. The objective of the study is to compare umbilical cord ABG parameters-pH, partial pressure of carbon dioxide (pCO2) and partial pressure of oxygen (pO2), base excess and bicarbonate-between pregnancies with and without GDM complications, and to evaluate the potential influence of GDM on neonatal oxygenation and acid-base balance. This single-center prospective-retrospectivecohort study was conducted in a tertiary care hospital in northern Poland and included 191 pregnant women (44 with GDM, 147 without). GDM was diagnosed based on International Association of Diabetes and Pregnancy Study Groups, World Health Organization, and national guidelines. Arterial cord blood samples were collected immediately after birth and analyzed for ABG parameters. The newborns of mothers with GDM had significantly higher pH values and significantly lower pCO2 levels compared to the controls. No significant difference was observed in pO2, base excess and bicarbonate values between the groups. These findings suggest that, in well-managed pregnancies, GDM may not lead to impaired fetal oxygenation or acidosis at birth. Our findings are consistent with the hypothesis that effective glycemic control and standardized perinatal care may mitigate the risk of neonatal acid-base disturbances. Further studies are warranted to explore the role of treatment modalities and delivery factors in shaping neonatal outcomes.
-
----
-
-## 3. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
-
-- **PMID**: [42326233](https://pubmed.ncbi.nlm.nih.gov/42326233/)
+- **PMID**: [42502551](https://pubmed.ncbi.nlm.nih.gov/42502551/)
 - **Journal**: Cureus
-- **Publication Date**: 2026 May
-- **Authors**: Khan Imran Ahmed, Tiwari Jai Prakash
-- **DOI**: https://doi.org/10.7759/cureus.109051
+- **Publication Date**: 2026 Jun
+- **Authors**: Maity Soumyadeep, Ray Girin, Gupta Chandra Paul, Basu Satyaki, Kishlay Kumar
+- **DOI**: https://doi.org/10.7759/cureus.111462
 
 ### Abstract
 
-Delayed emergence from anesthesia is a frequent challenge in surgical settings. Common etiologies include residual drug effects, metabolic derangements, or neurological insults. We report a case of a 55-year-old woman who underwent an elective six-hour lumbar laminectomy and cervical implantation surgery. Despite an uneventful intraoperative course and routine neuromuscular blockade reversal, the patient exhibited somnolence and ventilatory failure after reversal and extubation. Arterial blood gas (ABG) analysis revealed severe respiratory acidosis. The patient required re-intubation and controlled mechanical ventilation to facilitate carbon dioxide (CO₂) washout. Following normalization of arterial partial pressure of carbon dioxide (PaCO₂), the patient regained consciousness and was successfully extubated the following morning. This case highlights the importance of monitoring ventilation adequacy in the transition from controlled to spontaneous respiration following long-duration surgeries. Importantly, normal intraoperative end-tidal CO₂ values should not be considered reassuring in high-risk patients, as significant arterial hypercapnia may remain undetected.
+A butterfly-pattern, high-grade glioma involving the corpus callosum is an uncommon but highly aggressive brain tumour that may present with neuropsychiatric manifestations and mimic rapidly progressive dementia, leading to diagnostic delay. Disruption of frontal-callosal connectivity may produce behavioural and cognitive abnormalities resembling behavioural and psychological symptoms of dementia (BPSD), resulting in initial misdiagnosis. A 65-year-old postmenopausal woman presented with a two-week history of vomiting, progressive disorientation, generalized weakness, irrelevant speech, cognitive decline, and bladder and bowel dysfunction. She had previously been treated for acute-onset dementia with BPSD using donepezil and memantine without prior neuroimaging. Neurological examination revealed asymmetric pyramidal signs, rigidity, and bilaterally constricted pupils. Arterial blood gas analysis showed respiratory alkalosis with hypocalcaemia, and urine culture isolated extended-spectrum beta-lactamase (ESBL)/AmpC-producing Klebsiella aerogenes. Contrast-enhanced MRI demonstrated a greater than 65 × 61 mm solid-cystic heterogeneously enhancing mass involving the genu of the corpus callosum with bifrontal extension and perilesional oedema, favouring a radiologically suspected high-grade glioma involving the corpus callosum. A stereotactic biopsy was planned for histopathological confirmation. The patient received corticosteroids, anti-epileptics, antibiotics, and supportive treatment, with subsequent clinical improvement. This case underscores the importance of early neuroimaging in atypical dementia presentations, especially when focal neurological deficits or signs of raised intracranial pressure are present. Histopathological confirmation remains essential for definitive diagnosis and treatment planning.
 
 ---
 
-## 4. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
+## 2. Pulmonary Tumor Thrombotic Microangiopathy Diagnosed by Right Heart Catheterization in a Patient With Breast Cancer: A Case Report.
 
-- **PMID**: [42238863](https://pubmed.ncbi.nlm.nih.gov/42238863/)
-- **Journal**: Journal of acute medicine
-- **Publication Date**: 2026 Jun 01
-- **Authors**: Chororia Samata, Guru Satyabrata, Hansda Upendra, Brink Sadananda
-- **DOI**: https://doi.org/10.6705/j.jacme.202606_16(2).0006
-
-### Abstract
-
-Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity by inhibiting post-synaptic nicotinic acetylcholine receptors and affecting calcium release in the sarcoplasmic reticulum. While mortality is generally low, severe cases can lead to respiratory failure. A 25-year-old male presented to the emergency department six hours after intentionally consuming approximately 12 g of 50% CH. He exhibited vomiting, drowsiness (Glasgow Coma Score [GCS]: 13/15), and bradycardia (HR: 52/min). Initial arterial blood gas (ABG) analysis revealed mixed acidosis (pH: 7.296, pCO2: 60.8, pO2: 102.8, Lactate: 4.2, and HCO3: 20.3). Notably, serum pseudo-cholinesterase levels and other laboratory findings were within normal limits. The patient was treated with non-invasive ventilation (NIV) for respiratory acidosis and administered a loading dose of N-acetylcysteine (NAC) (150 mg/kg) along with symptomatic management. His sensorium and ABG parameters normalized within six hours of treatment. He remained asymptomatic and was discharged after three days. Human toxicity from CH is rarely reported, and cases involving mixed acidosis are particularly sparse in literature. This case highlights the importance of recognizing CH poisoning, which can mimic organophosphate toxicity. Vigilant monitoring for acidosis via ABG and early intervention with NAC and supportive care, such as NIV, are crucial for successful clinical outcomes.
-
----
-
-## 5. Reference intervals for venous blood gas measurement in a healthy Chinese population.
-
-- **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
-- **Journal**: Clinica chimica acta; international journal of clinical chemistry
-- **Publication Date**: 2026 Jul 02
-- **Authors**: Jiang Sheng, Zhao Qian, Wang Hua, Li Min, Ou Yuanzhu et al.
-- **DOI**: https://doi.org/10.1016/j.cca.2026.121212
-
-### Abstract
-
-**OBJECTIVES**: Venous blood gas (VBG) analysis has gained increasing popularity as an alternative to arterial blood gas (ABG) analysis, owing to its lower invasiveness and greater feasibility of sample collection. However, currently available reference intervals may not be applicable to the Chinese population due to regional, ethnic, environmental, and lifestyle differences. Therefore, this study aimed to establish appropriate venous blood gas reference intervals (RI) for the Chinese population from plain areas. **METHODS**: A total of 1189 volunteers (595 males, 594 females, aged 10-97 years) and 149 validation volunteers (94 females, 55 males, aged 10-97 years) with conditions unlikely to influence blood gas and acid-base balance were enrolled. Venous blood samples were collected in syringes and analyzed using an ABL90 blood gas analyzer (Radiometer Pacific Pty. Ltd.). Non-parametric methods were applied to establish VBG reference intervals and parametric methods were applied to pCO2 reference intervals. **RESULTS**: After exclusions, VBG RI was derived from 1189 volunteers: pH 7.282-7.438, partial pressure of carbon dioxide(pCO2) Male 32.8-62.2 mmHg Female 33.2-58.7 mmHg, partial pressure of oxygen(pO2)16.0-74.0 mmHg, sodium 134-148 mmol/L, potassium 3.14-4.55 mmol/L, chloride 99-111 mmol/L, ionized calcium 1.07-1.26 mmol/L, total hemoglobin(THB) Male 10.69-17.5 g/dL Female 10.3-15.9 g/dL. After verification in 149 healthy individuals, all reference intervals showed qualified rates above 92%, supporting their clinical applicability.
-
----
-
-## 6. Is respiratory failure in patients of post-tuberculosis COPD less responsive to non-invasive ventilation?
-
-- **PMID**: [42457296](https://pubmed.ncbi.nlm.nih.gov/42457296/)
-- **Journal**: The Indian journal of tuberculosis
-- **Publication Date**: 2026 Jul
-- **Authors**: Mishra Alok Kumar, Shukla Amitabh Das, Singh Abhishek, Yadav Dharmendra Kumar
-- **DOI**: https://doi.org/10.1016/j.ijtb.2025.10.008
-
-### Abstract
-
-**BACKGROUND**: Chronic obstructive pulmonary disease (COPD) represents a heterogeneous condition with varying etiological backgrounds. Present study aimed to compare the clinical features, effectiveness of non-invasive ventilation (NIV-BiPAP) and outcome of respiratory failure, among patients with post-infectious (COPD-I) versus environmental (COPD-E) etiotypes. **METHODOLOGY**: This comparative observational study was conducted on 120 respiratory failure patients of COPD, divided into two etiotype groups as, COPD-I with post-tubercular etiology and COPD-E with environmental exposure etiology. Patients of both groups were monitored and compared for clinical features, effectiveness of NIV (BiPAP) on basis of arterial blood gas (ABG) parameters and 12-h outcome. **RESULTS**: Apart from body weight, analysis of demographic features revealed no significant differences between groups, where COPD-I patients had significantly lower body weight (45.94 kg vs 48.81 kg, p = 0.014). Both groups showed improvement in respiratory parameters over 12 h. ABG analysis demonstrated correction of respiratory acidosis with pH improving from acidosis (7.28-7.39 in COPD I; 7.25 to 7.38 in COPD E) and PaCO2 levels reducing from hypercapnic values, (69-52 mmHg in COPD I; 72 to 48 mmHg in COPD E). Hemodynamic improvement was observed in both the groups with no significant intergroup variation. Clinical improvement was observed in 90.32 % of COPD-I and 98.27 % of COPD-E patients, with intubation rates of 9.67 % and 1.72 % respectively (p = 0.063). **CONCLUSION**: NIV has comparable effectiveness and outcome in respiratory failure patients of both COPD etiotypes. Both groups showed equally effective response to NIV therapy, supporting its use as first-line treatment, regardless of COPD etiology.
-
----
-
-## 7. Correlation of pulse oximetry with arterial blood gas-derived oxygen saturation in ICU patients on supplemental oxygen: a cross-sectional study.
-
-- **PMID**: [42433828](https://pubmed.ncbi.nlm.nih.gov/42433828/)
-- **Journal**: Annals of medicine and surgery (2012)
-- **Publication Date**: 2026 Jul
-- **Authors**: Pandey Bikash, Jha Birendra, Shahi Sumit, Adhikari Shital
-- **DOI**: https://doi.org/10.1097/MS9.0000000000004747
-
-### Abstract
-
-**INTRODUCTION**: Oxygen is essential for maintaining proper bodily functions and is closely regulated within the body. Hypoxemic patients, who have lower than normal oxygen levels in their blood, require precise monitoring to ensure appropriate oxygen therapy. Arterial blood gas (ABG) analysis (SaO2) and pulse oximetry (SpO2) and are two widely used methods to assess oxygen saturation of hemoglobin in blood. Although ABG analysis is gold standard, it is an invasive procedure. On the other hand, pulse oximeter is a small handy device that is non-invasive and accurate to certain extent in the determination of oxygen saturation. In developing countries like Nepal where ABG machines are not available in every health care facility, this study aims to compare oxygen saturation by ABG with pulse oximeter and look for the reliability of pulse oximeter as alternative to ABG. **METHOD**: This was a prospective cross-sectional observational study conducted among 152 patients, admitted to Medical Intensive Care Unit (MICU), who required supplemental oxygen during hospital stay. The ABG analysis was done, and pulse oximeter reading was recorded simultaneously. Data were entered in a structured proforma. The collected data were entered into IBM SPSS for statistical analysis. Statistical analysis included percentage, mean, median, standard deviation, and correlation between SaO2 and SpO2 were calculated using Pearson's correlation coefficient. **RESULT**: A total of 152 patients were included in the study, of which 74 were male and 78 were female with median age of 73.50 (interquartile range [IQR] 16) years. Most of the hypoxemic patients, 132 (86.84%), admitted to MICU had shortness of breath as the most prominent symptom and leading cause of MICU admission with hypoxemia was acute exacerbation of chronic obstructive pulmonary disease in 78 patients (51.32%). The most common mode of respiratory support was in the form of nasal prongs in 90 (59.21%) patients followed by non-invas
-
----
-
-## 8. The Successful Use of Noninvasive Ventilation in Severe Asthma Exacerbation: A Case Report and Review of the Literature.
-
-- **PMID**: [42147523](https://pubmed.ncbi.nlm.nih.gov/42147523/)
+- **PMID**: [42500795](https://pubmed.ncbi.nlm.nih.gov/42500795/)
 - **Journal**: Cureus
-- **Publication Date**: 2026 Apr
-- **Authors**: Gharti Sakar B, Tan Ernestine Faye S, Schmidt Marie
-- **DOI**: https://doi.org/10.7759/cureus.107025
+- **Publication Date**: 2026 Jun
+- **Authors**: Tajima Shonosuke, Nakata Yugo, Sanda Kazuhiro, Koshimo Yoshihiko, Shigematsu Michio
+- **DOI**: https://doi.org/10.7759/cureus.111406
 
 ### Abstract
 
-Acute exacerbations of bronchial asthma (AEBA) complicated by hypercapnic respiratory failure (RF) are traditionally managed with invasive mechanical ventilation (IMV) when medical therapy fails. However, IMV is associated with significant complications, including barotrauma, hemodynamic instability, and increased mortality. The role of noninvasive ventilation (NIV) in AEBA remains controversial due to the limited and inconsistent nature of the available evidence. We report the case of an 18-year-old female with a history of bronchial asthma who presented with severe AEBA and acute hypercapnic RF that was refractory to standard medical therapy, including bronchodilators, systemic corticosteroids, epinephrine, and magnesium sulfate. Arterial blood gas (ABG) analysis demonstrated respiratory acidosis, with a peak partial pressure of carbon dioxide (PaCO2) of 58 mmHg and a pH of 7.21. Although she was markedly tachypneic and in significant respiratory distress, she remained alert and hemodynamically stable, which allowed for a closely monitored trial of bilevel positive airway pressure (BiPAP) in the ICU. Rapid improvement in gas exchange was observed within three hours, with complete normalization by 10 hours, thereby avoiding the need for endotracheal intubation.
+Pulmonary tumor thrombotic microangiopathy (PTTM) is a severe complication of malignancy, characterized by rapidly progressive pulmonary hypertension and a dismal prognosis. This report describes the case of a 71-year-old woman with a history of estrogen receptor (ER)-positive left breast cancer who developed PTTM. She presented with exertional dyspnea and a cough. Arterial blood gas analysis revealed hypoxemia with an elevated alveolar-arterial oxygen gradient. Chest computed tomography (CT) showed diffuse ground-glass and nodular opacities without obvious pulmonary embolism (PE). Echocardiography revealed right ventricular enlargement and moderate pulmonary hypertension. Right heart catheterization confirmed severe pulmonary hypertension with a mean pulmonary artery pressure of 46 mmHg and pulmonary vascular resistance of 844 dynes/sec/cm⁵. After transbronchial lung biopsy (TBLB) and bronchoalveolar lavage (BAL) failed to yield a diagnosis, PTTM was confirmed by detecting malignant cells via cytology of blood aspirated from the pulmonary artery during catheterization. The administration of systemic chemotherapy resulted in a marked improvement in hemodynamics, radiological findings, and symptoms, allowing her to be weaned from home oxygen therapy.
+
+---
+
+## 3. Validity of transcutaneous capnometry in prolonged use in a patient population with acute respiratory failure.
+
+- **PMID**: [42537816](https://pubmed.ncbi.nlm.nih.gov/42537816/)
+- **Journal**: Respiratory medicine
+- **Publication Date**: 2026 Jul 31
+- **Authors**: Kächele Martin, Hasmüller Magdalena, Kalner Alexander, Seufferlein Thomas, Müller Martin
+- **DOI**: https://doi.org/10.1016/j.rmed.2026.109072
+
+### Abstract
+
+**BACKGROUND**: Transcutaneous capnometry is a widespread method for monitoring carbon dioxide in respiratory care. Studies on its use in emergency medicine, the sensors long-term stability its practicability in this setting are lacking. This study aimed to clarify whether transcutaneous capnometry is a valid and feasible method for monitoring critically ill patients. **METHODS**: 100 patients with acute respiratory failure were monitored simultaneously with arterial blood gas analysis (paCO2) and transcutaneous capnometry (tcpCO2), using Radiometer TCM5, at baseline (T1) and after a maximum of 12 h (T2) an analyzed regarding clinically acceptable concordance and interruptions. **RESULTS**: Ninety-three patients (176 paired samples of paCO2 and tcpCO2) were included in the analysis. We found a good correlation between pCO2 and tcpCO2 (r = 0.9706) at T1, which weakened at T2 (r = 0.7760). However, the difference in the concordance of the measured values at T1 and T2 was not significantly different (p = 0.0545). Significantly frequent deviations between T1 and T2 occurred in patients with circulatory impairment (p = 0.0039). 22.9% of all values were outside the clinically acceptable range, but with paCO2 underestimated by tcpCO2 in only 5 cases (2.8%). In all clinically relevant deviations, we found an underlying technical error which would have been found by a trained examiner. **CONCLUSIONS**: Transcutaneous capnometry is a feasible method for monitoring CO2 trends. However, its successful application requires thorough knowledge of the analysis technique and potential sources of error. The validity of the method is limited in patients with significant circulatory dysregulation. Additionally, long-term use in clinical practice is often restricted by suboptimal patient conditions.
+
+---
+
+## 4. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
+
+- **PMID**: [42536488](https://pubmed.ncbi.nlm.nih.gov/42536488/)
+- **Journal**: Cardiovascular journal of Africa
+- **Publication Date**: 2026 Jul 31
+- **Authors**: Aydogan Eyup, Akkaya Özgür
+- **DOI**: https://doi.org/10.5830/CVJA-2026-030
+
+### Abstract
+
+**BACKGROUND**: The choice of anaesthetic agent for open-heart surgery (OHS) may influence perioperative physiology and outcomes. This study compared the effects of sevoflurane and propofol on intraoperative parameters and postoperative complications. **METHODS**: A retrospective analysis was conducted on 202 patients undergoing OHS (propofol: n = 71; sevoflurane: n = 131). Demographic data, intraoperative variables (cardiopulmonary bypass [CPB] duration, aortic cross-clamp time, heparin dose, cardioplegia volume), serial arterial blood gas (ABG) values, and postoperative complications were collected. Statistical analysis included parametric/non-parametric tests and a generalised linear model. **RESULTS**: Demographic and baseline characteristics were comparable between groups. No significant differences were found in CPB time, cross-clamp time, or heparin dose. Cardioplegia volume differed significantly (p = 0.025). ABG analysis revealed that pH and O2 levels were not significantly influenced by anaesthetic type but were affected by gender and surgical phase. CO2 levels were significantly influenced by anaesthetic type, gender, and time (p < 0.001). Rates of postoperative bleeding/reoperation (propofol: 4.29%; sevoflurane: 4.55%) and other complications showed no significant differences. **CONCLUSION**: Both sevoflurane and propofol demonstrated comparable safety and efficacy in OHS, with no significant differences in major postoperative complications. However, anaesthetic choice and patient gender significantly influenced intraoperative CO2 dynamics. These findings support the clinical equivalence of both agents while highlighting gender-specific physiological responses that may warrant consideration in perioperative management.
+
+---
+
+## 5. Mitochondrial Dysfunction, Cerebral Metabolic Crisis, and Exploratory Bioenergetic Biomarkers in a Translational Swine Model of Acute Carbon Monoxide Poisoning.
+
+- **PMID**: [42528264](https://pubmed.ncbi.nlm.nih.gov/42528264/)
+- **Journal**: Toxicological sciences : an official journal of the Society of Toxicology
+- **Publication Date**: 2026 Jul 29
+- **Authors**: Insana Abigail, Lewis Alistair, Greenwood John C, Kelly Matthew, Shofer Frances S et al.
+- **DOI**: https://doi.org/10.1093/toxsci/kfag093
+
+### Abstract
+
+Carbon monoxide (CO) poisoning remains a major cause of toxicologic morbidity and mortality and is a leading cause of acute neurologic injury among poisoned patients, yet the mechanisms underlying cerebral bioenergetic dysfunction remain incompletely understood. In addition to impaired oxygen delivery through carboxyhemoglobin (COHb) formation, CO poisoning is associated with mitochondrial respiratory dysfunction and cerebral metabolic injury. We characterized systemic physiology, cerebral metabolism, mitochondrial bioenergetics, and exploratory translational biomarkers in a swine model of acute CO poisoning. Yorkshire swine underwent sham exposure or inhalational CO exposure at 1000 or 2000 ppm with serial physiologic monitoring, arterial blood gas analysis, cerebral microdialysis, high-resolution mitochondrial respirometry, ATP quantification, western blotting, and histologic/immunohistochemical analyses. Peripheral blood mononuclear cell (PBMC) mitochondrial respiration was explored as a systemic correlate of cerebral mitochondrial function. CO exposure produced dose-dependent elevations in COHb and lactate with associated metabolic acidosis and hemodynamic impairment. Cerebral microdialysis demonstrated variable lactate-to-pyruvate ratios, while extracellular glycerol was significantly increased following severe CO exposure, consistent with membrane injury and metabolic dysfunction. Mitochondrial respiration was impaired in both cortical and hippocampal tissue, with Complex IV-linked respiration among the most consistently affected respiratory states. Cortical ATP content was significantly reduced in severely exposed animals, supporting cerebral bioenergetic failure. Western blot analysis demonstrated increased HO-1 expression without significant reductions in citrate synthase or Complex IV protein abundance, suggesting functional respiratory inhibition rather than loss of mitochondrial content. Collectively, these findings demonstrate that acute CO poisoning pr
+
+---
+
+## 6. Association of HFLTVV With Force-Time Integral and Ablation Index During Pulmonary Vein Isolation.
+
+- **PMID**: [42517418](https://pubmed.ncbi.nlm.nih.gov/42517418/)
+- **Journal**: Pacing and clinical electrophysiology : PACE
+- **Publication Date**: 2026 Jul 28
+- **Authors**: Shigematsu Tatsuya, Banba Kimikazu, Takeuchi Masato, Moriya Seiji, Kanazawa Natsuki et al.
+- **DOI**: https://doi.org/10.1111/pace.70380
+
+### Abstract
+
+**INTRODUCTION**: In catheter ablation of atrial fibrillation (AF), durable lesion formation is essential for successful pulmonary vein isolation (PVI). Force-time integral (FTI) is an established lesion metric that reflects the cumulative effect of contact force (CF) and radiofrequency (RF) application time and has been associated with lesion durability. Although high-frequency low-tidal volume ventilation (HFLTVV) has been associated with improved procedural outcomes, lesion-level evidence in the era of contact force-guided ablation remains limited. We aimed to evaluate the association between HFLTVV and lesion metrics during PVI. **METHODS AND RESULTS**: This single-center retrospective study included patients with paroxysmal AF undergoing first-time RF PVI. Procedures were performed during the standard ventilation (SV) and the HFLTVV eras, with CF targeted at 10-12 g. Lesion parameters, including RF application time, average CF, ablation index (AI), FTI, and impedance drop, were extracted from CARTONET and analyzed overall and by pulmonary vein region. Respiratory effects were assessed using arterial blood gas analysis. Compared with SV, HFLTVV was associated with significantly higher FTI and AI (FTI: 268.8 ± 31.5 vs 235.2 ± 21.7 g·s; AI: 459.0 ± 16.8 vs 437.1 ± 13.4; both p <0.001), despite similar CF and RF application time. Findings were consistent across pulmonary vein regions. In multivariable analyses adjusting for baseline characteristics, HFLTVV remained independently associated with higher FTI and AI (both p <0.001). Procedural duration and arrhythmia recurrence were similar between groups. Arterial blood gas analysis demonstrated no clinically significant CO2 retention. **CONCLUSION**: HFLTVV was associated with higher FTI and AI under comparable CF and RF application time. These findings suggest that HFLTVV may influence lesion metrics during AF ablation and warrant further investigation.
+
+---
+
+## 7. Perioperative Hyperoxia and Early Pulmonary Epithelial and Glycocalyx-Related Biomarker Trajectories in Laparoscopic Surgery: A Prospective Randomized Study.
+
+- **PMID**: [42514230](https://pubmed.ncbi.nlm.nih.gov/42514230/)
+- **Journal**: Life (Basel, Switzerland)
+- **Publication Date**: 2026 Jul 14
+- **Authors**: Guliyeva Sevda, Canbaz Mert, Vardar Kübra, Sivrikoz Nükhet, Turhan Özlem et al.
+- **DOI**: https://doi.org/10.3390/life16071160
+
+### Abstract
+
+Although perioperative oxygen therapy is a routine component of general anesthesia, its early biological consequences remain incompletely understood. This prospective randomized study evaluated whether perioperative oxygen concentration influences early biomarker responses in adults undergoing elective laparoscopic lower abdominal surgery. Patients received either normoxia (FiO2 0.35) or hyperoxia (FiO2 0.80) under standardized anesthesia. Clear physiological separation between groups was confirmed by arterial blood gas analysis. The primary biomarker finding was that circulating surfactant protein-A (SP-A) increased significantly in the normoxia group, whereas no comparable increase was observed under hyperoxia. Syndecan-1 and sialic acid showed descriptively similar directional patterns; however, these secondary biomarker findings were interpreted as exploratory and were not robust after Holm correction. By contrast, tumor necrosis factor-alpha (TNF-α) levels were higher postoperatively in the hyperoxia group, while ischemia-modified albumin (IMA) and total protein did not differ significantly between groups. These findings suggest that perioperative hyperoxia was associated with different early circulating biomarker trajectories across pulmonary epithelial and glycocalyx-related domains, without establishing pulmonary or endothelial protection. Further studies are needed to determine whether these early mechanistic findings translate into clinically meaningful outcomes.
+
+---
+
+## 8. Association Between Intraoperative Arterial Oxygen Tension and Postoperative Opioid Consumption: A Large-Scale Cohort Study Using Overlap Weighting Analysis.
+
+- **PMID**: [42512860](https://pubmed.ncbi.nlm.nih.gov/42512860/)
+- **Journal**: Medicina (Kaunas, Lithuania)
+- **Publication Date**: 2026 Jul 08
+- **Authors**: Lee Moon Ok, Koh Hanna, Cho Sung-Ae
+- **DOI**: https://doi.org/10.3390/medicina62071318
+
+### Abstract
+
+Background and Objectives: The clinical impact of hyperoxia, particularly its analgesic effects and potential pulmonary risks, remains controversial. This study investigated whether higher intraoperative arterial oxygen tension (PaO2) reduces postoperative analgesic requirements and its association with postoperative pulmonary complications (PPCs). Materials and Methods: This retrospective cohort study included 1194 patients undergoing non-cardiac surgery. Patients were categorized into lower PaO2 (PaO2 ≤ 200 mmHg) and higher PaO2 (PaO2 > 200 mmHg) groups based on intraoperative arterial blood gas analysis. Overlap weighting was used to balance baseline characteristics and intraoperative variables. Primary outcomes included postoperative opioid consumption (measured in morphine milligram equivalents, MME) at 0-24 and 24-48 h. Secondary outcomes included pain intensity, frequency of rescue analgesics, the incidence of PPCs and in-hospital mortality. Results: After overlap weighting, the higher PaO2 group showed significantly lower strong opioid consumption during the 24-48 h period compared to the lower PaO2 group (0.22 ± 0.04 vs. 0.50 ± 0.11 MME; adjusted p = 0.014). The frequency of rescue analgesics was significantly reduced in the higher PaO2 group (1.04 ± 0.06 vs. 1.35 ± 0.11; adjusted p = 0.007). However, pain intensity and the total MME for 0-24 h did not differ. There was no significant difference in the incidence of total PPCs or total adverse events between the two groups. Conclusions: Higher intraoperative PaO2 was associated with a significant decrease in opioid requirements during the postoperative 24-48 h and frequency of rescue analgesics without increasing PPCs and adverse events. These findings support the need for prospective studies to determine whether higher intraoperative PaO2 may have a clinically meaningful role in perioperative analgesic strategies.
+
+---
+
+## 9. Diagnostic Overshadowing in Chronic Obstructive Pulmonary Disease: A Case of Recurrent Syncope.
+
+- **PMID**: [42540137](https://pubmed.ncbi.nlm.nih.gov/42540137/)
+- **Journal**: Cureus
+- **Publication Date**: 2026 Jul
+- **Authors**: Halder Antareep, Afzal Medhia, Ugurlu Aylin, Mukherjee Rahul
+- **DOI**: https://doi.org/10.7759/cureus.111863
+
+### Abstract
+
+Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a frequent cause of acute medical presentations. However, misattribution of the cause of such episodes based on bias from pre-existing diagnostic history (i.e., diagnostic anchoring) can lead to poor appraisal of co-existing life-threatening pathology unrelated to COPD. We present a 67-year-old male with a known background of severe COPD who presented with sudden-onset breathlessness but also recurrent syncope, where a presumed AECOPD served as a diagnostic red herring. Driven by implicit framing biases, the admitting team prematurely closed the diagnostic process and empirically initiated intravenous corticosteroids and nebulised bronchodilators without fully exploring alternative diagnoses. Multidisciplinary team review noted the absence of hypoxia or hypercapnia on arterial blood gas analysis and identified syncope as an atypical diagnostic feature of AECOPD, prompting a pivot away from respiratory management. A pre-hospital ECG had captured an irregularly irregular tachycardia suggestive of a focal atrial tachycardia with variable block or a multifocal atrial tachycardia (MAT), and a subsequent electrocardiography (ECG) revealed a consistently short PR interval (110 ms), raising the possibility of an underlying arrhythmic cause of the event. Corticosteroids were safely discontinued, and an outpatient implantable loop recorder (ILR) was arranged for long-term tachyarrhythmia surveillance. This report highlights the risks of diagnostic anchoring and premature closure in patients in the context of a known background diagnosis, the necessity of holistic clinical assessment with maintenance of a broad differential, and the importance of reassessing atypical clinical features through multidisciplinary review.
+
+---
+
+## 10. Efficacy of electroacupuncture in the treatment of Acute Exacerbation of Chronic Obstructive Pulmonary disease: study protocol for a multicenter, randomized, sham-controlled trial.
+
+- **PMID**: [42517050](https://pubmed.ncbi.nlm.nih.gov/42517050/)
+- **Journal**: Frontiers in medicine
+- **Publication Date**: 2026
+- **Authors**: Zhu Shiyu, Yang Qinmei, Zhang Peng, Xu Jiaxin, Li Suyun et al.
+- **DOI**: https://doi.org/10.3389/fmed.2026.1879332
+
+### Abstract
+
+**BACKGROUND**: Chronic obstructive pulmonary disease (COPD) is one of the most common chronic respiratory diseases worldwide. Recurrent acute exacerbations severely impact patients' quality of life and impose a significant economic burden. The Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines recommend acupuncture as an adjunctive therapy for patients with advanced COPD. However, evidence regarding its efficacy during the acute exacerbation phase remains insufficient, particularly from high-quality clinical trials. This study aims to evaluate the efficacy and safety of electroacupuncture in treating patients with acute exacerbation of COPD (AECOPD), establish a standardized electroacupuncture treatment protocol for AECOPD, and preliminarily explore the association between electroacupuncture and airway mucus hypersecretion. **METHODS**: This is a multicenter, randomized, sham-controlled trial. A total of 336 eligible patients with AECOPD will be recruited and randomly allocated in a 1:1 ratio to either an electroacupuncture group or a sham acupuncture group. Participants will receive treatment once daily for 7 consecutive days and will then be followed up for 13 weeks. The primary outcome measure is the COPD Assessment Test (CAT). Secondary outcomes include the Cough and Sputum Assessment Questionnaire (CASA-Q), the modified Medical Research Council Dyspnea Scale (mMRC), clinical symptom and sign scores, the number of exacerbations, and arterial blood gas. All rating scales will be evaluated at baseline, 4 days after treatment, 7 days after treatment, 5 weeks of follow-up and 13 weeks of follow-up. Arterial blood gas analysis and alveolar lavage fluid collection will be performed at baseline and after 7 days of treatment. The number of acute exacerbations during the follow-up period will be recorded at 5 and 13 weeks of follow-up. Adverse events related to acupuncture will be recorded throughout the study period. **CONCLUSION**: This study wil
 
 ---
