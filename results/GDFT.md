@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-08-03
+**Update Time**: 2026-08-06
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -48,21 +48,7 @@ The perioperative management of patients with end-stage renal disease on renal r
 
 ---
 
-## 4. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
-
-- **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Ashraf Nashrah, Zargar Owais Ul Umer, Albina Aayat
-- **DOI**: https://doi.org/10.7759/cureus.110243
-
-### Abstract
-
-Goal-directed fluid therapy (GDFT) has emerged as an important perioperative strategy aimed at optimizing hemodynamic status and improving surgical outcomes; however, evidence regarding its effectiveness in patients undergoing major abdominal surgery remains variable. This meta-analysis was conducted to evaluate the impact of intraoperative GDFT compared with conventional fluid therapy on postoperative morbidity and clinical outcomes in adult patients undergoing elective major abdominal surgery. Randomized controlled trials comparing GDFT with conventional intraoperative fluid therapy were analyzed. The assessed outcomes included postoperative morbidity, 30-day mortality, length of hospital stay, intensive care unit (ICU) stay, recovery of gastrointestinal function, and incidence of paralytic ileus. A total of 14 randomized controlled trials involving approximately 2,750 patients were included, with 1,433 patients receiving GDFT and 1,317 receiving conventional fluid therapy. GDFT was associated with a significant reduction in hospital length of stay (mean difference (MD) 2.5 days, 95% confidence interval (CI) 4.5 to -0.5), earlier passage of flatus (MD 6.8 hours, 95% CI 11.2 to -2.4), earlier tolerance of oral intake (MD 15.2 hours, 95% CI 26.8 to -3.6), and reduced incidence of postoperative ileus (risk ratio (RR) 0.48, 95% CI 0.28-0.82). However, no significant reduction was observed in overall postoperative morbidity (RR 0.78, 95% CI 0.57-1.07) or mortality (RR 1.02, 95% CI 0.45-2.34). Intraoperative GDFT in elective major abdominal surgery was associated with improved postoperative gastrointestinal recovery, reduced incidence of postoperative ileus, and shorter hospital length of stay compared with conventional fluid therapy. However, no significant reduction in overall postoperative morbidity or mortality was observed. These findings support the use of GDFT as a safe and effective perioperative strategy to enhance postoperative recovery in major abdominal surg
-
----
-
-## 5. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 4. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
 
 - **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
 - **Journal**: Journal of chest surgery
@@ -76,7 +62,7 @@ Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional 
 
 ---
 
-## 6. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 5. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -90,7 +76,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 7. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
+## 6. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
 
 - **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
 - **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
@@ -104,7 +90,7 @@ This case report outlines the multidisciplinary perioperative management of a 69
 
 ---
 
-## 8. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
+## 7. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
 
 - **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
 - **Journal**: Journal of clinical medicine
@@ -115,6 +101,20 @@ This case report outlines the multidisciplinary perioperative management of a 69
 ### Abstract
 
 Background: Perioperative fluid therapy plays a critical role in the outcome of microvascular free-flap surgery. While both inadequate and excessive fluid administration may impair flap perfusion and systemic recovery, the impact of fluid balance and crystalloid volume-normalized to body weight and operative time-on postoperative complications remains underexplored. This study investigates the dose-dependent effects of intraoperative fluid and crystalloid administration on flap-related and systemic outcomes. Methods: This retrospective, single-centre cohort study included 495 adult patients who underwent microvascular free-flap transplantation between 2009 and 2020. Intraoperative fluid balance and crystalloid volumes were normalized to patient weight and operative duration (mL/kg/h) and stratified into pre-defined thresholds. The primary endpoint was the incidence of flap-related complications (partial/total flap loss, thrombosis, revision surgery). Secondary endpoints included flap loss, suture insufficiency, pneumonia, ICU length of stay (LOS-ICU), and in-hospital mortality. Results: Higher intraoperative fluid rates were significantly associated with higher complication rates. Flap-related complications occurred in 54.8% of patients receiving >10 mL/kg/h versus 37.1% in the ≤5 mL/kg/h group (p < 0.01) and reached 100% in patients receiving >20 mL/kg/h, although this category comprised only seven patients (p < 0.01). Suture insufficiency increased from 3.1% (≤5 mL/kg/h) to 57.1% (>20 mL/kg/h; p < 0.01). Pneumonia incidence rose from 8.8% (≤5 mL/kg/h) to 31.9% (>10 mL/kg/h; p < 0.01). A U-shaped trend was observed for flap loss, with the highest rate (24.6%) at >10 mL/kg/h. Crystalloid volume > 3000 mL was significantly associated with higher flap loss (20.2% vs. 0.2%; p < 0.01) and suture insufficiency (7.0% vs. 0.2%; p = 0.02). Red blood-cell (RBC) transfusions were associated with higher overall complication rates (45.6% vs. 34.2%; p < 0.01) and suture insuffic
+
+---
+
+## 8. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
+
+- **PMID**: [42545487](https://pubmed.ncbi.nlm.nih.gov/42545487/)
+- **Journal**: Unfallchirurgie (Heidelberg, Germany)
+- **Publication Date**: 2026 Aug 03
+- **Authors**: Link Björn-Christian, Haefeli Pascal C, Rohner-Spengler Manuela, van de Wall Bryan, Beeres Frank J P
+- **DOI**: https://doi.org/10.1007/s00113-026-01732-9
+
+### Abstract
+
+**BACKGROUND**: Trochanteric femoral fracture is the most frequent proximal femur fracture in older adults and is associated with substantial perioperative morbidity and mortality. While surgical technique, anticoagulation and orthogeriatric care are widely discussed, the nursing and organisational levers of the perioperative pathway, namely fasting, fluid therapy and pain management, often remain underappreciated. **OBJECTIVE**: To review the evidence on a liberalised preoperative fasting policy (sip till send), goal-directed fluid therapy, and peripheral nerve blocks with and without continuous catheters with regard to pain control, postoperative delirium and functional outcome. **METHODS**: Selective narrative review of literature published within the last decade, including systematic reviews, randomised trials and national recommendations. **CONCLUSION**: Clear fluids up to the call to theatre are safe and reduce thirst, hunger and volume depletion. Liberal intraoperative fluid administration is associated with higher complication rates; goal-directed therapy with balanced crystalloids is therefore preferable. Peripheral nerve blocks reduce pain, opioid consumption and the incidence of postoperative delirium. Continuous nerve catheters are an attractive option in case of prolonged preoperative waiting times. Bundling these measures within an enhanced-recovery framework is associated with shorter length of stay and improved recovery. **ZUSAMMENFASSUNG**: HINTERGRUND: Die trochantäre Femurfraktur ist die häufigste hüftnahe Fraktur des älteren Menschen und mit einer hohen perioperativen Morbidität und Letalität assoziiert. Während chirurgische Versorgungstechnik, Antikoagulation und orthogeriatrische Strukturen viel diskutiert werden, bleiben die pflegerischen und organisatorischen Stellschrauben des perioperativen Pfades, namentlich Nüchternheit, Flüssigkeitstherapie und Schmerzmanagement, oft unterbelichtet. **FRAGESTELLUNG**: Welche Evidenz besteht für eine libe
 
 ---
 

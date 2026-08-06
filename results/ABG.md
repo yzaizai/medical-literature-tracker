@@ -1,6 +1,6 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-08-03
+**Update Time**: 2026-08-06
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -20,21 +20,7 @@ A butterfly-pattern, high-grade glioma involving the corpus callosum is an uncom
 
 ---
 
-## 2. Pulmonary Tumor Thrombotic Microangiopathy Diagnosed by Right Heart Catheterization in a Patient With Breast Cancer: A Case Report.
-
-- **PMID**: [42500795](https://pubmed.ncbi.nlm.nih.gov/42500795/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Tajima Shonosuke, Nakata Yugo, Sanda Kazuhiro, Koshimo Yoshihiko, Shigematsu Michio
-- **DOI**: https://doi.org/10.7759/cureus.111406
-
-### Abstract
-
-Pulmonary tumor thrombotic microangiopathy (PTTM) is a severe complication of malignancy, characterized by rapidly progressive pulmonary hypertension and a dismal prognosis. This report describes the case of a 71-year-old woman with a history of estrogen receptor (ER)-positive left breast cancer who developed PTTM. She presented with exertional dyspnea and a cough. Arterial blood gas analysis revealed hypoxemia with an elevated alveolar-arterial oxygen gradient. Chest computed tomography (CT) showed diffuse ground-glass and nodular opacities without obvious pulmonary embolism (PE). Echocardiography revealed right ventricular enlargement and moderate pulmonary hypertension. Right heart catheterization confirmed severe pulmonary hypertension with a mean pulmonary artery pressure of 46 mmHg and pulmonary vascular resistance of 844 dynes/sec/cm⁵. After transbronchial lung biopsy (TBLB) and bronchoalveolar lavage (BAL) failed to yield a diagnosis, PTTM was confirmed by detecting malignant cells via cytology of blood aspirated from the pulmonary artery during catheterization. The administration of systemic chemotherapy resulted in a marked improvement in hemodynamics, radiological findings, and symptoms, allowing her to be weaned from home oxygen therapy.
-
----
-
-## 3. Validity of transcutaneous capnometry in prolonged use in a patient population with acute respiratory failure.
+## 2. Validity of transcutaneous capnometry in prolonged use in a patient population with acute respiratory failure.
 
 - **PMID**: [42537816](https://pubmed.ncbi.nlm.nih.gov/42537816/)
 - **Journal**: Respiratory medicine
@@ -48,7 +34,7 @@ Pulmonary tumor thrombotic microangiopathy (PTTM) is a severe complication of ma
 
 ---
 
-## 4. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
+## 3. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
 
 - **PMID**: [42536488](https://pubmed.ncbi.nlm.nih.gov/42536488/)
 - **Journal**: Cardiovascular journal of Africa
@@ -62,7 +48,7 @@ Pulmonary tumor thrombotic microangiopathy (PTTM) is a severe complication of ma
 
 ---
 
-## 5. Mitochondrial Dysfunction, Cerebral Metabolic Crisis, and Exploratory Bioenergetic Biomarkers in a Translational Swine Model of Acute Carbon Monoxide Poisoning.
+## 4. Mitochondrial Dysfunction, Cerebral Metabolic Crisis, and Exploratory Bioenergetic Biomarkers in a Translational Swine Model of Acute Carbon Monoxide Poisoning.
 
 - **PMID**: [42528264](https://pubmed.ncbi.nlm.nih.gov/42528264/)
 - **Journal**: Toxicological sciences : an official journal of the Society of Toxicology
@@ -76,7 +62,7 @@ Carbon monoxide (CO) poisoning remains a major cause of toxicologic morbidity an
 
 ---
 
-## 6. Association of HFLTVV With Force-Time Integral and Ablation Index During Pulmonary Vein Isolation.
+## 5. Association of HFLTVV With Force-Time Integral and Ablation Index During Pulmonary Vein Isolation.
 
 - **PMID**: [42517418](https://pubmed.ncbi.nlm.nih.gov/42517418/)
 - **Journal**: Pacing and clinical electrophysiology : PACE
@@ -90,7 +76,7 @@ Carbon monoxide (CO) poisoning remains a major cause of toxicologic morbidity an
 
 ---
 
-## 7. Perioperative Hyperoxia and Early Pulmonary Epithelial and Glycocalyx-Related Biomarker Trajectories in Laparoscopic Surgery: A Prospective Randomized Study.
+## 6. Perioperative Hyperoxia and Early Pulmonary Epithelial and Glycocalyx-Related Biomarker Trajectories in Laparoscopic Surgery: A Prospective Randomized Study.
 
 - **PMID**: [42514230](https://pubmed.ncbi.nlm.nih.gov/42514230/)
 - **Journal**: Life (Basel, Switzerland)
@@ -104,7 +90,7 @@ Although perioperative oxygen therapy is a routine component of general anesthes
 
 ---
 
-## 8. Association Between Intraoperative Arterial Oxygen Tension and Postoperative Opioid Consumption: A Large-Scale Cohort Study Using Overlap Weighting Analysis.
+## 7. Association Between Intraoperative Arterial Oxygen Tension and Postoperative Opioid Consumption: A Large-Scale Cohort Study Using Overlap Weighting Analysis.
 
 - **PMID**: [42512860](https://pubmed.ncbi.nlm.nih.gov/42512860/)
 - **Journal**: Medicina (Kaunas, Lithuania)
@@ -118,7 +104,7 @@ Background and Objectives: The clinical impact of hyperoxia, particularly its an
 
 ---
 
-## 9. Diagnostic Overshadowing in Chronic Obstructive Pulmonary Disease: A Case of Recurrent Syncope.
+## 8. Diagnostic Overshadowing in Chronic Obstructive Pulmonary Disease: A Case of Recurrent Syncope.
 
 - **PMID**: [42540137](https://pubmed.ncbi.nlm.nih.gov/42540137/)
 - **Journal**: Cureus
@@ -129,6 +115,20 @@ Background and Objectives: The clinical impact of hyperoxia, particularly its an
 ### Abstract
 
 Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a frequent cause of acute medical presentations. However, misattribution of the cause of such episodes based on bias from pre-existing diagnostic history (i.e., diagnostic anchoring) can lead to poor appraisal of co-existing life-threatening pathology unrelated to COPD. We present a 67-year-old male with a known background of severe COPD who presented with sudden-onset breathlessness but also recurrent syncope, where a presumed AECOPD served as a diagnostic red herring. Driven by implicit framing biases, the admitting team prematurely closed the diagnostic process and empirically initiated intravenous corticosteroids and nebulised bronchodilators without fully exploring alternative diagnoses. Multidisciplinary team review noted the absence of hypoxia or hypercapnia on arterial blood gas analysis and identified syncope as an atypical diagnostic feature of AECOPD, prompting a pivot away from respiratory management. A pre-hospital ECG had captured an irregularly irregular tachycardia suggestive of a focal atrial tachycardia with variable block or a multifocal atrial tachycardia (MAT), and a subsequent electrocardiography (ECG) revealed a consistently short PR interval (110 ms), raising the possibility of an underlying arrhythmic cause of the event. Corticosteroids were safely discontinued, and an outpatient implantable loop recorder (ILR) was arranged for long-term tachyarrhythmia surveillance. This report highlights the risks of diagnostic anchoring and premature closure in patients in the context of a known background diagnosis, the necessity of holistic clinical assessment with maintenance of a broad differential, and the importance of reassessing atypical clinical features through multidisciplinary review.
+
+---
+
+## 9. Incidental perioperative detection of congenital methemoglobinemia: A prospective case series from a South Indian referral centre.
+
+- **PMID**: [42544183](https://pubmed.ncbi.nlm.nih.gov/42544183/)
+- **Journal**: Clinical hematology international
+- **Publication Date**: 2026
+- **Authors**: Pushparaj Pooja, Mohamed Rafi Aboobacker
+- **DOI**: https://doi.org/10.46989/001c.164967
+
+### Abstract
+
+**BACKGROUND**: Congenital methemoglobinemia is a rare inherited disorder caused by impaired reduction of methemoglobin to functional hemoglobin, resulting in functional hypoxia despite normal arterial oxygen tension. Due to its often-mild clinical phenotype, diagnosis is frequently delayed or made incidentally. **METHODS**: This prospective case series of surgical patients was conducted at a tertiary care center in South India over a one-year period. Patients incidentally diagnosed with methemoglobinemia during perioperative or acute medical evaluation were included. Diagnosis was established using arterial blood gas analysis with co-oximetry and confirmed biochemically by erythrocyte NADH-cytochrome b5 reductase activity. **RESULTS**: Ten surgical patients were identified, all originating from a single geographic region. Methemoglobin levels ranged from 14.4% to 29.1%. Most patients were asymptomatic or mildly symptomatic, with diagnosis prompted by refractory hypoxemia and a characteristic saturation gap. Enzyme assays confirmed Type I congenital methemoglobinemia in all cases. Management was largely supportive, with methylene blue reserved for symptomatic individuals. **CONCLUSIONS**: This case series highlights incidental perioperative detection as a key diagnostic opportunity and suggests possible regional clustering of congenital methemoglobinemia. Increased clinical awareness and targeted screening may improve the diagnosis of this underrecognized condition.
 
 ---
 
