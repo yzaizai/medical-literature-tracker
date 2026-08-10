@@ -1,12 +1,26 @@
 # AnesthesiaAI - PubMed Latest Papers
 
-**Update Time**: 2026-08-06
+**Update Time**: 2026-08-10
 **Search Range**: Last 30 days
-**Papers Found**: 10
+**Papers Found**: 20
 
 ---
 
-## 1. Evaluating the Effectiveness of Chatbot-Based Patient Education Compared to Traditional Patient Information Leaflets Related to Pediatric Anesthesia: A Pilot Cross-Sectional Study.
+## 1. Pupil-DLC: An open-source deep learning pipeline for scalable, marker-less tracking of pupil dynamics across conscious and unconscious states.
+
+- **PMID**: [42401399](https://pubmed.ncbi.nlm.nih.gov/42401399/)
+- **Journal**: Journal of neuroscience methods
+- **Publication Date**: 2026 Nov
+- **Authors**: Seyfourian Parsa, Marks Lydia C, Claar Leslie D, Nahas Yasmeen, Keating Miles et al.
+- **DOI**: https://doi.org/10.1016/j.jneumeth.2026.110848
+
+### Abstract
+
+**BACKGROUND**: Pupil diameter is a non-invasive biomarker of brain state, correlating with arousal, attention, cognitive processing, and consciousness. However, existing pupillometry software often lacks scalability and robustness across diverse experimental conditions and species. **NEW METHOD**: We introduce Pupil-DLC, an open-source, offline, DeepLabCut-based pipeline for scalable, marker-less pupil tracking, primarily designed for mice. Trained on 21,909 manually annotated frames from over 140 videos of head-fixed mice spanning wakefulness and drug-induced states, including psychedelics and anesthesia, the dataset was deliberately selected to maximize pupil size variability and model generalization. Pupil-DLC implements a dual-model architecture: a General Model (GM) for high-throughput analysis and an Individual Model (IM) for session-specific optimization. **RESULTS**: Pupil-DLC captures pupil dynamics across awake, psychedelic, and anesthetized conditions with high agreement with ground truth and equal tracking fidelity during active locomotion and quiet rest. Confidence metrics aligned with human frame quality assessments, enabling principled tuning of accuracy-retention trade-offs. As a secondary demonstration, Pupil-DLC extends to unseen human videos across diverse conditions and frame rates, including daylight and smartphone recordings, without retraining. **COMPARISON WITH EXISTING METHODS**: Pupil-DLC outperforms existing automated methods in accuracy and frame retention while maintaining computational efficiency comparable to real-time tools. These improvements stem from a learned keypoint-based representation robust to pupil shape variability, occlusions, reflections, and imaging artifacts. The GM/IM framework supports a tiered strategy balancing throughput and precision. **CONCLUSIONS**: Pupil-DLC provides a reproducible, adaptable platform for quantifying pupil-linked brain state dynamics across experimental paradigms and species, bridging basic mo
+
+---
+
+## 2. Evaluating the Effectiveness of Chatbot-Based Patient Education Compared to Traditional Patient Information Leaflets Related to Pediatric Anesthesia: A Pilot Cross-Sectional Study.
 
 - **PMID**: [42255859](https://pubmed.ncbi.nlm.nih.gov/42255859/)
 - **Journal**: Cureus
@@ -20,7 +34,21 @@ Background Clear, accurate, and empathetic communication is essential in pediatr
 
 ---
 
-## 2. Evaluation of Five Large Language Models for Parental Education in Pediatric Anesthesia: Reliability and Readability Study.
+## 3. A Multitask Time-Frequency Deep Learning Approach for Anesthesia Depth Monitoring and Transition Prediction.
+
+- **PMID**: [42351597](https://pubmed.ncbi.nlm.nih.gov/42351597/)
+- **Journal**: Diagnostics (Basel, Switzerland)
+- **Publication Date**: 2026 Jun 22
+- **Authors**: Kavuncu Saliha Kevser, Yalvac Mehmet, Basturk Alper
+- **DOI**: https://doi.org/10.3390/diagnostics16121937
+
+### Abstract
+
+Background: Electroencephalography (EEG) signals are widely used for monitoring anesthesia depth during surgery. Current commercial indicators are largely closed-source and may reflect dynamic changes with some delay. Methods: This study proposes a multitask deep learning model for continuous Bispectral Index (BIS) estimation, binary anesthesia-state classification, and prediction of transitions toward light anesthesia at different time intervals. Dual-channel EEG signals from 5471 surgical cases in the VitalDB dataset were divided into 60 s windows. Short-Time Fourier Transform (STFT) captured instantaneous frequency changes to transform the signal into a two-dimensional map. A ResNet-SE architecture incorporating Squeeze-and-Excitation blocks was used to identify EEG features associated with anesthesia depth. Results: A Mean Absolute Error of 3.27 and a Root Mean Square Error of 5.48 were obtained in anesthesia depth estimation. Light anesthesia classification achieved an AUC of 0.99 on the internal test set. Conclusions: The proposed multitask model enables the assessment of anesthesia depth and transitions toward light anesthesia using EEG signals.
+
+---
+
+## 4. Evaluation of Five Large Language Models for Parental Education in Pediatric Anesthesia: Reliability and Readability Study.
 
 - **PMID**: [42314147](https://pubmed.ncbi.nlm.nih.gov/42314147/)
 - **Journal**: JMIR medical informatics
@@ -34,7 +62,35 @@ Background Clear, accurate, and empathetic communication is essential in pediatr
 
 ---
 
-## 3. Prediction of Postoperative Vomiting Within 24 Hours Using Machine Learning With Large Language Model-Enhanced Interpretability: Development and Validation Study.
+## 5. A Real-Time Automated Deep Learning Workflow for Non-invasive High-Magnification Imaging of 
+
+- **PMID**: [42282531](https://pubmed.ncbi.nlm.nih.gov/42282531/)
+- **Journal**: bioRxiv : the preprint server for biology
+- **Publication Date**: 2026 Jun 04
+- **Authors**: Safaeian Parsa, Mahbub Tasnuva Binte, Tahrin Rhythem, Tanha Mohammad, Pellegrino Mark W et al.
+- **DOI**: https://doi.org/10.64898/2026.06.01.729022
+
+### Abstract
+
+Caenorhabditis elegans is a premier model organism for aging and neurobiology research, valued for its short lifespan, optical transparency, genetic tractability, and well-mapped nervous system. Non-invasive automated recording of biomarkers is a fundamental goal in modern biology because it preserves natural physiology and eliminates confounds from anesthesia, restraint, or repeated handling in C. elegans. Yet high-magnification imaging of freely moving worms remains a persistent challenge: as magnification increases, the narrowing field of view compounds target loss, motion blur, and focal drift, pushing researchers toward immobilization strategies that compromise physiology, suppress natural behavior, and preclude the continuous longitudinal observation essential for aging and neurobiological studies. Here, we present a real-time tracking workflow for imaging individual worms in a microfluidic platform under controlled culture conditions. The system integrates deep learning head detection, image-based autofocus, and rapid motorized-stage feedback to support stable imaging across multiple magnifications, including neuronal-scale imaging. Hundreds of individually housed worms in separate incubation chambers enable repeated daily imaging of the same animals throughout their lifespan. Built entirely on a commercially available inverted microscope without additional custom hardware, the platform features a modular, user-configurable interface adaptable to diverse microscope setups, specimens, and experimental goals. Fluorescence images from freely moving worms were visually comparable to those from immobilized animals, supporting longitudinal phenotyping in aging and neurobiology studies.
+
+---
+
+## 6. Transforming perioperative care: The current landscape and future trajectory of artificial intelligence in anesthesia-A narrative review.
+
+- **PMID**: [42297385](https://pubmed.ncbi.nlm.nih.gov/42297385/)
+- **Journal**: The Journal of international medical research
+- **Publication Date**: 2026 Jun
+- **Authors**: Zhang Pan, Wu Ling, Liao Yunxi, Li Hong
+- **DOI**: https://doi.org/10.1177/03000605261454051
+
+### Abstract
+
+This narrative review examined how artificial intelligence is increasingly being applied in anesthesiology to support clinical decision-making across the perioperative period. It outlines current applications of artificial intelligence in preoperative risk assessment, intraoperative monitoring and automation, and postoperative complication prediction. We also examined the underlying artificial intelligence architectures that form the technical foundations of these tools, including machine learning, deep learning, and natural language processing. We propose that in the future, rather than narrow task-specific tools, artificial intelligence in anesthesiology should involve the development and clinical translation of large, generalizable foundation models capable of integrating multimodal perioperative data. In addition, developments in multimodal data integration, closed-loop control systems, and interpretable modeling may further refine these approaches. Further progress in artificial intelligence-driven anesthesiology may require multidisciplinary collaboration, prospective clinical validation, and careful integration into perioperative workflows to ensure safe and clinically meaningful adoption.
+
+---
+
+## 7. Prediction of Postoperative Vomiting Within 24 Hours Using Machine Learning With Large Language Model-Enhanced Interpretability: Development and Validation Study.
 
 - **PMID**: [42536998](https://pubmed.ncbi.nlm.nih.gov/42536998/)
 - **Journal**: JMIR medical informatics
@@ -48,7 +104,35 @@ Background Clear, accurate, and empathetic communication is essential in pediatr
 
 ---
 
-## 4. Simulator development using natural language: clinician-led innovation through artificial intelligence.
+## 8. Dynamic Aware Biopsy Needle Identification in Ultrasound Images Using Temporal Prior Guided U-Net Cross Transformer With Limited Training Data.
+
+- **PMID**: [42486749](https://pubmed.ncbi.nlm.nih.gov/42486749/)
+- **Journal**: Ultrasound in medicine & biology
+- **Publication Date**: 2026 Jul 22
+- **Authors**: Lee Myeongjin, Beom Dong Gyu, Bae Eun Hui, Kim Soo Wan, Kim Chang Seong et al.
+- **DOI**: https://doi.org/10.1016/j.ultrasmedbio.2026.06.024
+
+### Abstract
+
+**OBJECTIVE**: Ultrasound-guided needle placement has been commonly used for minimally invasive clinical procedures, including biopsy, regional anesthesia and localized drug administration. This study aimed to enhance existing deep learning frameworks by incorporating a classical background subtraction, which enriches the inductive bias and thereby enables more reliable needle detection even when the available training dataset is small. **METHODS**: Although deep learning methods such as U-Net and its derivatives have substantially advanced needle localization performance, they remain constrained by a limited receptive field that prevents effective modeling of long-range spatial dependencies. Although Vision Transformer overcomes this limitation through self-attention mechanisms, it demands large-scale training data and tends to sacrifice fine-grained spatial locality. To overcome these limitations, we propose U-Net Cross Transformer (UXFormer), a dynamic-aware hybrid architecture that combines classical background subtraction with an integrated U-Net × Vision Transformer fusion framework. The model comprises three key components: (i) null subspace-based extraction of temporal prior information, (ii) a temporal-to-spatial cross-attention module during encoding and (iii) a global-to-local cross-convolutional block attention module during decoding, enabling continuous bidirectional communication between localized temporal dynamics and globally contextualized spatial representations. **RESULTS**: Experimental results demonstrate that the proposed method outperforms multiple competing approaches, achieving significant improvements: a 14.2% increase in Jaccard index, a 9.0% increase in Dice score, 8.5% increase in recall, 5.5% increase in precision, and 63.5% increase in the 95th percentile Hausdorff distance, thus leading to a 44.0% improvement in tip position error and a 17.7% improvement in trajectory angle error, even under varying needle visibility conditions. **CON
+
+---
+
+## 9. Off-target effects of DREADD ligands revealed by an anesthesia emergence paradigm in mice.
+
+- **PMID**: [42468535](https://pubmed.ncbi.nlm.nih.gov/42468535/)
+- **Journal**: Cell reports methods
+- **Publication Date**: 2026 Jul 17
+- **Authors**: Moreno-Gomez Miryam, Foffani Guglielmo, Humanes-Valera Desire
+- **DOI**: https://doi.org/10.1016/j.crmeth.2026.101531
+
+### Abstract
+
+Designer receptors exclusively activated by designer drugs (DREADDs) enable reversible control of specific neural circuits, but the pharmacological neutrality of their ligands is increasingly questioned. Here, we introduce an anesthesia emergence paradigm to systematically assess the off-target effects of DREADD ligands in DREADD-naive mice. We show that intraperitoneal administration of clozapine N-oxide (CNO), compound 21 (C21), or deschloroclozapine (DCZ) delays motor recovery from isoflurane anesthesia. CNO produced the largest delay, likely due to its back-conversion to clozapine. DCZ showed the smallest effect magnitude, although its difference from C21 remained inconclusive. We then show that subcutaneous administration, which should reduce clozapine back-conversion, reduces the CNO-induced recovery delay to levels comparable to those of C21. Finally, we provide a freely available, deep-learning-based automated behavioral pipeline that integrates the anesthesia emergence paradigm with a reproducible analysis tool for future studies. Together, these results underscore the importance of accounting for ligand off-target effects through careful dose selection and DREADD-free, ligand-treated controls in chemogenetic experiments.
+
+---
+
+## 10. Simulator development using natural language: clinician-led innovation through artificial intelligence.
 
 - **PMID**: [42458589](https://pubmed.ncbi.nlm.nih.gov/42458589/)
 - **Journal**: Advances in simulation (London, England)
@@ -62,7 +146,35 @@ Background Clear, accurate, and empathetic communication is essential in pediatr
 
 ---
 
-## 5. Do Large Language Models Perform Equally Across Languages? A Comparison of Responses to Frequently Asked Questions in Anesthesiology.
+## 11. Artificial intelligence assisted telemedicine, clinical decision support for anesthesia and critical care in intensive care units: a scoping review.
+
+- **PMID**: [42393540](https://pubmed.ncbi.nlm.nih.gov/42393540/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 Jul 02
+- **Authors**: Yang Qingxia, Li Meixia, Lei Yu
+- **DOI**: https://doi.org/10.1186/s12871-026-03997-4
+
+### Abstract
+
+**BACKGROUND**: Artificial intelligence (AI) has been increasingly used in care delivery in intensive care units (ICUs) and anesthesia-critical care practice through telemedicine, tele-ICU systems, and remote patient monitoring, and is expected to support real-time clinical decision-making. **METHODS**: This scoping review followed PRISMA-ScR guidelines to map the existing evidence of AI in critical care and anesthesia-related ICU environments for telemedicine, telemonitoring, and clinical decision support systems. PubMed, Scopus, and Google Scholar were used to search for relevant literature, including the use of AI, telemedicine, predictive analytics, remote monitoring, and anesthesia-informed clinical decision support in critical care. **RESULTS**: The literature reviewed primarily focused on the non-generative AI solutions, such as machine learning, deep learning-based monitoring, and AI clinical decision support systems. Such systems can facilitate remote continuous monitoring, early detection of clinical deterioration, and clinical decision-making in the ICU perioperative anesthesia-critical care settings. The results were grouped into the following categories: tele-ICU implementation, predictive analytics, tele-monitoring, and AI-guided clinical decision support. The reported benefits included better monitoring, improved workflow, enhanced anesthesia and critical care decision-making, and greater access to specialist care, but there was substantial variation in the evidence of consistent improvement in patient-centered outcomes, with most of it being observational. Data quality, interoperability, model transparency, ethical issues, and lack of prospective clinical validation were the key difficulties encountered. **CONCLUSION**: AI-enabled telemedicine remains a nascent healthcare space in the ICU and anesthesia-critical care continuum, and further standardization, validation, and prospective clinical testing are needed to ensure its safe and scalable integra
+
+---
+
+## 12. An adaptive attention U-network for recognizing ultrasound images.
+
+- **PMID**: [42390122](https://pubmed.ncbi.nlm.nih.gov/42390122/)
+- **Journal**: The Journal of international medical research
+- **Publication Date**: 2026 Jul
+- **Authors**: Jin Shengyu, Duan Jintao, Chen Zhanheng, Chen Fangfang, Fang Wei et al.
+- **DOI**: https://doi.org/10.1177/03000605261461196
+
+### Abstract
+
+ObjectiveThe traditional method of intraspinal anesthesia relies on surface anatomical landmarks for positioning, which is associated with a low accuracy rate. In addition, the procedure remains challenging, and the identification of anatomical structures is complex. This study aimed to develop an adaptive attention U-network to enhance the segmentation performance of spinal structures under ultrasound images.MethodsUltrasound videos of the spines were collected from 80 pregnant women, yielding a total of 1000 annotated images that were used to establish a novel database, spine ultrasound image dataset. Adaptive attention U-network uses the multidepth convolution kernel and adaptive local channel attention modules to effectively extract multiscale features. Subsequently, the global attention gate module and multiscale adaptive dynamic modulation were introduced to capture critical features and enhance image super-resolution performance. Comprehensive experiments were conducted on the spine ultrasound image dataset and public breast ultrasound images dataset, in which adaptive attention U-network was juxtaposed with other current medical image segmentation models using metrics including dice similarity coefficient.ResultsOn the spine ultrasound image dataset, adaptive attention U-network achieved a mean dice similarity coefficient of 0.905. In external validation using the breast ultrasound images dataset, the network's segmentation of benign tumor structures reached a dice similarity coefficient of 0.857, demonstrating superior generalization capabilities. Adaptive attention U-network demonstrated consistent segmentation stability across all tested structures.ConclusionsThe proposed adaptive attention U-network significantly enhances the segmentation accuracy for spinal anatomical structures in ultrasound images, demonstrating superior precision compared with existing methods.
+
+---
+
+## 13. Do Large Language Models Perform Equally Across Languages? A Comparison of Responses to Frequently Asked Questions in Anesthesiology.
 
 - **PMID**: [41761593](https://pubmed.ncbi.nlm.nih.gov/41761593/)
 - **Journal**: Medical science monitor : international medical journal of experimental and clinical research
@@ -76,7 +188,7 @@ BACKGROUND With the increasing use of large language model (LLM) chatbots in hea
 
 ---
 
-## 6. Data sharing statements in five high-impact anesthesiology journals (2020-2023): a cross-sectional study.
+## 14. Data sharing statements in five high-impact anesthesiology journals (2020-2023): a cross-sectional study.
 
 - **PMID**: [41963762](https://pubmed.ncbi.nlm.nih.gov/41963762/)
 - **Journal**: Canadian journal of anaesthesia = Journal canadien d'anesthesie
@@ -90,7 +202,35 @@ BACKGROUND With the increasing use of large language model (LLM) chatbots in hea
 
 ---
 
-## 7. Classifying American Society of Anesthesiologists Physical Status With a Low-Rank-Adapted Large Language Model: Development and Validation Study.
+## 15. DMRNet: a dynamic multi-scale residual network for Shamrock view and lumbar plexus segmentation.
+
+- **PMID**: [42284483](https://pubmed.ncbi.nlm.nih.gov/42284483/)
+- **Journal**: Computer assisted surgery (Abingdon, England)
+- **Publication Date**: 2026 Dec
+- **Authors**: Cui Haipo, Wang Yuxiang, Lin Liangqing, Wu Qinghua, Zhou Miao et al.
+- **DOI**: https://doi.org/10.1080/24699322.2026.2677269
+
+### Abstract
+
+Lumbar plexus block (LPB) is a regional anesthesia technique widely used for hip and knee surgeries. However, despite the assistance of ultrasound guidance, the complex anatomical structure of the lumbar plexus poses significant challenges for anesthesiologists during the procedure. To accurately identify the lumbar plexus located in the posterior third of the psoas major in the Shamrock view, a deep learning-based segmentation model named DMRNet was proposed. This model is designed to precisely delineate muscles, nerves, and bony structures in Shamrock view ultrasound images. DMRNet integrates several innovative modules, including Adaptive Multi-Scale Dilated (AMD) Module that enhances the model's ability to capture multi-scale features; Dense Attention Residual (DAR) Module that adaptively selects salient feature regions; Attention-Enhanced Hybrid (AEH) Module that emphasizes critical features while suppressing irrelevant ones; and two attention mechanisms, Boundary-Aware Spatial Attention Mechanism (BASA) and the Enhanced Residual Multi-Head Attention Mechanism (ER-MHA), that improve the model's capacity to recognize complex contextual patterns. Experimental results demonstrated that DMRNet achieved a mean Intersection over Union of 0.863 and a mean Dice coefficient of 0.926 across all target structures, outperforming other state-of-the-art models. These findings suggest that DMRNet may serve as a useful assistive tool for sonoanatomical recognition in Shamrock view ultrasound images and may provide educational support for ultrasound-guided LPB training. A dynamic multi-scale residual network is proposed for lumbar lexus (LP) segmentation.Two attention mechanisms were improved, and three modules were proposed to improve downsampling, skip connection, and upsampling.We built our own Shamrock view ultrasound database containing the lumbar plexus nerves, and the Anesthesiologist physician of the anesthesiology department annotated it using Labelme.External validatio
+
+---
+
+## 16. Current Status and Future Projections of Artificial Intelligence-Assisted Ultrasonography and Needle Visibility Methods in Regional Anesthesia.
+
+- **PMID**: [42364233](https://pubmed.ncbi.nlm.nih.gov/42364233/)
+- **Journal**: The Eurasian journal of medicine
+- **Publication Date**: 2026 Apr 24
+- **Authors**: Tire Yasin, Mermer Aydın, Aydemir Mustafa, Keklicek Ömer, Koç Muhammed Nezih et al.
+- **DOI**: https://doi.org/10.5152/eurasianjmed.2026.261453
+
+### Abstract
+
+Ultrasound-guided regional anesthesia (UGRA) has revolutionized regional anesthesia by enabling direct visualization of neural structures, surrounding anatomy, and local anesthetic spread. However, consistent needle visualization remains challenging due to anisotropy, steep insertion angles, tissue deformation, and ultrasound artifacts, potentially increasing procedural difficulty and the risk of complications such as vascular puncture, pneumothorax, or intraneural injection. Recent advances in artificial intelligence (AI) offer promising solutions. Artificial intelligence-assisted ultrasound systems using deep learning and convolutional neural networks can perform real-time anatomical segmentation, automated needle tracking, and image optimization. These platforms highlight nerves, vessels, and fascial planes with color overlays, guide needle trajectory, and provide feedback on image quality and probe positioning. In addition to procedural assistance, AI may improve training by accelerating anatomical recognition and reducing inter-operator variability. Nevertheless, concerns persist regarding automation bias, algorithm performance in atypical anatomy, and the necessity of ongoing clinician oversight. Overall, AI-assisted ultrasonography represents a significant step toward safer, more standardized, and potentially more efficient regional anesthesia practice. Cite this article as: Tire Y, Mermer A, Aydemir M, Keklicek Ö, Koç MN, Yazar MA. Current status and future projections of artificial intelligence-assisted ultrasonography and needle visibility methods in regional anesthesia. Eurasian J Med. 2026, 58(3), 1453, doi: 10.5152/eurasianjmed.2026.261453.
+
+---
+
+## 17. Classifying American Society of Anesthesiologists Physical Status With a Low-Rank-Adapted Large Language Model: Development and Validation Study.
 
 - **PMID**: [42013456](https://pubmed.ncbi.nlm.nih.gov/42013456/)
 - **Journal**: Journal of medical Internet research
@@ -104,7 +244,7 @@ BACKGROUND With the increasing use of large language model (LLM) chatbots in hea
 
 ---
 
-## 8. The impact of regional block presence on large language model-based postoperative analgesia recommendations in abdominal surgery: a comparative study using real-world patient data.
+## 18. The impact of regional block presence on large language model-based postoperative analgesia recommendations in abdominal surgery: a comparative study using real-world patient data.
 
 - **PMID**: [41957712](https://pubmed.ncbi.nlm.nih.gov/41957712/)
 - **Journal**: BMC anesthesiology
@@ -118,7 +258,7 @@ BACKGROUND With the increasing use of large language model (LLM) chatbots in hea
 
 ---
 
-## 9. Large language models in trauma anesthesia education.
+## 19. Large language models in trauma anesthesia education.
 
 - **PMID**: [41744265](https://pubmed.ncbi.nlm.nih.gov/41744265/)
 - **Journal**: Current opinion in anaesthesiology
@@ -132,7 +272,7 @@ BACKGROUND With the increasing use of large language model (LLM) chatbots in hea
 
 ---
 
-## 10. Large language model chatbots as sources of pediatric anesthesia health advice: An evaluation of reliability and readability.
+## 20. Large language model chatbots as sources of pediatric anesthesia health advice: An evaluation of reliability and readability.
 
 - **PMID**: [42389384](https://pubmed.ncbi.nlm.nih.gov/42389384/)
 - **Journal**: Digital health

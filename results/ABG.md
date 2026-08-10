@@ -1,22 +1,22 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-08-06
+**Update Time**: 2026-08-10
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
 ---
 
-## 1. Butterfly Glioma of the Corpus Callosum Mimicking Rapidly Progressive Dementia.
+## 1. Prehospital Normoventilation in Critically Ill Anaesthetised Patients Cannot Be Reliably Monitored by Capnography-A Retrospective Observational Study.
 
-- **PMID**: [42502551](https://pubmed.ncbi.nlm.nih.gov/42502551/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Maity Soumyadeep, Ray Girin, Gupta Chandra Paul, Basu Satyaki, Kishlay Kumar
-- **DOI**: https://doi.org/10.7759/cureus.111462
+- **PMID**: [42524748](https://pubmed.ncbi.nlm.nih.gov/42524748/)
+- **Journal**: Acta anaesthesiologica Scandinavica
+- **Publication Date**: 2026 Sep
+- **Authors**: Tero Jussi, Pirneskoski Jussi, Ljungqvist Harry, Laamanen Juri, Nurmi Jouni
+- **DOI**: https://doi.org/10.1111/aas.70316
 
 ### Abstract
 
-A butterfly-pattern, high-grade glioma involving the corpus callosum is an uncommon but highly aggressive brain tumour that may present with neuropsychiatric manifestations and mimic rapidly progressive dementia, leading to diagnostic delay. Disruption of frontal-callosal connectivity may produce behavioural and cognitive abnormalities resembling behavioural and psychological symptoms of dementia (BPSD), resulting in initial misdiagnosis. A 65-year-old postmenopausal woman presented with a two-week history of vomiting, progressive disorientation, generalized weakness, irrelevant speech, cognitive decline, and bladder and bowel dysfunction. She had previously been treated for acute-onset dementia with BPSD using donepezil and memantine without prior neuroimaging. Neurological examination revealed asymmetric pyramidal signs, rigidity, and bilaterally constricted pupils. Arterial blood gas analysis showed respiratory alkalosis with hypocalcaemia, and urine culture isolated extended-spectrum beta-lactamase (ESBL)/AmpC-producing Klebsiella aerogenes. Contrast-enhanced MRI demonstrated a greater than 65 × 61 mm solid-cystic heterogeneously enhancing mass involving the genu of the corpus callosum with bifrontal extension and perilesional oedema, favouring a radiologically suspected high-grade glioma involving the corpus callosum. A stereotactic biopsy was planned for histopathological confirmation. The patient received corticosteroids, anti-epileptics, antibiotics, and supportive treatment, with subsequent clinical improvement. This case underscores the importance of early neuroimaging in atypical dementia presentations, especially when focal neurological deficits or signs of raised intracranial pressure are present. Histopathological confirmation remains essential for definitive diagnosis and treatment planning.
+**BACKGROUND**: End-tidal carbon dioxide capnography (EtCO2) is widely used to guide intubated patients' ventilation. Current guidelines for prehospital advanced airway management assume a gradient of approximately 0.67 kPa between EtCO2 and arterial carbon dioxide partial pressure (PaCO2). However, concerns have been raised about the accuracy of capnography. We aimed to assess the agreement between EtCO2 and PaCO2 in different patient groups to see if EtCO2 could be accurate enough to guide ventilation during prehospital care. **METHODS**: We carried out a retrospective study of all anaesthetised and intubated patients with a measured PaCO2 by a single helicopter emergency medical services unit from 1 January 2014 to 31 December 2021. The patients were divided into five different patient groups based on clinical diagnosis: out-of-hospital cardiac arrest, trauma, intoxication, neurological conditions (including stroke) and other. The agreement between EtCO2 and PaCO2 in each group was assessed with Bland-Altman analysis. In addition, the percentage of patients with a higher PaCO2-EtCO2 gradient than 0.67 kPa was calculated. **RESULTS**: In Bland-Altman analysis, the overall bias was 1.7 kPa (standard deviation = 1.6) with limits of agreement of -1.4 to 4.8 kPa. Out of 670, the PaCO2-EtCO2 gradient was higher than 0.67 kPa in 530 (79.1% [75.9-82.0]) patients. 186/221 (84.2% [78.8-88.4]) in out-of-hospital cardiac arrest patients, 85/104 (81.7% [73.2-88.0]) in trauma patients, 146/197 (74.1% [67.6-97.7]) in neurological patients, 75/99 (75.8% [66.5-83.1]) in intoxicated patients and 38/49 (77.6% [64.1-87.0]) in other patients. The results are presented as n/nn (% [95% confidence interval]). **CONCLUSIONS**: Our results show that for critically ill patients intubated in the prehospital setting, capnography is not accurate in guiding ventilation. **EDITORIAL COMMENT**: Capnography may be used to assess ventilation effect in intubated patients. In an intubated helicopter
 
 ---
 
@@ -48,7 +48,21 @@ A butterfly-pattern, high-grade glioma involving the corpus callosum is an uncom
 
 ---
 
-## 4. Mitochondrial Dysfunction, Cerebral Metabolic Crisis, and Exploratory Bioenergetic Biomarkers in a Translational Swine Model of Acute Carbon Monoxide Poisoning.
+## 4. Validation of a Barriers Scale for Local Anesthesia in Arterial Blood Sampling.
+
+- **PMID**: [42527264](https://pubmed.ncbi.nlm.nih.gov/42527264/)
+- **Journal**: Pain management nursing : official journal of the American Society of Pain Management Nurses
+- **Publication Date**: 2026 Jul 30
+- **Authors**: Barroso-Rodríguez Fernando, González-Sanz Azuzena, Muñoz-Martín Beatriz, Díaz-Pérez David, Rodríguez-Suárez Claudio Alberto et al.
+- **DOI**: https://doi.org/10.1016/j.pmn.2026.07.017
+
+### Abstract
+
+**BACKGROUND**: Arterial blood gas (ABG) sampling is a common and painful procedure. Despite strong evidence supporting the use of local anesthesia to reduce pain, its use in clinical practice remains limited. **AIM**: To develop and validate a scale assessing nurses' perceived barriers to the use of infiltrated local anesthesia prior to ABG sampling. **DESIGN**: Instrument development and psychometric validation study. **METHODS**: A two-stage design was conducted between October 2024 and June 2025. In Stage 1, items were generated from a literature review and refined through a four-round Delphi process with expert nurses. Content validity was assessed using the item-level Content Validity Index, Aiken's V and modified kappa. In Stage 2, a cross-sectional online survey of 558 registered nurses across Spain was performed. Construct validity was evaluated using Rasch analysis, and reliability was assessed through internal consistency and test-retest reliability. **RESULTS**: The Delphi process resulted in an initial 34-item scale. Psychometric evaluation led to a final 30-item version with good fit indices and no relevant differential item functioning by gender, professional experience, specialty, academic level or type of institution. Internal consistency was high (ω = 0.898 [95% CI: 0.886-0.910]; α = 0.892 [95% CI: 0.879-0.904]) and test-retest reliability was excellent (ICC = 0.912 [95% CI: 0.863-0.971]). Higher scores were observed for barriers related to training, knowledge and organizational factors. **CONCLUSION**: The ABG-LA Barriers Scale is a valid and reliable instrument (with excellent internal consistency and test-retest reliability) to assess nurses' perceived barriers to the use of local anesthesia prior to ABG sampling. Its use may support clinical decision-making and development of strategies to improve pain management and patient experience in practice.
+
+---
+
+## 5. Mitochondrial Dysfunction, Cerebral Metabolic Crisis, and Exploratory Bioenergetic Biomarkers in a Translational Swine Model of Acute Carbon Monoxide Poisoning.
 
 - **PMID**: [42528264](https://pubmed.ncbi.nlm.nih.gov/42528264/)
 - **Journal**: Toxicological sciences : an official journal of the Society of Toxicology
@@ -62,7 +76,7 @@ Carbon monoxide (CO) poisoning remains a major cause of toxicologic morbidity an
 
 ---
 
-## 5. Association of HFLTVV With Force-Time Integral and Ablation Index During Pulmonary Vein Isolation.
+## 6. Association of HFLTVV With Force-Time Integral and Ablation Index During Pulmonary Vein Isolation.
 
 - **PMID**: [42517418](https://pubmed.ncbi.nlm.nih.gov/42517418/)
 - **Journal**: Pacing and clinical electrophysiology : PACE
@@ -76,35 +90,7 @@ Carbon monoxide (CO) poisoning remains a major cause of toxicologic morbidity an
 
 ---
 
-## 6. Perioperative Hyperoxia and Early Pulmonary Epithelial and Glycocalyx-Related Biomarker Trajectories in Laparoscopic Surgery: A Prospective Randomized Study.
-
-- **PMID**: [42514230](https://pubmed.ncbi.nlm.nih.gov/42514230/)
-- **Journal**: Life (Basel, Switzerland)
-- **Publication Date**: 2026 Jul 14
-- **Authors**: Guliyeva Sevda, Canbaz Mert, Vardar Kübra, Sivrikoz Nükhet, Turhan Özlem et al.
-- **DOI**: https://doi.org/10.3390/life16071160
-
-### Abstract
-
-Although perioperative oxygen therapy is a routine component of general anesthesia, its early biological consequences remain incompletely understood. This prospective randomized study evaluated whether perioperative oxygen concentration influences early biomarker responses in adults undergoing elective laparoscopic lower abdominal surgery. Patients received either normoxia (FiO2 0.35) or hyperoxia (FiO2 0.80) under standardized anesthesia. Clear physiological separation between groups was confirmed by arterial blood gas analysis. The primary biomarker finding was that circulating surfactant protein-A (SP-A) increased significantly in the normoxia group, whereas no comparable increase was observed under hyperoxia. Syndecan-1 and sialic acid showed descriptively similar directional patterns; however, these secondary biomarker findings were interpreted as exploratory and were not robust after Holm correction. By contrast, tumor necrosis factor-alpha (TNF-α) levels were higher postoperatively in the hyperoxia group, while ischemia-modified albumin (IMA) and total protein did not differ significantly between groups. These findings suggest that perioperative hyperoxia was associated with different early circulating biomarker trajectories across pulmonary epithelial and glycocalyx-related domains, without establishing pulmonary or endothelial protection. Further studies are needed to determine whether these early mechanistic findings translate into clinically meaningful outcomes.
-
----
-
-## 7. Association Between Intraoperative Arterial Oxygen Tension and Postoperative Opioid Consumption: A Large-Scale Cohort Study Using Overlap Weighting Analysis.
-
-- **PMID**: [42512860](https://pubmed.ncbi.nlm.nih.gov/42512860/)
-- **Journal**: Medicina (Kaunas, Lithuania)
-- **Publication Date**: 2026 Jul 08
-- **Authors**: Lee Moon Ok, Koh Hanna, Cho Sung-Ae
-- **DOI**: https://doi.org/10.3390/medicina62071318
-
-### Abstract
-
-Background and Objectives: The clinical impact of hyperoxia, particularly its analgesic effects and potential pulmonary risks, remains controversial. This study investigated whether higher intraoperative arterial oxygen tension (PaO2) reduces postoperative analgesic requirements and its association with postoperative pulmonary complications (PPCs). Materials and Methods: This retrospective cohort study included 1194 patients undergoing non-cardiac surgery. Patients were categorized into lower PaO2 (PaO2 ≤ 200 mmHg) and higher PaO2 (PaO2 > 200 mmHg) groups based on intraoperative arterial blood gas analysis. Overlap weighting was used to balance baseline characteristics and intraoperative variables. Primary outcomes included postoperative opioid consumption (measured in morphine milligram equivalents, MME) at 0-24 and 24-48 h. Secondary outcomes included pain intensity, frequency of rescue analgesics, the incidence of PPCs and in-hospital mortality. Results: After overlap weighting, the higher PaO2 group showed significantly lower strong opioid consumption during the 24-48 h period compared to the lower PaO2 group (0.22 ± 0.04 vs. 0.50 ± 0.11 MME; adjusted p = 0.014). The frequency of rescue analgesics was significantly reduced in the higher PaO2 group (1.04 ± 0.06 vs. 1.35 ± 0.11; adjusted p = 0.007). However, pain intensity and the total MME for 0-24 h did not differ. There was no significant difference in the incidence of total PPCs or total adverse events between the two groups. Conclusions: Higher intraoperative PaO2 was associated with a significant decrease in opioid requirements during the postoperative 24-48 h and frequency of rescue analgesics without increasing PPCs and adverse events. These findings support the need for prospective studies to determine whether higher intraoperative PaO2 may have a clinically meaningful role in perioperative analgesic strategies.
-
----
-
-## 8. Diagnostic Overshadowing in Chronic Obstructive Pulmonary Disease: A Case of Recurrent Syncope.
+## 7. Diagnostic Overshadowing in Chronic Obstructive Pulmonary Disease: A Case of Recurrent Syncope.
 
 - **PMID**: [42540137](https://pubmed.ncbi.nlm.nih.gov/42540137/)
 - **Journal**: Cureus
@@ -118,7 +104,7 @@ Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a freque
 
 ---
 
-## 9. Incidental perioperative detection of congenital methemoglobinemia: A prospective case series from a South Indian referral centre.
+## 8. Incidental perioperative detection of congenital methemoglobinemia: A prospective case series from a South Indian referral centre.
 
 - **PMID**: [42544183](https://pubmed.ncbi.nlm.nih.gov/42544183/)
 - **Journal**: Clinical hematology international
@@ -129,6 +115,20 @@ Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a freque
 ### Abstract
 
 **BACKGROUND**: Congenital methemoglobinemia is a rare inherited disorder caused by impaired reduction of methemoglobin to functional hemoglobin, resulting in functional hypoxia despite normal arterial oxygen tension. Due to its often-mild clinical phenotype, diagnosis is frequently delayed or made incidentally. **METHODS**: This prospective case series of surgical patients was conducted at a tertiary care center in South India over a one-year period. Patients incidentally diagnosed with methemoglobinemia during perioperative or acute medical evaluation were included. Diagnosis was established using arterial blood gas analysis with co-oximetry and confirmed biochemically by erythrocyte NADH-cytochrome b5 reductase activity. **RESULTS**: Ten surgical patients were identified, all originating from a single geographic region. Methemoglobin levels ranged from 14.4% to 29.1%. Most patients were asymptomatic or mildly symptomatic, with diagnosis prompted by refractory hypoxemia and a characteristic saturation gap. Enzyme assays confirmed Type I congenital methemoglobinemia in all cases. Management was largely supportive, with methylene blue reserved for symptomatic individuals. **CONCLUSIONS**: This case series highlights incidental perioperative detection as a key diagnostic opportunity and suggests possible regional clustering of congenital methemoglobinemia. Increased clinical awareness and targeted screening may improve the diagnosis of this underrecognized condition.
+
+---
+
+## 9. The safety and efficacy of nocturnal noninvasive positive pressure ventilation in patients with chronic obstructive pulmonary disease: a systematic review and meta-analysis.
+
+- **PMID**: [42523832](https://pubmed.ncbi.nlm.nih.gov/42523832/)
+- **Journal**: Frontiers in medicine
+- **Publication Date**: 2026
+- **Authors**: Huang Ganying, Zhou Yitao, Zhou Yangbin, Yang Huijie, Wu Jinhong et al.
+- **DOI**: https://doi.org/10.3389/fmed.2026.1882152
+
+### Abstract
+
+**BACKGROUND**: The efficacy of nocturnal noninvasive positive pressure ventilation (NIPPV) in stable COPD remains controversial. This study evaluates the safety and clinical impact of nocturnal NIPPV compared with conventional therapy. **METHODS**: A systematic search of PubMed, Embase, Cochrane Library, Web of Science, CNKI, and Wanfang was conducted from inception to July 26, 2025. Eligible randomized controlled trials (RCTs) published from 2015 onward and evaluating nocturnal NIPPV in stable COPD were included. Primary outcomes were arterial blood gases (PaCO2, PaO2, pH); secondary outcomes included pulmonary function, 6-min walking distance (6MWD), and health-related quality of life (HRQoL). Pooled effects were calculated using fixed- or random-effects models. PROSPERO Registration (CRD42024608837). **RESULTS**: Eight RCTs (736 patients) were analyzed. Nocturnal NIPPV significantly reduced PaCO2 and improved PaO2, with no significant change in pH. Regarding pulmonary function, FVC showed a non-significant trend toward improvement, and no significant differences were found for FEV1 or FEV1/FVC. Notably, 6MWD showed significant improvement in the NIPPV group. For HRQoL, significant gains were observed in the Severe Respiratory Insufficiency (SRI) questionnaire, and COPD Assessment Test (CAT) scores were significantly reduced. No serious adverse events were reported. **CONCLUSION**: Nocturnal NIPPV is a safe intervention for stable COPD, offering physiological and functional benefits by improving gas exchange and exercise capacity, while pulmonary-function effects were less consistent. However, its effects on spirometric airflow limitation and patient-reported outcomes should be interpreted cautiously because outcome instruments and the number of available studies differed. Further high-quality RCTs with standardized protocols are needed to define its optimal role in long-term management.
 
 ---
 
