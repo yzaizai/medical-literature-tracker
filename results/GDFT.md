@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-08-10
+**Update Time**: 2026-08-13
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -118,7 +118,21 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 9. Compliance with early postoperative ambulation and Its associated barriers in hepatobiliary surgery patients within an enhanced recovery after surgery framework.
+## 9. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
+
+- **PMID**: [42583625](https://pubmed.ncbi.nlm.nih.gov/42583625/)
+- **Journal**: Annals of medicine and surgery (2012)
+- **Publication Date**: 2026 Aug
+- **Authors**: Maraqah Mohammad, Shawar Ameer, Shaheen Ammar, Abu Aram Sara, Al Atrash Rand
+- **DOI**: https://doi.org/10.1097/MS9.0000000000005416
+
+### Abstract
+
+**INTRODUCTION**: Exercise-induced rhabdomyolysis (EIR) is an uncommon but potentially serious condition that can occur after intense or even moderate physical exertion. While EIR is typically linked to strenuous activity or heat exposure, swimming is a rarely reported trigger. **CASE PRESENTATION**: A 34-year-old healthy man developed generalized myalgia, dark urine, and vomiting 1 day after a 2-hour swimming session in hot weather. Laboratory tests revealed markedly elevated creatine phosphokinase (250 000 U/L) and acute kidney injury (peak creatinine 14 mg/dL). He received aggressive intravenous hydration, targeting a urine output of 2 mL/kg/hr, with close monitoring. During hospitalization, pulmonary edema due to fluid overload developed, but it resolved with diuretics and oxygen therapy. The patient achieved complete renal recovery without dialysis. **CLINICAL DISCUSSION**: EIR can occur even in healthy individuals after moderate exertion. Marked creatine kinase elevation and acute kidney injury are common findings. While early hydration remains the cornerstone of management, excessive fluids may precipitate pulmonary edema, emphasizing careful titration and monitoring. **CONCLUSION**: Early, aggressive but goal-directed fluid therapy is vital. Monitoring and promptly treating fluid overload are essential, and even severe biochemical derangements may be managed conservatively when dialysis indications are absent, with multidisciplinary critical care and nephrology input recommended.
+
+---
+
+## 10. Compliance with early postoperative ambulation and Its associated barriers in hepatobiliary surgery patients within an enhanced recovery after surgery framework.
 
 - **PMID**: [42421879](https://pubmed.ncbi.nlm.nih.gov/42421879/)
 - **Journal**: Frontiers in surgery
@@ -129,19 +143,5 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 ### Abstract
 
 **BACKGROUND**: Early postoperative ambulation is a core element of the Enhanced Recovery After Surgery (ERAS) pathway for hepatobiliary surgery, yet real-world compliance has been reported to be variable and the patient-level barriers in this surgical population remain incompletely characterised. We therefore retrospectively reviewed the routinely collected ERAS quality-control archive of our hepatobiliary surgical unit to describe the actual compliance status and to identify factors associated with non-compliance. **METHODS**: We retrospectively extracted the records of 320 consecutive adult patients who had undergone elective hepatobiliary surgery between January 2022 and December 2024 and whose perioperative care had followed the institutional ERAS clinical pathway as standard practice. The institutional pathway comprised eight standardised components organised across the preoperative, intraoperative and postoperative phases, including structured patient education, carbohydrate loading, goal-directed fluid therapy, multimodal opioid-sparing analgesia, restrictive abdominal drainage, omission of routine nasogastric tubes, early oral feeding, and the early-ambulation prescription. Compliance with the early ambulation protocol [out-of-bed activity by postoperative day (POD) 1 and ambulation distance ≥30 m by POD 2] and patient-reported barriers documented in the routine nursing-assessment questionnaire were retrieved from the electronic medical record. The primary outcome was compliance status, while postoperative length of stay, time to first flatus, pulmonary complications, surgical site infection, symptomatic venous thromboembolism, major postoperative haemorrhage, in-hospital all-cause mortality and 30-day readmission were pre-specified secondary outcomes. Group allocation (compliant vs. non-compliant) reflected real-world clinical and patient/family decisions, not investigator-led randomisation. Univariable comparisons (chi-square, Fisher exact for low-frequen
-
----
-
-## 10. Revisiting the fluid challenge and stroke volume optimisation after induction of general anaesthesia.
-
-- **PMID**: [42282954](https://pubmed.ncbi.nlm.nih.gov/42282954/)
-- **Journal**: Annals of intensive care
-- **Publication Date**: 2026
-- **Authors**: O'Brien Terry, Hahn Robert G
-- **DOI**: https://doi.org/10.1016/j.aicoj.2026.100093
-
-### Abstract
-
-**BACKGROUND**: To be clinically useful in goal-directed fluid therapy, a fluid challenge (FC) must achieve a large enough blood volume change (ΔBV) to materially change ventricular preload and stroke volume (ΔSV). The same % change in BV for all the subsequent FCs must also be achieved. We explored under what circumstances these prerequisites can be met by referring to data from a clinical trial where 111 patients underwent three successive intravenous FCs using crystalloid (Ringer´s lactate) or colloid (hydroxyethyl starch), involving a total of 9 mL/kg of fluid, just after induction of general anaesthesia. **RESULTS**: The three FC using crystalloid fluid increased SV by 2.5% while the colloid increased the SV by 29.2% (medians, P < 0.001). Moreover, crystalloid expanded the BV by 20.8% while the corresponding expansion by colloid was 29.5% (P < 0.001). The cardiac response to increased BV was normalized by calculating the ΔSV%/ΔBV% ratio, which was much lower at 0.12 for the crystalloid fluid versus 0.98 for colloid (P < 0.001). The poor SV response can possibly be explained by the underlying changes in the mean circulatory filling pressure, which suggest crystalloid FCs was less effective in increasing the stressed blood volume (preload). On the other hand, the inferior BV expanding effect of crystalloid is likely due to the fast tissue redistribution pharmacokinetic profile of administered boluses. Finally, the cardiac response to the first FC and impact on oxygen delivery became falsely low in both groups due to a reflex redistribution of a substantial volume of interstitial fluid into the circulation after anaesthetic induction. **CONCLUSION**: Differences in effectiveness between crystalloid and colloid fluid when providing repeated FCs increase the risk of false negative indications of fluid non-responsiveness when crystalloid is used.
 
 ---
