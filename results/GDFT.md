@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-08-13
+**Update Time**: 2026-08-17
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -34,21 +34,7 @@
 
 ---
 
-## 3. Perioperative Management of Patients Receiving Renal Replacement Therapy Undergoing Major Cardiac Surgery: A Narrative Review.
-
-- **PMID**: [42288395](https://pubmed.ncbi.nlm.nih.gov/42288395/)
-- **Journal**: Journal of cardiothoracic and vascular anesthesia
-- **Publication Date**: 2026 May 22
-- **Authors**: Strumia Alessandro, Testa Ylenia, Di Benedetto Laura, Lavorante Fedra, Lusini Mario et al.
-- **DOI**: https://doi.org/10.1053/j.jvca.2026.05.050
-
-### Abstract
-
-The perioperative management of patients with end-stage renal disease on renal replacement therapy undergoing cardiac surgery presents significant clinical challenges and is associated with high morbidity and mortality. These patients frequently exhibit multiple comorbidities, including electrolyte disturbances, anemia, bleeding tendency, and cardiovascular instability, all of which complicate surgical management and postoperative recovery. Renal dysfunction markedly increases the risk of adverse postoperative events, even at mild stages, and is incorporated into established risk stratification models, including EuroSCORE II and the Society of Thoracic Surgeons score. Intraoperative renal injury may result from hypoperfusion, ischemia-reperfusion injury, systemic inflammation, hemolysis, and exposure to nephrotoxic agents. Preoperative optimization includes appropriate timing of dialysis-preferably within 24 hours before surgery-correction of electrolyte imbalances, optimization of hemoglobin levels, and careful assessment of bleeding risk. Intraoperatively, goal-directed fluid therapy guided by dynamic hemodynamic parameters and venous oxygen saturation monitoring is recommended. Integration of hemofiltration into the cardiopulmonary bypass circuit enables effective control of volume status and electrolyte levels. Postoperatively, early resumption of renal replacement therapy, ideally within 24 hours, is advised, with continuous modalities favored in hemodynamically unstable patients. Vasoplegic syndrome represents a frequent and severe complication requiring prompt recognition and targeted management. This review underscores the importance of a multidisciplinary, individualized perioperative approach involving cardiologists, nephrologists, anesthesiologists, and cardiac surgeons to reduce complications and improve outcomes in patients with end-stage renal disease undergoing cardiac surgery.
-
----
-
-## 4. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 3. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
 
 - **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
 - **Journal**: Journal of chest surgery
@@ -62,7 +48,7 @@ Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional 
 
 ---
 
-## 5. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 4. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -76,7 +62,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 6. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
+## 5. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
 
 - **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
 - **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
@@ -90,7 +76,7 @@ This case report outlines the multidisciplinary perioperative management of a 69
 
 ---
 
-## 7. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
+## 6. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
 
 - **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
 - **Journal**: Journal of clinical medicine
@@ -104,7 +90,7 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 8. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
+## 7. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
 
 - **PMID**: [42545487](https://pubmed.ncbi.nlm.nih.gov/42545487/)
 - **Journal**: Unfallchirurgie (Heidelberg, Germany)
@@ -118,7 +104,7 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 9. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
+## 8. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
 
 - **PMID**: [42583625](https://pubmed.ncbi.nlm.nih.gov/42583625/)
 - **Journal**: Annals of medicine and surgery (2012)
@@ -129,6 +115,20 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 ### Abstract
 
 **INTRODUCTION**: Exercise-induced rhabdomyolysis (EIR) is an uncommon but potentially serious condition that can occur after intense or even moderate physical exertion. While EIR is typically linked to strenuous activity or heat exposure, swimming is a rarely reported trigger. **CASE PRESENTATION**: A 34-year-old healthy man developed generalized myalgia, dark urine, and vomiting 1 day after a 2-hour swimming session in hot weather. Laboratory tests revealed markedly elevated creatine phosphokinase (250 000 U/L) and acute kidney injury (peak creatinine 14 mg/dL). He received aggressive intravenous hydration, targeting a urine output of 2 mL/kg/hr, with close monitoring. During hospitalization, pulmonary edema due to fluid overload developed, but it resolved with diuretics and oxygen therapy. The patient achieved complete renal recovery without dialysis. **CLINICAL DISCUSSION**: EIR can occur even in healthy individuals after moderate exertion. Marked creatine kinase elevation and acute kidney injury are common findings. While early hydration remains the cornerstone of management, excessive fluids may precipitate pulmonary edema, emphasizing careful titration and monitoring. **CONCLUSION**: Early, aggressive but goal-directed fluid therapy is vital. Monitoring and promptly treating fluid overload are essential, and even severe biochemical derangements may be managed conservatively when dialysis indications are absent, with multidisciplinary critical care and nephrology input recommended.
+
+---
+
+## 9. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
+
+- **PMID**: [42597386](https://pubmed.ncbi.nlm.nih.gov/42597386/)
+- **Journal**: Frontiers in surgery
+- **Publication Date**: 2026
+- **Authors**: Xiao Meihui, Su Ximei, Zhang Ting
+- **DOI**: https://doi.org/10.3389/fsurg.2026.1897143
+
+### Abstract
+
+**BACKGROUND**: Enhanced Recovery After Surgery (ERAS) pathways are increasingly used in reconstructive plastic surgery, but flap reconstruction presents specific challenges, including dependence on stable microvascular perfusion, procedure-specific immobilization, donor-site morbidity, and heterogeneous anatomic indications. Because available studies differ substantially in surgical setting, flap type, ERAS bundle composition, comparator care, and outcome reporting, this article is presented as a structured narrative synthesis rather than a de novo meta-analysis. **METHODS**: PubMed, Embase, Web of Science, and Google Scholar were searched for studies and reviews published from 1997 to 14 June 2026 that addressed ERAS, fast-track, or accelerated recovery pathways in flap reconstruction or closely related reconstructive plastic surgery settings. The review question was defined using PICOS: adult or pediatric patients undergoing flap-based reconstruction; perioperative ERAS or accelerated recovery bundles; conventional perioperative care or pre-implementation practice; clinical, recovery, safety, and patient-centered outcomes; and randomized, prospective, retrospective, implementation, and systematic-review designs. Because ERAS bundles, flap types, and outcome definitions were clinically heterogeneous, no formal quantitative pooling was performed. **RESULTS**: Across breast reconstruction, head and neck free-flap reconstruction, perineal or pelvic reconstruction, lower-limb reconstruction, and selected flap-based wound procedures, ERAS pathways were most consistently associated with shorter hospital stay, earlier mobilization or feeding, and reduced opioid exposure. Safety outcomes, including flap compromise, readmission, and return to theatre, were generally not worse in the cited studies, but certainty is limited by observational designs, single-center implementation studies, variable adherence, and inconsistent reporting. The components most relevant to flap surg
 
 ---
 
