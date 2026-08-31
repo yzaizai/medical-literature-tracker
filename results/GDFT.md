@@ -1,8 +1,8 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-08-27
+**Update Time**: 2026-08-31
 **Search Range**: Last 30 days
-**Papers Found**: 20
+**Papers Found**: 19
 
 ---
 
@@ -20,21 +20,7 @@
 
 ---
 
-## 2. Observed practices in surgical site infection prevention in Ukraine: national survey results from 2021 and 2025.
-
-- **PMID**: [42318046](https://pubmed.ncbi.nlm.nih.gov/42318046/)
-- **Journal**: Infection prevention in practice
-- **Publication Date**: 2026 Sep
-- **Authors**: Vodianyk Arkadii, Domin Ievgenii, Habicht Jarno, Baranovskyi Taras, Coutinho Rehse Ana Paula et al.
-- **DOI**: https://doi.org/10.1016/j.infpip.2026.100546
-
-### Abstract
-
-**BACKGROUND**: Surgical site infections (SSIs) remain among the most frequent healthcare-associated infections worldwide and are associated with significant morbidity, mortality, and healthcare costs. Despite availability of evidence-based guidelines, adherence to SSI prevention measures varies substantially across countries and institutions. In Ukraine, reliable data describing SSI prevention practices remain limited due to absence of nation-wide monitoring of infection prevention and control practices. **METHODS**: We conducted two rounds of a national survey among surgeons and anaesthesiologists in Ukraine in 2021 and 2025. The survey was based on the World Health Organization (WHO) Global Guidelines for the Prevention of Surgical Site Infection (2018 edition) and assessed knowledge, attitudes, and self-reported adherence to recommended and non-recommended SSI prevention practices. Both surveys were distributed online via professional societies' platforms, targeting practicing surgeons and anaesthesiologists across different levels of healthcare facilities. **RESULTS**: In 2021, a total of 294 responses were received, followed by 145 responses in 2025. Across both survey periods, respondents represented a wide range of clinical specialties and geographic regions, with anaesthesiologists comprising the majority. In the 2025 survey, perioperative antimicrobial prophylaxis was reported as universally practiced (100%). In addition, active intraoperative warming was implemented by 82.6% of respondents and goal-directed fluid therapy by 93.8%. Despite these encouraging figures, several evidence-based measures were only partially adopted. For instance, alcohol-based chlorhexidine for skin preparation was used by 51%, surgical hand preparation with antiseptic soap by 60%, and intensive perioperative blood glucose control by 71.7% of respondents. Conversely, certain non-recommended practices, such as extended antimicrobial prophylaxis after surgery, remained prevalent, w
-
----
-
-## 3. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
+## 2. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
 
 - **PMID**: [41732299](https://pubmed.ncbi.nlm.nih.gov/41732299/)
 - **Journal**: Journal of clinical orthopaedics and trauma
@@ -48,7 +34,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 4. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+## 3. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
 
 - **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
 - **Journal**: BMJ open
@@ -62,7 +48,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 5. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+## 4. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
 
 - **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
 - **Journal**: Cureus
@@ -76,7 +62,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 6. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
+## 5. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
 
 - **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
 - **Journal**: Journal of clinical anesthesia
@@ -90,7 +76,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 7. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 6. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
 
 - **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
 - **Journal**: Journal of chest surgery
@@ -104,7 +90,7 @@ Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional 
 
 ---
 
-## 8. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 7. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -118,7 +104,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 9. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
+## 8. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
 
 - **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
 - **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
@@ -132,7 +118,7 @@ This case report outlines the multidisciplinary perioperative management of a 69
 
 ---
 
-## 10. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
+## 9. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
 
 - **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
 - **Journal**: Journal of clinical medicine
@@ -146,7 +132,35 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 11. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
+## 10. Dynamic parameter-guided goal-directed fluid therapy and postoperative acute kidney injury in non-cardiac surgery: a meta-analysis of 11 randomized controlled trials.
+
+- **PMID**: [42663657](https://pubmed.ncbi.nlm.nih.gov/42663657/)
+- **Journal**: Journal of anesthesia
+- **Publication Date**: 2026 Aug 28
+- **Authors**: Sun Xiaohua, Liu Yanfang, Ren Wanlu
+- **DOI**: https://doi.org/10.1007/s00540-026-03844-3
+
+### Abstract
+
+The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative acute kidney injury (AKI) remains controversial. This meta-analysis specifically examined dynamic parameter-guided GDFT using fluid challenges alone in non-cardiac, non-transplant surgery. We systematically searched PubMed, Embase, and the Cochrane Library from inception to December 25, 2025. Randomized controlled trials comparing dynamic index-guided GDFT (SVV, PPV, or PVI) with conventional fluid management in adults undergoing major non-cardiac surgery were included. The primary outcome was postoperative AKI. Subgroup analyses by surgical site and monitoring device invasiveness were pre-specified. The GRADE framework was used to assess evidence certainty. Eleven RCTs comprising 1698 patients were included. Overall, GDFT did not significantly reduce postoperative AKI compared with conventional management (OR 0.93; 95%CI 0.59-1.45; low certainty evidence). No significant differences were observed in 180-day mortality (OR 1.30; 95%CI 0.28-5.99; very low certainty evidence) or ICU length of stay (MD -0.20 days; 95%CI -1.72 to 1.31; very low certainty evidence). GDFT was associated with significantly higher intraoperative colloid administration (MD 167.51 mL; 95% CI 36.02-299.01; very low certainty evidence), though with substantial heterogeneity. Subgroup analysis by surgical site showed no significant differences between groups. A pre-specified subgroup analysis by monitoring device invasiveness showed a significant interaction: invasive devices showed no benefit (OR 1.10; 95%CI 0.78-1.55; very low certainty evidence), while minimally invasive/non-invasive devices were associated with reduced AKI risk (OR 0.13; 95%CI 0.02-0.79; very low certainty evidence), though based on only two small studies. In this meta-analysis, dynamic parameter-guided GDFT did not significantly reduce postoperative AKI in non-cardiac, non-transplant surgery compared with conventional management (low certainty evi
+
+---
+
+## 11. Impact of lung ultrasound-guided fluid management and vasoactive medication use on anaesthetic outcomes in thoracic surgery for tuberculous empyema: A retrospective study.
+
+- **PMID**: [42663973](https://pubmed.ncbi.nlm.nih.gov/42663973/)
+- **Journal**: Journal of minimal access surgery
+- **Publication Date**: 2026 Aug 26
+- **Authors**: Wang Dan, Liu Tao, Liu Wei
+- **DOI**: https://doi.org/10.4103/jmas.jmas_44_26
+
+### Abstract
+
+**INTRODUCTION**: Anaesthetic management of thoracic surgery for tuberculous empyema is complex, with traditional fluid strategies often causing intraoperative hypotension or volume overload. Lung ultrasound (LUS) provides real-time assessment of pulmonary fluid status, but its combined effect with prophylactic vasopressor support on anaesthetic outcomes in this population is unclear. This study aimed to evaluate the impact of an integrated strategy combining LUS-guided goal-directed fluid therapy and prophylactic vasopressor support on intraoperative haemodynamics and early post-operative recovery in patients undergoing thoracic surgery for tuberculous empyema. **PATIENTS AND METHODS**: This retrospective cohort study included patients who underwent elective decortication for tuberculous empyema between January 2022 and June 2025. Patients were categorised into the LUS-guided group (LGG) and conventional management group. After 1:1 propensity score matching, 40 patients per group were analysed. Primary outcomes included intraoperative hypotension (mean arterial pressure <65 mmHg for >5 min), while secondary outcomes assessed fluid balance, norepinephrine use, recovery time, pain and post-operative complications. **RESULTS**: The LGG had a significantly lower incidence and shorter duration of intraoperative hypotension ( P < 0.05). Intraoperative management showed reduced fluid balance, norepinephrine use and fewer vasopressor interventions in the LGG ( P < 0.01). Post-operative recovery was faster, with earlier ambulation and shorter hospital stays ( P < 0.001). The LGG also had lower pain scores and fewer pulmonary complications ( P < 0.05). Multivariable analysis confirmed that the LUS-guided strategy was independently associated with earlier ambulation (β = 6.798, P < 0.001), lower pain scores at rest (β = 0.589, P = 0.018) and reduced pulmonary complications (odds ratio = 3.713, P = 0.049) after adjusting for confounders. Multivariable analysis confirmed the LU
+
+---
+
+## 12. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
 
 - **PMID**: [42545487](https://pubmed.ncbi.nlm.nih.gov/42545487/)
 - **Journal**: Unfallchirurgie (Heidelberg, Germany)
@@ -160,7 +174,7 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 12. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
+## 13. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
 
 - **PMID**: [42583625](https://pubmed.ncbi.nlm.nih.gov/42583625/)
 - **Journal**: Annals of medicine and surgery (2012)
@@ -174,7 +188,7 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 13. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
+## 14. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
 
 - **PMID**: [42597386](https://pubmed.ncbi.nlm.nih.gov/42597386/)
 - **Journal**: Frontiers in surgery
@@ -185,20 +199,6 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 ### Abstract
 
 **BACKGROUND**: Enhanced Recovery After Surgery (ERAS) pathways are increasingly used in reconstructive plastic surgery, but flap reconstruction presents specific challenges, including dependence on stable microvascular perfusion, procedure-specific immobilization, donor-site morbidity, and heterogeneous anatomic indications. Because available studies differ substantially in surgical setting, flap type, ERAS bundle composition, comparator care, and outcome reporting, this article is presented as a structured narrative synthesis rather than a de novo meta-analysis. **METHODS**: PubMed, Embase, Web of Science, and Google Scholar were searched for studies and reviews published from 1997 to 14 June 2026 that addressed ERAS, fast-track, or accelerated recovery pathways in flap reconstruction or closely related reconstructive plastic surgery settings. The review question was defined using PICOS: adult or pediatric patients undergoing flap-based reconstruction; perioperative ERAS or accelerated recovery bundles; conventional perioperative care or pre-implementation practice; clinical, recovery, safety, and patient-centered outcomes; and randomized, prospective, retrospective, implementation, and systematic-review designs. Because ERAS bundles, flap types, and outcome definitions were clinically heterogeneous, no formal quantitative pooling was performed. **RESULTS**: Across breast reconstruction, head and neck free-flap reconstruction, perineal or pelvic reconstruction, lower-limb reconstruction, and selected flap-based wound procedures, ERAS pathways were most consistently associated with shorter hospital stay, earlier mobilization or feeding, and reduced opioid exposure. Safety outcomes, including flap compromise, readmission, and return to theatre, were generally not worse in the cited studies, but certainty is limited by observational designs, single-center implementation studies, variable adherence, and inconsistent reporting. The components most relevant to flap surg
-
----
-
-## 14. Compliance with early postoperative ambulation and Its associated barriers in hepatobiliary surgery patients within an enhanced recovery after surgery framework.
-
-- **PMID**: [42421879](https://pubmed.ncbi.nlm.nih.gov/42421879/)
-- **Journal**: Frontiers in surgery
-- **Publication Date**: 2026
-- **Authors**: Zhang Yan, Gu Jingyan, Song Jie, Pan Yun
-- **DOI**: https://doi.org/10.3389/fsurg.2026.1874831
-
-### Abstract
-
-**BACKGROUND**: Early postoperative ambulation is a core element of the Enhanced Recovery After Surgery (ERAS) pathway for hepatobiliary surgery, yet real-world compliance has been reported to be variable and the patient-level barriers in this surgical population remain incompletely characterised. We therefore retrospectively reviewed the routinely collected ERAS quality-control archive of our hepatobiliary surgical unit to describe the actual compliance status and to identify factors associated with non-compliance. **METHODS**: We retrospectively extracted the records of 320 consecutive adult patients who had undergone elective hepatobiliary surgery between January 2022 and December 2024 and whose perioperative care had followed the institutional ERAS clinical pathway as standard practice. The institutional pathway comprised eight standardised components organised across the preoperative, intraoperative and postoperative phases, including structured patient education, carbohydrate loading, goal-directed fluid therapy, multimodal opioid-sparing analgesia, restrictive abdominal drainage, omission of routine nasogastric tubes, early oral feeding, and the early-ambulation prescription. Compliance with the early ambulation protocol [out-of-bed activity by postoperative day (POD) 1 and ambulation distance ≥30 m by POD 2] and patient-reported barriers documented in the routine nursing-assessment questionnaire were retrieved from the electronic medical record. The primary outcome was compliance status, while postoperative length of stay, time to first flatus, pulmonary complications, surgical site infection, symptomatic venous thromboembolism, major postoperative haemorrhage, in-hospital all-cause mortality and 30-day readmission were pre-specified secondary outcomes. Group allocation (compliant vs. non-compliant) reflected real-world clinical and patient/family decisions, not investigator-led randomisation. Univariable comparisons (chi-square, Fisher exact for low-frequen
 
 ---
 
@@ -216,21 +216,7 @@ Background: Perioperative fluid therapy plays a critical role in the outcome of 
 
 ---
 
-## 16. Minimizing acute kidney injury in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy: institutional insights into goal-directed fluid therapy and epidural analgesia.
-
-- **PMID**: [41126273](https://pubmed.ncbi.nlm.nih.gov/41126273/)
-- **Journal**: World journal of surgical oncology
-- **Publication Date**: 2025 Oct 22
-- **Authors**: Wang Kuan-Lin, Chuang Ching-Wei, Chen Kung-Yen, Hsu An-Chih, Huang Chun-Jen
-- **DOI**: https://doi.org/10.1186/s12957-025-04035-2
-
-### Abstract
-
-We read with interest the meta-analysis by Chen et al. on postoperative acute kidney injury (AKI) following cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS + HIPEC) published in World Journal of Surgical Oncology. In response, we share our institutional experience using a standardized perioperative protocol incorporating goal-directed fluid therapy (GDFT) and epidural analgesia. This approach was intended to support hemodynamic stability and provide effective analgesia. Among 92 patients undergoing CRS + HIPEC, the incidence of postoperative AKI was 2.2%, which was lower than the rates reported in prior studies. However, our cohort had fewer comorbidities and lower perioperative risk profiles than those included in the meta-analysis, representing an important limitation when interpreting these findings. Taken together, our experience suggests that perioperative strategies such as GDFT and epidural analgesia, combined with favorable baseline characteristics, may contribute to reduced AKI risk in this high-risk population. Larger prospective multicenter studies are warranted to validate these observations.
-
----
-
-## 17. Goal-Directed Fluid Therapy and Perioperative Epidural Analgesia in Low-Risk Patients Undergoing Elective Colorectal Surgery: Short-Term Clinical Outcomes From a Retrospective-Prospective Cohort Study.
+## 16. Goal-Directed Fluid Therapy and Perioperative Epidural Analgesia in Low-Risk Patients Undergoing Elective Colorectal Surgery: Short-Term Clinical Outcomes From a Retrospective-Prospective Cohort Study.
 
 - **PMID**: [41573456](https://pubmed.ncbi.nlm.nih.gov/41573456/)
 - **Journal**: Cureus
@@ -244,7 +230,7 @@ Enhanced Recovery After Surgery (ERAS) protocols emphasize perioperative fluid m
 
 ---
 
-## 18. Perioperative Goal Directed Versus Conventional Fluid Therapy in Head and Neck Free Flap Surgery: 
+## 17. Perioperative Goal Directed Versus Conventional Fluid Therapy in Head and Neck Free Flap Surgery: 
 
 - **PMID**: [41415860](https://pubmed.ncbi.nlm.nih.gov/41415860/)
 - **Journal**: Sultan Qaboos University medical journal
@@ -258,7 +244,7 @@ Head and neck free flap surgery is associated with considerable morbidity and mo
 
 ---
 
-## 19. Goal-directed fluid therapy for endovascular therapeutic procedures in patients with aneurysmal subarachnoid hemorrhage: A pilot study.
+## 18. Goal-directed fluid therapy for endovascular therapeutic procedures in patients with aneurysmal subarachnoid hemorrhage: A pilot study.
 
 - **PMID**: [41181240](https://pubmed.ncbi.nlm.nih.gov/41181240/)
 - **Journal**: Journal of anaesthesiology, clinical pharmacology
@@ -272,7 +258,7 @@ Head and neck free flap surgery is associated with considerable morbidity and mo
 
 ---
 
-## 20. Effect of Goal-Directed Fluid Therapy on Hypotension From Spinal Anesthesia in Older Parturients Having Cesarean Section: A Randomized Controlled Trial.
+## 19. Effect of Goal-Directed Fluid Therapy on Hypotension From Spinal Anesthesia in Older Parturients Having Cesarean Section: A Randomized Controlled Trial.
 
 - **PMID**: [41170401](https://pubmed.ncbi.nlm.nih.gov/41170401/)
 - **Journal**: Anesthesiology research and practice
