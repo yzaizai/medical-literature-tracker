@@ -1,12 +1,36 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-08-31
+**Update Time**: 2026-09-03
 **Search Range**: Last 30 days
-**Papers Found**: 19
+**Papers Found**: 20
 
 ---
 
-## 1. Comparison of Intraoperative Fluid by Goal-Directed and Conventional Fluid Administration in Patients Undergoing Early Decompressive Craniectomy: A Prospective Randomized Controlled Trial.
+## 1. Effect of a Machine Learning Algorithm to Guide Goal-Directed Therapy After Cardiac Surgery.
+
+- **PMID**: [42676141](https://pubmed.ncbi.nlm.nih.gov/42676141/)
+- **Journal**: American journal of critical care : an official publication, American Association of Critical-Care Nurses
+- **Publication Date**: 2026 Sep 01
+- **Authors**: Rea Amanda, Deasel Alexandra, Fonner Clifford Edwin, Salenger Rawn
+- **DOI**: https://doi.org/10.4037/ajcc2026587
+
+### Abstract
+
+**BACKGROUND**: Goal-directed therapy allows clinicians to optimize perfusion and volume status in patients postoperatively. **OBJECTIVE**: To evaluate the effect of a machine learning algorithm to guide postoperative goal-directed fluid therapy in cardiac surgery patients. **METHODS**: A goal-directed fluid therapy program was implemented in a single center for coronary artery bypass patients with ejection fraction greater than or equal to 45% (implementation period: May 15, 2023, to May 31, 2024). Patient outcomes were compared with outcomes in matched historical control patients (control period: January 3 to October 31, 2022). The primary outcome was acute kidney injury. **RESULTS**: A total of 479 eligible patients were evaluated (246 in the control group and 233 in the goal-directed therapy group). The incidence of acute kidney injury on postoperative day 2 (P = .01), on postoperative day 7(P = .02), and at discharge (P = .008) was lower in the goaldirected therapy group than in the control group. **CONCLUSIONS**: Patients in the goal-directed therapy program had a lower incidence of acute kidney injury compared with historical control patients. Incorporating a machine learning algorithm to guide goal-directed fluid therapy was a safe and less invasive way to monitor selected patients in the intensive care unit after cardiac surgery.
+
+---
+
+## 2. Revisiting the Efficacy of Goal-Directed Hemodynamic Therapy: A Simulation Study Investigating Small-Study Effects Using Bayesian Updating.
+
+- **PMID**: [42678757](https://pubmed.ncbi.nlm.nih.gov/42678757/)
+- **Journal**: Anesthesia and analgesia
+- **Publication Date**: 2026 Sep 01
+- **Authors**: Huber Markus, Wuethrich Patrick Y
+- **DOI**: https://doi.org/10.1213/ANE.0000000000008286
+
+---
+
+## 3. Comparison of Intraoperative Fluid by Goal-Directed and Conventional Fluid Administration in Patients Undergoing Early Decompressive Craniectomy: A Prospective Randomized Controlled Trial.
 
 - **PMID**: [42535245](https://pubmed.ncbi.nlm.nih.gov/42535245/)
 - **Journal**: Asian journal of neurosurgery
@@ -20,63 +44,21 @@
 
 ---
 
-## 2. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
+## 4. Goal-Directed Hemodynamic Therapy in Deceased-Donor Kidney Transplantation: A Prospective Paired-Kidney Study.
 
-- **PMID**: [41732299](https://pubmed.ncbi.nlm.nih.gov/41732299/)
-- **Journal**: Journal of clinical orthopaedics and trauma
-- **Publication Date**: 2026 Mar
-- **Authors**: Jain Shikha, Lalwani Parin, Sarkar Soumya, K Anjaleekrishna, Khanna Puneet et al.
-- **DOI**: https://doi.org/10.1016/j.jcot.2026.103374
-
-### Abstract
-
-Scoliosis correction surgery in pediatric patients poses complex anesthetic challenges due to significant anatomical deformities, cardiopulmonary compromise, and the potential for substantial blood loss. Patients frequently exhibit significant cardiopulmonary compromise due to severe thoracic curvature and rib cage distortion, which impairs pulmonary gas exchange and increases the likelihood of perioperative complications. The severity of Cobb's angle, the number of affected vertebrae, and coexisting syndromes like kyphoscoliosis influence these cardiopulmonary changes and can lead to abnormalities in the airway, craniofacial skeleton, neurological system, and genitourinary tract. Comprehensive perioperative management requires meticulous preoperative optimization, intraoperative vigilance, and multidisciplinary coordination. Preoperative evaluation focuses on assessing respiratory function, cardiovascular adaptation, and identification of any associated syndromes that influence airway management and anesthetic planning. Intraoperatively, securing the airway despite distorted anatomy is critical; invasive monitoring, deliberate hypotension, and strategies to maintain normothermia are key adjuncts. Neuromonitoring, particularly somatosensory and motor evoked potentials, mandates careful anesthetic titration to preserve signal integrity while ensuring adequate analgesia and immobility. Blood conservation strategies including antifibrinolytics, cell salvage, and hemodilution are critical to minimize transfusion requirements. Postoperative care has evolved significantly with adoption of Enhanced Recovery After Surgery (ERAS) protocols, tailored to pediatric populations undergoing extensive spinal correction. Postoperative concerns encompass respiratory failure, pain control through multimodal analgesia, and vigilance for neurological or hemodynamic deterioration. Employing regional techniques such as erector spinae plane blocks with opioid-sparing multimodal regimen hel
-
----
-
-## 3. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
-
-- **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
-- **Journal**: BMJ open
-- **Publication Date**: 2026 Jun 02
-- **Authors**: van Zwol Judith, Aalbers Arend G J, van den Brom Charissa E, Hollmann Markus W, Hulst Abraham H et al.
-- **DOI**: https://doi.org/10.1136/bmjopen-2025-107975
+- **PMID**: [42309832](https://pubmed.ncbi.nlm.nih.gov/42309832/)
+- **Journal**: Journal of cardiothoracic and vascular anesthesia
+- **Publication Date**: 2026 Sep
+- **Authors**: Vu Van Trinh, Nguyen Ba Tuan, Dao Thi Kim Dung, Nguyen Thi Thuy Ngan, Do Trung Dung et al.
+- **DOI**: https://doi.org/10.1053/j.jvca.2026.05.049
 
 ### Abstract
 
-**INTRODUCTION**: Cytoreductive surgery (CRS) with heated intraperitoneal chemotherapy (HIPEC) is a treatment for peritonitis carcinomatosa. These procedures often involve significant blood and fluid loss, leading to hyperdynamic circulation and vasodilation, necessitating intraoperative fluids and vasoconstrictors such as catecholamines. Excessive fluid administration to counteract vasodilation can cause intraoperative fluid overload, which is linked to increased postoperative complications. Vasopressin has emerged as a potential alternative to catecholamines, restoring vascular tone via non-adrenergic pathways and supporting perfusion pressure, potentially reducing the need for compensatory fluids solely administered to compensate for vasodilation. We hypothesise that compared with norepinephrine, vasopressin reduces cumulative intraoperative fluid administration during CRS-HIPEC within a goal-directed fluid therapy (GDFT) protocol, ultimately leading to a lowering of postoperative complications. **METHODS AND ANALYSIS**: HiPress is a two-centre, two-arm randomised clinical trial with blinding of both patients and outcome assessors. A total of 70 adult patients undergoing CRS-HIPEC will be included. Patients will be randomised to receive either continuous low-dose argipressin or continuous low-dose norepinephrine. Both groups will receive standardised GDFT during the procedure. The primary endpoint is cumulative intraoperative fluid administration (mL). Secondary endpoints include direct fluid-related outcomes (eg, cumulative intraoperative fluid (ml/kg/hour), postoperative fluid balance until day five and ultrasound-assessed pulmonary oedema and venous congestion) and indirect fluid-associated outcomes (eg, quality of recovery, surgical and abdominal complications, acute kidney injury (AKI), pulmonary complications, length of ICU and hospital stay and 30-day mortality). **ETHICS AND DISSEMINATION**: The study is enrolling patients since February 2025. The trial i
+**OBJECTIVES**: To evaluate whether goal-directed hemodynamic therapy (GDHT) using uncalibrated pulse contour analysis (FloTrac) optimizes intraoperative hemodynamics, pharmacologic support, and early graft function compared with standard central venous pressure (CVP)-guided therapy in deceased-donor kidney transplantation. **DESIGN**: A prospective, randomized, comparative study utilizing a rigorous paired-kidney design to neutralize donor-derived confounders. **SETTING**: A single-center, tertiary university hospital. **PARTICIPANTS**: Forty patients with end-stage renal disease who received kidney transplants from 20 brain-dead donors (20 matched pairs). **INTERVENTIONS**: Recipients of each donor pair were randomized to either the GDHT group (targeting stroke volume maximization with a change in stroke volume index <10% and mean arterial pressure [MAP] ≥65 mmHg) or the control group (targeting CVP 8-12 mmHg and MAP ≥80 mmHg). **MEASUREMENTS AND MAIN RESULTS**: Intraoperative continuous hemodynamics were analyzed via linear mixed-effects models. The GDHT group received significantly less total intravenous fluid than the control group (1,385.0 ± 259.6 v 1,958.0 ± 877.0 mL, p = 0.011). While mean arterial pressure remained equivalent (p = 0.914), the GDHT cohort achieved higher early stroke volume index at 15 minutes postinduction (p = 0.033) and maintained lower CVP levels throughout surgery (p = 0.002). Notably, the GDHT protocol markedly reduced reliance on rescue vasopressors (45.0% v 100%, p = 0.001). Postoperative serum creatinine trajectories and delayed graft function rates (10%) were identical between cohorts. **CONCLUSIONS**: FloTrac-guided GDHT safely restricts intraoperative fluid administration and optimizes early systemic flow. Avoiding unnecessary volume expansion mitigates iatrogenic vasoplegia and reduces rescue vasopressor requirements, while facilitating excellent early allograft recovery.
 
 ---
 
-## 4. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
-
-- **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Ashraf Nashrah, Zargar Owais Ul Umer, Albina Aayat
-- **DOI**: https://doi.org/10.7759/cureus.110243
-
-### Abstract
-
-Goal-directed fluid therapy (GDFT) has emerged as an important perioperative strategy aimed at optimizing hemodynamic status and improving surgical outcomes; however, evidence regarding its effectiveness in patients undergoing major abdominal surgery remains variable. This meta-analysis was conducted to evaluate the impact of intraoperative GDFT compared with conventional fluid therapy on postoperative morbidity and clinical outcomes in adult patients undergoing elective major abdominal surgery. Randomized controlled trials comparing GDFT with conventional intraoperative fluid therapy were analyzed. The assessed outcomes included postoperative morbidity, 30-day mortality, length of hospital stay, intensive care unit (ICU) stay, recovery of gastrointestinal function, and incidence of paralytic ileus. A total of 14 randomized controlled trials involving approximately 2,750 patients were included, with 1,433 patients receiving GDFT and 1,317 receiving conventional fluid therapy. GDFT was associated with a significant reduction in hospital length of stay (mean difference (MD) 2.5 days, 95% confidence interval (CI) 4.5 to -0.5), earlier passage of flatus (MD 6.8 hours, 95% CI 11.2 to -2.4), earlier tolerance of oral intake (MD 15.2 hours, 95% CI 26.8 to -3.6), and reduced incidence of postoperative ileus (risk ratio (RR) 0.48, 95% CI 0.28-0.82). However, no significant reduction was observed in overall postoperative morbidity (RR 0.78, 95% CI 0.57-1.07) or mortality (RR 1.02, 95% CI 0.45-2.34). Intraoperative GDFT in elective major abdominal surgery was associated with improved postoperative gastrointestinal recovery, reduced incidence of postoperative ileus, and shorter hospital length of stay compared with conventional fluid therapy. However, no significant reduction in overall postoperative morbidity or mortality was observed. These findings support the use of GDFT as a safe and effective perioperative strategy to enhance postoperative recovery in major abdominal surg
-
----
-
-## 5. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
-
-- **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
-- **Journal**: Journal of clinical anesthesia
-- **Publication Date**: 2026 Jun
-- **Authors**: Qin Haonan, Wang Qiuyi, Zhou Xun, Li Yijia, Luo Weijun et al.
-- **DOI**: https://doi.org/10.1016/j.jclinane.2026.112223
-
-### Abstract
-
-**OBJECTIVE**: To compare and rank preventive interventions for postoperative delirium (POD) in elderly spinal surgery patients via network meta-analysis. **METHODS**: We searched major databases (inception to March 2025) for relevant randomized controlled trials (RCTs). Methodological quality was assessed using the Cochrane RoB 2.0 tool. A frequentist random-effects network meta-analysis was performed. **RESULTS**: Thirty-two RCTs (enrolling 3454 patients) evaluating 19 interventions were included. Most studies (n = 25) demonstrated low risk of bias or raised only some concerns. Global inconsistency assessment indicated consistency (P = 0.44). Ten interventions significantly reduced POD incidence compared to control. Surface under the cumulative ranking curve (SUCRA) analysis ranked temperature protection combined with dexmedetomidine (OR = 0.11, 95% CI: 0.02-0.59, SUCRA = 81.7%) as the most effective intervention, followed by melatonin (OR = 0.20, 95% CI: 0.05-0.81, SUCRA = 70.3%) and goal-directed fluid therapy (OR = 0.25, 95% CI: 0.09-0.66, SUCRA = 63.6%). **CONCLUSIONS**: Dexmedetomidine monotherapy is the only intervention supported by moderate-certainty evidence (OR = 0.35) and should be the core POD prevention strategy. Other top-ranked interventions (temperature protection+DEX, melatonin, GDFT) showed promise but are based on low-certainty evidence, often from single trials, and require confirmation. All 32 trials were from China, limiting generalizability; international validation is needed. **REGISTRATION**: PROSPERO CRD420251014832.
-
----
-
-## 6. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 5. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
 
 - **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
 - **Journal**: Journal of chest surgery
@@ -90,7 +72,7 @@ Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional 
 
 ---
 
-## 7. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
+## 6. Airway Complications After Cervical Spine Surgery: A Focused Review on Recent Evidence and Perioperative Management.
 
 - **PMID**: [42460700](https://pubmed.ncbi.nlm.nih.gov/42460700/)
 - **Journal**: Journal of neurosurgical anesthesiology
@@ -104,21 +86,7 @@ Airway complications after cervical spine surgery are infrequent but potentially
 
 ---
 
-## 8. Perioperative Multidisciplinary Management of a Giant Ovarian Tumor Associated with Severe Scoliosis: A Case Report.
-
-- **PMID**: [42446448](https://pubmed.ncbi.nlm.nih.gov/42446448/)
-- **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
-- **Publication Date**: 2026 Jul 14
-- **Authors**: Feng ZhiLiang, Lu LiBo, Xiong Fei, Xie CaiYa, Qiu LongLong
-- **DOI**: https://doi.org/10.1016/j.jopan.2026.06.019
-
-### Abstract
-
-This case report outlines the multidisciplinary perioperative management of a 69-year old female with a giant ovarian borderline tumor and severe scoliosis who underwent total hysterectomy and bilateral salpingo-oophorectomy. Preoperative optimization incorporated respiratory training and nutritional support. Intraoperative interventions included video laryngoscopy, lung-protective ventilation, individualized positioning, and goal-directed fluid therapy with prophylactic vasopressor use during tumor resection. The postoperative course was complicated by upper gastrointestinal bleeding, managed endoscopically. This experience reinforces the necessity of a physiology based, nurse-coordinated multidisciplinary strategy in patients with concurrent giant pelvic tumors and spinal deformity, and advocates for gastrointestinal prophylaxis in chronic NSAID users undergoing major surgery.
-
----
-
-## 9. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
+## 7. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
 
 - **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
 - **Journal**: Journal of clinical medicine
@@ -129,6 +97,34 @@ This case report outlines the multidisciplinary perioperative management of a 69
 ### Abstract
 
 Background: Perioperative fluid therapy plays a critical role in the outcome of microvascular free-flap surgery. While both inadequate and excessive fluid administration may impair flap perfusion and systemic recovery, the impact of fluid balance and crystalloid volume-normalized to body weight and operative time-on postoperative complications remains underexplored. This study investigates the dose-dependent effects of intraoperative fluid and crystalloid administration on flap-related and systemic outcomes. Methods: This retrospective, single-centre cohort study included 495 adult patients who underwent microvascular free-flap transplantation between 2009 and 2020. Intraoperative fluid balance and crystalloid volumes were normalized to patient weight and operative duration (mL/kg/h) and stratified into pre-defined thresholds. The primary endpoint was the incidence of flap-related complications (partial/total flap loss, thrombosis, revision surgery). Secondary endpoints included flap loss, suture insufficiency, pneumonia, ICU length of stay (LOS-ICU), and in-hospital mortality. Results: Higher intraoperative fluid rates were significantly associated with higher complication rates. Flap-related complications occurred in 54.8% of patients receiving >10 mL/kg/h versus 37.1% in the ≤5 mL/kg/h group (p < 0.01) and reached 100% in patients receiving >20 mL/kg/h, although this category comprised only seven patients (p < 0.01). Suture insufficiency increased from 3.1% (≤5 mL/kg/h) to 57.1% (>20 mL/kg/h; p < 0.01). Pneumonia incidence rose from 8.8% (≤5 mL/kg/h) to 31.9% (>10 mL/kg/h; p < 0.01). A U-shaped trend was observed for flap loss, with the highest rate (24.6%) at >10 mL/kg/h. Crystalloid volume > 3000 mL was significantly associated with higher flap loss (20.2% vs. 0.2%; p < 0.01) and suture insufficiency (7.0% vs. 0.2%; p = 0.02). Red blood-cell (RBC) transfusions were associated with higher overall complication rates (45.6% vs. 34.2%; p < 0.01) and suture insuffic
+
+---
+
+## 8. A Pilot Randomized Trial of Continuous Finger-Cuff Blood Pressure Monitoring With Hemodynamic-Guided Management Versus Oscillometric Monitoring in Open Thoracic Surgery.
+
+- **PMID**: [42532759](https://pubmed.ncbi.nlm.nih.gov/42532759/)
+- **Journal**: Journal of cardiothoracic and vascular anesthesia
+- **Publication Date**: 2026 Jul 01
+- **Authors**: Dolnimitsakul Siree, Chaichalothorn Mutita, Songchuen Nattanon
+- **DOI**: https://doi.org/10.1053/j.jvca.2026.06.049
+
+### Abstract
+
+**OBJECTIVES**: Intraoperative hypotension is associated with adverse postoperative outcomes. This pilot randomized controlled trial evaluated whether hemodynamic-guided management using continuous noninvasive finger-cuff blood pressure monitoring reduces intraoperative hypotension compared with standard intermittent oscillometric monitoring in patients undergoing open thoracic surgery. **DESIGN**: Pilot randomized controlled trial. **SETTING**: Single tertiary university hospital. **PARTICIPANTS**: Forty adult patients undergoing elective open thoracic surgery under general anesthesia. **INTERVENTIONS**: Patients were randomized to either hemodynamic-guided management using continuous finger-cuff blood pressure monitoring with the Hypotension Prediction Index and waveform-derived parameters (protocolized intervention) or standard care using intermittent oscillometric blood pressure monitoring. **MEASUREMENTS AND MAIN RESULTS**: The primary outcome was the time-weighted average (TWA) of mean arterial pressure (MAP) <65 mmHg. The TWA of hypotension was significantly lower in the finger-cuff group compared with the oscillometric group (median [interquartile range], 0 [0-0] v 0.11 [0-0.40]; p = 0.001). The incidence and duration of hypotensive episodes were also reduced. Fewer patients in the hemodynamic-guided group required vasopressor therapy, primarily ephedrine, than in the oscillometric group (35% v 80%; p = 0.004). No significant differences were observed in postoperative serum creatinine or cognitive outcomes, and no cases of acute kidney injury or postoperative delirium occurred. **CONCLUSIONS**: In this pilot randomized trial, hemodynamic-guided management using continuous noninvasive finger-cuff monitoring was associated with reduced intraoperative hypotension and vasopressor use compared with intermittent oscillometric monitoring. These findings support the feasibility and potential benefit of continuous noninvasive hemodynamic monitoring; however, larger s
+
+---
+
+## 9. Pulse Index Continuous Cardiac Output-Guided Hemodynamic Therapy in Living Donor Kidney Transplantation: A Prospective Cohort Study.
+
+- **PMID**: [42578258](https://pubmed.ncbi.nlm.nih.gov/42578258/)
+- **Journal**: Journal of clinical medicine research
+- **Publication Date**: 2026 Jul
+- **Authors**: Le Van Dung, Nguyen Huu Tu, Luu Quang Thuy, Thach Minh Hoang, Tran Thi Thuy Trang et al.
+- **DOI**: https://doi.org/10.14740/jocmr6632
+
+### Abstract
+
+**BACKGROUND**: Central venous pressure (CVP)-guided fluid therapy remains common during kidney transplantation, although CVP is a static marker with limited ability to predict fluid responsiveness. This prospective observational cohort study evaluated whether pulse index continuous cardiac output-guided goal-directed hemodynamic therapy (GDHT), using dynamic and volumetric hemodynamic variables, was associated with improved early graft function compared with conventional CVP-guided management in living donor kidney transplantation. **METHODS**: Eighty living donor kidney transplant recipients at Cho Ray Hospital, Vietnam, were enrolled between May 2024 and December 2025. Patients were managed according to the institutional anesthetic monitoring protocol in use at the time of surgery: CVP-guided fluid therapy (group C, n = 40) or PiCCO-guided GDHT (group P, n = 40). The PiCCO protocol incorporated stroke volume variation, pulse pressure variation, cardiac index, global end-diastolic volume index, systemic vascular resistance index, and extravascular lung water index. Outcomes included intraoperative fluid volume, vasopressor use, postoperative urine output, serum creatinine through postoperative day 7, delayed graft function, and postoperative complications. **RESULTS**: Baseline recipient, donor, and operative characteristics were comparable between groups, with the exception of cold ischemia time, which was longer in group P. Total intraoperative fluid volume was lower in group P than in group C (2,656 ± 480 mL vs. 3,097 ± 555 mL; P = 0.001), and vasopressor use was numerically lower but not statistically significant (12.5% vs. 27.5%; Fisher's exact P = 0.161). First-hour postoperative urine output was higher in group P (1,235 ± 162 mL vs. 1,010 ± 315 mL; P < 0.001). Serum creatinine was similar on postoperative day 1 but was significantly lower in group P on day 3 (1.3 (0.8-1.8) mg/dL vs. 1.6 (1.4-1.9) mg/dL; P = 0.036); the difference on day 7 was not statistica
 
 ---
 
@@ -188,7 +184,21 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 14. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
+## 14. Strategies to reduce perioperative acute kidney injury in non-cardiac adult surgeries: the secret sauce.
+
+- **PMID**: [41720712](https://pubmed.ncbi.nlm.nih.gov/41720712/)
+- **Journal**: Journal of the National Medical Association
+- **Publication Date**: 2026 Apr
+- **Authors**: Zhao Shu, Zhao Jackie, Rashid Megan
+- **DOI**: https://doi.org/10.1016/j.jnma.2026.01.010
+
+### Abstract
+
+Acute kidney injury is a common perioperative complication that leads to significant downstream effects on the patient and the health system. Patients regularly present for surgery with several risk factors for AKI, but we have not yet determined the optimal method of risk stratification or strategy for prevention of AKI. This paper provides a review of the latest literature on perioperative considerations for anesthesiologists when evaluating and treating patients at higher risk for postoperative kidney injury. The ADQI/PQI recommends a kidney health assessment before surgery, focusing on optimizing preoperative risk factors in patients before surgery. Using goal-directed hemodynamic therapy, incorporating volume status, blood pressure, and cardiac output monitoring to optimize volume status in high-risk patients and using renoprotective medications could further reduce the risk of AKI. We've highlighted some interesting research regarding novel biomarkers and artificial intelligence/machine learning. Promising research is ongoing in this sector, but much work still needs to be done.
+
+---
+
+## 15. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
 
 - **PMID**: [42597386](https://pubmed.ncbi.nlm.nih.gov/42597386/)
 - **Journal**: Frontiers in surgery
@@ -202,72 +212,72 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 15. Effect of adding phenylephrine infusion to goal-directed fluid therapy on postoperative quality of recovery in elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized controlled trial.
+## 16. Personalizezed Hemodynamic Optimization Using Stroke Volume, Pulse Pressure Variation, and Continuous Cardiac Index in Major Liver Surgery: A Randomized Controlled Trial.
 
-- **PMID**: [42053439](https://pubmed.ncbi.nlm.nih.gov/42053439/)
-- **Journal**: Minerva anestesiologica
-- **Publication Date**: 2026
-- **Authors**: Lu Xiangwen, Xiong Xinyang, Zhang Na, Shen Lei, Qi Dunyi
-- **DOI**: https://doi.org/10.23736/S0375-9393.26.19696-5
+- **PMID**: [41149819](https://pubmed.ncbi.nlm.nih.gov/41149819/)
+- **Journal**: Journal of personalized medicine
+- **Publication Date**: 2025 Sep 30
+- **Authors**: Redondo Calvo Francisco Javier, Baladrón González Víctor, Padilla Valverde David, Redondo Sánchez Jorge, Villarejo Campos Pedro Juan et al.
+- **DOI**: https://doi.org/10.3390/jpm15100457
 
 ### Abstract
 
-**BACKGROUND**: Goal-directed fluid therapy (GDFT) guided by pulse pressure variation (PPV) is an established strategy to optimize perioperative fluid management in elderly surgical patients. However, its efficacy may be limited by age-related decline in vascular compliance. This study aimed to investigate whether supplementing PPV-guided GDFT with a continuous low-dose phenylephrine infusion could improve the quality of postoperative recovery in this population. **METHODS**: Ninety-four elderly patients scheduled for elective laparoscopic gastrointestinal surgery were randomized to either PPV-guided GDFT with phenylephrine (GP group, N.=46) or GDFT alone (G group, N.=48). Following anesthesia induction, the GP group received a continuous phenylephrine infusion (0.2~0.25 μg/kg/min), while the G group received normal saline at an equivalent rate. Both groups used a PPV threshold of ≥13% to guide fluid administration. The primary outcome was the 24-hour postoperative QoR-15 score. Secondary outcomes included QoR-15 scores at 48 hours and seven days, intraoperative variables, recovery markers, and laboratory results. **RESULTS**: Baseline characteristics showed no statistical differences between G group and GP group (P>0.05).GP group demonstrated notably higher 24-h (103.46±4.17 vs. 93.10±2.90) and 48-h (117.00±3.43 vs. 108.08±3.04) QoR-15 total scores, along with superior performance in multiple subitems (P<0.001). Additionally, GP group received less intraoperative fluid (1825 [1550.0-2250.0] vs. 2250 [1862.5-2500.0] mL, P=0.002) and exhibited shorter time to first flatus (38.3±6.0 vs. 59.0±12.5 h) and hospital stay (14.2±2.7 vs. 17.0±4.4 d), with all these differences statistically significant (P<0.001). No disparities were observed in renal parameters, lactate levels, or postoperative complications (P>0.05). **CONCLUSIONS**: For elderly laparoscopic gastrointestinal surgery patients, PPV-guided GDFT combined with phenylephrine improved early recovery, accelerated g
+Background/Objectives: The aim of this study was to evaluate fluid administration and intraoperative bleeding of patients who had major hepatic resection. We used artery pulse contour analysis monitor (ProAQT™) and personalized hemodynamic target-guided therapy, in which the administration of fluid, inotropes and vasopressors is guided by stroke volume, pulse pressure variation (SVV, PPV) and continuous cardiac index (CI). Methods: This trial was a prospective, randomized, parallel-group in adults scheduled for major hepatic resection. Participants were randomly assigned in equal numbers to one of two groups: (1) a control group receiving conventional perioperative care, and (2) an intervention group managed with goal-directed hemodynamic therapy guided by radial artery pulse contour analysis. Results: 45 patients were randomized to the GDHT (n = 16) and control group (n = 19). Blood loss was significantly higher in the control group than in GDHT group (728.13 ± 618.59 versus 292.63 ± 274.06, p = 0.009). The number of patients receiving intraoperative transfusion was significantly higher in the first group (6 ± 16 versus 0 ± 19, p = 0.005). Total volume infused was significantly higher in control group (CG) than in GDHT group (GG) (2853.13 ± 1432.18 versus 1125.79 ± 751.2, p = 0.001). Conclusions: Personalized goal-directed therapy optimizes intraoperative fluid administration during major liver resection and reduces blood transfusion.
 
 ---
 
-## 16. Goal-Directed Fluid Therapy and Perioperative Epidural Analgesia in Low-Risk Patients Undergoing Elective Colorectal Surgery: Short-Term Clinical Outcomes From a Retrospective-Prospective Cohort Study.
+## 17. Hypotension prediction index smart alerts and trends to improve compliance with goal-directed hemodynamic therapy: a feasibility study.
 
-- **PMID**: [41573456](https://pubmed.ncbi.nlm.nih.gov/41573456/)
-- **Journal**: Cureus
-- **Publication Date**: 2025 Dec
-- **Authors**: Karakosta Agathi, Kaminioti Evangelia, Riga Maria, Briassoulis Panagiotis, Pantazi Aggeliki et al.
-- **DOI**: https://doi.org/10.7759/cureus.99819
+- **PMID**: [41029588](https://pubmed.ncbi.nlm.nih.gov/41029588/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2025 Sep 30
+- **Authors**: Guerra-Londono Carlos E, Hand William R, Fleming Neal, Davis Jeffrey, Treggiari Miriam M et al.
+- **DOI**: https://doi.org/10.1186/s12871-025-03336-z
 
 ### Abstract
 
-Enhanced Recovery After Surgery (ERAS) protocols emphasize perioperative fluid management to optimize outcomes following major abdominal surgery. This study aimed to investigate the effect of thoracic epidural analgesia on hospital length of stay in low-risk patients undergoing open elective colorectal surgery managed with goal-directed fluid therapy (GDFT). A retrospective-prospective single-center cohort study was conducted, enrolling low-risk (American Society of Anesthesiologists (ASA) I-II) patients scheduled for open elective colorectal surgery. Forty-nine patients were prospectively assigned to either GDFT with intravenous analgesia (GDFT group) or GDFT with epidural analgesia (GDFT/ED group). Additionally, 72 patient records managed with conventional fluid therapy (CFT), with (CFT/ED group) or without epidural analgesia (CFT group), were retrospectively reviewed. The primary outcome was length of hospital stay; secondary outcomes included intraoperative fluid administration, gastrointestinal recovery, pro-B-type natriuretic peptide (BNP) levels, and in-hospital mortality. Overall analysis showed shorter hospital stay across groups, which did not reach statistical significance (p=0.08), while pairwise comparison demonstrated significantly shorter stay in the GDFT/ED group compared with the CFT group (p=0.048). Gastrointestinal recovery did not differ significantly between groups, although ileus was more frequent in the CFT and CFT/ED groups. Total intraoperative fluid administration was significantly lower in GDFT-managed patients (p=0.006), with no significant difference between the GDFT and GDFT/ED groups. Baseline and postoperative proBNP levels were comparable across groups, and no in-hospital deaths occurred. In conclusion, among low-risk patients undergoing major open elective colorectal surgery, combining GDFT with thoracic epidural analgesia was associated with a trend toward shorter hospital stay. These findings support integrating individualized flu
+**BACKGROUND**: Goal-directed hemodynamic therapy (GDHT) and Hypotension Prediction Index (HPI, Edwards Lifesciences, Irvine, CA) technology are used to improve post-operative patient outcomes. Trials evaluating GDHT are frequently limited by poor algorithm compliance. The Acumen HPI Software incorporates smart trends and alerts that highlight the probable mechanism(s) of hypotension and facilitate compliance with the GDHT algorithm. We hypothesized that prompts from the Acumen HPI Smart Alerts would improve compliance to a GDHT algorithm during moderate-to-high-risk elective noncardiac surgery. **METHODS**: This IRB-approved, multicenter, mixed-methods, single-arm feasibility trial included adults undergoing elective, moderate-to-high-risk noncardiac surgery requiring intra-arterial blood pressure monitoring. The HPI-guided GDHT algorithm included actionable trends at HPI > 50 and automated HPI Smart Alert notifications at HPI ≥ 85, displaying the most likely hypotension mechanism(s). The primary outcome was the proportion of HPI notifications resulting in timely algorithm-concordant interventions. The sample size was estimated to achieve a true compliance rate of at least 75% with a 95% confidence level above 60%. **RESULTS**: A total of 122 subjects were included. The enrollment among centers was balanced. The overall compliance rate was 77.1% (95% CI: 74.5-79.6%). The median area under the curve, time-weighted average, and minutes of hypotension below 65 mmHg were 8.8 (0.3, 33.7) mmHg*min, 0.0 (0.0, 0.1) mmHg, and 2.9 (0.4, 8.7) minutes, respectively. **CONCLUSIONS**: This study demonstrated the potential for HPI Smart Alerts to improve compliance with an intraoperative GDHT algorithm in adults undergoing moderate to high-risk non-cardiac surgery. A low burden of intra-operative hypotension was observed, suggesting potential decreases in other associated adverse outcomes. Larger-scale randomized studies are warranted. **TRIAL REGISTRATION**: This trial was retro
 
 ---
 
-## 17. Perioperative Goal Directed Versus Conventional Fluid Therapy in Head and Neck Free Flap Surgery: 
+## 18. Intraoperative goal-directed hemodynamic therapy targeting both arterial pressure and flow parameters using uncalibrated pulse contour techniques: A meta-analysis of randomized controlled trials.
 
-- **PMID**: [41415860](https://pubmed.ncbi.nlm.nih.gov/41415860/)
-- **Journal**: Sultan Qaboos University medical journal
-- **Publication Date**: 2025
-- **Authors**: Shamim Faisal, Khan Adnan A, Sohail Mahnoor, Yunus Rayaan A, Sohail Mahad et al.
-- **DOI**: https://doi.org/10.18295/2075-0528.2918
+- **PMID**: [39706551](https://pubmed.ncbi.nlm.nih.gov/39706551/)
+- **Journal**: Revista espanola de anestesiologia y reanimacion
+- **Publication Date**: 2025 Mar
+- **Authors**: Ripollés-Melchor J, Espinosa Á V, Fernández-Valdes-Bango P, Navarro-Pérez R, Abad-Motos A et al.
+- **DOI**: https://doi.org/10.1016/j.redare.2024.501653
 
 ### Abstract
 
-Head and neck free flap surgery is associated with considerable morbidity and mortality. Goal-directed fluid therapy (GDFT) has been increasingly adopted in perioperative care; however, its benefit over conventional fluid therapy (CFT) in this setting remains uncertain. This systematic review and meta-analysis assessed the effect of GDFT versus CFT on post-operative outcomes. A comprehensive search of PubMed, Web of Science, Cochrane Library, Dental/Oral Science, and Google Scholar identified randomised controlled trials published between 2010 and 2023. Three studies involving 262 patients (130 GDFT, 132 CFT) were included. Pooled analysis showed no significant difference in flap failure between groups, but CFT was associated with higher risk of flap at risk (risk ratio 4.44; 95% confidence interval [CI]: 1.35-14.57; P = 0.01), reoperation (risk ratio 2.62; 95% CI: 1.01-6.79; P = 0.05), and longer intensive care unit stay (mean difference 0.94 days; P < 0.001). GDFT may improve outcomes, but larger studies are needed to confirm these findings.
+**BACKGROUND**: Goal-directed haemodynamic therapy (GDHT) aims to optimize haemodynamic variables. However, its effectiveness in reducing postoperative complications in major abdominal surgery, particularly when targeting both arterial pressure and flow variables, remains unclear. This meta-analysis addresses this by evaluating GDHT using uncalibrated pulse contour (uPC) methods. **METHODS**: We conducted a systematic review and meta-analysis of randomized controlled trials (RCT) in adult patients undergoing major abdominal surgery who received GDHT using uncalibrated pulse contour (uPC) methods for cardiac output monitoring, with predefined targets for both blood flow and blood pressure. The primary outcome was postoperative complications; secondary outcomes included postoperative acute kidney injury (AKI), hospital length of stay (EH), intraoperative fluid administration and mortality. **RESULTS**: Initial search retrieved 860 reports, with 12 RCTs (1367 patients) meeting the inclusion criteria. Our meta-analysis showed a significant reduction in postoperative complications (RR 0.78, 95% CI 0.68-0.90), AKI (RR 0.7, 95% CI 0.51-0.97), and hospital LOS (SMD -0.30, 95% CI -0.54 to -0.06) with uPC-guided GDHT. No significant differences were observed in intraoperative fluid volume and mortality. **CONCLUSIONS**: Implementing GDHT in major abdominal surgery with predefined arterial pressure and blood flow targets significantly reduces postoperative morbidity and hospital EH without increasing intraoperative fluid administration.
 
 ---
 
-## 18. Goal-directed fluid therapy for endovascular therapeutic procedures in patients with aneurysmal subarachnoid hemorrhage: A pilot study.
+## 19. Implementation of an Evidence-based Protocol to Increase the Use of Goal-directed Hemodynamic Therapy.
 
-- **PMID**: [41181240](https://pubmed.ncbi.nlm.nih.gov/41181240/)
-- **Journal**: Journal of anaesthesiology, clinical pharmacology
-- **Publication Date**: 2025
-- **Authors**: Singh Saurav, Chaturvedi Arvind, Bindra Ashish, Dube Surya K, Devarajan Sebastian Leve Joseph
-- **DOI**: https://doi.org/10.4103/joacp.joacp_550_24
+- **PMID**: [39985551](https://pubmed.ncbi.nlm.nih.gov/39985551/)
+- **Journal**: Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses
+- **Publication Date**: 2025 Aug
+- **Authors**: Davis Cole, Lindsay Kelly, Jacks Kelsey, Lowery Kendall, Nichols Jamie et al.
+- **DOI**: https://doi.org/10.1016/j.jopan.2024.09.014
 
 ### Abstract
 
-**BACKGROUND AND AIMS**: Hypovolemia and hypotension are the main risk factors for the development of vasospasm or delayed cerebral ischemia in patients with aneurysmal subarachnoid hemorrhage (aSAH). We aimed to compare the duration of hypovolemia and hypotension between goal-directed fluid therapy (GDFT) and standard fluid therapy (SFT) in patients undergoing endovascular therapeutic procedures for aSAH. **MATERIAL AND METHODS**: Twenty patients were enrolled in this single-center, prospective, randomized controlled, and double-blind study. Patients were randomized into the GDFT group (n = 10) and SFT group (n = 10). A cardiac output monitoring device was used in both groups to calculate the duration of hypovolemia and hypotension. Appropriate statistical tests were used, and a P value < 0.05 was considered statistically significant. **RESULTS**: The demographic profile was comparable between both the groups. Fifty percent of the study population was hypovolemic before the procedure. The total duration of hypovolemia and hypotension [median (minimum-maximum)] was 3.66 min (0-10.66) and 4 (0-30) min (P = 0.82) and 4.33 (3-6.66) min and 4.66 (3.33-7.33) min (P = 0.09) in GDFT and SFT groups, respectively. Patients in the GDFT groups received significantly lower volumes of intraprocedural crystalloids. However, the total volume of fluids used was comparable between the groups. **CONCLUSIONS**: Preprocedural hypovolemia is prevalent among patients scheduled for endovascular therapeutic procedures for aSAH. Duration of intraprocedural hypovolemia and duration of hypotension is comparable between GDFT and SFT groups in patients undergoing endovascular therapeutic procedures for aSAH. Hence, GDFT offers no distinctive advantage over SFT and should be individualized to specific patient needs (and not generalized to all the patients) undergoing endovascular therapeutic procedures for aSAH.
+**PURPOSE**: This quality improvement project aimed to increase goal-directed hemodynamic therapy (GHDT) utilization in adult patients undergoing coronary artery bypass grafts (CABG) by implementing an evidence-based intraoperative GDHT protocol. **DESIGN**: A quality improvement project. **METHODS**: The team implemented a training bundle to raise awareness of complications associated with IOH, educate providers about GDHT benefits, and explain how to incorporate the protocol to guide intraoperative hemodynamic management. The team performed retrospective chart reviews to determine baseline and post-implementation GDHT protocol utilization and IOH incidence. **FINDINGS**: After receiving the education and protocol implementation, anesthesia providers began using the GDHT monitors on 100% of CABG procedures at this facility. A total of 60 patient charts were reviewed. Average cumulative hypotensive time decreased by 16.8%, from 26.37 minutes to 21.93 minutes (P = .375, 95% CI [-5.49, 13.35]). **CONCLUSIONS**: Although there was no significant reduction in IOH, the training bundle and team support increased anesthesia providers' interest in using GDHT monitors. This led to a significant rise in its utilization. A future project is planned to expand the GDHT monitors and protocol to the entire operating room. Post-anesthesia care and intensive care units desiring to increase GDHT use may benefit from similar projects.
 
 ---
 
-## 19. Effect of Goal-Directed Fluid Therapy on Hypotension From Spinal Anesthesia in Older Parturients Having Cesarean Section: A Randomized Controlled Trial.
+## 20. Intraoperative goal-directed hemodynamic therapy through fluid administration to optimize the stroke volume: A meta-analysis of randomized controlled trials.
 
-- **PMID**: [41170401](https://pubmed.ncbi.nlm.nih.gov/41170401/)
-- **Journal**: Anesthesiology research and practice
-- **Publication Date**: 2025
-- **Authors**: Ni Jun, Zhang Huiying, Xu Chenyang, Qian Xiali, Yu Huiling et al.
-- **DOI**: https://doi.org/10.1155/anrp/2753707
+- **PMID**: [39243815](https://pubmed.ncbi.nlm.nih.gov/39243815/)
+- **Journal**: Revista espanola de anestesiologia y reanimacion
+- **Publication Date**: 2024 Dec
+- **Authors**: Ripollés-Melchor J, Espinosa Á V, Fernández-Valdes-Bango P, Navarro-Pérez R, Abad-Motos A et al.
+- **DOI**: https://doi.org/10.1016/j.redare.2024.09.004
 
 ### Abstract
 
-**BACKGROUND**: The proportion of advanced maternal age (AMA) parturients in China has gradually increased. AMA is considered a risk factor for adverse maternal and fetal outcomes. Goal-directed fluid therapy (GDFT) was used to guide perioperative volume management in order to reduce spinal anesthesia-induced hypotension and optimize maternal and infant outcomes for AMA parturients undergoing cesarean section. The primary endpoint of this study was the incidence of hypotension induced by spinal anesthesia in AMA parturients undergoing cesarean section. Secondary outcomes included intraoperative infusion volume, time to first postoperative flatus, postoperative blood loss within 24 h, neonatal 1-min and 5-min Apgar scores, umbilical artery blood gas analysis, and NICU transfer rate. **METHODS**: A total of 69 AMA parturients with BMI ≤ 35 kg/m2 who underwent elective cesarean section with spinal anesthesia were randomly divided into the control group (Group C, n = 35) and the GDFT group (Group G, n = 34). Group C parturients received compound sodium lactate infusion of 20 mL·kg-1·h-1 before delivery, which was reduced to 5 mL·kg-1·h-1 after delivery. Group G parturients were first given compound sodium lactate 3 mL/kg within 3 min after entering the operating room. Thereafter, under the guidance of transthoracic echocardiography (TTE), when the Δ stroke volume (ΔSV) was ≤ 10%, compound sodium lactate was infused at 5 mL·kg-1·h-1; when the ΔSV was > 10%, the liquid was continued given at 3 mL·kg-1·3 min-1 until ΔSV ≤ 10%, followed by infusion rate of 5 mL·kg-1·h-1. The primary endpoint was defined as the incidence of hypotension induced by spinal anesthesia in AMA parturients undergoing cesarean section before anesthesia (T0), after completion of subarachnoid block (T1), at fetal delivery (T2), and at the end of surgery (T3), with hypotension defined as systolic blood pressure (SBP) ≤ 80% of baseline value or mean arterial pressure (MAP) ≤ 65 mmHg. Secondary endpoints
+**OBJECTIVE**: To evaluate the clinical impact of optimizing stroke volume (SV) through fluid administration as part of goal-directed hemodynamic therapy (GDHT) in adult patients undergoing elective major abdominal surgery. **METHODS**: This systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement and was registered in the PROSPERO database in January 2024. The intervention was defined as intraoperative GDHT based on the optimization or maximization of SV through fluid challenges, or by using dynamic indices of fluid responsiveness, including stroke volume variation, pulse pressure variation, and plethysmography variation index compared to usual fluid management. The primary outcome was postoperative complications. Secondary outcome variables included postoperative acute kidney injury (AKI), length of stay (LOS), intraoperative fluid administration, and 30-day mortality. **RESULTS**: A total of 29 randomized controlled trials (RCTs) met the inclusion criteria. There were no significant differences in the incidence of postoperative complications (RR 0.89; 95% CI, 0.78-1.00), postoperative AKI (OR 0.97; (95% IC, 0.55-1.70), and mortality (OR 0.80; 95% CI, 0.50-1.29). GDHT was associated with a reduced LOS compared to usual care (SMD: -0.17 [-0.32; -0.03]). The subgroup in which hydroxyethyl starch was used for hemodynamic optimization was associated with fewer complications (RR 0.79; 95% CI, 0.65-0.94), whereas the subgroup of patients in whom crystalloids were used was associated with an increased risk of postoperative complications (RR 1.08; 95% CI, 1.04-1.12). **CONCLUSIONS**: In adults undergoing major surgery, goal-directed hemodynamic therapy focused on fluid-based stroke volume optimization did not reduce postoperative morbidity and mortality.
 
 ---

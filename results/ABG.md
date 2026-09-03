@@ -1,119 +1,147 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-08-31
+**Update Time**: 2026-09-03
 **Search Range**: Last 30 days
-**Papers Found**: 8
+**Papers Found**: 10
 
 ---
 
-## 1. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
+## 1. Cyanosis without hypoxemia: Extensive infusaport-associated central venous thrombosis presenting as superior vena cava syndrome.
 
-- **PMID**: [42326233](https://pubmed.ncbi.nlm.nih.gov/42326233/)
+- **PMID**: [42678770](https://pubmed.ncbi.nlm.nih.gov/42678770/)
+- **Journal**: Journal of the American Association of Nurse Practitioners
+- **Publication Date**: 2026 Sep 01
+- **Authors**: Arikupurathu Tindu, Razeq Jenna M, Khanam Aliza
+- **DOI**: https://doi.org/10.1097/JXX.0000000000001350
+
+### Abstract
+
+Superior vena cava (SVC) syndrome is a potentially life-threatening condition caused by impaired venous return from the head, neck, and upper extremities that can present with prominent facial cyanosis. This finding may be misleading, as it does not necessarily reflect impaired arterial oxygenation. We report a 68-year-old woman with metastatic colorectal cancer receiving chemotherapy through a right internal jugular implantable venous access port who presented with acute dyspnea, weakness, and progressive facial and perioral cyanosis 2 days after completing FOLFOX (A chemotherapy regimen consisting of folinic acid (leucovorin), fluorouracil (5-FU), and oxaliplatin. It is commonly used to treat colorectal cancer) chemotherapy. Given recent chemotherapy exposure, her presentation initially raised concern for hypersensitivity or anaphylactoid reaction. Despite the patient's striking cyanotic appearance, arterial blood gas analysis demonstrated normal oxygenation, whereas venous blood gas revealed marked desaturation with elevated deoxyhemoglobin. Imaging subsequently identified extensive catheter-associated thrombosis involving the bilateral internal jugular, subclavian, and brachiocephalic veins with complete occlusion of the SVC and extension into the right atrium. The patient was treated with systemic anticoagulation and urgent endovascular thrombectomy with the removal of the indwelling port, resulting in rapid clinical improvement. This case emphasizes that in SVC obstruction, visible cyanosis may reflect localized venous congestion rather than systemic hypoxemia. Recognition of discordant arterial and venous oxygenation can help avoid misdiagnosis and facilitate timely intervention, particularly in oncology patients with central venous devices.
+
+---
+
+## 2. Pain Management in Arterial Blood Gas Sampling: Prevalence of Anesthetic Use and Associated Factors in Spain.
+
+- **PMID**: [42618161](https://pubmed.ncbi.nlm.nih.gov/42618161/)
+- **Journal**: Journal of emergency nursing
+- **Publication Date**: 2026 Sep
+- **Authors**: Sánchez-Zaballos Marta, Maestro-Gonzalez Alba, Antelo Natalia Martínez, Zuazua-Rico David, Mosteiro-Díaz M P et al.
+- **DOI**: https://doi.org/10.1016/j.jen.2026.02.010
+
+### Abstract
+
+**INTRODUCTION**: Arterial blood gas analysis is a fundamental diagnostic procedure for evaluating respiratory function, yet patients frequently perceive it as 1 of the most painful techniques. Although major scientific societies and clinical practice guidelines recommend the subcutaneous infiltration of local anesthesia before puncture, its implementation remains limited. This study aimed to explore the prevalence of local anesthetic use before arterial puncture and nurses' attitudes around the use of preprocedure local anesthetic across 3 hospital units. **METHODS**: A descriptive cross-sectional study was conducted between January and May 2023. Nurses providing direct patient care in respiratory outpatient clinics, respiratory inpatient wards, and the emergency department were invited to participate. Data were collected through an anonymous self-administered questionnaire including sociodemographic and occupational variables, as well as attitudes and perceptions regarding arterial puncture. Descriptive statistics and nonparametric tests were performed using R version 3.6.3. **RESULTS**: The sample comprised 102 professionals, predominantly female, with a median age of 36 years. Only 5.9% reported routinely using local anesthesia, and 11.8% considered its use necessary. The main reasons for nonuse were the belief that it provided no real benefit and the lack of routine implementation in their unit. Significant associations were observed between clinical unit, previous training, and anesthetic use, with outpatient clinics showing the highest adherence. **DISCUSSION**: The findings reveal a persistent gap between evidence-based recommendations and current practice. These results underscore the need for institutional measures, standardized protocols, and specific training to integrate pain management as an essential component of quality, person-centered care.
+
+---
+
+## 3. Effect of lingual gauze swab placement and light exclusion on pulse oximeter agreement with arterial haemoglobin-oxygen saturation derived from blood-gas analysis in healthy anaesthetised horses.
+
+- **PMID**: [42612563](https://pubmed.ncbi.nlm.nih.gov/42612563/)
+- **Journal**: Veterinary anaesthesia and analgesia
+- **Publication Date**: 2026 Jul 23
+- **Authors**: Arenas Alvarez Almudena, Martinez Miguel, Redondo Jose Ignacio, Milner Peter I, Bardell David A
+- **DOI**: https://doi.org/10.1016/j.vaa.2026.101287
+
+### Abstract
+
+**OBJECTIVE**: To compare peripheral arterial haemoglobin-oxygen saturation values obtained using pulse oximetry (SpO2) with and without a lingual gauze swab under ambient light and light-exclusion conditions, with arterial haemoglobin-oxygen saturation derived from arterial blood-gas analysis (SaO2). **STUDY DESIGN**: Prospective method-comparison study. **ANIMALS**: A group of 60 healthy adult horses undergoing elective general anaesthesia. **METHODS**: In American Society of Anesthesiologists (ASA) physical status classification I-II horses, SpO2 readings were obtained under six conditions during anaesthesia: no swab, no swab with light exclusion, dry swab, dry swab with light exclusion, wet swab and wet swab with light exclusion. Agreement with SaO2 values was assessed using the Bland-Altman method for repeated measurements. Bias (defined as SpO2 minus SaO2) and limits of agreement (LoA) were estimated from mixed-effects models with anaesthetic episode as the primary clustering unit. Confidence intervals (95% CI) were obtained using cluster bootstrapping. **RESULTS**: A total of 154 paired SpO2-SaO2 observations from 62 anaesthetic episodes with repeated measurements were analysed per experimental condition. SaO2 ranged from 94.4% to 100%, and PaO2 from 62.6 to 595.8 mmHg (8.3 to 79.4 kPa). SpO2 underestimated SaO2 across all conditions. Biases ranged from -1.6 to -2.7%, with the least bias observed using a dry swab under ambient light (-1.6 %, 95% CI -2.1 to -1.1). LoA width ranged from 10.3 to 13.3 % across configurations. Light exclusion produced more negative bias and wider LoA width than the ambient light configurations; however, these differences were small relative to the overall LoA width. **CONCLUSIONS**: In healthy adult horses undergoing elective anaesthesia, lingual gauze swab placement was not detrimental but did not meaningfully improve agreement between SpO2 and SaO2. **CLINICAL RELEVANCE**: SpO2 readings were imprecise across all configurations. 
+
+---
+
+## 4. Comparative Evaluation of Perfusion Index With Lactate and Base Deficit for Assessing Resuscitation Response in Traumatic Shock Patients Not Requiring Blood Transfusion in the Emergency Department.
+
+- **PMID**: [42626319](https://pubmed.ncbi.nlm.nih.gov/42626319/)
 - **Journal**: Cureus
-- **Publication Date**: 2026 May
-- **Authors**: Khan Imran Ahmed, Tiwari Jai Prakash
-- **DOI**: https://doi.org/10.7759/cureus.109051
-
-### Abstract
-
-Delayed emergence from anesthesia is a frequent challenge in surgical settings. Common etiologies include residual drug effects, metabolic derangements, or neurological insults. We report a case of a 55-year-old woman who underwent an elective six-hour lumbar laminectomy and cervical implantation surgery. Despite an uneventful intraoperative course and routine neuromuscular blockade reversal, the patient exhibited somnolence and ventilatory failure after reversal and extubation. Arterial blood gas (ABG) analysis revealed severe respiratory acidosis. The patient required re-intubation and controlled mechanical ventilation to facilitate carbon dioxide (CO₂) washout. Following normalization of arterial partial pressure of carbon dioxide (PaCO₂), the patient regained consciousness and was successfully extubated the following morning. This case highlights the importance of monitoring ventilation adequacy in the transition from controlled to spontaneous respiration following long-duration surgeries. Importantly, normal intraoperative end-tidal CO₂ values should not be considered reassuring in high-risk patients, as significant arterial hypercapnia may remain undetected.
-
----
-
-## 2. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
-
-- **PMID**: [42238863](https://pubmed.ncbi.nlm.nih.gov/42238863/)
-- **Journal**: Journal of acute medicine
-- **Publication Date**: 2026 Jun 01
-- **Authors**: Chororia Samata, Guru Satyabrata, Hansda Upendra, Brink Sadananda
-- **DOI**: https://doi.org/10.6705/j.jacme.202606_16(2).0006
-
-### Abstract
-
-Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity by inhibiting post-synaptic nicotinic acetylcholine receptors and affecting calcium release in the sarcoplasmic reticulum. While mortality is generally low, severe cases can lead to respiratory failure. A 25-year-old male presented to the emergency department six hours after intentionally consuming approximately 12 g of 50% CH. He exhibited vomiting, drowsiness (Glasgow Coma Score [GCS]: 13/15), and bradycardia (HR: 52/min). Initial arterial blood gas (ABG) analysis revealed mixed acidosis (pH: 7.296, pCO2: 60.8, pO2: 102.8, Lactate: 4.2, and HCO3: 20.3). Notably, serum pseudo-cholinesterase levels and other laboratory findings were within normal limits. The patient was treated with non-invasive ventilation (NIV) for respiratory acidosis and administered a loading dose of N-acetylcysteine (NAC) (150 mg/kg) along with symptomatic management. His sensorium and ABG parameters normalized within six hours of treatment. He remained asymptomatic and was discharged after three days. Human toxicity from CH is rarely reported, and cases involving mixed acidosis are particularly sparse in literature. This case highlights the importance of recognizing CH poisoning, which can mimic organophosphate toxicity. Vigilant monitoring for acidosis via ABG and early intervention with NAC and supportive care, such as NIV, are crucial for successful clinical outcomes.
-
----
-
-## 3. Acquired Methemoglobinemia Following Herbal Decoction Ingestion Presenting With Refractory Hypoxemia and Associated Generalized Seizure: A Case Report.
-
-- **PMID**: [42529551](https://pubmed.ncbi.nlm.nih.gov/42529551/)
-- **Journal**: Cureus
-- **Publication Date**: 2026 Jun
-- **Authors**: Bhattad Shivam, Shaikh Fahad Idrees, Tiwari Nishka, Pande Vivek, Jain Mausam
-- **DOI**: https://doi.org/10.7759/cureus.111707
-
-### Abstract
-
-Acquired methemoglobinemia is an uncommon but potentially life-threatening disorder characterized by oxidation of hemoglobin iron into the ferric state, resulting in impaired oxygen delivery and functional anemia. Patients may present with cyanosis, persistent hypoxemia, and discordance between pulse oximetry and arterial oxygen saturation (SaO₂). Although medications and industrial chemicals are well-recognized causes, herbal and traditional remedies remain underreported aetiologies. A 35-year-old man presented with a sudden-onset generalized tonic-clonic seizure followed by persistent hypoxemia and peripheral cyanosis after ingestion of a home-prepared herbal (Ayurvedic) decoction. The blood sample demonstrated characteristic chocolate-brown discoloration. Oxygen saturation remained approximately 85% despite supplemental oxygen therapy. Arterial blood gas (ABG) analysis demonstrated preserved arterial oxygen tension (PaO₂ 167 mmHg) with a calculated SaO₂ of 97.3%, indicating a characteristic saturation gap. Co-oximetry demonstrated a methemoglobin level of 19%. The diagnosis of methemoglobinemia was supported by refractory hypoxemia, cyanosis, chocolate-brown blood discoloration, saturation gap, and co-oximetry-confirmed methemoglobinemia (19%). The patient improved rapidly following treatment with intravenous methylene blue, anticonvulsants, and supportive care. There was a rapid disappearance of cyanosis; oxygen saturation returned to normal with full neurological recovery. This example highlights the importance of checking for methemoglobinemia in patients with symptoms of unexplained cyanosis, refractory hypoxemia, and a mismatch between pulse oximetry and arterial oxygen levels, particularly following exposure to herbal or traditional preparations. Recognition of these findings facilitated prompt diagnosis and treatment in our patient.
-
----
-
-## 4. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
-
-- **PMID**: [42536488](https://pubmed.ncbi.nlm.nih.gov/42536488/)
-- **Journal**: Cardiovascular journal of Africa
-- **Publication Date**: 2026 Jul 31
-- **Authors**: Aydogan Eyup, Akkaya Özgür
-- **DOI**: https://doi.org/10.5830/CVJA-2026-030
-
-### Abstract
-
-**BACKGROUND**: The choice of anaesthetic agent for open-heart surgery (OHS) may influence perioperative physiology and outcomes. This study compared the effects of sevoflurane and propofol on intraoperative parameters and postoperative complications. **METHODS**: A retrospective analysis was conducted on 202 patients undergoing OHS (propofol: n = 71; sevoflurane: n = 131). Demographic data, intraoperative variables (cardiopulmonary bypass [CPB] duration, aortic cross-clamp time, heparin dose, cardioplegia volume), serial arterial blood gas (ABG) values, and postoperative complications were collected. Statistical analysis included parametric/non-parametric tests and a generalised linear model. **RESULTS**: Demographic and baseline characteristics were comparable between groups. No significant differences were found in CPB time, cross-clamp time, or heparin dose. Cardioplegia volume differed significantly (p = 0.025). ABG analysis revealed that pH and O2 levels were not significantly influenced by anaesthetic type but were affected by gender and surgical phase. CO2 levels were significantly influenced by anaesthetic type, gender, and time (p < 0.001). Rates of postoperative bleeding/reoperation (propofol: 4.29%; sevoflurane: 4.55%) and other complications showed no significant differences. **CONCLUSION**: Both sevoflurane and propofol demonstrated comparable safety and efficacy in OHS, with no significant differences in major postoperative complications. However, anaesthetic choice and patient gender significantly influenced intraoperative CO2 dynamics. These findings support the clinical equivalence of both agents while highlighting gender-specific physiological responses that may warrant consideration in perioperative management.
-
----
-
-## 5. Never Too Late: A Case Report of Severe Fanconi Syndrome Developing After More than a Decade of Silent Tenofovir Disoproxil Fumarate Exposure.
-
-- **PMID**: [42647288](https://pubmed.ncbi.nlm.nih.gov/42647288/)
-- **Journal**: Reports (MDPI)
-- **Publication Date**: 2026 Jul 27
-- **Authors**: Petrakis Vasileios, Themelidis Dimitrios, Panopoulou Maria, Kriki Pelagia, Valsamaki Pipitsa N et al.
-- **DOI**: https://doi.org/10.3390/reports9030244
-
-### Abstract
-
-Background and Clinical Significance: Tenofovir disoproxil fumarate (TDF) is a widely prescribed nucleotide reverse transcriptase inhibitor (NtRTI) for HIV-1 infection. Though generally well-tolerated, proximal renal tubulopathy resulting in full-blown Fanconi syndrome remains a rare but severe complication (<0.1%). Case Presentation: We present the case of a 52-year-old female living with HIV-1 (diagnosed in 1999, CDC stage A3) who had been treated with a TDF-based antiretroviral regimen for 12 years. Upon admission, she complained of progressive bone pain and polyuria over the preceding six months. Laboratory investigations revealed profound hypokalemia, severe hypophosphatemia, hypouricemia, elevated alkaline phosphatase (ALP) and a decline in renal function (creatinine 1.3 mg/dL from a baseline of 0.7 mg/dL). Arterial blood gas (ABG) analysis showed a normal anion gap hyperchloremic metabolic acidosis alongside respiratory acidosis. Urinalysis demonstrated profound glycosuria in the setting of normal blood glucose levels, coupled with increased 24 h urinary excretion of potassium and phosphorus. A bone scintigraphy demonstrated a "super scan" pattern of metabolic etiology, establishing secondary osteomalacia driven by renal phosphate wasting. Secondary hyperparathyroidism and severe vitamin D3 deficiency were also recorded. The diagnosis of TDF-induced Fanconi syndrome was established. TDF was discontinued, and her antiretroviral regimen was modified to tenofovir alafenamide fumarate (TAF), emtricitabine (FTC), darunavir, and ritonavir, combined with vitamin D supplementation. Over a 6-month follow-up period, renal function normalized, electrolyte wasting resolved, and metabolic acidosis completely reversed. Conclusions: This case highlights that TDF-induced proximal tubulopathy can manifest even after a decade of uneventful therapy, particularly when co-administered with a boosted protease inhibitor.
-
----
-
-## 6. Reference intervals for venous blood gas measurement in a healthy Chinese population.
-
-- **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
-- **Journal**: Clinica chimica acta; international journal of clinical chemistry
-- **Publication Date**: 2026 Jul 02
-- **Authors**: Jiang Sheng, Zhao Qian, Wang Hua, Li Min, Ou Yuanzhu et al.
-- **DOI**: https://doi.org/10.1016/j.cca.2026.121212
-
-### Abstract
-
-**OBJECTIVES**: Venous blood gas (VBG) analysis has gained increasing popularity as an alternative to arterial blood gas (ABG) analysis, owing to its lower invasiveness and greater feasibility of sample collection. However, currently available reference intervals may not be applicable to the Chinese population due to regional, ethnic, environmental, and lifestyle differences. Therefore, this study aimed to establish appropriate venous blood gas reference intervals (RI) for the Chinese population from plain areas. **METHODS**: A total of 1189 volunteers (595 males, 594 females, aged 10-97 years) and 149 validation volunteers (94 females, 55 males, aged 10-97 years) with conditions unlikely to influence blood gas and acid-base balance were enrolled. Venous blood samples were collected in syringes and analyzed using an ABL90 blood gas analyzer (Radiometer Pacific Pty. Ltd.). Non-parametric methods were applied to establish VBG reference intervals and parametric methods were applied to pCO2 reference intervals. **RESULTS**: After exclusions, VBG RI was derived from 1189 volunteers: pH 7.282-7.438, partial pressure of carbon dioxide(pCO2) Male 32.8-62.2 mmHg Female 33.2-58.7 mmHg, partial pressure of oxygen(pO2)16.0-74.0 mmHg, sodium 134-148 mmol/L, potassium 3.14-4.55 mmol/L, chloride 99-111 mmol/L, ionized calcium 1.07-1.26 mmol/L, total hemoglobin(THB) Male 10.69-17.5 g/dL Female 10.3-15.9 g/dL. After verification in 149 healthy individuals, all reference intervals showed qualified rates above 92%, supporting their clinical applicability.
-
----
-
-## 7. Is respiratory failure in patients of post-tuberculosis COPD less responsive to non-invasive ventilation?
-
-- **PMID**: [42457296](https://pubmed.ncbi.nlm.nih.gov/42457296/)
-- **Journal**: The Indian journal of tuberculosis
 - **Publication Date**: 2026 Jul
-- **Authors**: Mishra Alok Kumar, Shukla Amitabh Das, Singh Abhishek, Yadav Dharmendra Kumar
-- **DOI**: https://doi.org/10.1016/j.ijtb.2025.10.008
+- **Authors**: Kalathingal Aghnay, Kj Devendra Prasad, K Rajesh, Dgsr Krishnamurthy
+- **DOI**: https://doi.org/10.7759/cureus.113061
 
 ### Abstract
 
-**BACKGROUND**: Chronic obstructive pulmonary disease (COPD) represents a heterogeneous condition with varying etiological backgrounds. Present study aimed to compare the clinical features, effectiveness of non-invasive ventilation (NIV-BiPAP) and outcome of respiratory failure, among patients with post-infectious (COPD-I) versus environmental (COPD-E) etiotypes. **METHODOLOGY**: This comparative observational study was conducted on 120 respiratory failure patients of COPD, divided into two etiotype groups as, COPD-I with post-tubercular etiology and COPD-E with environmental exposure etiology. Patients of both groups were monitored and compared for clinical features, effectiveness of NIV (BiPAP) on basis of arterial blood gas (ABG) parameters and 12-h outcome. **RESULTS**: Apart from body weight, analysis of demographic features revealed no significant differences between groups, where COPD-I patients had significantly lower body weight (45.94 kg vs 48.81 kg, p = 0.014). Both groups showed improvement in respiratory parameters over 12 h. ABG analysis demonstrated correction of respiratory acidosis with pH improving from acidosis (7.28-7.39 in COPD I; 7.25 to 7.38 in COPD E) and PaCO2 levels reducing from hypercapnic values, (69-52 mmHg in COPD I; 72 to 48 mmHg in COPD E). Hemodynamic improvement was observed in both the groups with no significant intergroup variation. Clinical improvement was observed in 90.32 % of COPD-I and 98.27 % of COPD-E patients, with intubation rates of 9.67 % and 1.72 % respectively (p = 0.063). **CONCLUSION**: NIV has comparable effectiveness and outcome in respiratory failure patients of both COPD etiotypes. Both groups showed equally effective response to NIV therapy, supporting its use as first-line treatment, regardless of COPD etiology.
+Introduction  Traumatic shock is a life-threatening condition characterized by inadequate tissue perfusion following severe injury. Early recognition of impaired perfusion and monitoring of the response to resuscitation are essential to prevent organ dysfunction. Although lactate and base deficit are commonly used biochemical markers of tissue hypoperfusion, their measurement requires invasive blood sampling. The perfusion index provides a continuous, non-invasive assessment of peripheral perfusion. This study aimed to compare the perfusion index with lactate and base deficit as indicators of resuscitation response in traumatic shock patients who did not require blood transfusion in the emergency department. Methodology A cross-sectional observational study was conducted from March 2025 to February 2026 involving adult patients with traumatic hemorrhagic shock (Class I-III). A total of 55 patients (n=55) meeting the inclusion and exclusion criteria were recruited through convenience sampling. The perfusion index was measured using a pulse oximeter, and arterial blood gas analysis was performed to assess lactate levels and base deficit at baseline, one hour, and two hours after the initiation of resuscitation. Data were analyzed to evaluate the relationship between the perfusion index and biochemical markers in assessing the response to resuscitation using correlation analysis, kappa statistics, receiver operating characteristic (ROC) curve analysis, and multivariable logistic regression. Results Among 55 patients, the perfusion index (PI) showed a progressive increase during resuscitation, while lactate and base deficit declined significantly. PI increased by +0.67 units per hour, and lactate decreased by -2.28 mmol/L per hour (p<0.001). PI demonstrated moderate negative correlations with lactate (r=-0.42 at baseline to -0.61 at two hours) and base deficit (r=-0.39 to -0.53). Agreement between PI-based and lactate-based response classifications improved over time, w
 
 ---
 
-## 8. Correlation of pulse oximetry with arterial blood gas-derived oxygen saturation in ICU patients on supplemental oxygen: a cross-sectional study.
+## 5. Ex Vivo Measurement of Human Blood T
 
-- **PMID**: [42433828](https://pubmed.ncbi.nlm.nih.gov/42433828/)
-- **Journal**: Annals of medicine and surgery (2012)
-- **Publication Date**: 2026 Jul
-- **Authors**: Pandey Bikash, Jha Birendra, Shahi Sumit, Adhikari Shital
-- **DOI**: https://doi.org/10.1097/MS9.0000000000004747
+- **PMID**: [42669959](https://pubmed.ncbi.nlm.nih.gov/42669959/)
+- **Journal**: Magnetic resonance in medicine
+- **Publication Date**: 2026 Aug 30
+- **Authors**: Yu Shuwan, Dong Yuan, Gu Yuxiao, Yang Ne, Ma Lele et al.
+- **DOI**: https://doi.org/10.1002/mrm.70574
 
 ### Abstract
 
-**INTRODUCTION**: Oxygen is essential for maintaining proper bodily functions and is closely regulated within the body. Hypoxemic patients, who have lower than normal oxygen levels in their blood, require precise monitoring to ensure appropriate oxygen therapy. Arterial blood gas (ABG) analysis (SaO2) and pulse oximetry (SpO2) and are two widely used methods to assess oxygen saturation of hemoglobin in blood. Although ABG analysis is gold standard, it is an invasive procedure. On the other hand, pulse oximeter is a small handy device that is non-invasive and accurate to certain extent in the determination of oxygen saturation. In developing countries like Nepal where ABG machines are not available in every health care facility, this study aims to compare oxygen saturation by ABG with pulse oximeter and look for the reliability of pulse oximeter as alternative to ABG. **METHOD**: This was a prospective cross-sectional observational study conducted among 152 patients, admitted to Medical Intensive Care Unit (MICU), who required supplemental oxygen during hospital stay. The ABG analysis was done, and pulse oximeter reading was recorded simultaneously. Data were entered in a structured proforma. The collected data were entered into IBM SPSS for statistical analysis. Statistical analysis included percentage, mean, median, standard deviation, and correlation between SaO2 and SpO2 were calculated using Pearson's correlation coefficient. **RESULT**: A total of 152 patients were included in the study, of which 74 were male and 78 were female with median age of 73.50 (interquartile range [IQR] 16) years. Most of the hypoxemic patients, 132 (86.84%), admitted to MICU had shortness of breath as the most prominent symptom and leading cause of MICU admission with hypoxemia was acute exacerbation of chronic obstructive pulmonary disease in 78 patients (51.32%). The most common mode of respiratory support was in the form of nasal prongs in 90 (59.21%) patients followed by non-invas
+**PURPOSE**: To determine human blood longitudinal relaxation time (T1) ex vivo at 5 T using modified Look-Locker inversion recovery (MOLLI), and to evaluate its dependence on hematocrit (Hct) and oxygenation (Y). **METHODS**: A MOLLI 5(3)3 protocol was simulated across T1 values of 1000-3000 ms to optimize the sampling interval. Aqueous gadolinium phantoms were scanned using optimized MOLLI and multi-inversion-time recovery spin echo (IR-SE) acquisitions to derive a calibration equation. Arm venous blood from 27 healthy volunteers (mean age: 23.7 ± 4.3 years; 10 males) was measured using optimized MOLLI, with three repetitions per sample. Hct and Y were measured by blood gas analysis, and their relationships with calibrated T1 were evaluated. **RESULTS**: The minimum root mean square error (RMSE) was obtained at a MOLLI sampling interval of 2000 ms. In phantoms, MOLLI and IR-SE T1 showed a strong linear relationship: T1,IR-SE = 1.185 × T1,MOLLI-93.746 (R2 = 0.998, p < 0.0001). In blood, MOLLI showed high repeatability, with an overall repeatability RMSE of 1.80 ms and a mean coefficient of variation of 0.10% ± 0.08%. Calibrated blood T1 was 1933.6 ± 114.2 ms, range 1727.0-2128.0 ms. Blood 1/T1 dependence on Hct and Y: 1/T1 = 0.447-0.193 × Y + 0.447 × Hct + 0.150 (Y × Hct) (R2 = 0.855, p < 0.0001), yielding an arterial blood T1 of 1971 ms at Y = 0.98 and Hct = 0.42. **CONCLUSION**: Optimized and phantom calibrated MOLLI enabled rapid measurement of human ex vivo blood T1 at 5 T. Blood T1 at 5 T was higher than commonly reported adult values at 3 T and varied with both Hct and Y.
+
+---
+
+## 6. Acidemia, Lactate, and Anemia Are Associated With Clinically Meaningful SpO
+
+- **PMID**: [42641953](https://pubmed.ncbi.nlm.nih.gov/42641953/)
+- **Journal**: The American journal of the medical sciences
+- **Publication Date**: 2026 Aug 25
+- **Authors**: Ghbrial Mina, Khan Sheraz, Baig Saqib
+- **DOI**: https://doi.org/10.1016/j.amjms.2026.08.022
+
+### Abstract
+
+**BACKGROUND**: Pulse oximetry is central to ICU care, yet clinically meaningful SpO₂-SaO₂ discordance is common and may reflect both racial/ethnic disparities and physiologic derangements. The independent contributions of acidemia, hyperlactatemia, and anemia to discordance have not been comprehensively evaluated in a large, diverse ICU cohort. **METHODS**: We performed a retrospective cohort study using the Blood-gas and Oximetry Linked Dataset (BOLD). We analyzed patient-level paired SpO₂ and SaO₂ measurements within 5 minutes, limiting to one pair per hospitalization. After exclusions and complete-case requirements for hemoglobin, pH, lactate, race/ethnicity, and prespecified covariates including SOFA (past 24 hours), MAP, and temperature, the primary analytic cohort included 10,094 adults. Outcomes were signed discrepancy (ΔSat = SpO₂ - SaO₂), clinically significant discordance (|ΔSat| ≥4%), and directional misclassification (underestimation ≤-4; overestimation ≥+4). Multivariable OLS, logistic, and multinomial regression were used; pH × lactate interaction was tested using mean-centered terms. **RESULTS**: Mean ΔSat was 0.93±3.74%, and 18.5% met |ΔSat| ≥4%. Lower pH, higher lactate, and lower hemoglobin were independently associated with discordance. Black race and Hispanic ethnicity were associated with greater overestimation versus White patients after adjustment. A significant pH × lactate interaction suggested attenuation of the lactate-ΔSat association at lower pH. Findings were consistent in a larger sensitivity cohort (N=18,804). **CONCLUSIONS**: In critically ill adults, acidemia, hyperlactatemia, and anemia are associated with clinically meaningful SpO₂-SaO₂ discordance, alongside persistent racial/ethnic differences in overestimation. Clinicians should interpret SpO₂ cautiously in metabolically stressed and anemic patients and consider confirmatory testing when clinical concern exists.
+
+---
+
+## 7. Intratracheal Leiomyosarcoma in a 13-Year-Old German Riding Pony Mare.
+
+- **PMID**: [42655820](https://pubmed.ncbi.nlm.nih.gov/42655820/)
+- **Journal**: Veterinary sciences
+- **Publication Date**: 2026 Aug 13
+- **Authors**: Hiekel Jennifer, Kühnle Christoph, Blaszczyk Klaudia Zofia
+- **DOI**: https://doi.org/10.3390/vetsci13080800
+
+### Abstract
+
+A 13-year-old German Riding Pony mare was referred for evaluation of progressive respiratory noise and mixed dyspnoea, which rapidly deteriorated to respiratory distress. Clinical examination revealed marked rattling inspiratory and expiratory tracheal sounds and severe, rattling, vesicular lung sounds. Arterial blood gas analysis demonstrated moderate hypoxaemia (partial pressure of arterial oxygen 76 mmHg at rest). Upper airway endoscopy identified a pink, cauliflower-like pedunculated mass originating from the dorsal tracheal wall approximately 15 cm cranial to the tracheal bifurcation, causing an estimated 60% luminal obstruction. The mass was successfully removed via transendoscopic electrosurgical excision. However, complete tumour-free margins were not achieved. Histopathological examination revealed the diagnosis of leiomyosarcoma. Following surgery, the mare exhibited rapid clinical improvement. Peri-operative treatment included antimicrobial, anti-inflammatory, and bronchodilatory therapy. A follow-up endoscopy one month after surgery showed adequate healing of the surgical site. A small, vascularized tissue structure within the scar tissue, considered suspicious for residual tumour growth, was identified. However, no significant progression was observed during a follow-up examination seven months postoperatively. This case highlights tracheal leiomyosarcoma as a rare differential diagnosis in horses with respiratory distress and describes transendoscopic electrosurgical excision as a feasible therapeutic option.
+
+---
+
+## 8. Association of Coexisting Hypertension and Diabetes with Blood Gas Analysis Indicators in COPD Patients: A Propensity Score-Matched Analysis.
+
+- **PMID**: [42651269](https://pubmed.ncbi.nlm.nih.gov/42651269/)
+- **Journal**: Healthcare (Basel, Switzerland)
+- **Publication Date**: 2026 Aug 12
+- **Authors**: Cui Jiayi, Duan Zhizhou, Wang Jun
+- **DOI**: https://doi.org/10.3390/healthcare14162500
+
+### Abstract
+
+Background: Hypertension and diabetes commonly coexist in patients with chronic obstructive pulmonary disease (COPD), but their associations with arterial blood gas parameters remain insufficiently characterized, particularly after accounting for measured differences in baseline characteristics. This study aimed to examine the associations between coexisting hypertension and diabetes and selected arterial blood gas parameters in older patients with COPD. Propensity score matching (PSM) was used to improve the comparability of the study groups and reduce confounding from measured baseline covariates. Patients and Methods: A retrospective cross-sectional study was conducted involving 1030 patients. The comorbidity group comprised COPD patients with both hypertension and diabetes (n = 340), while the COPD-only group refers to COPD patients without hypertension or diabetes (n = 690). Propensity score matching (PSM) was estimated using a regression model with covariates including age, sex, marital status, BMI, temperature, and pulse. Balance was assessed using standardized mean difference (SMD), and linear regression models were adopted to evaluate the association between coexisting hypertension and diabetes and each blood gas indicator (PCO2, PO2, SaO2). Results: We performed 1:1 nearest-neighbor matching and successfully generated 340 matched pairs, forming a total matched cohort of 680 patients; all unmatched participants from the original 1030 subjects were excluded from subsequent outcome comparisons. Covariate balance was optimized for most baseline indicators after PSM, although mild residual imbalance remained in age and BMI after matching. The comorbidity group demonstrated a statistically significant reduction in PCO2 (B: -2.54, 95% CI: -4.52 to -0.56) compared to the COPD-only group, while no significant differences were observed in PO2 (B: -2.48, 95% CI: -7.6 to 2.64) or SaO2 (B: -1.16, 95% CI: -2.67 to 0.35). In addition, a sensitivity analysis adjusting for
+
+---
+
+## 9. Carbon monoxide poisoning, gas embolism and fluid overload during resectoscopic myomectomy.
+
+- **PMID**: [42631110](https://pubmed.ncbi.nlm.nih.gov/42631110/)
+- **Journal**: AJOG global reports
+- **Publication Date**: 2026 Aug
+- **Authors**: Li Xue, Zhang Lei, Liang Ying, Xu Zhen-Zhen, Su Xian et al.
+- **DOI**: https://doi.org/10.1016/j.xagr.2026.100644
+
+### Abstract
+
+Resectoscopic myomectomy (RM) is a standard minimally invasive procedure but carries risks of distinct complications. We report a rare case of a 36-year-old woman who simultaneously developed a triad of life-threatening complications during HM: carbon monoxide poisoning, gas embolism, and fluid overload. The patient presented with precipitous drops in end-tidal carbon dioxide and bispectral index silence. Arterial blood gas analysis revealed severe metabolic acidosis, electrolyte disturbances, and a carboxyhemoglobin level of 27.1%. Definitive diagnosis via arterial blood gas analysis and subsequent multimodal management, bolstered by the patient's excellent physiological reserve, led to a full recovery. This case highlights the critical need for strict fluid management during RM and CO-oximetry's indispensable role in detecting concurrent carbon monoxide toxicity.
+
+---
+
+## 10. Case Report: Methemoglobinemia associated with compound aminopyrine-phenacetin tablets supported by toxicological evidence.
+
+- **PMID**: [42638915](https://pubmed.ncbi.nlm.nih.gov/42638915/)
+- **Journal**: Frontiers in pharmacology
+- **Publication Date**: 2026
+- **Authors**: Liu Yang, Zhao Xue, Li Wenqiang, Shao Xupeng, Fan Kailiang et al.
+- **DOI**: https://doi.org/10.3389/fphar.2026.1876072
+
+### Abstract
+
+**BACKGROUND**: Methemoglobinemia (MetHb) is characterized by the oxidation of ferrous iron (Fe2+) in hemoglobin to the ferric state (Fe3+), resulting in impaired oxygen-carrying capacity and subsequent tissue hypoxia. Acquired methemoglobinemia is most commonly induced by drugs or chemical agents; however, it remains relatively rare in clinical practice and is frequently misdiagnosed. **CASE PRESENTATION**: We report a case of drug-induced methemoglobinemia associated with compound aminopyrine-phenacetin tablets (Qutong tablets). An 80-year-old woman with chronic lower limb pain had intermittently used this analgesic prior to admission. She presented with unexplained hypoxemia that was refractory to oxygen therapy. Arterial blood gas analysis revealed a markedly elevated PaO2 (271 mmHg) despite persistently low pulse oximetry saturation, indicating a significant oxygen saturation gap. The MetHb level was 22.4%. Toxicological testing detected plasma aminopyrine and phenacetin concentrations above the laboratory reference limits, documenting relevant drug exposure and supporting the clinical attribution in the context of the medication history, saturation gap, elevated MetHb level, and treatment response. Following discontinuation of the suspected agent and administration of methylene blue combined with vitamin C, MetHb levels rapidly normalized and hypoxemia significantly improved. **CONCLUSION**: This case highlights that chronic, irregular exposure to oxidant drugs may be associated with clinically significant methemoglobinemia even in the absence of a clear acute overdose. Clinicians should maintain a high index of suspicion in patients with hypoxemia unresponsive to oxygen therapy and evidence of an oxygen saturation gap. Careful medication history, co-oximetry, and toxicological testing may help document exposure and support diagnostic attribution in clinically compatible cases. Keywords: methemoglobinemia; phenacetin; aminopyrine; methylene blue; drug toxicity
 
 ---
