@@ -1,12 +1,26 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-09-07
+**Update Time**: 2026-09-10
 **Search Range**: Last 30 days
 **Papers Found**: 8
 
 ---
 
-## 1. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
+## 1. Reference intervals for venous blood gas measurement in a healthy Chinese population.
+
+- **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
+- **Journal**: Clinica chimica acta; international journal of clinical chemistry
+- **Publication Date**: 2027 Jan 01
+- **Authors**: Jiang Sheng, Zhao Qian, Wang Hua, Li Min, Ou Yuanzhu et al.
+- **DOI**: https://doi.org/10.1016/j.cca.2026.121212
+
+### Abstract
+
+**OBJECTIVES**: Venous blood gas (VBG) analysis has gained increasing popularity as an alternative to arterial blood gas (ABG) analysis, owing to its lower invasiveness and greater feasibility of sample collection. However, currently available reference intervals may not be applicable to the Chinese population due to regional, ethnic, environmental, and lifestyle differences. Therefore, this study aimed to establish appropriate venous blood gas reference intervals (RI) for the Chinese population from plain areas. **METHODS**: A total of 1189 volunteers (595 males, 594 females, aged 10-97 years) and 149 validation volunteers (94 females, 55 males, aged 10-97 years) with conditions unlikely to influence blood gas and acid-base balance were enrolled. Venous blood samples were collected in syringes and analyzed using an ABL90 blood gas analyzer (Radiometer Pacific Pty. Ltd.). Non-parametric methods were applied to establish VBG reference intervals and parametric methods were applied to pCO2 reference intervals. **RESULTS**: After exclusions, VBG RI was derived from 1189 volunteers: pH 7.282-7.438, partial pressure of carbon dioxide(pCO2) Male 32.8-62.2 mmHg Female 33.2-58.7 mmHg, partial pressure of oxygen(pO2)16.0-74.0 mmHg, sodium 134-148 mmol/L, potassium 3.14-4.55 mmol/L, chloride 99-111 mmol/L, ionized calcium 1.07-1.26 mmol/L, total hemoglobin(THB) Male 10.69-17.5 g/dL Female 10.3-15.9 g/dL. After verification in 149 healthy individuals, all reference intervals showed qualified rates above 92%, supporting their clinical applicability.
+
+---
+
+## 2. Delayed Emergence Due to Severe Respiratory Acidosis Following Prolonged Spine Surgery: A Case Report.
 
 - **PMID**: [42326233](https://pubmed.ncbi.nlm.nih.gov/42326233/)
 - **Journal**: Cureus
@@ -20,7 +34,7 @@ Delayed emergence from anesthesia is a frequent challenge in surgical settings. 
 
 ---
 
-## 2. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
+## 3. Cartap Hydrochloride Poisoning: Rarely Seen, Rarely Heard.
 
 - **PMID**: [42238863](https://pubmed.ncbi.nlm.nih.gov/42238863/)
 - **Journal**: Journal of acute medicine
@@ -34,7 +48,7 @@ Cartap hydrochloride (CH) is a Class II hazardous pesticide that causes toxicity
 
 ---
 
-## 3. Acquired Methemoglobinemia Following Herbal Decoction Ingestion Presenting With Refractory Hypoxemia and Associated Generalized Seizure: A Case Report.
+## 4. Acquired Methemoglobinemia Following Herbal Decoction Ingestion Presenting With Refractory Hypoxemia and Associated Generalized Seizure: A Case Report.
 
 - **PMID**: [42529551](https://pubmed.ncbi.nlm.nih.gov/42529551/)
 - **Journal**: Cureus
@@ -48,7 +62,7 @@ Acquired methemoglobinemia is an uncommon but potentially life-threatening disor
 
 ---
 
-## 4. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
+## 5. Comparison of postoperative complication incidences with different anaesthetic agents used in open heart surgery: a retrospective study.
 
 - **PMID**: [42536488](https://pubmed.ncbi.nlm.nih.gov/42536488/)
 - **Journal**: Cardiovascular journal of Africa
@@ -62,7 +76,7 @@ Acquired methemoglobinemia is an uncommon but potentially life-threatening disor
 
 ---
 
-## 5. Never Too Late: A Case Report of Severe Fanconi Syndrome Developing After More than a Decade of Silent Tenofovir Disoproxil Fumarate Exposure.
+## 6. Never Too Late: A Case Report of Severe Fanconi Syndrome Developing After More than a Decade of Silent Tenofovir Disoproxil Fumarate Exposure.
 
 - **PMID**: [42647288](https://pubmed.ncbi.nlm.nih.gov/42647288/)
 - **Journal**: Reports (MDPI)
@@ -73,20 +87,6 @@ Acquired methemoglobinemia is an uncommon but potentially life-threatening disor
 ### Abstract
 
 Background and Clinical Significance: Tenofovir disoproxil fumarate (TDF) is a widely prescribed nucleotide reverse transcriptase inhibitor (NtRTI) for HIV-1 infection. Though generally well-tolerated, proximal renal tubulopathy resulting in full-blown Fanconi syndrome remains a rare but severe complication (<0.1%). Case Presentation: We present the case of a 52-year-old female living with HIV-1 (diagnosed in 1999, CDC stage A3) who had been treated with a TDF-based antiretroviral regimen for 12 years. Upon admission, she complained of progressive bone pain and polyuria over the preceding six months. Laboratory investigations revealed profound hypokalemia, severe hypophosphatemia, hypouricemia, elevated alkaline phosphatase (ALP) and a decline in renal function (creatinine 1.3 mg/dL from a baseline of 0.7 mg/dL). Arterial blood gas (ABG) analysis showed a normal anion gap hyperchloremic metabolic acidosis alongside respiratory acidosis. Urinalysis demonstrated profound glycosuria in the setting of normal blood glucose levels, coupled with increased 24 h urinary excretion of potassium and phosphorus. A bone scintigraphy demonstrated a "super scan" pattern of metabolic etiology, establishing secondary osteomalacia driven by renal phosphate wasting. Secondary hyperparathyroidism and severe vitamin D3 deficiency were also recorded. The diagnosis of TDF-induced Fanconi syndrome was established. TDF was discontinued, and her antiretroviral regimen was modified to tenofovir alafenamide fumarate (TAF), emtricitabine (FTC), darunavir, and ritonavir, combined with vitamin D supplementation. Over a 6-month follow-up period, renal function normalized, electrolyte wasting resolved, and metabolic acidosis completely reversed. Conclusions: This case highlights that TDF-induced proximal tubulopathy can manifest even after a decade of uneventful therapy, particularly when co-administered with a boosted protease inhibitor.
-
----
-
-## 6. Reference intervals for venous blood gas measurement in a healthy Chinese population.
-
-- **PMID**: [42392487](https://pubmed.ncbi.nlm.nih.gov/42392487/)
-- **Journal**: Clinica chimica acta; international journal of clinical chemistry
-- **Publication Date**: 2026 Jul 02
-- **Authors**: Jiang Sheng, Zhao Qian, Wang Hua, Li Min, Ou Yuanzhu et al.
-- **DOI**: https://doi.org/10.1016/j.cca.2026.121212
-
-### Abstract
-
-**OBJECTIVES**: Venous blood gas (VBG) analysis has gained increasing popularity as an alternative to arterial blood gas (ABG) analysis, owing to its lower invasiveness and greater feasibility of sample collection. However, currently available reference intervals may not be applicable to the Chinese population due to regional, ethnic, environmental, and lifestyle differences. Therefore, this study aimed to establish appropriate venous blood gas reference intervals (RI) for the Chinese population from plain areas. **METHODS**: A total of 1189 volunteers (595 males, 594 females, aged 10-97 years) and 149 validation volunteers (94 females, 55 males, aged 10-97 years) with conditions unlikely to influence blood gas and acid-base balance were enrolled. Venous blood samples were collected in syringes and analyzed using an ABL90 blood gas analyzer (Radiometer Pacific Pty. Ltd.). Non-parametric methods were applied to establish VBG reference intervals and parametric methods were applied to pCO2 reference intervals. **RESULTS**: After exclusions, VBG RI was derived from 1189 volunteers: pH 7.282-7.438, partial pressure of carbon dioxide(pCO2) Male 32.8-62.2 mmHg Female 33.2-58.7 mmHg, partial pressure of oxygen(pO2)16.0-74.0 mmHg, sodium 134-148 mmol/L, potassium 3.14-4.55 mmol/L, chloride 99-111 mmol/L, ionized calcium 1.07-1.26 mmol/L, total hemoglobin(THB) Male 10.69-17.5 g/dL Female 10.3-15.9 g/dL. After verification in 149 healthy individuals, all reference intervals showed qualified rates above 92%, supporting their clinical applicability.
 
 ---
 
