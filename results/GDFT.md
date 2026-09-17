@@ -1,12 +1,26 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-09-14
+**Update Time**: 2026-09-17
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
 ---
 
-## 1. Effect of a Machine Learning Algorithm to Guide Goal-Directed Therapy After Cardiac Surgery.
+## 1. The Predictive Paradigm in Perioperative Hemodynamic Management: The Role of Artificial Intelligence in Major Spine Surgery.
+
+- **PMID**: [42739919](https://pubmed.ncbi.nlm.nih.gov/42739919/)
+- **Journal**: Journal of clinical medicine
+- **Publication Date**: 2026 Sep 07
+- **Authors**: Cosenza Gianluigi, Fiore Marco, Giurazza Roberto, Pota Vincenzo, Coppolino Francesco et al.
+- **DOI**: https://doi.org/10.3390/jcm15176915
+
+### Abstract
+
+Background: Major spine surgery carries an inherent risk of hemodynamic instability due to prone positioning, significant blood loss, and the strict necessity to maintain adequate spinal cord perfusion. Hemodynamic management mainly relies on a reactive approach, treating hypotension only after it occurs, which increases the risk of postoperative complications such as acute kidney injury and ischemic events. This narrative review evaluates the clinical impact, current evidence, and future perspectives of integrating Artificial Intelligence (AI) and Machine Learning (ML) algorithms into perioperative hemodynamic care. Methods: A comprehensive literature search was conducted through PubMed, EMBASE, and the Cochrane Library, spanning from inception to January 2026. The search strategy employed combinations of Medical Subject Headings terms and keywords related to "Artificial Intelligence," "Machine Learning," "Hypotension Prediction Index," "hemodynamic monitoring," and "major spine surgery." Studies were selected based on their relevance to predictive hemodynamic algorithms, goal-directed fluid therapy (GDFT), and automated closed-loop systems within the perioperative setting of complex spinal interventions. Results: Five studies show that AI/ML tools can improve hemodynamic management in spine surgery: an hypotension prediction index (HPI)-guided algorithm reduced intraoperative hypotension during prone spinal fusion; a machine learning model accurately predicted massive blood loss in metastatic spinal disease; an AutoML framework linked intraoperative hypertension to worse neurological recovery after spinal cord injury (SCI); a case report showed HPI-guided goal-directed therapy enabled safe, transfusion-free major spine surgery; and topological network analysis identified a narrow optimal mean arterial pressure (MAP) range for neurological recovery after SCI. Collectively, these preliminary findings suggest a potential role for AI/ML in reducing hemodynamic instabi
+
+---
+
+## 2. Effect of a Machine Learning Algorithm to Guide Goal-Directed Therapy After Cardiac Surgery.
 
 - **PMID**: [42676141](https://pubmed.ncbi.nlm.nih.gov/42676141/)
 - **Journal**: American journal of critical care : an official publication, American Association of Critical-Care Nurses
@@ -20,7 +34,7 @@
 
 ---
 
-## 2. Comparison of Intraoperative Fluid by Goal-Directed and Conventional Fluid Administration in Patients Undergoing Early Decompressive Craniectomy: A Prospective Randomized Controlled Trial.
+## 3. Comparison of Intraoperative Fluid by Goal-Directed and Conventional Fluid Administration in Patients Undergoing Early Decompressive Craniectomy: A Prospective Randomized Controlled Trial.
 
 - **PMID**: [42535245](https://pubmed.ncbi.nlm.nih.gov/42535245/)
 - **Journal**: Asian journal of neurosurgery
@@ -34,31 +48,17 @@
 
 ---
 
-## 3. Aseptic Thermochemical Shock after Hyperthermic Intrathoracic Chemotherapy: Pathophysiological Mechanisms and a Translational Framework for Perioperative Management.
+## 4. Clinical efficacy and outcomes of enhanced recovery after surgery for laparoscopic cervical cancer.
 
-- **PMID**: [42482334](https://pubmed.ncbi.nlm.nih.gov/42482334/)
-- **Journal**: Journal of chest surgery
-- **Publication Date**: 2026 Jul 22
-- **Authors**: de Avila Carvalho Erlon
-- **DOI**: https://doi.org/10.5090/jcs.25.160
-
-### Abstract
-
-Hyperthermic intrathoracic chemotherapy has emerged as a promising locoregional therapy for pleural malignancies. However, the combination of surgical trauma, intrathoracic hyperthermia, and cytotoxic exposure to cisplatin can trigger a complex systemic inflammatory response that resembles septic shock, vasoplegic syndrome, and major burn injury. This review proposes the concept of aseptic-thermochemical shock as a pathophysiological framework for understanding the systemic inflammatory response induced by hyperthermic intrathoracic chemotherapy and outlines a perioperative management protocol that integrates strategies from burn and sepsis care. A narrative review was conducted using PubMed, Scopus, Embase, and LILACS to identify relevant studies on hyperthermic intrathoracic chemotherapy, systemic inflammation, vasoplegic syndrome, and cisplatin nephrotoxicity. Clinical analogies with septic and burn physiology were analyzed to develop a framework for perioperative management. Hyperthermic intrathoracic chemotherapy induces a sterile thermochemical inflammatory response characterized by endothelial dysfunction, vasodilation, capillary leak, and hemodynamic instability. The proposed management strategy includes prophylactic hydration, gastric protection, and nephroprotective agents during the preoperative phase; temperature control, goal-directed fluid therapy, and selective use of methylene blue for refractory vasoplegia during the intraoperative phase; and fluid resuscitation based on modified Parkland-derived principles with hemodynamic optimization guided by Surviving Sepsis Campaign principles during the postoperative phase. These measures are intended to reduce vasoplegic and nephrotoxic complications and improve perioperative outcomes. Hyperthermic intrathoracic chemotherapy can produce a systemic inflammatory response that combines physiological features of major burns, vasoplegic syndrome, and septic shock. The proposed paradigm of "aseptic-thermochemical 
-
----
-
-## 4. Perioperative Predictors of Complications and Flap Loss in Microvascular Reconstructive Surgery: The Role of Fluid Balance, Crystalloid Administration and Operative Time.
-
-- **PMID**: [42513346](https://pubmed.ncbi.nlm.nih.gov/42513346/)
-- **Journal**: Journal of clinical medicine
-- **Publication Date**: 2026 Jul 10
-- **Authors**: Torabi Saeed, Omuro Philipp K, Overbeek Remco, Adam Elisabeth H, Stoll Sandra E et al.
-- **DOI**: https://doi.org/10.3390/jcm15145432
+- **PMID**: [42741282](https://pubmed.ncbi.nlm.nih.gov/42741282/)
+- **Journal**: Biomedical reports
+- **Publication Date**: 2026 Oct
+- **Authors**: He Wuqi, Luo Tingjuan, Qin Chuming, Liu Xianglin, Lu Shuchang et al.
+- **DOI**: https://doi.org/10.3892/br.2026.2193
 
 ### Abstract
 
-Background: Perioperative fluid therapy plays a critical role in the outcome of microvascular free-flap surgery. While both inadequate and excessive fluid administration may impair flap perfusion and systemic recovery, the impact of fluid balance and crystalloid volume-normalized to body weight and operative time-on postoperative complications remains underexplored. This study investigates the dose-dependent effects of intraoperative fluid and crystalloid administration on flap-related and systemic outcomes. Methods: This retrospective, single-centre cohort study included 495 adult patients who underwent microvascular free-flap transplantation between 2009 and 2020. Intraoperative fluid balance and crystalloid volumes were normalized to patient weight and operative duration (mL/kg/h) and stratified into pre-defined thresholds. The primary endpoint was the incidence of flap-related complications (partial/total flap loss, thrombosis, revision surgery). Secondary endpoints included flap loss, suture insufficiency, pneumonia, ICU length of stay (LOS-ICU), and in-hospital mortality. Results: Higher intraoperative fluid rates were significantly associated with higher complication rates. Flap-related complications occurred in 54.8% of patients receiving >10 mL/kg/h versus 37.1% in the ≤5 mL/kg/h group (p < 0.01) and reached 100% in patients receiving >20 mL/kg/h, although this category comprised only seven patients (p < 0.01). Suture insufficiency increased from 3.1% (≤5 mL/kg/h) to 57.1% (>20 mL/kg/h; p < 0.01). Pneumonia incidence rose from 8.8% (≤5 mL/kg/h) to 31.9% (>10 mL/kg/h; p < 0.01). A U-shaped trend was observed for flap loss, with the highest rate (24.6%) at >10 mL/kg/h. Crystalloid volume > 3000 mL was significantly associated with higher flap loss (20.2% vs. 0.2%; p < 0.01) and suture insufficiency (7.0% vs. 0.2%; p = 0.02). Red blood-cell (RBC) transfusions were associated with higher overall complication rates (45.6% vs. 34.2%; p < 0.01) and suture insuffic
+To evaluate the effects of enhanced recovery after surgery (ERAS) protocols in laparoscopic cervical cancer surgery. The present study included 230 patients with early stage cervical cancer undergoing laparoscopic surgery, divided into the ERAS (n=103) and non-ERAS (n=127) groups. ERAS interventions included pre-admission education, nutritional optimization, effective pain management, early mobilization and goal-directed fluid therapy. The primary and secondary outcomes measured were length of hospital stay, surgical site infections, urinary tract infections and postoperative pain levels. The median length of surgery was longer in the ERAS group compared with the non-ERAS group. However, the ERAS group experienced a significantly shorter hospital stay (4.1±3.1 days) compared with the non-ERAS group (5.7±3.9 days; P=0.0005). There was a reduction in the overall complications and postoperative infections, although these differences were not statistically significant. Notably, ERAS protocols significant improved in postoperative pain management, reducing severe pain scores from days 1 to day 3 after surgery. In conclusion, the ERAS protocols shortened hospital stays and improved pain management in laparoscopic cervical cancer surgery, underscoring their role in optimizing surgical care and enhancing patient recovery.
 
 ---
 
