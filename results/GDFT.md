@@ -1,8 +1,8 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-09-21
+**Update Time**: 2026-09-24
 **Search Range**: Last 30 days
-**Papers Found**: 18
+**Papers Found**: 17
 
 ---
 
@@ -34,21 +34,7 @@ Background: Major spine surgery carries an inherent risk of hemodynamic instabil
 
 ---
 
-## 3. Comparison of Intraoperative Fluid by Goal-Directed and Conventional Fluid Administration in Patients Undergoing Early Decompressive Craniectomy: A Prospective Randomized Controlled Trial.
-
-- **PMID**: [42535245](https://pubmed.ncbi.nlm.nih.gov/42535245/)
-- **Journal**: Asian journal of neurosurgery
-- **Publication Date**: 2026 Sep
-- **Authors**: Jonna Dhatri, Kaloria Narender, Khurana Bisman Jeet Kaur, Hazarika Amarjyoti, Jain Kajal et al.
-- **DOI**: https://doi.org/10.1055/s-0046-1817812
-
-### Abstract
-
-**BACKGROUND**: Optimal fluid administration is important following traumatic brain injury (TBI) due to its associated fluid imbalance and cardiovascular abnormalities. Liberal use of fluids may be associated with overload and adverse cardiovascular effects. Hence, the study was conducted to compare the effect of goal-directed fluid therapy (GDT) with conventional fluid therapy (CFT) in moderate to severe TBI patient scheduled for early decompressive craniectomy. **MATERIALS AND METHODS**: Sixty-four patients with moderate to severe TBI were randomly allocated into Group A (goal-directed therapy [GDT] ) in which intraoperative fluid administration was guided by dynamic parameters using FloTrac and Group B (conventional fluid therapy [CFT]) in which fluid was administered to target a mean arterial pressure of 70 mm Hg. The primary objective was to compare the intraoperative fluid volume administered. Comparison of blood loss, urine output, ventilator days, ICU days, and hospital days, were secondary outcomes. **RESULTS**: There was no statistical difference in intraoperative fluid volume between groups (2,567 vs. 2,670 mL; p  = 0.51) with lesser episodes of hypotension in Group A (38 vs. 45). Group A had a significant drop in lactate (0.95 vs. 0.17; p  = 0.00) and difference in hematocrit value was significantly lower in group A (9.52 vs. 12.04; p 0.04). There was no significant difference in blood loss ( p  = 0.77), urine output ( p  = 0.22), ventilator days ( p  = 0.20), ICU days ( p  = 0.23), and length of hospital stay ( p  = 0.39). **CONCLUSION**: GDT had no difference in intraoperative fluid volume but fewer hypotension episodes, more drop of lactate, and lesser fall in hematocrit as compared with CFT in moderate to severe TBI patients undergoing early decompressive craniectomy.
-
----
-
-## 4. Clinical efficacy and outcomes of enhanced recovery after surgery for laparoscopic cervical cancer.
+## 3. Clinical efficacy and outcomes of enhanced recovery after surgery for laparoscopic cervical cancer.
 
 - **PMID**: [42741282](https://pubmed.ncbi.nlm.nih.gov/42741282/)
 - **Journal**: Biomedical reports
@@ -62,7 +48,7 @@ To evaluate the effects of enhanced recovery after surgery (ERAS) protocols in l
 
 ---
 
-## 5. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
+## 4. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
 
 - **PMID**: [41732299](https://pubmed.ncbi.nlm.nih.gov/41732299/)
 - **Journal**: Journal of clinical orthopaedics and trauma
@@ -76,7 +62,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 6. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+## 5. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
 
 - **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
 - **Journal**: BMJ open
@@ -90,7 +76,7 @@ Scoliosis correction surgery in pediatric patients poses complex anesthetic chal
 
 ---
 
-## 7. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+## 6. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
 
 - **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
 - **Journal**: Cureus
@@ -104,7 +90,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 8. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
+## 7. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
 
 - **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
 - **Journal**: Journal of clinical anesthesia
@@ -118,7 +104,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 9. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
+## 8. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
 
 - **PMID**: [42687184](https://pubmed.ncbi.nlm.nih.gov/42687184/)
 - **Journal**: Trials
@@ -132,7 +118,7 @@ Goal-directed fluid therapy (GDFT) has emerged as an important perioperative str
 
 ---
 
-## 10. Dynamic parameter-guided goal-directed fluid therapy and postoperative acute kidney injury in non-cardiac surgery: a meta-analysis of 11 randomized controlled trials.
+## 9. Dynamic parameter-guided goal-directed fluid therapy and postoperative acute kidney injury in non-cardiac surgery: a meta-analysis of 11 randomized controlled trials.
 
 - **PMID**: [42663657](https://pubmed.ncbi.nlm.nih.gov/42663657/)
 - **Journal**: Journal of anesthesia
@@ -146,7 +132,7 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 11. Impact of lung ultrasound-guided fluid management and vasoactive medication use on anaesthetic outcomes in thoracic surgery for tuberculous empyema: A retrospective study.
+## 10. Impact of lung ultrasound-guided fluid management and vasoactive medication use on anaesthetic outcomes in thoracic surgery for tuberculous empyema: A retrospective study.
 
 - **PMID**: [42663973](https://pubmed.ncbi.nlm.nih.gov/42663973/)
 - **Journal**: Journal of minimal access surgery
@@ -160,7 +146,7 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 12. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
+## 11. [Perioperative management of trochanteric femoral fractures : Fasting, fluid therapy and multimodal pain management as underappreciated factors].
 
 - **PMID**: [42545487](https://pubmed.ncbi.nlm.nih.gov/42545487/)
 - **Journal**: Unfallchirurgie (Heidelberg, Germany)
@@ -174,7 +160,7 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 13. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
+## 12. Exercise-induced rhabdomyolysis following a swimming session complicated by acute kidney injury: a case report.
 
 - **PMID**: [42583625](https://pubmed.ncbi.nlm.nih.gov/42583625/)
 - **Journal**: Annals of medicine and surgery (2012)
@@ -185,6 +171,20 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 ### Abstract
 
 **INTRODUCTION**: Exercise-induced rhabdomyolysis (EIR) is an uncommon but potentially serious condition that can occur after intense or even moderate physical exertion. While EIR is typically linked to strenuous activity or heat exposure, swimming is a rarely reported trigger. **CASE PRESENTATION**: A 34-year-old healthy man developed generalized myalgia, dark urine, and vomiting 1 day after a 2-hour swimming session in hot weather. Laboratory tests revealed markedly elevated creatine phosphokinase (250 000 U/L) and acute kidney injury (peak creatinine 14 mg/dL). He received aggressive intravenous hydration, targeting a urine output of 2 mL/kg/hr, with close monitoring. During hospitalization, pulmonary edema due to fluid overload developed, but it resolved with diuretics and oxygen therapy. The patient achieved complete renal recovery without dialysis. **CLINICAL DISCUSSION**: EIR can occur even in healthy individuals after moderate exertion. Marked creatine kinase elevation and acute kidney injury are common findings. While early hydration remains the cornerstone of management, excessive fluids may precipitate pulmonary edema, emphasizing careful titration and monitoring. **CONCLUSION**: Early, aggressive but goal-directed fluid therapy is vital. Monitoring and promptly treating fluid overload are essential, and even severe biochemical derangements may be managed conservatively when dialysis indications are absent, with multidisciplinary critical care and nephrology input recommended.
+
+---
+
+## 13. Comparison of systemic vascular resistance index-guided versus conventional fluid management on airway pressure, oxygenation and postoperative recovery in patients undergoing one-lung ventilation for thoracic surgery.
+
+- **PMID**: [42769557](https://pubmed.ncbi.nlm.nih.gov/42769557/)
+- **Journal**: American journal of translational research
+- **Publication Date**: 2026
+- **Authors**: Qiu Rui, He Na, He Wei
+- **DOI**: https://doi.org/10.62347/DAUL3237
+
+### Abstract
+
+**OBJECTIVE**: To compare the effects of systemic vascular resistance index (SVRI)-guided goal-directed fluid therapy (GDFT) versus conventional fluid management on perioperative airway pressure, oxygenation, and postoperative recovery in thoracic surgery patients with one-lung ventilation (OLV), and to identify independent risk factors for postoperative pulmonary complications (PPCs). **METHODS**: A total of 386 patients were retrospectively enrolled and randomly split into a training set (n=270) and a validation set (n=116) at a 7:3 ratio. The training set was divided into SVRI group (n=155) and control group (n=115). Baseline data, airway pressure, oxygenation, recovery indicators, and 7-day PPCs were collected. Independent risk factors were screened by logistic regression; a nomogram was constructed and evaluated by ROC and calibration curves. **RESULTS**: Baseline characteristics were comparable between the groups (P>0.05). The SVRI group had lower airway pressure, fluid volume, infusion rate, recovery time, and PPCs incidence, as well as better oxygenation and urine output (all P<0.05). Ppeak ≥26.845 cmH2O, Pplat ≥21 cmH2O, ΔP ≥14.945 cmH2O, and PaO2/FiO2 <303.815 mmHg were independent risk factors for PPCs. The combined four-index model showed better predictive efficiency. **CONCLUSION**: SVRI-guided GDFT improves perioperative outcomes and reduces PPCs in OLV patients. The four indicators effectively predict PPCs, and their combined detection enhances risk stratification accuracy.
 
 ---
 
@@ -241,19 +241,5 @@ Enhanced Recovery After Surgery (ERAS) protocols emphasize perioperative fluid m
 ### Abstract
 
 Head and neck free flap surgery is associated with considerable morbidity and mortality. Goal-directed fluid therapy (GDFT) has been increasingly adopted in perioperative care; however, its benefit over conventional fluid therapy (CFT) in this setting remains uncertain. This systematic review and meta-analysis assessed the effect of GDFT versus CFT on post-operative outcomes. A comprehensive search of PubMed, Web of Science, Cochrane Library, Dental/Oral Science, and Google Scholar identified randomised controlled trials published between 2010 and 2023. Three studies involving 262 patients (130 GDFT, 132 CFT) were included. Pooled analysis showed no significant difference in flap failure between groups, but CFT was associated with higher risk of flap at risk (risk ratio 4.44; 95% confidence interval [CI]: 1.35-14.57; P = 0.01), reoperation (risk ratio 2.62; 95% CI: 1.01-6.79; P = 0.05), and longer intensive care unit stay (mean difference 0.94 days; P < 0.001). GDFT may improve outcomes, but larger studies are needed to confirm these findings.
-
----
-
-## 18. Goal-directed fluid therapy for endovascular therapeutic procedures in patients with aneurysmal subarachnoid hemorrhage: A pilot study.
-
-- **PMID**: [41181240](https://pubmed.ncbi.nlm.nih.gov/41181240/)
-- **Journal**: Journal of anaesthesiology, clinical pharmacology
-- **Publication Date**: 2025
-- **Authors**: Singh Saurav, Chaturvedi Arvind, Bindra Ashish, Dube Surya K, Devarajan Sebastian Leve Joseph
-- **DOI**: https://doi.org/10.4103/joacp.joacp_550_24
-
-### Abstract
-
-**BACKGROUND AND AIMS**: Hypovolemia and hypotension are the main risk factors for the development of vasospasm or delayed cerebral ischemia in patients with aneurysmal subarachnoid hemorrhage (aSAH). We aimed to compare the duration of hypovolemia and hypotension between goal-directed fluid therapy (GDFT) and standard fluid therapy (SFT) in patients undergoing endovascular therapeutic procedures for aSAH. **MATERIAL AND METHODS**: Twenty patients were enrolled in this single-center, prospective, randomized controlled, and double-blind study. Patients were randomized into the GDFT group (n = 10) and SFT group (n = 10). A cardiac output monitoring device was used in both groups to calculate the duration of hypovolemia and hypotension. Appropriate statistical tests were used, and a P value < 0.05 was considered statistically significant. **RESULTS**: The demographic profile was comparable between both the groups. Fifty percent of the study population was hypovolemic before the procedure. The total duration of hypovolemia and hypotension [median (minimum-maximum)] was 3.66 min (0-10.66) and 4 (0-30) min (P = 0.82) and 4.33 (3-6.66) min and 4.66 (3.33-7.33) min (P = 0.09) in GDFT and SFT groups, respectively. Patients in the GDFT groups received significantly lower volumes of intraprocedural crystalloids. However, the total volume of fluids used was comparable between the groups. **CONCLUSIONS**: Preprocedural hypovolemia is prevalent among patients scheduled for endovascular therapeutic procedures for aSAH. Duration of intraprocedural hypovolemia and duration of hypotension is comparable between GDFT and SFT groups in patients undergoing endovascular therapeutic procedures for aSAH. Hence, GDFT offers no distinctive advantage over SFT and should be individualized to specific patient needs (and not generalized to all the patients) undergoing endovascular therapeutic procedures for aSAH.
 
 ---
