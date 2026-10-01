@@ -1,6 +1,6 @@
 # ABG - PubMed Latest Papers
 
-**Update Time**: 2026-09-28
+**Update Time**: 2026-10-01
 **Search Range**: Last 30 days
 **Papers Found**: 0
 

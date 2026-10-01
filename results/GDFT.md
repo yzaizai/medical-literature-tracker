@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-09-28
+**Update Time**: 2026-10-01
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -62,7 +62,21 @@ To evaluate the effects of enhanced recovery after surgery (ERAS) protocols in l
 
 ---
 
-## 5. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
+## 5. Dynamic parameter-guided goal-directed fluid therapy and postoperative acute kidney injury in non-cardiac surgery: a meta-analysis of 11 randomized controlled trials.
+
+- **PMID**: [42663657](https://pubmed.ncbi.nlm.nih.gov/42663657/)
+- **Journal**: Journal of anesthesia
+- **Publication Date**: 2026 Oct
+- **Authors**: Sun Xiaohua, Liu Yanfang, Ren Wanlu
+- **DOI**: https://doi.org/10.1007/s00540-026-03844-3
+
+### Abstract
+
+The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative acute kidney injury (AKI) remains controversial. This meta-analysis specifically examined dynamic parameter-guided GDFT using fluid challenges alone in non-cardiac, non-transplant surgery. We systematically searched PubMed, Embase, and the Cochrane Library from inception to December 25, 2025. Randomized controlled trials comparing dynamic index-guided GDFT (SVV, PPV, or PVI) with conventional fluid management in adults undergoing major non-cardiac surgery were included. The primary outcome was postoperative AKI. Subgroup analyses by surgical site and monitoring device invasiveness were pre-specified. The GRADE framework was used to assess evidence certainty. Eleven RCTs comprising 1698 patients were included. Overall, GDFT did not significantly reduce postoperative AKI compared with conventional management (OR 0.93; 95%CI 0.59-1.45; low certainty evidence). No significant differences were observed in 180-day mortality (OR 1.30; 95%CI 0.28-5.99; very low certainty evidence) or ICU length of stay (MD -0.20 days; 95%CI -1.72 to 1.31; very low certainty evidence). GDFT was associated with significantly higher intraoperative colloid administration (MD 167.51 mL; 95% CI 36.02-299.01; very low certainty evidence), though with substantial heterogeneity. Subgroup analysis by surgical site showed no significant differences between groups. A pre-specified subgroup analysis by monitoring device invasiveness showed a significant interaction: invasive devices showed no benefit (OR 1.10; 95%CI 0.78-1.55; very low certainty evidence), while minimally invasive/non-invasive devices were associated with reduced AKI risk (OR 0.13; 95%CI 0.02-0.79; very low certainty evidence), though based on only two small studies. In this meta-analysis, dynamic parameter-guided GDFT did not significantly reduce postoperative AKI in non-cardiac, non-transplant surgery compared with conventional management (low certainty evi
+
+---
+
+## 6. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
 
 - **PMID**: [42687184](https://pubmed.ncbi.nlm.nih.gov/42687184/)
 - **Journal**: Trials
@@ -73,20 +87,6 @@ To evaluate the effects of enhanced recovery after surgery (ERAS) protocols in l
 ### Abstract
 
 **BACKGROUND**: Chronic kidney disease presents a formidable challenge to global healthcare systems. With ongoing advancements in surgical techniques, kidney transplantation has emerged as a principal therapeutic modality for individuals afflicted with end-stage renal disease, markedly enhancing their long-term prognosis and overall quality of life postoperatively. Nevertheless, the occurrence of delayed graft function represents a prevalent early complication following kidney transplantations, mainly stemming from the ischemia-reperfusion injury incurred by the transplanted kidneys and the utilization of extended criteria donor organs. The manifestation of delayed graft function can precipitate primary allograft nonfunction, acute rejection episodes, and potentially fatal outcomes. Vigilant attention to perioperative fluid management emerges as a cornerstone in mitigating the risk of delayed graft function. Recent strides in Goal-directed fluid therapy have garnered substantial attention within critical care contexts, with empirical evidence underscoring its favorable impact on postoperative outcomes in critically ill cohorts. However, the efficacy of Goal-directed fluid therapy specifically in the context of kidney transplantation remains a subject of ongoing debate and scrutiny. Hence, the imperative arises to investigate potential strategies aimed at attenuating the incidence of delayed graft function in this patient demographic. **METHODS**: A multicenter, randomized, single-blind, two-arm parallel-group, controlled trial will be undertaken to assess the efficacy of norepinephrine in conjunction with Goal-directed fluid therapy on graft function recovery among individuals slated for kidney transplantations. Patients will be allocated randomly to either a control or intervention arm, wherein conventional fluid management or the administration of norepinephrine infusion combined with Goal-directed fluid therapy will be administered, respectively. **DISCUSSION**: 
-
----
-
-## 6. Dynamic parameter-guided goal-directed fluid therapy and postoperative acute kidney injury in non-cardiac surgery: a meta-analysis of 11 randomized controlled trials.
-
-- **PMID**: [42663657](https://pubmed.ncbi.nlm.nih.gov/42663657/)
-- **Journal**: Journal of anesthesia
-- **Publication Date**: 2026 Aug 28
-- **Authors**: Sun Xiaohua, Liu Yanfang, Ren Wanlu
-- **DOI**: https://doi.org/10.1007/s00540-026-03844-3
-
-### Abstract
-
-The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative acute kidney injury (AKI) remains controversial. This meta-analysis specifically examined dynamic parameter-guided GDFT using fluid challenges alone in non-cardiac, non-transplant surgery. We systematically searched PubMed, Embase, and the Cochrane Library from inception to December 25, 2025. Randomized controlled trials comparing dynamic index-guided GDFT (SVV, PPV, or PVI) with conventional fluid management in adults undergoing major non-cardiac surgery were included. The primary outcome was postoperative AKI. Subgroup analyses by surgical site and monitoring device invasiveness were pre-specified. The GRADE framework was used to assess evidence certainty. Eleven RCTs comprising 1698 patients were included. Overall, GDFT did not significantly reduce postoperative AKI compared with conventional management (OR 0.93; 95%CI 0.59-1.45; low certainty evidence). No significant differences were observed in 180-day mortality (OR 1.30; 95%CI 0.28-5.99; very low certainty evidence) or ICU length of stay (MD -0.20 days; 95%CI -1.72 to 1.31; very low certainty evidence). GDFT was associated with significantly higher intraoperative colloid administration (MD 167.51 mL; 95% CI 36.02-299.01; very low certainty evidence), though with substantial heterogeneity. Subgroup analysis by surgical site showed no significant differences between groups. A pre-specified subgroup analysis by monitoring device invasiveness showed a significant interaction: invasive devices showed no benefit (OR 1.10; 95%CI 0.78-1.55; very low certainty evidence), while minimally invasive/non-invasive devices were associated with reduced AKI risk (OR 0.13; 95%CI 0.02-0.79; very low certainty evidence), though based on only two small studies. In this meta-analysis, dynamic parameter-guided GDFT did not significantly reduce postoperative AKI in non-cardiac, non-transplant surgery compared with conventional management (low certainty evi
 
 ---
 
