@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-10-22
+**Update Time**: 2026-10-26
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -118,7 +118,21 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 9. Comparison of systemic vascular resistance index-guided versus conventional fluid management on airway pressure, oxygenation and postoperative recovery in patients undergoing one-lung ventilation for thoracic surgery.
+## 9. Anaesthesia management of a giant retroperitoneal liposarcoma: a case report and literature review.
+
+- **PMID**: [42923201](https://pubmed.ncbi.nlm.nih.gov/42923201/)
+- **Journal**: Frontiers in surgery
+- **Publication Date**: 2026
+- **Authors**: Huo Fei, An Bin, Liang Hansheng, Sun Liang, Xiao Mengmeng et al.
+- **DOI**: https://doi.org/10.3389/fsurg.2026.1901393
+
+### Abstract
+
+Soft tissue sarcomas account for less than 1% of all malignant tumors, of which 10∼15% are located in the retroperitoneum, and liposarcoma constitutes 20% of all soft tissue sarcomas. Of note, retroperitoneal liposarcoma is a rare malignant tumor, with recurrence and asymptomatic characteristics at the initial stage until the liposarcoma is large enough to compress abdominal organs. Those larger than 20 kg, known as "giant liposarcomas," are extremely rare. Most retroperitoneal liposarcoma represents expansive growth, and lymph node metastasis or distant metastasis is rarely reported, making surgical resection as the most effective treatment. Because giant retroperitoneal liposarcomas can cause substantial compression of abdominal and retroperitoneal structures, perioperative management may be complicated by impaired venous return, respiratory compromise, hemodynamic instability, difficult tumor dissection, and major blood loss. Current consensus emphasizes management of primary retroperitoneal sarcoma in experienced multidisciplinary centers. In addition, recent perioperative literature highlights the importance of individualized preoperative optimization, invasive hemodynamic monitoring, goal-directed fluid therapy, adequate blood-product preparation, and structured postoperative care. In this context, we reported a case of a giant retroperitoneal liposarcoma with a diameter 52 cm× 38 cm×30 cm and a weight of 31 kg. Through multidisciplinary team (MDT) consultation, the tumor compressing the surrounding organs was successfully removed.
+
+---
+
+## 10. Comparison of systemic vascular resistance index-guided versus conventional fluid management on airway pressure, oxygenation and postoperative recovery in patients undergoing one-lung ventilation for thoracic surgery.
 
 - **PMID**: [42769557](https://pubmed.ncbi.nlm.nih.gov/42769557/)
 - **Journal**: American journal of translational research
@@ -129,19 +143,5 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 ### Abstract
 
 **OBJECTIVE**: To compare the effects of systemic vascular resistance index (SVRI)-guided goal-directed fluid therapy (GDFT) versus conventional fluid management on perioperative airway pressure, oxygenation, and postoperative recovery in thoracic surgery patients with one-lung ventilation (OLV), and to identify independent risk factors for postoperative pulmonary complications (PPCs). **METHODS**: A total of 386 patients were retrospectively enrolled and randomly split into a training set (n=270) and a validation set (n=116) at a 7:3 ratio. The training set was divided into SVRI group (n=155) and control group (n=115). Baseline data, airway pressure, oxygenation, recovery indicators, and 7-day PPCs were collected. Independent risk factors were screened by logistic regression; a nomogram was constructed and evaluated by ROC and calibration curves. **RESULTS**: Baseline characteristics were comparable between the groups (P>0.05). The SVRI group had lower airway pressure, fluid volume, infusion rate, recovery time, and PPCs incidence, as well as better oxygenation and urine output (all P<0.05). Ppeak ≥26.845 cmH2O, Pplat ≥21 cmH2O, ΔP ≥14.945 cmH2O, and PaO2/FiO2 <303.815 mmHg were independent risk factors for PPCs. The combined four-index model showed better predictive efficiency. **CONCLUSION**: SVRI-guided GDFT improves perioperative outcomes and reduces PPCs in OLV patients. The four indicators effectively predict PPCs, and their combined detection enhances risk stratification accuracy.
-
----
-
-## 10. Do multidisciplinary ERAS protocols improve flap reconstruction outcomes? A structured review of efficacy, implementation challenges, and specialty-driven adaptations.
-
-- **PMID**: [42597386](https://pubmed.ncbi.nlm.nih.gov/42597386/)
-- **Journal**: Frontiers in surgery
-- **Publication Date**: 2026
-- **Authors**: Xiao Meihui, Su Ximei, Zhang Ting
-- **DOI**: https://doi.org/10.3389/fsurg.2026.1897143
-
-### Abstract
-
-**BACKGROUND**: Enhanced Recovery After Surgery (ERAS) pathways are increasingly used in reconstructive plastic surgery, but flap reconstruction presents specific challenges, including dependence on stable microvascular perfusion, procedure-specific immobilization, donor-site morbidity, and heterogeneous anatomic indications. Because available studies differ substantially in surgical setting, flap type, ERAS bundle composition, comparator care, and outcome reporting, this article is presented as a structured narrative synthesis rather than a de novo meta-analysis. **METHODS**: PubMed, Embase, Web of Science, and Google Scholar were searched for studies and reviews published from 1997 to 14 June 2026 that addressed ERAS, fast-track, or accelerated recovery pathways in flap reconstruction or closely related reconstructive plastic surgery settings. The review question was defined using PICOS: adult or pediatric patients undergoing flap-based reconstruction; perioperative ERAS or accelerated recovery bundles; conventional perioperative care or pre-implementation practice; clinical, recovery, safety, and patient-centered outcomes; and randomized, prospective, retrospective, implementation, and systematic-review designs. Because ERAS bundles, flap types, and outcome definitions were clinically heterogeneous, no formal quantitative pooling was performed. **RESULTS**: Across breast reconstruction, head and neck free-flap reconstruction, perineal or pelvic reconstruction, lower-limb reconstruction, and selected flap-based wound procedures, ERAS pathways were most consistently associated with shorter hospital stay, earlier mobilization or feeding, and reduced opioid exposure. Safety outcomes, including flap compromise, readmission, and return to theatre, were generally not worse in the cited studies, but certainty is limited by observational designs, single-center implementation studies, variable adherence, and inconsistent reporting. The components most relevant to flap surg
 
 ---
