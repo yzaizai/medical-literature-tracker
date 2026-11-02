@@ -1,8 +1,8 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-10-29
+**Update Time**: 2026-11-02
 **Search Range**: Last 30 days
-**Papers Found**: 10
+**Papers Found**: 17
 
 ---
 
@@ -90,7 +90,63 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 7. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
+## 7. Anesthetic considerations in surgery for early onset scoliosis: Challenges and advancements.
+
+- **PMID**: [41732299](https://pubmed.ncbi.nlm.nih.gov/41732299/)
+- **Journal**: Journal of clinical orthopaedics and trauma
+- **Publication Date**: 2026 Mar
+- **Authors**: Jain Shikha, Lalwani Parin, Sarkar Soumya, K Anjaleekrishna, Khanna Puneet et al.
+- **DOI**: https://doi.org/10.1016/j.jcot.2026.103374
+
+### Abstract
+
+Scoliosis correction surgery in pediatric patients poses complex anesthetic challenges due to significant anatomical deformities, cardiopulmonary compromise, and the potential for substantial blood loss. Patients frequently exhibit significant cardiopulmonary compromise due to severe thoracic curvature and rib cage distortion, which impairs pulmonary gas exchange and increases the likelihood of perioperative complications. The severity of Cobb's angle, the number of affected vertebrae, and coexisting syndromes like kyphoscoliosis influence these cardiopulmonary changes and can lead to abnormalities in the airway, craniofacial skeleton, neurological system, and genitourinary tract. Comprehensive perioperative management requires meticulous preoperative optimization, intraoperative vigilance, and multidisciplinary coordination. Preoperative evaluation focuses on assessing respiratory function, cardiovascular adaptation, and identification of any associated syndromes that influence airway management and anesthetic planning. Intraoperatively, securing the airway despite distorted anatomy is critical; invasive monitoring, deliberate hypotension, and strategies to maintain normothermia are key adjuncts. Neuromonitoring, particularly somatosensory and motor evoked potentials, mandates careful anesthetic titration to preserve signal integrity while ensuring adequate analgesia and immobility. Blood conservation strategies including antifibrinolytics, cell salvage, and hemodilution are critical to minimize transfusion requirements. Postoperative care has evolved significantly with adoption of Enhanced Recovery After Surgery (ERAS) protocols, tailored to pediatric populations undergoing extensive spinal correction. Postoperative concerns encompass respiratory failure, pain control through multimodal analgesia, and vigilance for neurological or hemodynamic deterioration. Employing regional techniques such as erector spinae plane blocks with opioid-sparing multimodal regimen hel
+
+---
+
+## 8. Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial).
+
+- **PMID**: [42229964](https://pubmed.ncbi.nlm.nih.gov/42229964/)
+- **Journal**: BMJ open
+- **Publication Date**: 2026 Jun 02
+- **Authors**: van Zwol Judith, Aalbers Arend G J, van den Brom Charissa E, Hollmann Markus W, Hulst Abraham H et al.
+- **DOI**: https://doi.org/10.1136/bmjopen-2025-107975
+
+### Abstract
+
+**INTRODUCTION**: Cytoreductive surgery (CRS) with heated intraperitoneal chemotherapy (HIPEC) is a treatment for peritonitis carcinomatosa. These procedures often involve significant blood and fluid loss, leading to hyperdynamic circulation and vasodilation, necessitating intraoperative fluids and vasoconstrictors such as catecholamines. Excessive fluid administration to counteract vasodilation can cause intraoperative fluid overload, which is linked to increased postoperative complications. Vasopressin has emerged as a potential alternative to catecholamines, restoring vascular tone via non-adrenergic pathways and supporting perfusion pressure, potentially reducing the need for compensatory fluids solely administered to compensate for vasodilation. We hypothesise that compared with norepinephrine, vasopressin reduces cumulative intraoperative fluid administration during CRS-HIPEC within a goal-directed fluid therapy (GDFT) protocol, ultimately leading to a lowering of postoperative complications. **METHODS AND ANALYSIS**: HiPress is a two-centre, two-arm randomised clinical trial with blinding of both patients and outcome assessors. A total of 70 adult patients undergoing CRS-HIPEC will be included. Patients will be randomised to receive either continuous low-dose argipressin or continuous low-dose norepinephrine. Both groups will receive standardised GDFT during the procedure. The primary endpoint is cumulative intraoperative fluid administration (mL). Secondary endpoints include direct fluid-related outcomes (eg, cumulative intraoperative fluid (ml/kg/hour), postoperative fluid balance until day five and ultrasound-assessed pulmonary oedema and venous congestion) and indirect fluid-associated outcomes (eg, quality of recovery, surgical and abdominal complications, acute kidney injury (AKI), pulmonary complications, length of ICU and hospital stay and 30-day mortality). **ETHICS AND DISSEMINATION**: The study is enrolling patients since February 2025. The trial i
+
+---
+
+## 9. Comparison of Goal-Directed Fluid Therapy and Conventional Fluid Therapy in Elective Major Abdominal Surgery: A Meta-Analysis of Randomized Controlled Trials.
+
+- **PMID**: [42256823](https://pubmed.ncbi.nlm.nih.gov/42256823/)
+- **Journal**: Cureus
+- **Publication Date**: 2026 Jun
+- **Authors**: Ashraf Nashrah, Zargar Owais Ul Umer, Albina Aayat
+- **DOI**: https://doi.org/10.7759/cureus.110243
+
+### Abstract
+
+Goal-directed fluid therapy (GDFT) has emerged as an important perioperative strategy aimed at optimizing hemodynamic status and improving surgical outcomes; however, evidence regarding its effectiveness in patients undergoing major abdominal surgery remains variable. This meta-analysis was conducted to evaluate the impact of intraoperative GDFT compared with conventional fluid therapy on postoperative morbidity and clinical outcomes in adult patients undergoing elective major abdominal surgery. Randomized controlled trials comparing GDFT with conventional intraoperative fluid therapy were analyzed. The assessed outcomes included postoperative morbidity, 30-day mortality, length of hospital stay, intensive care unit (ICU) stay, recovery of gastrointestinal function, and incidence of paralytic ileus. A total of 14 randomized controlled trials involving approximately 2,750 patients were included, with 1,433 patients receiving GDFT and 1,317 receiving conventional fluid therapy. GDFT was associated with a significant reduction in hospital length of stay (mean difference (MD) 2.5 days, 95% confidence interval (CI) 4.5 to -0.5), earlier passage of flatus (MD 6.8 hours, 95% CI 11.2 to -2.4), earlier tolerance of oral intake (MD 15.2 hours, 95% CI 26.8 to -3.6), and reduced incidence of postoperative ileus (risk ratio (RR) 0.48, 95% CI 0.28-0.82). However, no significant reduction was observed in overall postoperative morbidity (RR 0.78, 95% CI 0.57-1.07) or mortality (RR 1.02, 95% CI 0.45-2.34). Intraoperative GDFT in elective major abdominal surgery was associated with improved postoperative gastrointestinal recovery, reduced incidence of postoperative ileus, and shorter hospital length of stay compared with conventional fluid therapy. However, no significant reduction in overall postoperative morbidity or mortality was observed. These findings support the use of GDFT as a safe and effective perioperative strategy to enhance postoperative recovery in major abdominal surg
+
+---
+
+## 10. Efficacy of preventive interventions for postoperative delirium in elderly patients undergoing spinal surgery: A network meta-analysis of randomized controlled trials.
+
+- **PMID**: [42061277](https://pubmed.ncbi.nlm.nih.gov/42061277/)
+- **Journal**: Journal of clinical anesthesia
+- **Publication Date**: 2026 Jun
+- **Authors**: Qin Haonan, Wang Qiuyi, Zhou Xun, Li Yijia, Luo Weijun et al.
+- **DOI**: https://doi.org/10.1016/j.jclinane.2026.112223
+
+### Abstract
+
+**OBJECTIVE**: To compare and rank preventive interventions for postoperative delirium (POD) in elderly spinal surgery patients via network meta-analysis. **METHODS**: We searched major databases (inception to March 2025) for relevant randomized controlled trials (RCTs). Methodological quality was assessed using the Cochrane RoB 2.0 tool. A frequentist random-effects network meta-analysis was performed. **RESULTS**: Thirty-two RCTs (enrolling 3454 patients) evaluating 19 interventions were included. Most studies (n = 25) demonstrated low risk of bias or raised only some concerns. Global inconsistency assessment indicated consistency (P = 0.44). Ten interventions significantly reduced POD incidence compared to control. Surface under the cumulative ranking curve (SUCRA) analysis ranked temperature protection combined with dexmedetomidine (OR = 0.11, 95% CI: 0.02-0.59, SUCRA = 81.7%) as the most effective intervention, followed by melatonin (OR = 0.20, 95% CI: 0.05-0.81, SUCRA = 70.3%) and goal-directed fluid therapy (OR = 0.25, 95% CI: 0.09-0.66, SUCRA = 63.6%). **CONCLUSIONS**: Dexmedetomidine monotherapy is the only intervention supported by moderate-certainty evidence (OR = 0.35) and should be the core POD prevention strategy. Other top-ranked interventions (temperature protection+DEX, melatonin, GDFT) showed promise but are based on low-certainty evidence, often from single trials, and require confirmation. All 32 trials were from China, limiting generalizability; international validation is needed. **REGISTRATION**: PROSPERO CRD420251014832.
+
+---
+
+## 11. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
 
 - **PMID**: [42687184](https://pubmed.ncbi.nlm.nih.gov/42687184/)
 - **Journal**: Trials
@@ -104,7 +160,7 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 8. Impact of lung ultrasound-guided fluid management and vasoactive medication use on anaesthetic outcomes in thoracic surgery for tuberculous empyema: A retrospective study.
+## 12. Impact of lung ultrasound-guided fluid management and vasoactive medication use on anaesthetic outcomes in thoracic surgery for tuberculous empyema: A retrospective study.
 
 - **PMID**: [42663973](https://pubmed.ncbi.nlm.nih.gov/42663973/)
 - **Journal**: Journal of minimal access surgery
@@ -118,7 +174,21 @@ The efficacy of goal-directed fluid therapy (GDFT) in preventing postoperative a
 
 ---
 
-## 9. Anaesthesia management of a giant retroperitoneal liposarcoma: a case report and literature review.
+## 13. The effect of goal-directed fluid therapy on endothelial glycocalyx and short-term postoperative recovery quality in older patients undergoing laparoscopic hernia or gallbladder surgery: a randomized controlled double-blind clinical study.
+
+- **PMID**: [42952895](https://pubmed.ncbi.nlm.nih.gov/42952895/)
+- **Journal**: Frontiers in medicine
+- **Publication Date**: 2026
+- **Authors**: Wei Qinxian, Zhou Man, Xu Wenji, Wan Jiaxin, Fu Wuchang et al.
+- **DOI**: https://doi.org/10.3389/fmed.2026.1922109
+
+### Abstract
+
+**BACKGROUND**: This study aimed to observe the effects of intraoperative goal-directed fluid therapy on postoperative recovery in older patients undergoing laparoscopic hernia or gallbladder surgery. **METHODS**: A total of 60 older patients were randomly assigned to the control group (C group) and the goal- directed fluid therapy group (G group). The primary outcome was the plasma concentration of syndecan-1. The secondary outcomes were the plasma concentrations of tumor necrosis factor alpha (TNF-α), interleukin-1 (IL-1), intercellular adhesion molecule-1 (ICAM-1), and vascular cell adhesion molecule-1 (VCAM-1); mean arterial pressure; heart rate; regional cerebral oxygen saturation; intraoperative dopamine dosage; QoR-15 scale score; hematocrit; and postoperative adverse events. **RESULTS**: Compared with the C group, the G group showed decreased plasma concentrations of ICAM-1 at the end of surgery and 24 h after surgery (P = 0.010 and 0.005, respectively), decreased plasma concentrations of syndecan-1 at the end of surgery (P = 0.049), more significantly decreased plasma concentrations of VCAM-1 at the end of surgery and 24 h after surgery (P < 0.001 and P = 0.017, respectively), and decreased plasma concentrations of IL-1β at the end of surgery and 24 h after surgery (P = 0.009 and 0.008, respectively). The C group showed increased plasma concentration of TNF-α at the end of surgery and 24 h after surgery compared with those before surgery (P = 0.003 and 0.023, respectively). Compared with the C group, the QoR-15 scores were higher at 24, 48, and 72 h after surgery (P = 0.001, 0.001, and 0.005, respectively) in the treatment group. **CONCLUSION**: Intraoperative goal-directed fluid therapy in non-critically ill older patients may alleviate endothelial glycocalyx degradation with a lower incidence of adverse events. **CLINICAL TRIAL REGISTRATION**: http://www.chictr.org.cn/, Chinese Clinical Trial Registry ChiCTR2500097999.
+
+---
+
+## 14. Anaesthesia management of a giant retroperitoneal liposarcoma: a case report and literature review.
 
 - **PMID**: [42923201](https://pubmed.ncbi.nlm.nih.gov/42923201/)
 - **Journal**: Frontiers in surgery
@@ -132,7 +202,7 @@ Soft tissue sarcomas account for less than 1% of all malignant tumors, of which 
 
 ---
 
-## 10. Comparison of systemic vascular resistance index-guided versus conventional fluid management on airway pressure, oxygenation and postoperative recovery in patients undergoing one-lung ventilation for thoracic surgery.
+## 15. Comparison of systemic vascular resistance index-guided versus conventional fluid management on airway pressure, oxygenation and postoperative recovery in patients undergoing one-lung ventilation for thoracic surgery.
 
 - **PMID**: [42769557](https://pubmed.ncbi.nlm.nih.gov/42769557/)
 - **Journal**: American journal of translational research
@@ -143,5 +213,33 @@ Soft tissue sarcomas account for less than 1% of all malignant tumors, of which 
 ### Abstract
 
 **OBJECTIVE**: To compare the effects of systemic vascular resistance index (SVRI)-guided goal-directed fluid therapy (GDFT) versus conventional fluid management on perioperative airway pressure, oxygenation, and postoperative recovery in thoracic surgery patients with one-lung ventilation (OLV), and to identify independent risk factors for postoperative pulmonary complications (PPCs). **METHODS**: A total of 386 patients were retrospectively enrolled and randomly split into a training set (n=270) and a validation set (n=116) at a 7:3 ratio. The training set was divided into SVRI group (n=155) and control group (n=115). Baseline data, airway pressure, oxygenation, recovery indicators, and 7-day PPCs were collected. Independent risk factors were screened by logistic regression; a nomogram was constructed and evaluated by ROC and calibration curves. **RESULTS**: Baseline characteristics were comparable between the groups (P>0.05). The SVRI group had lower airway pressure, fluid volume, infusion rate, recovery time, and PPCs incidence, as well as better oxygenation and urine output (all P<0.05). Ppeak ≥26.845 cmH2O, Pplat ≥21 cmH2O, ΔP ≥14.945 cmH2O, and PaO2/FiO2 <303.815 mmHg were independent risk factors for PPCs. The combined four-index model showed better predictive efficiency. **CONCLUSION**: SVRI-guided GDFT improves perioperative outcomes and reduces PPCs in OLV patients. The four indicators effectively predict PPCs, and their combined detection enhances risk stratification accuracy.
+
+---
+
+## 16. Effect of adding phenylephrine infusion to goal-directed fluid therapy on postoperative quality of recovery in elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized controlled trial.
+
+- **PMID**: [42053439](https://pubmed.ncbi.nlm.nih.gov/42053439/)
+- **Journal**: Minerva anestesiologica
+- **Publication Date**: 2026
+- **Authors**: Lu Xiangwen, Xiong Xinyang, Zhang Na, Shen Lei, Qi Dunyi
+- **DOI**: https://doi.org/10.23736/S0375-9393.26.19696-5
+
+### Abstract
+
+**BACKGROUND**: Goal-directed fluid therapy (GDFT) guided by pulse pressure variation (PPV) is an established strategy to optimize perioperative fluid management in elderly surgical patients. However, its efficacy may be limited by age-related decline in vascular compliance. This study aimed to investigate whether supplementing PPV-guided GDFT with a continuous low-dose phenylephrine infusion could improve the quality of postoperative recovery in this population. **METHODS**: Ninety-four elderly patients scheduled for elective laparoscopic gastrointestinal surgery were randomized to either PPV-guided GDFT with phenylephrine (GP group, N.=46) or GDFT alone (G group, N.=48). Following anesthesia induction, the GP group received a continuous phenylephrine infusion (0.2~0.25 μg/kg/min), while the G group received normal saline at an equivalent rate. Both groups used a PPV threshold of ≥13% to guide fluid administration. The primary outcome was the 24-hour postoperative QoR-15 score. Secondary outcomes included QoR-15 scores at 48 hours and seven days, intraoperative variables, recovery markers, and laboratory results. **RESULTS**: Baseline characteristics showed no statistical differences between G group and GP group (P>0.05).GP group demonstrated notably higher 24-h (103.46±4.17 vs. 93.10±2.90) and 48-h (117.00±3.43 vs. 108.08±3.04) QoR-15 total scores, along with superior performance in multiple subitems (P<0.001). Additionally, GP group received less intraoperative fluid (1825 [1550.0-2250.0] vs. 2250 [1862.5-2500.0] mL, P=0.002) and exhibited shorter time to first flatus (38.3±6.0 vs. 59.0±12.5 h) and hospital stay (14.2±2.7 vs. 17.0±4.4 d), with all these differences statistically significant (P<0.001). No disparities were observed in renal parameters, lactate levels, or postoperative complications (P>0.05). **CONCLUSIONS**: For elderly laparoscopic gastrointestinal surgery patients, PPV-guided GDFT combined with phenylephrine improved early recovery, accelerated g
+
+---
+
+## 17. Goal-Directed Fluid Therapy and Perioperative Epidural Analgesia in Low-Risk Patients Undergoing Elective Colorectal Surgery: Short-Term Clinical Outcomes From a Retrospective-Prospective Cohort Study.
+
+- **PMID**: [41573456](https://pubmed.ncbi.nlm.nih.gov/41573456/)
+- **Journal**: Cureus
+- **Publication Date**: 2025 Dec
+- **Authors**: Karakosta Agathi, Kaminioti Evangelia, Riga Maria, Briassoulis Panagiotis, Pantazi Aggeliki et al.
+- **DOI**: https://doi.org/10.7759/cureus.99819
+
+### Abstract
+
+Enhanced Recovery After Surgery (ERAS) protocols emphasize perioperative fluid management to optimize outcomes following major abdominal surgery. This study aimed to investigate the effect of thoracic epidural analgesia on hospital length of stay in low-risk patients undergoing open elective colorectal surgery managed with goal-directed fluid therapy (GDFT). A retrospective-prospective single-center cohort study was conducted, enrolling low-risk (American Society of Anesthesiologists (ASA) I-II) patients scheduled for open elective colorectal surgery. Forty-nine patients were prospectively assigned to either GDFT with intravenous analgesia (GDFT group) or GDFT with epidural analgesia (GDFT/ED group). Additionally, 72 patient records managed with conventional fluid therapy (CFT), with (CFT/ED group) or without epidural analgesia (CFT group), were retrospectively reviewed. The primary outcome was length of hospital stay; secondary outcomes included intraoperative fluid administration, gastrointestinal recovery, pro-B-type natriuretic peptide (BNP) levels, and in-hospital mortality. Overall analysis showed shorter hospital stay across groups, which did not reach statistical significance (p=0.08), while pairwise comparison demonstrated significantly shorter stay in the GDFT/ED group compared with the CFT group (p=0.048). Gastrointestinal recovery did not differ significantly between groups, although ileus was more frequent in the CFT and CFT/ED groups. Total intraoperative fluid administration was significantly lower in GDFT-managed patients (p=0.006), with no significant difference between the GDFT and GDFT/ED groups. Baseline and postoperative proBNP levels were comparable across groups, and no in-hospital deaths occurred. In conclusion, among low-risk patients undergoing major open elective colorectal surgery, combining GDFT with thoracic epidural analgesia was associated with a trend toward shorter hospital stay. These findings support integrating individualized flu
 
 ---
