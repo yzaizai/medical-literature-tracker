@@ -1,6 +1,6 @@
 # GDFT - PubMed Latest Papers
 
-**Update Time**: 2026-11-12
+**Update Time**: 2026-11-16
 **Search Range**: Last 30 days
 **Papers Found**: 10
 
@@ -34,21 +34,7 @@ Background: Major spine surgery carries an inherent risk of hemodynamic instabil
 
 ---
 
-## 3. Effect of a Machine Learning Algorithm to Guide Goal-Directed Therapy After Cardiac Surgery.
-
-- **PMID**: [42676141](https://pubmed.ncbi.nlm.nih.gov/42676141/)
-- **Journal**: American journal of critical care : an official publication, American Association of Critical-Care Nurses
-- **Publication Date**: 2026 Sep 01
-- **Authors**: Rea Amanda, Deasel Alexandra, Fonner Clifford Edwin, Salenger Rawn
-- **DOI**: https://doi.org/10.4037/ajcc2026587
-
-### Abstract
-
-**BACKGROUND**: Goal-directed therapy allows clinicians to optimize perfusion and volume status in patients postoperatively. **OBJECTIVE**: To evaluate the effect of a machine learning algorithm to guide postoperative goal-directed fluid therapy in cardiac surgery patients. **METHODS**: A goal-directed fluid therapy program was implemented in a single center for coronary artery bypass patients with ejection fraction greater than or equal to 45% (implementation period: May 15, 2023, to May 31, 2024). Patient outcomes were compared with outcomes in matched historical control patients (control period: January 3 to October 31, 2022). The primary outcome was acute kidney injury. **RESULTS**: A total of 479 eligible patients were evaluated (246 in the control group and 233 in the goal-directed therapy group). The incidence of acute kidney injury on postoperative day 2 (P = .01), on postoperative day 7(P = .02), and at discharge (P = .008) was lower in the goaldirected therapy group than in the control group. **CONCLUSIONS**: Patients in the goal-directed therapy program had a lower incidence of acute kidney injury compared with historical control patients. Incorporating a machine learning algorithm to guide goal-directed fluid therapy was a safe and less invasive way to monitor selected patients in the intensive care unit after cardiac surgery.
-
----
-
-## 4. Alteration of sublingual microcirculation in anemic patients during gastric cancer surgery under goal-directed fluid therapy: a prospective cohort study.
+## 3. Alteration of sublingual microcirculation in anemic patients during gastric cancer surgery under goal-directed fluid therapy: a prospective cohort study.
 
 - **PMID**: [42879041](https://pubmed.ncbi.nlm.nih.gov/42879041/)
 - **Journal**: Journal of clinical monitoring and computing
@@ -62,7 +48,7 @@ Goal-directed fluid therapy (GDFT) relies primarily on macrocirculatory hemodyna
 
 ---
 
-## 5. Clinical efficacy and outcomes of enhanced recovery after surgery for laparoscopic cervical cancer.
+## 4. Clinical efficacy and outcomes of enhanced recovery after surgery for laparoscopic cervical cancer.
 
 - **PMID**: [42741282](https://pubmed.ncbi.nlm.nih.gov/42741282/)
 - **Journal**: Biomedical reports
@@ -73,6 +59,20 @@ Goal-directed fluid therapy (GDFT) relies primarily on macrocirculatory hemodyna
 ### Abstract
 
 To evaluate the effects of enhanced recovery after surgery (ERAS) protocols in laparoscopic cervical cancer surgery. The present study included 230 patients with early stage cervical cancer undergoing laparoscopic surgery, divided into the ERAS (n=103) and non-ERAS (n=127) groups. ERAS interventions included pre-admission education, nutritional optimization, effective pain management, early mobilization and goal-directed fluid therapy. The primary and secondary outcomes measured were length of hospital stay, surgical site infections, urinary tract infections and postoperative pain levels. The median length of surgery was longer in the ERAS group compared with the non-ERAS group. However, the ERAS group experienced a significantly shorter hospital stay (4.1±3.1 days) compared with the non-ERAS group (5.7±3.9 days; P=0.0005). There was a reduction in the overall complications and postoperative infections, although these differences were not statistically significant. Notably, ERAS protocols significant improved in postoperative pain management, reducing severe pain scores from days 1 to day 3 after surgery. In conclusion, the ERAS protocols shortened hospital stays and improved pain management in laparoscopic cervical cancer surgery, underscoring their role in optimizing surgical care and enhancing patient recovery.
+
+---
+
+## 5. Postoperative acute kidney injury in thoracic noncardiac surgery: incidence, impact on outcomes, risk and protective factors, and evolving preventive strategies.
+
+- **PMID**: [43033141](https://pubmed.ncbi.nlm.nih.gov/43033141/)
+- **Journal**: Current opinion in anaesthesiology
+- **Publication Date**: 2026 Nov 17
+- **Authors**: Ishikawa Seiji, Kawagoe Izumi
+- **DOI**: https://doi.org/10.1097/ACO.0000000000001721
+
+### Abstract
+
+**PURPOSE OF REVIEW**: Postoperative acute kidney injury (AKI) significantly impairs short- and long-term clinical outcomes after thoracic noncardiac surgery, including increased mortality and prolonged hospitalization. This review synthesizes current evidence on the incidence, prognostic impact, risk factors, and evolving preventive strategies for AKI in thoracic surgery. **RECENT FINDINGS**: Intraoperative fluid imbalance and hypotension are robust, modifiable risk factors for AKI. While goal-directed fluid therapy and machine learning-based Acumen Hypotension Prediction Index (Edwards Lifesciences, Irvine, California, USA) monitoring effectively optimize intraoperative hemodynamics and reduce hypotensive episodes, recent clinical trials and meta-analyses indicate they do not directly reduce postoperative AKI rates after general thoracic surgery. However, optimizing drug administration - such as continuous intravenous tacrolimus and shortened vancomycin duration - has demonstrated clinical benefit. Furthermore, evidence outside thoracic surgery demonstrates that the biomarker-guided Kidney Disease: Improving Global Outcomes care bundle significantly decreases moderate-to-severe AKI in high-risk surgical populations, suggesting potential applicability in thoracic surgical care. **SUMMARY**: Given the multifactorial etiology of AKI, single hemodynamic interventions alone are insufficient for prevention. Perioperative care should integrate multimodality strategies, including optimal fluid and pressure management, pharmacological stewardship, and high-risk screening with care bundles. Further studies are needed to establish tailored preventive protocols, particularly for high-risk thoracic procedures such as lung transplantation and pneumonectomy.
 
 ---
 
@@ -90,17 +90,17 @@ Goal-directed fluid therapy (GDFT) individualizes perioperative fluid administra
 
 ---
 
-## 7. The effects of norepinephrine infusion combined with goal-directed fluid therapy on delayed graft function in patients undergoing kidney transplantations: study protocol for a multicenter randomized controlled trial.
+## 7. Comparison of the effects of normal saline versus Plasma-Lyte® on acid-base balance during living donor kidney transplantation surgery using goal-directed fluid therapy based on pulse pressure variation- a randomised controlled trial.
 
-- **PMID**: [42687184](https://pubmed.ncbi.nlm.nih.gov/42687184/)
-- **Journal**: Trials
-- **Publication Date**: 2026 Aug 29
-- **Authors**: Shi Muyan, Zhang Yuhan, Ding Xibing, Cheng Xiangyang, Zhou Jie et al.
-- **DOI**: https://doi.org/10.1186/s13063-026-09972-1
+- **PMID**: [43026518](https://pubmed.ncbi.nlm.nih.gov/43026518/)
+- **Journal**: BMC anesthesiology
+- **Publication Date**: 2026 Aug 19
+- **Authors**: Kumar Sachin, Loganathan Sekar, Kajal Kamal, Gandhi Komal, Sethi Sameer et al.
+- **DOI**: https://doi.org/10.1186/s12871-026-04148-5
 
 ### Abstract
 
-**BACKGROUND**: Chronic kidney disease presents a formidable challenge to global healthcare systems. With ongoing advancements in surgical techniques, kidney transplantation has emerged as a principal therapeutic modality for individuals afflicted with end-stage renal disease, markedly enhancing their long-term prognosis and overall quality of life postoperatively. Nevertheless, the occurrence of delayed graft function represents a prevalent early complication following kidney transplantations, mainly stemming from the ischemia-reperfusion injury incurred by the transplanted kidneys and the utilization of extended criteria donor organs. The manifestation of delayed graft function can precipitate primary allograft nonfunction, acute rejection episodes, and potentially fatal outcomes. Vigilant attention to perioperative fluid management emerges as a cornerstone in mitigating the risk of delayed graft function. Recent strides in Goal-directed fluid therapy have garnered substantial attention within critical care contexts, with empirical evidence underscoring its favorable impact on postoperative outcomes in critically ill cohorts. However, the efficacy of Goal-directed fluid therapy specifically in the context of kidney transplantation remains a subject of ongoing debate and scrutiny. Hence, the imperative arises to investigate potential strategies aimed at attenuating the incidence of delayed graft function in this patient demographic. **METHODS**: A multicenter, randomized, single-blind, two-arm parallel-group, controlled trial will be undertaken to assess the efficacy of norepinephrine in conjunction with Goal-directed fluid therapy on graft function recovery among individuals slated for kidney transplantations. Patients will be allocated randomly to either a control or intervention arm, wherein conventional fluid management or the administration of norepinephrine infusion combined with Goal-directed fluid therapy will be administered, respectively. **DISCUSSION**: 
+**BACKGROUND**: Normal saline (NS) is commonly used during kidney transplantation but may cause hyperchloremic metabolic acidosis when administered in large volumes. Balanced crystalloids such as Plasma-Lyte® (PL) may attenuate these effects. We compared acid-base outcomes of NS versus PL when administered using pulse pressure variation (PPV)- guided goal-directed fluid therapy during living donor kidney transplantation (LDKT). **MATERIALS AND METHODS**: In this prospective randomised assessor-blinded trial, adult patients undergoing LDKT were allocated to receive intraoperative NS or PL. Fluid administration was titrated according to a predefined PPV-guided algorithm. Acid-base status was assessed using the Stewart physicochemical analysis. The primary endpoint was the difference in apparent strong ion difference (SIDa). Secondary outcome measurements included haemodynamics, electrolytes, lactate, serum creatinine trends, dialysis requirement, and graft function. **RESULTS**: A total of 111 patients were analysed (NS, n = 55, PL, n = 56). Baseline characteristics and total intraoperative fluid volumes were comparable (1796 ± 337 vs 1903 ± 434 mL; p = 0.15). Apparent strong ion difference declined over time in both groups (time effect p < 0.001), but did not differ between groups (group effect p = 0.50; interaction p = 0.37). In the baseline-adjusted analysis (ANCOVA) of the primary endpoint, the adjusted between-group difference in SIDa at the end of surgery was 0.71 mmol/L (90% CI - 0.90 to + 2.32 mmol/L) against the pre-specified equivalence margin of ± 2 mmol/L; formal equivalence was not established, although no significant difference was detected (adjusted p = 0.46). Effective strong ion difference (SID e), strong ion gap (SIG), pH, serum potassium, and lactate were similar at all measured time points (p > 0.05). Early graft dysfunction (4.1% vs 7.4%; p = 0.472) and delayed graft function (3.6% vs 0%; p = 0.150) did not differ significantly; however, the trial
 
 ---
 
